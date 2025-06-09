@@ -1,0 +1,10 @@
+0.00511605 [Epoch 344] lr=2.23e-06  val_recon=0.001092  val_cls=4.685027  val_center=1.504879  val_perc=0.000275
+0.00512317 [Epoch 346] lr=9.97e-07  val_recon=0.001093  val_cls=4.687256  val_center=1.500995  val_perc=0.000278
+0.00512498 [Epoch 349] lr=7.17e-08  val_recon=0.001093  val_cls=4.688909  val_center=1.505669  val_perc=0.000278
+0.00512807 [Epoch 347] lr=5.65e-07  val_recon=0.001093  val_cls=4.691737  val_center=1.513319  val_perc=0.000276
+0.00513137 [Epoch 343] lr=3.03e-06  val_recon=0.001093  val_cls=4.694762  val_center=1.513102  val_perc=0.000276
+0.00514425 [Epoch 350] lr=1.00e-03  val_recon=0.001097  val_cls=4.689382  val_center=1.504446  val_perc=0.000276
+0.00514796 [Epoch 348] lr=2.57e-07  val_recon=0.001098  val_cls=4.688492  val_center=1.503334  val_perc=0.000278
+0.00515088 [Epoch 342] lr=3.95e-06  val_recon=0.001098  val_cls=4.691147  val_center=1.514243  val_perc=0.000275
+0.00515208 [Epoch 345] lr=1.55e-06  val_recon=0.001099  val_cls=4.687973  val_center=1.506394  val_perc=0.000280
+0.00516552 [Epoch 332] lr=1.99e-05  val_recon=0.001103  val_cls=4.683155  val_center=1.512688  val_perc=0.000281

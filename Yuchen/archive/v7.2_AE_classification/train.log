@@ -1,0 +1,2001 @@
+[Epoch 1] val_recon = 0.008466, val_class = 4.946250
+Saved feature_refine_new_atten_ce_checkpoint_epoch1.pt
+[Epoch 2] val_recon = 0.004294, val_class = 4.903063
+Saved feature_refine_new_atten_ce_checkpoint_epoch2.pt
+[Epoch 3] val_recon = 0.003215, val_class = 4.864151
+Saved feature_refine_new_atten_ce_checkpoint_epoch3.pt
+[Epoch 4] val_recon = 0.002467, val_class = 4.867722
+Saved feature_refine_new_atten_ce_checkpoint_epoch4.pt
+[Epoch 5] val_recon = 0.002259, val_class = 4.894014
+Saved feature_refine_new_atten_ce_checkpoint_epoch5.pt
+[Epoch 6] val_recon = 0.001678, val_class = 4.795024
+Saved feature_refine_new_atten_ce_checkpoint_epoch6.pt
+[Epoch 7] val_recon = 0.001540, val_class = 4.781546
+Saved feature_refine_new_atten_ce_checkpoint_epoch7.pt
+[Epoch 8] val_recon = 0.001371, val_class = 4.774202
+Saved feature_refine_new_atten_ce_checkpoint_epoch8.pt
+[Epoch 9] val_recon = 0.001585, val_class = 4.748825
+Saved feature_refine_new_atten_ce_checkpoint_epoch9.pt
+[Epoch 10] val_recon = 0.001715, val_class = 4.755829
+Saved feature_refine_new_atten_ce_checkpoint_epoch10.pt
+[Epoch 11] val_recon = 0.002177, val_class = 4.738233
+Saved feature_refine_new_atten_ce_checkpoint_epoch11.pt
+[Epoch 12] val_recon = 0.001235, val_class = 4.730420
+Saved feature_refine_new_atten_ce_checkpoint_epoch12.pt
+[Epoch 13] val_recon = 0.001493, val_class = 4.717061
+Saved feature_refine_new_atten_ce_checkpoint_epoch13.pt
+[Epoch 14] val_recon = 0.001067, val_class = 4.714378
+Saved feature_refine_new_atten_ce_checkpoint_epoch14.pt
+[Epoch 15] val_recon = 0.001492, val_class = 4.749767
+Saved feature_refine_new_atten_ce_checkpoint_epoch15.pt
+[Epoch 16] val_recon = 0.001653, val_class = 4.690654
+Saved feature_refine_new_atten_ce_checkpoint_epoch16.pt
+[Epoch 17] val_recon = 0.001594, val_class = 4.711334
+Saved feature_refine_new_atten_ce_checkpoint_epoch17.pt
+[Epoch 18] val_recon = 0.001025, val_class = 4.686373
+Saved feature_refine_new_atten_ce_checkpoint_epoch18.pt
+[Epoch 19] val_recon = 0.001092, val_class = 4.661541
+Saved feature_refine_new_atten_ce_checkpoint_epoch19.pt
+[Epoch 20] val_recon = 0.000987, val_class = 4.690404
+Saved feature_refine_new_atten_ce_checkpoint_epoch20.pt
+[Epoch 21] val_recon = 0.001216, val_class = 4.687472
+Saved feature_refine_new_atten_ce_checkpoint_epoch21.pt
+[Epoch 22] val_recon = 0.001069, val_class = 4.651757
+Saved feature_refine_new_atten_ce_checkpoint_epoch22.pt
+[Epoch 23] val_recon = 0.001076, val_class = 4.645695
+Saved feature_refine_new_atten_ce_checkpoint_epoch23.pt
+[Epoch 24] val_recon = 0.001290, val_class = 4.648920
+Saved feature_refine_new_atten_ce_checkpoint_epoch24.pt
+[Epoch 25] val_recon = 0.001043, val_class = 4.756042
+Saved feature_refine_new_atten_ce_checkpoint_epoch25.pt
+[Epoch 26] val_recon = 0.001028, val_class = 4.612704
+Saved feature_refine_new_atten_ce_checkpoint_epoch26.pt
+[Epoch 27] val_recon = 0.001569, val_class = 4.616333
+Saved feature_refine_new_atten_ce_checkpoint_epoch27.pt
+[Epoch 28] val_recon = 0.001265, val_class = 4.639102
+Saved feature_refine_new_atten_ce_checkpoint_epoch28.pt
+[Epoch 29] val_recon = 0.000912, val_class = 4.606544
+Saved feature_refine_new_atten_ce_checkpoint_epoch29.pt
+[Epoch 30] val_recon = 0.001039, val_class = 4.656022
+Saved feature_refine_new_atten_ce_checkpoint_epoch30.pt
+[Epoch 31] val_recon = 0.001374, val_class = 4.600357
+Saved feature_refine_new_atten_ce_checkpoint_epoch31.pt
+[Epoch 32] val_recon = 0.000961, val_class = 4.592788
+Saved feature_refine_new_atten_ce_checkpoint_epoch32.pt
+[Epoch 33] val_recon = 0.001189, val_class = 4.609815
+Saved feature_refine_new_atten_ce_checkpoint_epoch33.pt
+[Epoch 34] val_recon = 0.001041, val_class = 4.721663
+Saved feature_refine_new_atten_ce_checkpoint_epoch34.pt
+[Epoch 35] val_recon = 0.001526, val_class = 4.584977
+Saved feature_refine_new_atten_ce_checkpoint_epoch35.pt
+[Epoch 36] val_recon = 0.001132, val_class = 4.575993
+Saved feature_refine_new_atten_ce_checkpoint_epoch36.pt
+[Epoch 37] val_recon = 0.001240, val_class = 4.586425
+Saved feature_refine_new_atten_ce_checkpoint_epoch37.pt
+[Epoch 38] val_recon = 0.000939, val_class = 4.590693
+Saved feature_refine_new_atten_ce_checkpoint_epoch38.pt
+[Epoch 39] val_recon = 0.001178, val_class = 4.578119
+Saved feature_refine_new_atten_ce_checkpoint_epoch39.pt
+[Epoch 40] val_recon = 0.001152, val_class = 4.569396
+Saved feature_refine_new_atten_ce_checkpoint_epoch40.pt
+[Epoch 41] val_recon = 0.001068, val_class = 4.564209
+Saved feature_refine_new_atten_ce_checkpoint_epoch41.pt
+[Epoch 42] val_recon = 0.001798, val_class = 4.610891
+Saved feature_refine_new_atten_ce_checkpoint_epoch42.pt
+[Epoch 43] val_recon = 0.001028, val_class = 4.629941
+Saved feature_refine_new_atten_ce_checkpoint_epoch43.pt
+[Epoch 44] val_recon = 0.001270, val_class = 4.566516
+Saved feature_refine_new_atten_ce_checkpoint_epoch44.pt
+[Epoch 45] val_recon = 0.001288, val_class = 4.561671
+Saved feature_refine_new_atten_ce_checkpoint_epoch45.pt
+[Epoch 46] val_recon = 0.001064, val_class = 4.554638
+Saved feature_refine_new_atten_ce_checkpoint_epoch46.pt
+[Epoch 47] val_recon = 0.001530, val_class = 4.572711
+Saved feature_refine_new_atten_ce_checkpoint_epoch47.pt
+[Epoch 48] val_recon = 0.001027, val_class = 4.550016
+Saved feature_refine_new_atten_ce_checkpoint_epoch48.pt
+[Epoch 49] val_recon = 0.001062, val_class = 4.557604
+Saved feature_refine_new_atten_ce_checkpoint_epoch49.pt
+[Epoch 50] val_recon = 0.001333, val_class = 4.558069
+Saved feature_refine_new_atten_ce_checkpoint_epoch50.pt
+[Epoch 51] val_recon = 0.001073, val_class = 4.553626
+Saved feature_refine_new_atten_ce_checkpoint_epoch51.pt
+[Epoch 52] val_recon = 0.000929, val_class = 4.547847
+Saved feature_refine_new_atten_ce_checkpoint_epoch52.pt
+[Epoch 53] val_recon = 0.000990, val_class = 4.560060
+Saved feature_refine_new_atten_ce_checkpoint_epoch53.pt
+[Epoch 54] val_recon = 0.001269, val_class = 4.576356
+Saved feature_refine_new_atten_ce_checkpoint_epoch54.pt
+[Epoch 55] val_recon = 0.001012, val_class = 4.530221
+Saved feature_refine_new_atten_ce_checkpoint_epoch55.pt
+[Epoch 56] val_recon = 0.001030, val_class = 4.565934
+Saved feature_refine_new_atten_ce_checkpoint_epoch56.pt
+[Epoch 57] val_recon = 0.000970, val_class = 4.536405
+Saved feature_refine_new_atten_ce_checkpoint_epoch57.pt
+[Epoch 58] val_recon = 0.001126, val_class = 4.556407
+Saved feature_refine_new_atten_ce_checkpoint_epoch58.pt
+[Epoch 59] val_recon = 0.000852, val_class = 4.530821
+Saved feature_refine_new_atten_ce_checkpoint_epoch59.pt
+[Epoch 60] val_recon = 0.001009, val_class = 4.536342
+Saved feature_refine_new_atten_ce_checkpoint_epoch60.pt
+[Epoch 61] val_recon = 0.000935, val_class = 4.521966
+Saved feature_refine_new_atten_ce_checkpoint_epoch61.pt
+[Epoch 62] val_recon = 0.000937, val_class = 4.543716
+Saved feature_refine_new_atten_ce_checkpoint_epoch62.pt
+[Epoch 63] val_recon = 0.001026, val_class = 4.566583
+Saved feature_refine_new_atten_ce_checkpoint_epoch63.pt
+[Epoch 64] val_recon = 0.001056, val_class = 4.517589
+Saved feature_refine_new_atten_ce_checkpoint_epoch64.pt
+[Epoch 65] val_recon = 0.000968, val_class = 4.536644
+Saved feature_refine_new_atten_ce_checkpoint_epoch65.pt
+[Epoch 66] val_recon = 0.000990, val_class = 4.509349
+Saved feature_refine_new_atten_ce_checkpoint_epoch66.pt
+[Epoch 67] val_recon = 0.000902, val_class = 4.549503
+Saved feature_refine_new_atten_ce_checkpoint_epoch67.pt
+[Epoch 68] val_recon = 0.000934, val_class = 4.521364
+Saved feature_refine_new_atten_ce_checkpoint_epoch68.pt
+[Epoch 69] val_recon = 0.001192, val_class = 4.535803
+Saved feature_refine_new_atten_ce_checkpoint_epoch69.pt
+[Epoch 70] val_recon = 0.001558, val_class = 4.528972
+Saved feature_refine_new_atten_ce_checkpoint_epoch70.pt
+[Epoch 71] val_recon = 0.001130, val_class = 4.514816
+Saved feature_refine_new_atten_ce_checkpoint_epoch71.pt
+[Epoch 72] val_recon = 0.001039, val_class = 4.503505
+Saved feature_refine_new_atten_ce_checkpoint_epoch72.pt
+[Epoch 73] val_recon = 0.001111, val_class = 4.514542
+Saved feature_refine_new_atten_ce_checkpoint_epoch73.pt
+[Epoch 74] val_recon = 0.000950, val_class = 4.525064
+Saved feature_refine_new_atten_ce_checkpoint_epoch74.pt
+[Epoch 75] val_recon = 0.000948, val_class = 4.519677
+Saved feature_refine_new_atten_ce_checkpoint_epoch75.pt
+[Epoch 76] val_recon = 0.000956, val_class = 4.504854
+Saved feature_refine_new_atten_ce_checkpoint_epoch76.pt
+[Epoch 77] val_recon = 0.001203, val_class = 4.519941
+Saved feature_refine_new_atten_ce_checkpoint_epoch77.pt
+[Epoch 78] val_recon = 0.001068, val_class = 4.510373
+Saved feature_refine_new_atten_ce_checkpoint_epoch78.pt
+[Epoch 79] val_recon = 0.000943, val_class = 4.510954
+Saved feature_refine_new_atten_ce_checkpoint_epoch79.pt
+[Epoch 80] val_recon = 0.001210, val_class = 4.515653
+Saved feature_refine_new_atten_ce_checkpoint_epoch80.pt
+[Epoch 81] val_recon = 0.001079, val_class = 4.543116
+Saved feature_refine_new_atten_ce_checkpoint_epoch81.pt
+[Epoch 82] val_recon = 0.001010, val_class = 4.513289
+Saved feature_refine_new_atten_ce_checkpoint_epoch82.pt
+[Epoch 83] val_recon = 0.001132, val_class = 4.511488
+Saved feature_refine_new_atten_ce_checkpoint_epoch83.pt
+[Epoch 84] val_recon = 0.001163, val_class = 4.532158
+Saved feature_refine_new_atten_ce_checkpoint_epoch84.pt
+[Epoch 85] val_recon = 0.000933, val_class = 4.493113
+Saved feature_refine_new_atten_ce_checkpoint_epoch85.pt
+[Epoch 86] val_recon = 0.001000, val_class = 4.499081
+Saved feature_refine_new_atten_ce_checkpoint_epoch86.pt
+[Epoch 87] val_recon = 0.001169, val_class = 4.510241
+Saved feature_refine_new_atten_ce_checkpoint_epoch87.pt
+[Epoch 88] val_recon = 0.001135, val_class = 4.508743
+Saved feature_refine_new_atten_ce_checkpoint_epoch88.pt
+[Epoch 89] val_recon = 0.001061, val_class = 4.549899
+Saved feature_refine_new_atten_ce_checkpoint_epoch89.pt
+[Epoch 90] val_recon = 0.001085, val_class = 4.509542
+Saved feature_refine_new_atten_ce_checkpoint_epoch90.pt
+[Epoch 91] val_recon = 0.000990, val_class = 4.516787
+Saved feature_refine_new_atten_ce_checkpoint_epoch91.pt
+[Epoch 92] val_recon = 0.001312, val_class = 4.496744
+Saved feature_refine_new_atten_ce_checkpoint_epoch92.pt
+[Epoch 93] val_recon = 0.001072, val_class = 4.492003
+Saved feature_refine_new_atten_ce_checkpoint_epoch93.pt
+[Epoch 94] val_recon = 0.001110, val_class = 4.519123
+Saved feature_refine_new_atten_ce_checkpoint_epoch94.pt
+[Epoch 95] val_recon = 0.001004, val_class = 4.497869
+Saved feature_refine_new_atten_ce_checkpoint_epoch95.pt
+[Epoch 96] val_recon = 0.001100, val_class = 4.484992
+Saved feature_refine_new_atten_ce_checkpoint_epoch96.pt
+[Epoch 97] val_recon = 0.001136, val_class = 4.481815
+Saved feature_refine_new_atten_ce_checkpoint_epoch97.pt
+[Epoch 98] val_recon = 0.001023, val_class = 4.506600
+Saved feature_refine_new_atten_ce_checkpoint_epoch98.pt
+[Epoch 99] val_recon = 0.001252, val_class = 4.489220
+Saved feature_refine_new_atten_ce_checkpoint_epoch99.pt
+[Epoch 100] val_recon = 0.001140, val_class = 4.552106
+Saved feature_refine_new_atten_ce_checkpoint_epoch100.pt
+[Epoch 101] val_recon = 0.001051, val_class = 4.494222
+Saved feature_refine_new_atten_ce_checkpoint_epoch101.pt
+[Epoch 102] val_recon = 0.001142, val_class = 4.480719
+Saved feature_refine_new_atten_ce_checkpoint_epoch102.pt
+[Epoch 103] val_recon = 0.001094, val_class = 4.511786
+Saved feature_refine_new_atten_ce_checkpoint_epoch103.pt
+[Epoch 104] val_recon = 0.001162, val_class = 4.506688
+Saved feature_refine_new_atten_ce_checkpoint_epoch104.pt
+[Epoch 105] val_recon = 0.001107, val_class = 4.504202
+Saved feature_refine_new_atten_ce_checkpoint_epoch105.pt
+[Epoch 106] val_recon = 0.001118, val_class = 4.483218
+Saved feature_refine_new_atten_ce_checkpoint_epoch106.pt
+[Epoch 107] val_recon = 0.000949, val_class = 4.485894
+Saved feature_refine_new_atten_ce_checkpoint_epoch107.pt
+[Epoch 108] val_recon = 0.000969, val_class = 4.484989
+Saved feature_refine_new_atten_ce_checkpoint_epoch108.pt
+[Epoch 109] val_recon = 0.001173, val_class = 4.490219
+Saved feature_refine_new_atten_ce_checkpoint_epoch109.pt
+[Epoch 110] val_recon = 0.001035, val_class = 4.498025
+Saved feature_refine_new_atten_ce_checkpoint_epoch110.pt
+[Epoch 111] val_recon = 0.001092, val_class = 4.492182
+Saved feature_refine_new_atten_ce_checkpoint_epoch111.pt
+[Epoch 112] val_recon = 0.000943, val_class = 4.474487
+Saved feature_refine_new_atten_ce_checkpoint_epoch112.pt
+[Epoch 113] val_recon = 0.001087, val_class = 4.489924
+Saved feature_refine_new_atten_ce_checkpoint_epoch113.pt
+[Epoch 114] val_recon = 0.001086, val_class = 4.478362
+Saved feature_refine_new_atten_ce_checkpoint_epoch114.pt
+[Epoch 115] val_recon = 0.001052, val_class = 4.481144
+Saved feature_refine_new_atten_ce_checkpoint_epoch115.pt
+[Epoch 116] val_recon = 0.001169, val_class = 4.498789
+Saved feature_refine_new_atten_ce_checkpoint_epoch116.pt
+[Epoch 117] val_recon = 0.001042, val_class = 4.510023
+Saved feature_refine_new_atten_ce_checkpoint_epoch117.pt
+[Epoch 118] val_recon = 0.001075, val_class = 4.487283
+Saved feature_refine_new_atten_ce_checkpoint_epoch118.pt
+[Epoch 119] val_recon = 0.001152, val_class = 4.476828
+Saved feature_refine_new_atten_ce_checkpoint_epoch119.pt
+[Epoch 120] val_recon = 0.001023, val_class = 4.484906
+Saved feature_refine_new_atten_ce_checkpoint_epoch120.pt
+[Epoch 121] val_recon = 0.001072, val_class = 4.497624
+Saved feature_refine_new_atten_ce_checkpoint_epoch121.pt
+[Epoch 122] val_recon = 0.001034, val_class = 4.480907
+Saved feature_refine_new_atten_ce_checkpoint_epoch122.pt
+[Epoch 123] val_recon = 0.001023, val_class = 4.478994
+Saved feature_refine_new_atten_ce_checkpoint_epoch123.pt
+[Epoch 124] val_recon = 0.001036, val_class = 4.491506
+Saved feature_refine_new_atten_ce_checkpoint_epoch124.pt
+[Epoch 125] val_recon = 0.001058, val_class = 4.490316
+Saved feature_refine_new_atten_ce_checkpoint_epoch125.pt
+[Epoch 126] val_recon = 0.000992, val_class = 4.479265
+Saved feature_refine_new_atten_ce_checkpoint_epoch126.pt
+[Epoch 127] val_recon = 0.001025, val_class = 4.507717
+Saved feature_refine_new_atten_ce_checkpoint_epoch127.pt
+[Epoch 128] val_recon = 0.001071, val_class = 4.486095
+Saved feature_refine_new_atten_ce_checkpoint_epoch128.pt
+[Epoch 129] val_recon = 0.001174, val_class = 4.492094
+Saved feature_refine_new_atten_ce_checkpoint_epoch129.pt
+[Epoch 130] val_recon = 0.001022, val_class = 4.478429
+Saved feature_refine_new_atten_ce_checkpoint_epoch130.pt
+[Epoch 131] val_recon = 0.001023, val_class = 4.474731
+Saved feature_refine_new_atten_ce_checkpoint_epoch131.pt
+[Epoch 132] val_recon = 0.001011, val_class = 4.471480
+Saved feature_refine_new_atten_ce_checkpoint_epoch132.pt
+[Epoch 133] val_recon = 0.001068, val_class = 4.489092
+Saved feature_refine_new_atten_ce_checkpoint_epoch133.pt
+[Epoch 134] val_recon = 0.001031, val_class = 4.475046
+Saved feature_refine_new_atten_ce_checkpoint_epoch134.pt
+[Epoch 135] val_recon = 0.001058, val_class = 4.480254
+Saved feature_refine_new_atten_ce_checkpoint_epoch135.pt
+[Epoch 136] val_recon = 0.000987, val_class = 4.481033
+Saved feature_refine_new_atten_ce_checkpoint_epoch136.pt
+[Epoch 137] val_recon = 0.001098, val_class = 4.476609
+Saved feature_refine_new_atten_ce_checkpoint_epoch137.pt
+[Epoch 138] val_recon = 0.001073, val_class = 4.474371
+Saved feature_refine_new_atten_ce_checkpoint_epoch138.pt
+[Epoch 139] val_recon = 0.001101, val_class = 4.474721
+Saved feature_refine_new_atten_ce_checkpoint_epoch139.pt
+[Epoch 140] val_recon = 0.001076, val_class = 4.475161
+Saved feature_refine_new_atten_ce_checkpoint_epoch140.pt
+[Epoch 141] val_recon = 0.001002, val_class = 4.482928
+Saved feature_refine_new_atten_ce_checkpoint_epoch141.pt
+[Epoch 142] val_recon = 0.001077, val_class = 4.482406
+Saved feature_refine_new_atten_ce_checkpoint_epoch142.pt
+[Epoch 143] val_recon = 0.001054, val_class = 4.470428
+Saved feature_refine_new_atten_ce_checkpoint_epoch143.pt
+[Epoch 144] val_recon = 0.001043, val_class = 4.480336
+Saved feature_refine_new_atten_ce_checkpoint_epoch144.pt
+[Epoch 145] val_recon = 0.001117, val_class = 4.488005
+Saved feature_refine_new_atten_ce_checkpoint_epoch145.pt
+[Epoch 146] val_recon = 0.001076, val_class = 4.481822
+Saved feature_refine_new_atten_ce_checkpoint_epoch146.pt
+[Epoch 147] val_recon = 0.001046, val_class = 4.477472
+Saved feature_refine_new_atten_ce_checkpoint_epoch147.pt
+[Epoch 148] val_recon = 0.000991, val_class = 4.476203
+Saved feature_refine_new_atten_ce_checkpoint_epoch148.pt
+[Epoch 149] val_recon = 0.001029, val_class = 4.487534
+Saved feature_refine_new_atten_ce_checkpoint_epoch149.pt
+[Epoch 150] val_recon = 0.001063, val_class = 4.472469
+Saved feature_refine_new_atten_ce_checkpoint_epoch150.pt
+[Epoch 151] val_recon = 0.001013, val_class = 4.469971
+Saved feature_refine_new_atten_ce_checkpoint_epoch151.pt
+[Epoch 152] val_recon = 0.001063, val_class = 4.484598
+Saved feature_refine_new_atten_ce_checkpoint_epoch152.pt
+[Epoch 153] val_recon = 0.001063, val_class = 4.471983
+Saved feature_refine_new_atten_ce_checkpoint_epoch153.pt
+[Epoch 154] val_recon = 0.001033, val_class = 4.476893
+Saved feature_refine_new_atten_ce_checkpoint_epoch154.pt
+[Epoch 155] val_recon = 0.001019, val_class = 4.475413
+Saved feature_refine_new_atten_ce_checkpoint_epoch155.pt
+[Epoch 156] val_recon = 0.001098, val_class = 4.471197
+Saved feature_refine_new_atten_ce_checkpoint_epoch156.pt
+[Epoch 157] val_recon = 0.001042, val_class = 4.468255
+Saved feature_refine_new_atten_ce_checkpoint_epoch157.pt
+[Epoch 158] val_recon = 0.001030, val_class = 4.478137
+Saved feature_refine_new_atten_ce_checkpoint_epoch158.pt
+[Epoch 159] val_recon = 0.001032, val_class = 4.464196
+Saved feature_refine_new_atten_ce_checkpoint_epoch159.pt
+[Epoch 160] val_recon = 0.001081, val_class = 4.479019
+Saved feature_refine_new_atten_ce_checkpoint_epoch160.pt
+[Epoch 161] val_recon = 0.001055, val_class = 4.476838
+Saved feature_refine_new_atten_ce_checkpoint_epoch161.pt
+[Epoch 162] val_recon = 0.001078, val_class = 4.472830
+Saved feature_refine_new_atten_ce_checkpoint_epoch162.pt
+[Epoch 163] val_recon = 0.001035, val_class = 4.471998
+Saved feature_refine_new_atten_ce_checkpoint_epoch163.pt
+[Epoch 164] val_recon = 0.001082, val_class = 4.473403
+Saved feature_refine_new_atten_ce_checkpoint_epoch164.pt
+[Epoch 165] val_recon = 0.001025, val_class = 4.465914
+Saved feature_refine_new_atten_ce_checkpoint_epoch165.pt
+[Epoch 166] val_recon = 0.001022, val_class = 4.471278
+Saved feature_refine_new_atten_ce_checkpoint_epoch166.pt
+[Epoch 167] val_recon = 0.001041, val_class = 4.470787
+Saved feature_refine_new_atten_ce_checkpoint_epoch167.pt
+[Epoch 168] val_recon = 0.001032, val_class = 4.467257
+Saved feature_refine_new_atten_ce_checkpoint_epoch168.pt
+[Epoch 169] val_recon = 0.001086, val_class = 4.478566
+Saved feature_refine_new_atten_ce_checkpoint_epoch169.pt
+[Epoch 170] val_recon = 0.001049, val_class = 4.475888
+Saved feature_refine_new_atten_ce_checkpoint_epoch170.pt
+[Epoch 171] val_recon = 0.001040, val_class = 4.480790
+Saved feature_refine_new_atten_ce_checkpoint_epoch171.pt
+[Epoch 172] val_recon = 0.001049, val_class = 4.468916
+Saved feature_refine_new_atten_ce_checkpoint_epoch172.pt
+[Epoch 173] val_recon = 0.001068, val_class = 4.473321
+Saved feature_refine_new_atten_ce_checkpoint_epoch173.pt
+[Epoch 174] val_recon = 0.001030, val_class = 4.472497
+Saved feature_refine_new_atten_ce_checkpoint_epoch174.pt
+[Epoch 175] val_recon = 0.001067, val_class = 4.472542
+Saved feature_refine_new_atten_ce_checkpoint_epoch175.pt
+[Epoch 176] val_recon = 0.001051, val_class = 4.470486
+Saved feature_refine_new_atten_ce_checkpoint_epoch176.pt
+[Epoch 177] val_recon = 0.001085, val_class = 4.480997
+Saved feature_refine_new_atten_ce_checkpoint_epoch177.pt
+[Epoch 178] val_recon = 0.001057, val_class = 4.466416
+Saved feature_refine_new_atten_ce_checkpoint_epoch178.pt
+[Epoch 179] val_recon = 0.001019, val_class = 4.467154
+Saved feature_refine_new_atten_ce_checkpoint_epoch179.pt
+[Epoch 180] val_recon = 0.001053, val_class = 4.474505
+Saved feature_refine_new_atten_ce_checkpoint_epoch180.pt
+[Epoch 181] val_recon = 0.001075, val_class = 4.476350
+Saved feature_refine_new_atten_ce_checkpoint_epoch181.pt
+[Epoch 182] val_recon = 0.001062, val_class = 4.472162
+Saved feature_refine_new_atten_ce_checkpoint_epoch182.pt
+[Epoch 183] val_recon = 0.001053, val_class = 4.470307
+Saved feature_refine_new_atten_ce_checkpoint_epoch183.pt
+[Epoch 184] val_recon = 0.001073, val_class = 4.472758
+Saved feature_refine_new_atten_ce_checkpoint_epoch184.pt
+[Epoch 185] val_recon = 0.001039, val_class = 4.474108
+Saved feature_refine_new_atten_ce_checkpoint_epoch185.pt
+[Epoch 186] val_recon = 0.001048, val_class = 4.473440
+Saved feature_refine_new_atten_ce_checkpoint_epoch186.pt
+[Epoch 187] val_recon = 0.001077, val_class = 4.480759
+Saved feature_refine_new_atten_ce_checkpoint_epoch187.pt
+[Epoch 188] val_recon = 0.001061, val_class = 4.470459
+Saved feature_refine_new_atten_ce_checkpoint_epoch188.pt
+[Epoch 189] val_recon = 0.001051, val_class = 4.471835
+Saved feature_refine_new_atten_ce_checkpoint_epoch189.pt
+[Epoch 190] val_recon = 0.001036, val_class = 4.471628
+Saved feature_refine_new_atten_ce_checkpoint_epoch190.pt
+[Epoch 191] val_recon = 0.001040, val_class = 4.470600
+Saved feature_refine_new_atten_ce_checkpoint_epoch191.pt
+[Epoch 192] val_recon = 0.001070, val_class = 4.471986
+Saved feature_refine_new_atten_ce_checkpoint_epoch192.pt
+[Epoch 193] val_recon = 0.001072, val_class = 4.472029
+Saved feature_refine_new_atten_ce_checkpoint_epoch193.pt
+[Epoch 194] val_recon = 0.001059, val_class = 4.471462
+Saved feature_refine_new_atten_ce_checkpoint_epoch194.pt
+[Epoch 195] val_recon = 0.001058, val_class = 4.469535
+Saved feature_refine_new_atten_ce_checkpoint_epoch195.pt
+[Epoch 196] val_recon = 0.001052, val_class = 4.469757
+Saved feature_refine_new_atten_ce_checkpoint_epoch196.pt
+[Epoch 197] val_recon = 0.001063, val_class = 4.471048
+Saved feature_refine_new_atten_ce_checkpoint_epoch197.pt
+[Epoch 198] val_recon = 0.001048, val_class = 4.470254
+Saved feature_refine_new_atten_ce_checkpoint_epoch198.pt
+[Epoch 199] val_recon = 0.001047, val_class = 4.467328
+Saved feature_refine_new_atten_ce_checkpoint_epoch199.pt
+[Epoch 200] val_recon = 0.001038, val_class = 4.471553
+Saved feature_refine_new_atten_ce_checkpoint_epoch200.pt
+[Epoch 201] val_recon = 0.001033, val_class = 4.469176
+Saved feature_refine_new_atten_ce_checkpoint_epoch201.pt
+[Epoch 202] val_recon = 0.001062, val_class = 4.471229
+Saved feature_refine_new_atten_ce_checkpoint_epoch202.pt
+[Epoch 203] val_recon = 0.001056, val_class = 4.471794
+Saved feature_refine_new_atten_ce_checkpoint_epoch203.pt
+[Epoch 204] val_recon = 0.001046, val_class = 4.473727
+Saved feature_refine_new_atten_ce_checkpoint_epoch204.pt
+[Epoch 205] val_recon = 0.001053, val_class = 4.472828
+Saved feature_refine_new_atten_ce_checkpoint_epoch205.pt
+[Epoch 206] val_recon = 0.001052, val_class = 4.472106
+Saved feature_refine_new_atten_ce_checkpoint_epoch206.pt
+[Epoch 207] val_recon = 0.001051, val_class = 4.469997
+Saved feature_refine_new_atten_ce_checkpoint_epoch207.pt
+[Epoch 208] val_recon = 0.001040, val_class = 4.468846
+Saved feature_refine_new_atten_ce_checkpoint_epoch208.pt
+[Epoch 209] val_recon = 0.001054, val_class = 4.473195
+Saved feature_refine_new_atten_ce_checkpoint_epoch209.pt
+[Epoch 210] val_recon = 0.001049, val_class = 4.470812
+Saved feature_refine_new_atten_ce_checkpoint_epoch210.pt
+[Epoch 211] val_recon = 0.001043, val_class = 4.469042
+Saved feature_refine_new_atten_ce_checkpoint_epoch211.pt
+[Epoch 212] val_recon = 0.001048, val_class = 4.473859
+Saved feature_refine_new_atten_ce_checkpoint_epoch212.pt
+[Epoch 213] val_recon = 0.001029, val_class = 4.471541
+Saved feature_refine_new_atten_ce_checkpoint_epoch213.pt
+[Epoch 214] val_recon = 0.001050, val_class = 4.473407
+Saved feature_refine_new_atten_ce_checkpoint_epoch214.pt
+[Epoch 215] val_recon = 0.001032, val_class = 4.470055
+Saved feature_refine_new_atten_ce_checkpoint_epoch215.pt
+[Epoch 216] val_recon = 0.001050, val_class = 4.472517
+Saved feature_refine_new_atten_ce_checkpoint_epoch216.pt
+[Epoch 217] val_recon = 0.001048, val_class = 4.468946
+Saved feature_refine_new_atten_ce_checkpoint_epoch217.pt
+[Epoch 218] val_recon = 0.001074, val_class = 4.473835
+Saved feature_refine_new_atten_ce_checkpoint_epoch218.pt
+[Epoch 219] val_recon = 0.001037, val_class = 4.473122
+Saved feature_refine_new_atten_ce_checkpoint_epoch219.pt
+[Epoch 220] val_recon = 0.001046, val_class = 4.472734
+Saved feature_refine_new_atten_ce_checkpoint_epoch220.pt
+[Epoch 221] val_recon = 0.001039, val_class = 4.468815
+Saved feature_refine_new_atten_ce_checkpoint_epoch221.pt
+[Epoch 222] val_recon = 0.001048, val_class = 4.472795
+Saved feature_refine_new_atten_ce_checkpoint_epoch222.pt
+[Epoch 223] val_recon = 0.001050, val_class = 4.471422
+Saved feature_refine_new_atten_ce_checkpoint_epoch223.pt
+[Epoch 224] val_recon = 0.001047, val_class = 4.469399
+Saved feature_refine_new_atten_ce_checkpoint_epoch224.pt
+[Epoch 225] val_recon = 0.001052, val_class = 4.471331
+Saved feature_refine_new_atten_ce_checkpoint_epoch225.pt
+[Epoch 226] val_recon = 0.001043, val_class = 4.471275
+Saved feature_refine_new_atten_ce_checkpoint_epoch226.pt
+[Epoch 227] val_recon = 0.001044, val_class = 4.471375
+Saved feature_refine_new_atten_ce_checkpoint_epoch227.pt
+[Epoch 228] val_recon = 0.001035, val_class = 4.470186
+Saved feature_refine_new_atten_ce_checkpoint_epoch228.pt
+[Epoch 229] val_recon = 0.001042, val_class = 4.466930
+Saved feature_refine_new_atten_ce_checkpoint_epoch229.pt
+[Epoch 230] val_recon = 0.001043, val_class = 4.474421
+Saved feature_refine_new_atten_ce_checkpoint_epoch230.pt
+[Epoch 231] val_recon = 0.001058, val_class = 4.470258
+Saved feature_refine_new_atten_ce_checkpoint_epoch231.pt
+[Epoch 232] val_recon = 0.001031, val_class = 4.470430
+Saved feature_refine_new_atten_ce_checkpoint_epoch232.pt
+[Epoch 233] val_recon = 0.001049, val_class = 4.470201
+Saved feature_refine_new_atten_ce_checkpoint_epoch233.pt
+[Epoch 234] val_recon = 0.001060, val_class = 4.473163
+Saved feature_refine_new_atten_ce_checkpoint_epoch234.pt
+[Epoch 235] val_recon = 0.001050, val_class = 4.472743
+Saved feature_refine_new_atten_ce_checkpoint_epoch235.pt
+[Epoch 236] val_recon = 0.001069, val_class = 4.474392
+Saved feature_refine_new_atten_ce_checkpoint_epoch236.pt
+[Epoch 237] val_recon = 0.001056, val_class = 4.472339
+Saved feature_refine_new_atten_ce_checkpoint_epoch237.pt
+[Epoch 238] val_recon = 0.001055, val_class = 4.471168
+Saved feature_refine_new_atten_ce_checkpoint_epoch238.pt
+[Epoch 239] val_recon = 0.001064, val_class = 4.475763
+Saved feature_refine_new_atten_ce_checkpoint_epoch239.pt
+[Epoch 240] val_recon = 0.001055, val_class = 4.473738
+Saved feature_refine_new_atten_ce_checkpoint_epoch240.pt
+[Epoch 241] val_recon = 0.001030, val_class = 4.471269
+Saved feature_refine_new_atten_ce_checkpoint_epoch241.pt
+[Epoch 242] val_recon = 0.001042, val_class = 4.470654
+Saved feature_refine_new_atten_ce_checkpoint_epoch242.pt
+[Epoch 243] val_recon = 0.001057, val_class = 4.473615
+Saved feature_refine_new_atten_ce_checkpoint_epoch243.pt
+[Epoch 244] val_recon = 0.001049, val_class = 4.472868
+Saved feature_refine_new_atten_ce_checkpoint_epoch244.pt
+[Epoch 245] val_recon = 0.001056, val_class = 4.473337
+Saved feature_refine_new_atten_ce_checkpoint_epoch245.pt
+[Epoch 246] val_recon = 0.001066, val_class = 4.472086
+Saved feature_refine_new_atten_ce_checkpoint_epoch246.pt
+[Epoch 247] val_recon = 0.001043, val_class = 4.473653
+Saved feature_refine_new_atten_ce_checkpoint_epoch247.pt
+[Epoch 248] val_recon = 0.001053, val_class = 4.470694
+Saved feature_refine_new_atten_ce_checkpoint_epoch248.pt
+[Epoch 249] val_recon = 0.001053, val_class = 4.470001
+Saved feature_refine_new_atten_ce_checkpoint_epoch249.pt
+[Epoch 250] val_recon = 0.001057, val_class = 4.471464
+Saved feature_refine_new_atten_ce_checkpoint_epoch250.pt
+[Epoch 251] val_recon = 0.001076, val_class = 4.471331
+Saved feature_refine_new_atten_ce_checkpoint_epoch251.pt
+[Epoch 252] val_recon = 0.001069, val_class = 4.472298
+Saved feature_refine_new_atten_ce_checkpoint_epoch252.pt
+[Epoch 253] val_recon = 0.001044, val_class = 4.473095
+Saved feature_refine_new_atten_ce_checkpoint_epoch253.pt
+[Epoch 254] val_recon = 0.001039, val_class = 4.472775
+Saved feature_refine_new_atten_ce_checkpoint_epoch254.pt
+[Epoch 255] val_recon = 0.001046, val_class = 4.472973
+Saved feature_refine_new_atten_ce_checkpoint_epoch255.pt
+[Epoch 256] val_recon = 0.001026, val_class = 4.468811
+Saved feature_refine_new_atten_ce_checkpoint_epoch256.pt
+[Epoch 257] val_recon = 0.001065, val_class = 4.469815
+Saved feature_refine_new_atten_ce_checkpoint_epoch257.pt
+[Epoch 258] val_recon = 0.001048, val_class = 4.469426
+Saved feature_refine_new_atten_ce_checkpoint_epoch258.pt
+[Epoch 259] val_recon = 0.001041, val_class = 4.472341
+Saved feature_refine_new_atten_ce_checkpoint_epoch259.pt
+[Epoch 260] val_recon = 0.001037, val_class = 4.469440
+Saved feature_refine_new_atten_ce_checkpoint_epoch260.pt
+[Epoch 261] val_recon = 0.001031, val_class = 4.468969
+Saved feature_refine_new_atten_ce_checkpoint_epoch261.pt
+[Epoch 262] val_recon = 0.001053, val_class = 4.470793
+Saved feature_refine_new_atten_ce_checkpoint_epoch262.pt
+[Epoch 263] val_recon = 0.001051, val_class = 4.474640
+Saved feature_refine_new_atten_ce_checkpoint_epoch263.pt
+[Epoch 264] val_recon = 0.001043, val_class = 4.470658
+Saved feature_refine_new_atten_ce_checkpoint_epoch264.pt
+[Epoch 265] val_recon = 0.001069, val_class = 4.473024
+Saved feature_refine_new_atten_ce_checkpoint_epoch265.pt
+[Epoch 266] val_recon = 0.001062, val_class = 4.471152
+Saved feature_refine_new_atten_ce_checkpoint_epoch266.pt
+[Epoch 267] val_recon = 0.001043, val_class = 4.471451
+Saved feature_refine_new_atten_ce_checkpoint_epoch267.pt
+[Epoch 268] val_recon = 0.001039, val_class = 4.469286
+Saved feature_refine_new_atten_ce_checkpoint_epoch268.pt
+[Epoch 269] val_recon = 0.001042, val_class = 4.468911
+Saved feature_refine_new_atten_ce_checkpoint_epoch269.pt
+[Epoch 270] val_recon = 0.001053, val_class = 4.474108
+Saved feature_refine_new_atten_ce_checkpoint_epoch270.pt
+[Epoch 271] val_recon = 0.001070, val_class = 4.472019
+Saved feature_refine_new_atten_ce_checkpoint_epoch271.pt
+[Epoch 272] val_recon = 0.001042, val_class = 4.472088
+Saved feature_refine_new_atten_ce_checkpoint_epoch272.pt
+[Epoch 273] val_recon = 0.001062, val_class = 4.473605
+Saved feature_refine_new_atten_ce_checkpoint_epoch273.pt
+[Epoch 274] val_recon = 0.001064, val_class = 4.470479
+Saved feature_refine_new_atten_ce_checkpoint_epoch274.pt
+[Epoch 275] val_recon = 0.001030, val_class = 4.471209
+Saved feature_refine_new_atten_ce_checkpoint_epoch275.pt
+[Epoch 276] val_recon = 0.001066, val_class = 4.469686
+Saved feature_refine_new_atten_ce_checkpoint_epoch276.pt
+[Epoch 277] val_recon = 0.001027, val_class = 4.472007
+Saved feature_refine_new_atten_ce_checkpoint_epoch277.pt
+[Epoch 278] val_recon = 0.001030, val_class = 4.464587
+Saved feature_refine_new_atten_ce_checkpoint_epoch278.pt
+[Epoch 279] val_recon = 0.001087, val_class = 4.475494
+Saved feature_refine_new_atten_ce_checkpoint_epoch279.pt
+[Epoch 280] val_recon = 0.001072, val_class = 4.477981
+Saved feature_refine_new_atten_ce_checkpoint_epoch280.pt
+[Epoch 281] val_recon = 0.001061, val_class = 4.469149
+Saved feature_refine_new_atten_ce_checkpoint_epoch281.pt
+[Epoch 282] val_recon = 0.001043, val_class = 4.469907
+Saved feature_refine_new_atten_ce_checkpoint_epoch282.pt
+[Epoch 283] val_recon = 0.001086, val_class = 4.472404
+Saved feature_refine_new_atten_ce_checkpoint_epoch283.pt
+[Epoch 284] val_recon = 0.001075, val_class = 4.471101
+Saved feature_refine_new_atten_ce_checkpoint_epoch284.pt
+[Epoch 285] val_recon = 0.001048, val_class = 4.471165
+Saved feature_refine_new_atten_ce_checkpoint_epoch285.pt
+[Epoch 286] val_recon = 0.001058, val_class = 4.470420
+Saved feature_refine_new_atten_ce_checkpoint_epoch286.pt
+[Epoch 287] val_recon = 0.001066, val_class = 4.474330
+Saved feature_refine_new_atten_ce_checkpoint_epoch287.pt
+[Epoch 288] val_recon = 0.001050, val_class = 4.471855
+Saved feature_refine_new_atten_ce_checkpoint_epoch288.pt
+[Epoch 289] val_recon = 0.001067, val_class = 4.471471
+Saved feature_refine_new_atten_ce_checkpoint_epoch289.pt
+[Epoch 290] val_recon = 0.001061, val_class = 4.472706
+Saved feature_refine_new_atten_ce_checkpoint_epoch290.pt
+[Epoch 291] val_recon = 0.001041, val_class = 4.469624
+Saved feature_refine_new_atten_ce_checkpoint_epoch291.pt
+[Epoch 292] val_recon = 0.001055, val_class = 4.471499
+Saved feature_refine_new_atten_ce_checkpoint_epoch292.pt
+[Epoch 293] val_recon = 0.001079, val_class = 4.473759
+Saved feature_refine_new_atten_ce_checkpoint_epoch293.pt
+[Epoch 294] val_recon = 0.001041, val_class = 4.467895
+Saved feature_refine_new_atten_ce_checkpoint_epoch294.pt
+[Epoch 295] val_recon = 0.001051, val_class = 4.469967
+Saved feature_refine_new_atten_ce_checkpoint_epoch295.pt
+[Epoch 296] val_recon = 0.001046, val_class = 4.471044
+Saved feature_refine_new_atten_ce_checkpoint_epoch296.pt
+[Epoch 297] val_recon = 0.001055, val_class = 4.472942
+Saved feature_refine_new_atten_ce_checkpoint_epoch297.pt
+[Epoch 298] val_recon = 0.001064, val_class = 4.473250
+Saved feature_refine_new_atten_ce_checkpoint_epoch298.pt
+[Epoch 299] val_recon = 0.001041, val_class = 4.470022
+Saved feature_refine_new_atten_ce_checkpoint_epoch299.pt
+[Epoch 300] val_recon = 0.001039, val_class = 4.471485
+Saved feature_refine_new_atten_ce_checkpoint_epoch300.pt
+[Epoch 301] val_recon = 0.001035, val_class = 4.467760
+Saved feature_refine_new_atten_ce_checkpoint_epoch301.pt
+[Epoch 302] val_recon = 0.001060, val_class = 4.471561
+Saved feature_refine_new_atten_ce_checkpoint_epoch302.pt
+[Epoch 303] val_recon = 0.001052, val_class = 4.468951
+Saved feature_refine_new_atten_ce_checkpoint_epoch303.pt
+[Epoch 304] val_recon = 0.001052, val_class = 4.470099
+Saved feature_refine_new_atten_ce_checkpoint_epoch304.pt
+[Epoch 305] val_recon = 0.001033, val_class = 4.469760
+Saved feature_refine_new_atten_ce_checkpoint_epoch305.pt
+[Epoch 306] val_recon = 0.001045, val_class = 4.471516
+Saved feature_refine_new_atten_ce_checkpoint_epoch306.pt
+[Epoch 307] val_recon = 0.001039, val_class = 4.471911
+Saved feature_refine_new_atten_ce_checkpoint_epoch307.pt
+[Epoch 308] val_recon = 0.001064, val_class = 4.478167
+Saved feature_refine_new_atten_ce_checkpoint_epoch308.pt
+[Epoch 309] val_recon = 0.001023, val_class = 4.468640
+Saved feature_refine_new_atten_ce_checkpoint_epoch309.pt
+[Epoch 310] val_recon = 0.001061, val_class = 4.470331
+Saved feature_refine_new_atten_ce_checkpoint_epoch310.pt
+[Epoch 311] val_recon = 0.001055, val_class = 4.469401
+Saved feature_refine_new_atten_ce_checkpoint_epoch311.pt
+[Epoch 312] val_recon = 0.001041, val_class = 4.471535
+Saved feature_refine_new_atten_ce_checkpoint_epoch312.pt
+[Epoch 313] val_recon = 0.001069, val_class = 4.468732
+Saved feature_refine_new_atten_ce_checkpoint_epoch313.pt
+[Epoch 314] val_recon = 0.001047, val_class = 4.471712
+Saved feature_refine_new_atten_ce_checkpoint_epoch314.pt
+[Epoch 315] val_recon = 0.001048, val_class = 4.472955
+Saved feature_refine_new_atten_ce_checkpoint_epoch315.pt
+[Epoch 316] val_recon = 0.001046, val_class = 4.468402
+Saved feature_refine_new_atten_ce_checkpoint_epoch316.pt
+[Epoch 317] val_recon = 0.001049, val_class = 4.472868
+Saved feature_refine_new_atten_ce_checkpoint_epoch317.pt
+[Epoch 318] val_recon = 0.001060, val_class = 4.471741
+Saved feature_refine_new_atten_ce_checkpoint_epoch318.pt
+[Epoch 319] val_recon = 0.001055, val_class = 4.472411
+Saved feature_refine_new_atten_ce_checkpoint_epoch319.pt
+[Epoch 320] val_recon = 0.001050, val_class = 4.471982
+Saved feature_refine_new_atten_ce_checkpoint_epoch320.pt
+[Epoch 321] val_recon = 0.001054, val_class = 4.470389
+Saved feature_refine_new_atten_ce_checkpoint_epoch321.pt
+[Epoch 322] val_recon = 0.001038, val_class = 4.468068
+Saved feature_refine_new_atten_ce_checkpoint_epoch322.pt
+[Epoch 323] val_recon = 0.001040, val_class = 4.470286
+Saved feature_refine_new_atten_ce_checkpoint_epoch323.pt
+[Epoch 324] val_recon = 0.001058, val_class = 4.470648
+Saved feature_refine_new_atten_ce_checkpoint_epoch324.pt
+[Epoch 325] val_recon = 0.001059, val_class = 4.468430
+Saved feature_refine_new_atten_ce_checkpoint_epoch325.pt
+[Epoch 326] val_recon = 0.001029, val_class = 4.471451
+Saved feature_refine_new_atten_ce_checkpoint_epoch326.pt
+[Epoch 327] val_recon = 0.001059, val_class = 4.473234
+Saved feature_refine_new_atten_ce_checkpoint_epoch327.pt
+[Epoch 328] val_recon = 0.001050, val_class = 4.473138
+Saved feature_refine_new_atten_ce_checkpoint_epoch328.pt
+[Epoch 329] val_recon = 0.001041, val_class = 4.474290
+Saved feature_refine_new_atten_ce_checkpoint_epoch329.pt
+[Epoch 330] val_recon = 0.001046, val_class = 4.472044
+Saved feature_refine_new_atten_ce_checkpoint_epoch330.pt
+[Epoch 331] val_recon = 0.001067, val_class = 4.468085
+Saved feature_refine_new_atten_ce_checkpoint_epoch331.pt
+[Epoch 332] val_recon = 0.001031, val_class = 4.471270
+Saved feature_refine_new_atten_ce_checkpoint_epoch332.pt
+[Epoch 333] val_recon = 0.001059, val_class = 4.471024
+Saved feature_refine_new_atten_ce_checkpoint_epoch333.pt
+[Epoch 334] val_recon = 0.001061, val_class = 4.474221
+Saved feature_refine_new_atten_ce_checkpoint_epoch334.pt
+[Epoch 335] val_recon = 0.001065, val_class = 4.473837
+Saved feature_refine_new_atten_ce_checkpoint_epoch335.pt
+[Epoch 336] val_recon = 0.001045, val_class = 4.470708
+Saved feature_refine_new_atten_ce_checkpoint_epoch336.pt
+[Epoch 337] val_recon = 0.001068, val_class = 4.475536
+Saved feature_refine_new_atten_ce_checkpoint_epoch337.pt
+[Epoch 338] val_recon = 0.001058, val_class = 4.470029
+Saved feature_refine_new_atten_ce_checkpoint_epoch338.pt
+[Epoch 339] val_recon = 0.001048, val_class = 4.471892
+Saved feature_refine_new_atten_ce_checkpoint_epoch339.pt
+[Epoch 340] val_recon = 0.001049, val_class = 4.472283
+Saved feature_refine_new_atten_ce_checkpoint_epoch340.pt
+[Epoch 341] val_recon = 0.001038, val_class = 4.473695
+Saved feature_refine_new_atten_ce_checkpoint_epoch341.pt
+[Epoch 342] val_recon = 0.001059, val_class = 4.477225
+Saved feature_refine_new_atten_ce_checkpoint_epoch342.pt
+[Epoch 343] val_recon = 0.001038, val_class = 4.468322
+Saved feature_refine_new_atten_ce_checkpoint_epoch343.pt
+[Epoch 344] val_recon = 0.001060, val_class = 4.473476
+Saved feature_refine_new_atten_ce_checkpoint_epoch344.pt
+[Epoch 345] val_recon = 0.001046, val_class = 4.472044
+Saved feature_refine_new_atten_ce_checkpoint_epoch345.pt
+[Epoch 346] val_recon = 0.001033, val_class = 4.466887
+Saved feature_refine_new_atten_ce_checkpoint_epoch346.pt
+[Epoch 347] val_recon = 0.001039, val_class = 4.470596
+Saved feature_refine_new_atten_ce_checkpoint_epoch347.pt
+[Epoch 348] val_recon = 0.001044, val_class = 4.470973
+Saved feature_refine_new_atten_ce_checkpoint_epoch348.pt
+[Epoch 349] val_recon = 0.001064, val_class = 4.469676
+Saved feature_refine_new_atten_ce_checkpoint_epoch349.pt
+[Epoch 350] val_recon = 0.001027, val_class = 4.468327
+Saved feature_refine_new_atten_ce_checkpoint_epoch350.pt
+[Epoch 351] val_recon = 0.001040, val_class = 4.471596
+Saved feature_refine_new_atten_ce_checkpoint_epoch351.pt
+[Epoch 352] val_recon = 0.001059, val_class = 4.471086
+Saved feature_refine_new_atten_ce_checkpoint_epoch352.pt
+[Epoch 353] val_recon = 0.001039, val_class = 4.470978
+Saved feature_refine_new_atten_ce_checkpoint_epoch353.pt
+[Epoch 354] val_recon = 0.001051, val_class = 4.471153
+Saved feature_refine_new_atten_ce_checkpoint_epoch354.pt
+[Epoch 355] val_recon = 0.001046, val_class = 4.469213
+Saved feature_refine_new_atten_ce_checkpoint_epoch355.pt
+[Epoch 356] val_recon = 0.001046, val_class = 4.469636
+Saved feature_refine_new_atten_ce_checkpoint_epoch356.pt
+[Epoch 357] val_recon = 0.001054, val_class = 4.471160
+Saved feature_refine_new_atten_ce_checkpoint_epoch357.pt
+[Epoch 358] val_recon = 0.001048, val_class = 4.470839
+Saved feature_refine_new_atten_ce_checkpoint_epoch358.pt
+[Epoch 359] val_recon = 0.001052, val_class = 4.468495
+Saved feature_refine_new_atten_ce_checkpoint_epoch359.pt
+[Epoch 360] val_recon = 0.001050, val_class = 4.475222
+Saved feature_refine_new_atten_ce_checkpoint_epoch360.pt
+[Epoch 361] val_recon = 0.001040, val_class = 4.472593
+Saved feature_refine_new_atten_ce_checkpoint_epoch361.pt
+[Epoch 362] val_recon = 0.001067, val_class = 4.468656
+Saved feature_refine_new_atten_ce_checkpoint_epoch362.pt
+[Epoch 363] val_recon = 0.001061, val_class = 4.470783
+Saved feature_refine_new_atten_ce_checkpoint_epoch363.pt
+[Epoch 364] val_recon = 0.001040, val_class = 4.468590
+Saved feature_refine_new_atten_ce_checkpoint_epoch364.pt
+[Epoch 365] val_recon = 0.001049, val_class = 4.469744
+Saved feature_refine_new_atten_ce_checkpoint_epoch365.pt
+[Epoch 366] val_recon = 0.001051, val_class = 4.468855
+Saved feature_refine_new_atten_ce_checkpoint_epoch366.pt
+[Epoch 367] val_recon = 0.001039, val_class = 4.471608
+Saved feature_refine_new_atten_ce_checkpoint_epoch367.pt
+[Epoch 368] val_recon = 0.001068, val_class = 4.471178
+Saved feature_refine_new_atten_ce_checkpoint_epoch368.pt
+[Epoch 369] val_recon = 0.001039, val_class = 4.467941
+Saved feature_refine_new_atten_ce_checkpoint_epoch369.pt
+[Epoch 370] val_recon = 0.001051, val_class = 4.469482
+Saved feature_refine_new_atten_ce_checkpoint_epoch370.pt
+[Epoch 371] val_recon = 0.001035, val_class = 4.469390
+Saved feature_refine_new_atten_ce_checkpoint_epoch371.pt
+[Epoch 372] val_recon = 0.001051, val_class = 4.471207
+Saved feature_refine_new_atten_ce_checkpoint_epoch372.pt
+[Epoch 373] val_recon = 0.001043, val_class = 4.471703
+Saved feature_refine_new_atten_ce_checkpoint_epoch373.pt
+[Epoch 374] val_recon = 0.001053, val_class = 4.476638
+Saved feature_refine_new_atten_ce_checkpoint_epoch374.pt
+[Epoch 375] val_recon = 0.001055, val_class = 4.470386
+Saved feature_refine_new_atten_ce_checkpoint_epoch375.pt
+[Epoch 376] val_recon = 0.001063, val_class = 4.474397
+Saved feature_refine_new_atten_ce_checkpoint_epoch376.pt
+[Epoch 377] val_recon = 0.001044, val_class = 4.470788
+Saved feature_refine_new_atten_ce_checkpoint_epoch377.pt
+[Epoch 378] val_recon = 0.001046, val_class = 4.474375
+Saved feature_refine_new_atten_ce_checkpoint_epoch378.pt
+[Epoch 379] val_recon = 0.001055, val_class = 4.472104
+Saved feature_refine_new_atten_ce_checkpoint_epoch379.pt
+[Epoch 380] val_recon = 0.001036, val_class = 4.467649
+Saved feature_refine_new_atten_ce_checkpoint_epoch380.pt
+[Epoch 381] val_recon = 0.001077, val_class = 4.470724
+Saved feature_refine_new_atten_ce_checkpoint_epoch381.pt
+[Epoch 382] val_recon = 0.001067, val_class = 4.470592
+Saved feature_refine_new_atten_ce_checkpoint_epoch382.pt
+[Epoch 383] val_recon = 0.001061, val_class = 4.471401
+Saved feature_refine_new_atten_ce_checkpoint_epoch383.pt
+[Epoch 384] val_recon = 0.001041, val_class = 4.470709
+Saved feature_refine_new_atten_ce_checkpoint_epoch384.pt
+[Epoch 385] val_recon = 0.001038, val_class = 4.465936
+Saved feature_refine_new_atten_ce_checkpoint_epoch385.pt
+[Epoch 386] val_recon = 0.001046, val_class = 4.472194
+Saved feature_refine_new_atten_ce_checkpoint_epoch386.pt
+[Epoch 387] val_recon = 0.001052, val_class = 4.471100
+Saved feature_refine_new_atten_ce_checkpoint_epoch387.pt
+[Epoch 388] val_recon = 0.001036, val_class = 4.466599
+Saved feature_refine_new_atten_ce_checkpoint_epoch388.pt
+[Epoch 389] val_recon = 0.001033, val_class = 4.467357
+Saved feature_refine_new_atten_ce_checkpoint_epoch389.pt
+[Epoch 390] val_recon = 0.001050, val_class = 4.473430
+Saved feature_refine_new_atten_ce_checkpoint_epoch390.pt
+[Epoch 391] val_recon = 0.001053, val_class = 4.469507
+Saved feature_refine_new_atten_ce_checkpoint_epoch391.pt
+[Epoch 392] val_recon = 0.001049, val_class = 4.470871
+Saved feature_refine_new_atten_ce_checkpoint_epoch392.pt
+[Epoch 393] val_recon = 0.001048, val_class = 4.473529
+Saved feature_refine_new_atten_ce_checkpoint_epoch393.pt
+[Epoch 394] val_recon = 0.001056, val_class = 4.470709
+Saved feature_refine_new_atten_ce_checkpoint_epoch394.pt
+[Epoch 395] val_recon = 0.001039, val_class = 4.472989
+Saved feature_refine_new_atten_ce_checkpoint_epoch395.pt
+[Epoch 396] val_recon = 0.001036, val_class = 4.467973
+Saved feature_refine_new_atten_ce_checkpoint_epoch396.pt
+[Epoch 397] val_recon = 0.001046, val_class = 4.472377
+Saved feature_refine_new_atten_ce_checkpoint_epoch397.pt
+[Epoch 398] val_recon = 0.001053, val_class = 4.472759
+Saved feature_refine_new_atten_ce_checkpoint_epoch398.pt
+[Epoch 399] val_recon = 0.001050, val_class = 4.472055
+Saved feature_refine_new_atten_ce_checkpoint_epoch399.pt
+[Epoch 400] val_recon = 0.001030, val_class = 4.471745
+Saved feature_refine_new_atten_ce_checkpoint_epoch400.pt
+[Epoch 401] val_recon = 0.001023, val_class = 4.466375
+Saved feature_refine_new_atten_ce_checkpoint_epoch401.pt
+[Epoch 402] val_recon = 0.001046, val_class = 4.472775
+Saved feature_refine_new_atten_ce_checkpoint_epoch402.pt
+[Epoch 403] val_recon = 0.001038, val_class = 4.469081
+Saved feature_refine_new_atten_ce_checkpoint_epoch403.pt
+[Epoch 404] val_recon = 0.001040, val_class = 4.470976
+Saved feature_refine_new_atten_ce_checkpoint_epoch404.pt
+[Epoch 405] val_recon = 0.001053, val_class = 4.470224
+Saved feature_refine_new_atten_ce_checkpoint_epoch405.pt
+[Epoch 406] val_recon = 0.001055, val_class = 4.470059
+Saved feature_refine_new_atten_ce_checkpoint_epoch406.pt
+[Epoch 407] val_recon = 0.001026, val_class = 4.470867
+Saved feature_refine_new_atten_ce_checkpoint_epoch407.pt
+[Epoch 408] val_recon = 0.001052, val_class = 4.473469
+Saved feature_refine_new_atten_ce_checkpoint_epoch408.pt
+[Epoch 409] val_recon = 0.001044, val_class = 4.471284
+Saved feature_refine_new_atten_ce_checkpoint_epoch409.pt
+[Epoch 410] val_recon = 0.001041, val_class = 4.466391
+Saved feature_refine_new_atten_ce_checkpoint_epoch410.pt
+[Epoch 411] val_recon = 0.001039, val_class = 4.471640
+Saved feature_refine_new_atten_ce_checkpoint_epoch411.pt
+[Epoch 412] val_recon = 0.001053, val_class = 4.471626
+Saved feature_refine_new_atten_ce_checkpoint_epoch412.pt
+[Epoch 413] val_recon = 0.001043, val_class = 4.470583
+Saved feature_refine_new_atten_ce_checkpoint_epoch413.pt
+[Epoch 414] val_recon = 0.001065, val_class = 4.471500
+Saved feature_refine_new_atten_ce_checkpoint_epoch414.pt
+[Epoch 415] val_recon = 0.001057, val_class = 4.469786
+Saved feature_refine_new_atten_ce_checkpoint_epoch415.pt
+[Epoch 416] val_recon = 0.001048, val_class = 4.474144
+Saved feature_refine_new_atten_ce_checkpoint_epoch416.pt
+[Epoch 417] val_recon = 0.001045, val_class = 4.474456
+Saved feature_refine_new_atten_ce_checkpoint_epoch417.pt
+[Epoch 418] val_recon = 0.001040, val_class = 4.467499
+Saved feature_refine_new_atten_ce_checkpoint_epoch418.pt
+[Epoch 419] val_recon = 0.001032, val_class = 4.468639
+Saved feature_refine_new_atten_ce_checkpoint_epoch419.pt
+[Epoch 420] val_recon = 0.001028, val_class = 4.470432
+Saved feature_refine_new_atten_ce_checkpoint_epoch420.pt
+[Epoch 421] val_recon = 0.001055, val_class = 4.471042
+Saved feature_refine_new_atten_ce_checkpoint_epoch421.pt
+[Epoch 422] val_recon = 0.001038, val_class = 4.468463
+Saved feature_refine_new_atten_ce_checkpoint_epoch422.pt
+[Epoch 423] val_recon = 0.001066, val_class = 4.469218
+Saved feature_refine_new_atten_ce_checkpoint_epoch423.pt
+[Epoch 424] val_recon = 0.001060, val_class = 4.473413
+Saved feature_refine_new_atten_ce_checkpoint_epoch424.pt
+[Epoch 425] val_recon = 0.001049, val_class = 4.472227
+Saved feature_refine_new_atten_ce_checkpoint_epoch425.pt
+[Epoch 426] val_recon = 0.001062, val_class = 4.469908
+Saved feature_refine_new_atten_ce_checkpoint_epoch426.pt
+[Epoch 427] val_recon = 0.001056, val_class = 4.473133
+Saved feature_refine_new_atten_ce_checkpoint_epoch427.pt
+[Epoch 428] val_recon = 0.001043, val_class = 4.470641
+Saved feature_refine_new_atten_ce_checkpoint_epoch428.pt
+[Epoch 429] val_recon = 0.001043, val_class = 4.472246
+Saved feature_refine_new_atten_ce_checkpoint_epoch429.pt
+[Epoch 430] val_recon = 0.001030, val_class = 4.468162
+Saved feature_refine_new_atten_ce_checkpoint_epoch430.pt
+[Epoch 431] val_recon = 0.001044, val_class = 4.468653
+Saved feature_refine_new_atten_ce_checkpoint_epoch431.pt
+[Epoch 432] val_recon = 0.001070, val_class = 4.468707
+Saved feature_refine_new_atten_ce_checkpoint_epoch432.pt
+[Epoch 433] val_recon = 0.001047, val_class = 4.471873
+Saved feature_refine_new_atten_ce_checkpoint_epoch433.pt
+[Epoch 434] val_recon = 0.001065, val_class = 4.475395
+Saved feature_refine_new_atten_ce_checkpoint_epoch434.pt
+[Epoch 435] val_recon = 0.001049, val_class = 4.471935
+Saved feature_refine_new_atten_ce_checkpoint_epoch435.pt
+[Epoch 436] val_recon = 0.001025, val_class = 4.470616
+Saved feature_refine_new_atten_ce_checkpoint_epoch436.pt
+[Epoch 437] val_recon = 0.001028, val_class = 4.470701
+Saved feature_refine_new_atten_ce_checkpoint_epoch437.pt
+[Epoch 438] val_recon = 0.001050, val_class = 4.472390
+Saved feature_refine_new_atten_ce_checkpoint_epoch438.pt
+[Epoch 439] val_recon = 0.001036, val_class = 4.474282
+Saved feature_refine_new_atten_ce_checkpoint_epoch439.pt
+[Epoch 440] val_recon = 0.001042, val_class = 4.470976
+Saved feature_refine_new_atten_ce_checkpoint_epoch440.pt
+[Epoch 441] val_recon = 0.001043, val_class = 4.470816
+Saved feature_refine_new_atten_ce_checkpoint_epoch441.pt
+[Epoch 442] val_recon = 0.001044, val_class = 4.468966
+Saved feature_refine_new_atten_ce_checkpoint_epoch442.pt
+[Epoch 443] val_recon = 0.001051, val_class = 4.470909
+Saved feature_refine_new_atten_ce_checkpoint_epoch443.pt
+[Epoch 444] val_recon = 0.001056, val_class = 4.469566
+Saved feature_refine_new_atten_ce_checkpoint_epoch444.pt
+[Epoch 445] val_recon = 0.001062, val_class = 4.474452
+Saved feature_refine_new_atten_ce_checkpoint_epoch445.pt
+[Epoch 446] val_recon = 0.001051, val_class = 4.470016
+Saved feature_refine_new_atten_ce_checkpoint_epoch446.pt
+[Epoch 447] val_recon = 0.001056, val_class = 4.472000
+Saved feature_refine_new_atten_ce_checkpoint_epoch447.pt
+[Epoch 448] val_recon = 0.001055, val_class = 4.469404
+Saved feature_refine_new_atten_ce_checkpoint_epoch448.pt
+[Epoch 449] val_recon = 0.001044, val_class = 4.469702
+Saved feature_refine_new_atten_ce_checkpoint_epoch449.pt
+[Epoch 450] val_recon = 0.001053, val_class = 4.470904
+Saved feature_refine_new_atten_ce_checkpoint_epoch450.pt
+[Epoch 451] val_recon = 0.001049, val_class = 4.470452
+Saved feature_refine_new_atten_ce_checkpoint_epoch451.pt
+[Epoch 452] val_recon = 0.001049, val_class = 4.470661
+Saved feature_refine_new_atten_ce_checkpoint_epoch452.pt
+[Epoch 453] val_recon = 0.001032, val_class = 4.471109
+Saved feature_refine_new_atten_ce_checkpoint_epoch453.pt
+[Epoch 454] val_recon = 0.001055, val_class = 4.469212
+Saved feature_refine_new_atten_ce_checkpoint_epoch454.pt
+[Epoch 455] val_recon = 0.001042, val_class = 4.467391
+Saved feature_refine_new_atten_ce_checkpoint_epoch455.pt
+[Epoch 456] val_recon = 0.001044, val_class = 4.471721
+Saved feature_refine_new_atten_ce_checkpoint_epoch456.pt
+[Epoch 457] val_recon = 0.001040, val_class = 4.472770
+Saved feature_refine_new_atten_ce_checkpoint_epoch457.pt
+[Epoch 458] val_recon = 0.001052, val_class = 4.470568
+Saved feature_refine_new_atten_ce_checkpoint_epoch458.pt
+[Epoch 459] val_recon = 0.001044, val_class = 4.471264
+Saved feature_refine_new_atten_ce_checkpoint_epoch459.pt
+[Epoch 460] val_recon = 0.001051, val_class = 4.472354
+Saved feature_refine_new_atten_ce_checkpoint_epoch460.pt
+[Epoch 461] val_recon = 0.001048, val_class = 4.470548
+Saved feature_refine_new_atten_ce_checkpoint_epoch461.pt
+[Epoch 462] val_recon = 0.001043, val_class = 4.472478
+Saved feature_refine_new_atten_ce_checkpoint_epoch462.pt
+[Epoch 463] val_recon = 0.001043, val_class = 4.472750
+Saved feature_refine_new_atten_ce_checkpoint_epoch463.pt
+[Epoch 464] val_recon = 0.001061, val_class = 4.474334
+Saved feature_refine_new_atten_ce_checkpoint_epoch464.pt
+[Epoch 465] val_recon = 0.001043, val_class = 4.471419
+Saved feature_refine_new_atten_ce_checkpoint_epoch465.pt
+[Epoch 466] val_recon = 0.001040, val_class = 4.474085
+Saved feature_refine_new_atten_ce_checkpoint_epoch466.pt
+[Epoch 467] val_recon = 0.001042, val_class = 4.469125
+Saved feature_refine_new_atten_ce_checkpoint_epoch467.pt
+[Epoch 468] val_recon = 0.001045, val_class = 4.469079
+Saved feature_refine_new_atten_ce_checkpoint_epoch468.pt
+[Epoch 469] val_recon = 0.001044, val_class = 4.470430
+Saved feature_refine_new_atten_ce_checkpoint_epoch469.pt
+[Epoch 470] val_recon = 0.001044, val_class = 4.471278
+Saved feature_refine_new_atten_ce_checkpoint_epoch470.pt
+[Epoch 471] val_recon = 0.001036, val_class = 4.470291
+Saved feature_refine_new_atten_ce_checkpoint_epoch471.pt
+[Epoch 472] val_recon = 0.001052, val_class = 4.469639
+Saved feature_refine_new_atten_ce_checkpoint_epoch472.pt
+[Epoch 473] val_recon = 0.001059, val_class = 4.470728
+Saved feature_refine_new_atten_ce_checkpoint_epoch473.pt
+[Epoch 474] val_recon = 0.001046, val_class = 4.470507
+Saved feature_refine_new_atten_ce_checkpoint_epoch474.pt
+[Epoch 475] val_recon = 0.001042, val_class = 4.468234
+Saved feature_refine_new_atten_ce_checkpoint_epoch475.pt
+[Epoch 476] val_recon = 0.001044, val_class = 4.470547
+Saved feature_refine_new_atten_ce_checkpoint_epoch476.pt
+[Epoch 477] val_recon = 0.001051, val_class = 4.467812
+Saved feature_refine_new_atten_ce_checkpoint_epoch477.pt
+[Epoch 478] val_recon = 0.001037, val_class = 4.471073
+Saved feature_refine_new_atten_ce_checkpoint_epoch478.pt
+[Epoch 479] val_recon = 0.001037, val_class = 4.472903
+Saved feature_refine_new_atten_ce_checkpoint_epoch479.pt
+[Epoch 480] val_recon = 0.001063, val_class = 4.468849
+Saved feature_refine_new_atten_ce_checkpoint_epoch480.pt
+[Epoch 481] val_recon = 0.001054, val_class = 4.475065
+Saved feature_refine_new_atten_ce_checkpoint_epoch481.pt
+[Epoch 482] val_recon = 0.001055, val_class = 4.469965
+Saved feature_refine_new_atten_ce_checkpoint_epoch482.pt
+[Epoch 483] val_recon = 0.001041, val_class = 4.470571
+Saved feature_refine_new_atten_ce_checkpoint_epoch483.pt
+[Epoch 484] val_recon = 0.001064, val_class = 4.473011
+Saved feature_refine_new_atten_ce_checkpoint_epoch484.pt
+[Epoch 485] val_recon = 0.001044, val_class = 4.469607
+Saved feature_refine_new_atten_ce_checkpoint_epoch485.pt
+[Epoch 486] val_recon = 0.001052, val_class = 4.473713
+Saved feature_refine_new_atten_ce_checkpoint_epoch486.pt
+[Epoch 487] val_recon = 0.001043, val_class = 4.472080
+Saved feature_refine_new_atten_ce_checkpoint_epoch487.pt
+[Epoch 488] val_recon = 0.001057, val_class = 4.474804
+Saved feature_refine_new_atten_ce_checkpoint_epoch488.pt
+[Epoch 489] val_recon = 0.001030, val_class = 4.469303
+Saved feature_refine_new_atten_ce_checkpoint_epoch489.pt
+[Epoch 490] val_recon = 0.001034, val_class = 4.473237
+Saved feature_refine_new_atten_ce_checkpoint_epoch490.pt
+[Epoch 491] val_recon = 0.001038, val_class = 4.470011
+Saved feature_refine_new_atten_ce_checkpoint_epoch491.pt
+[Epoch 492] val_recon = 0.001060, val_class = 4.471079
+Saved feature_refine_new_atten_ce_checkpoint_epoch492.pt
+[Epoch 493] val_recon = 0.001045, val_class = 4.470195
+Saved feature_refine_new_atten_ce_checkpoint_epoch493.pt
+[Epoch 494] val_recon = 0.001066, val_class = 4.472060
+Saved feature_refine_new_atten_ce_checkpoint_epoch494.pt
+[Epoch 495] val_recon = 0.001034, val_class = 4.470202
+Saved feature_refine_new_atten_ce_checkpoint_epoch495.pt
+[Epoch 496] val_recon = 0.001054, val_class = 4.468836
+Saved feature_refine_new_atten_ce_checkpoint_epoch496.pt
+[Epoch 497] val_recon = 0.001043, val_class = 4.470400
+Saved feature_refine_new_atten_ce_checkpoint_epoch497.pt
+[Epoch 498] val_recon = 0.001051, val_class = 4.466020
+Saved feature_refine_new_atten_ce_checkpoint_epoch498.pt
+[Epoch 499] val_recon = 0.001035, val_class = 4.469373
+Saved feature_refine_new_atten_ce_checkpoint_epoch499.pt
+[Epoch 500] val_recon = 0.001035, val_class = 4.468329
+Saved feature_refine_new_atten_ce_checkpoint_epoch500.pt
+[Epoch 501] val_recon = 0.001058, val_class = 4.470420
+Saved feature_refine_new_atten_ce_checkpoint_epoch501.pt
+[Epoch 502] val_recon = 0.001049, val_class = 4.472210
+Saved feature_refine_new_atten_ce_checkpoint_epoch502.pt
+[Epoch 503] val_recon = 0.001049, val_class = 4.470049
+Saved feature_refine_new_atten_ce_checkpoint_epoch503.pt
+[Epoch 504] val_recon = 0.001051, val_class = 4.473303
+Saved feature_refine_new_atten_ce_checkpoint_epoch504.pt
+[Epoch 505] val_recon = 0.001042, val_class = 4.471665
+Saved feature_refine_new_atten_ce_checkpoint_epoch505.pt
+[Epoch 506] val_recon = 0.001063, val_class = 4.470458
+Saved feature_refine_new_atten_ce_checkpoint_epoch506.pt
+[Epoch 507] val_recon = 0.001040, val_class = 4.468104
+Saved feature_refine_new_atten_ce_checkpoint_epoch507.pt
+[Epoch 508] val_recon = 0.001047, val_class = 4.473106
+Saved feature_refine_new_atten_ce_checkpoint_epoch508.pt
+[Epoch 509] val_recon = 0.001050, val_class = 4.469561
+Saved feature_refine_new_atten_ce_checkpoint_epoch509.pt
+[Epoch 510] val_recon = 0.001065, val_class = 4.472849
+Saved feature_refine_new_atten_ce_checkpoint_epoch510.pt
+[Epoch 511] val_recon = 0.001040, val_class = 4.467698
+Saved feature_refine_new_atten_ce_checkpoint_epoch511.pt
+[Epoch 512] val_recon = 0.001066, val_class = 4.470418
+Saved feature_refine_new_atten_ce_checkpoint_epoch512.pt
+[Epoch 513] val_recon = 0.001046, val_class = 4.467585
+Saved feature_refine_new_atten_ce_checkpoint_epoch513.pt
+[Epoch 514] val_recon = 0.001042, val_class = 4.471763
+Saved feature_refine_new_atten_ce_checkpoint_epoch514.pt
+[Epoch 515] val_recon = 0.001044, val_class = 4.469675
+Saved feature_refine_new_atten_ce_checkpoint_epoch515.pt
+[Epoch 516] val_recon = 0.001031, val_class = 4.472590
+Saved feature_refine_new_atten_ce_checkpoint_epoch516.pt
+[Epoch 517] val_recon = 0.001054, val_class = 4.472624
+Saved feature_refine_new_atten_ce_checkpoint_epoch517.pt
+[Epoch 518] val_recon = 0.001064, val_class = 4.470535
+Saved feature_refine_new_atten_ce_checkpoint_epoch518.pt
+[Epoch 519] val_recon = 0.001071, val_class = 4.470476
+Saved feature_refine_new_atten_ce_checkpoint_epoch519.pt
+[Epoch 520] val_recon = 0.001042, val_class = 4.472926
+Saved feature_refine_new_atten_ce_checkpoint_epoch520.pt
+[Epoch 521] val_recon = 0.001073, val_class = 4.474965
+Saved feature_refine_new_atten_ce_checkpoint_epoch521.pt
+[Epoch 522] val_recon = 0.001060, val_class = 4.468600
+Saved feature_refine_new_atten_ce_checkpoint_epoch522.pt
+[Epoch 523] val_recon = 0.001036, val_class = 4.470999
+Saved feature_refine_new_atten_ce_checkpoint_epoch523.pt
+[Epoch 524] val_recon = 0.001046, val_class = 4.470309
+Saved feature_refine_new_atten_ce_checkpoint_epoch524.pt
+[Epoch 525] val_recon = 0.001049, val_class = 4.468325
+Saved feature_refine_new_atten_ce_checkpoint_epoch525.pt
+[Epoch 526] val_recon = 0.001060, val_class = 4.469518
+Saved feature_refine_new_atten_ce_checkpoint_epoch526.pt
+[Epoch 527] val_recon = 0.001047, val_class = 4.470685
+Saved feature_refine_new_atten_ce_checkpoint_epoch527.pt
+[Epoch 528] val_recon = 0.001043, val_class = 4.468689
+Saved feature_refine_new_atten_ce_checkpoint_epoch528.pt
+[Epoch 529] val_recon = 0.001076, val_class = 4.474078
+Saved feature_refine_new_atten_ce_checkpoint_epoch529.pt
+[Epoch 530] val_recon = 0.001050, val_class = 4.467762
+Saved feature_refine_new_atten_ce_checkpoint_epoch530.pt
+[Epoch 531] val_recon = 0.001067, val_class = 4.471494
+Saved feature_refine_new_atten_ce_checkpoint_epoch531.pt
+[Epoch 532] val_recon = 0.001051, val_class = 4.471559
+Saved feature_refine_new_atten_ce_checkpoint_epoch532.pt
+[Epoch 533] val_recon = 0.001017, val_class = 4.467663
+Saved feature_refine_new_atten_ce_checkpoint_epoch533.pt
+[Epoch 534] val_recon = 0.001062, val_class = 4.474341
+Saved feature_refine_new_atten_ce_checkpoint_epoch534.pt
+[Epoch 535] val_recon = 0.001060, val_class = 4.471828
+Saved feature_refine_new_atten_ce_checkpoint_epoch535.pt
+[Epoch 536] val_recon = 0.001044, val_class = 4.468145
+Saved feature_refine_new_atten_ce_checkpoint_epoch536.pt
+[Epoch 537] val_recon = 0.001053, val_class = 4.468871
+Saved feature_refine_new_atten_ce_checkpoint_epoch537.pt
+[Epoch 538] val_recon = 0.001050, val_class = 4.471918
+Saved feature_refine_new_atten_ce_checkpoint_epoch538.pt
+[Epoch 539] val_recon = 0.001035, val_class = 4.467635
+Saved feature_refine_new_atten_ce_checkpoint_epoch539.pt
+[Epoch 540] val_recon = 0.001036, val_class = 4.468518
+Saved feature_refine_new_atten_ce_checkpoint_epoch540.pt
+[Epoch 541] val_recon = 0.001058, val_class = 4.473898
+Saved feature_refine_new_atten_ce_checkpoint_epoch541.pt
+[Epoch 542] val_recon = 0.001065, val_class = 4.467966
+Saved feature_refine_new_atten_ce_checkpoint_epoch542.pt
+[Epoch 543] val_recon = 0.001048, val_class = 4.469796
+Saved feature_refine_new_atten_ce_checkpoint_epoch543.pt
+[Epoch 544] val_recon = 0.001045, val_class = 4.469146
+Saved feature_refine_new_atten_ce_checkpoint_epoch544.pt
+[Epoch 545] val_recon = 0.001044, val_class = 4.468630
+Saved feature_refine_new_atten_ce_checkpoint_epoch545.pt
+[Epoch 546] val_recon = 0.001057, val_class = 4.471735
+Saved feature_refine_new_atten_ce_checkpoint_epoch546.pt
+[Epoch 547] val_recon = 0.001043, val_class = 4.468397
+Saved feature_refine_new_atten_ce_checkpoint_epoch547.pt
+[Epoch 548] val_recon = 0.001075, val_class = 4.471618
+Saved feature_refine_new_atten_ce_checkpoint_epoch548.pt
+[Epoch 549] val_recon = 0.001052, val_class = 4.470127
+Saved feature_refine_new_atten_ce_checkpoint_epoch549.pt
+[Epoch 550] val_recon = 0.001079, val_class = 4.475962
+Saved feature_refine_new_atten_ce_checkpoint_epoch550.pt
+[Epoch 551] val_recon = 0.001050, val_class = 4.470167
+Saved feature_refine_new_atten_ce_checkpoint_epoch551.pt
+[Epoch 552] val_recon = 0.001051, val_class = 4.471333
+Saved feature_refine_new_atten_ce_checkpoint_epoch552.pt
+[Epoch 553] val_recon = 0.001058, val_class = 4.471887
+Saved feature_refine_new_atten_ce_checkpoint_epoch553.pt
+[Epoch 554] val_recon = 0.001022, val_class = 4.472096
+Saved feature_refine_new_atten_ce_checkpoint_epoch554.pt
+[Epoch 555] val_recon = 0.001072, val_class = 4.471805
+Saved feature_refine_new_atten_ce_checkpoint_epoch555.pt
+[Epoch 556] val_recon = 0.001044, val_class = 4.470616
+Saved feature_refine_new_atten_ce_checkpoint_epoch556.pt
+[Epoch 557] val_recon = 0.001050, val_class = 4.472866
+Saved feature_refine_new_atten_ce_checkpoint_epoch557.pt
+[Epoch 558] val_recon = 0.001035, val_class = 4.470284
+Saved feature_refine_new_atten_ce_checkpoint_epoch558.pt
+[Epoch 559] val_recon = 0.001048, val_class = 4.471124
+Saved feature_refine_new_atten_ce_checkpoint_epoch559.pt
+[Epoch 560] val_recon = 0.001034, val_class = 4.468898
+Saved feature_refine_new_atten_ce_checkpoint_epoch560.pt
+[Epoch 561] val_recon = 0.001038, val_class = 4.468524
+Saved feature_refine_new_atten_ce_checkpoint_epoch561.pt
+[Epoch 562] val_recon = 0.001057, val_class = 4.473465
+Saved feature_refine_new_atten_ce_checkpoint_epoch562.pt
+[Epoch 563] val_recon = 0.001087, val_class = 4.473816
+Saved feature_refine_new_atten_ce_checkpoint_epoch563.pt
+[Epoch 564] val_recon = 0.001053, val_class = 4.470391
+Saved feature_refine_new_atten_ce_checkpoint_epoch564.pt
+[Epoch 565] val_recon = 0.001050, val_class = 4.468825
+Saved feature_refine_new_atten_ce_checkpoint_epoch565.pt
+[Epoch 566] val_recon = 0.001040, val_class = 4.469420
+Saved feature_refine_new_atten_ce_checkpoint_epoch566.pt
+[Epoch 567] val_recon = 0.001034, val_class = 4.470869
+Saved feature_refine_new_atten_ce_checkpoint_epoch567.pt
+[Epoch 568] val_recon = 0.001041, val_class = 4.470358
+Saved feature_refine_new_atten_ce_checkpoint_epoch568.pt
+[Epoch 569] val_recon = 0.001041, val_class = 4.468830
+Saved feature_refine_new_atten_ce_checkpoint_epoch569.pt
+[Epoch 570] val_recon = 0.001048, val_class = 4.474126
+Saved feature_refine_new_atten_ce_checkpoint_epoch570.pt
+[Epoch 571] val_recon = 0.001054, val_class = 4.473149
+Saved feature_refine_new_atten_ce_checkpoint_epoch571.pt
+[Epoch 572] val_recon = 0.001074, val_class = 4.475169
+Saved feature_refine_new_atten_ce_checkpoint_epoch572.pt
+[Epoch 573] val_recon = 0.001041, val_class = 4.470708
+Saved feature_refine_new_atten_ce_checkpoint_epoch573.pt
+[Epoch 574] val_recon = 0.001045, val_class = 4.468793
+Saved feature_refine_new_atten_ce_checkpoint_epoch574.pt
+[Epoch 575] val_recon = 0.001045, val_class = 4.469092
+Saved feature_refine_new_atten_ce_checkpoint_epoch575.pt
+[Epoch 576] val_recon = 0.001052, val_class = 4.471587
+Saved feature_refine_new_atten_ce_checkpoint_epoch576.pt
+[Epoch 577] val_recon = 0.001060, val_class = 4.475852
+Saved feature_refine_new_atten_ce_checkpoint_epoch577.pt
+[Epoch 578] val_recon = 0.001051, val_class = 4.471497
+Saved feature_refine_new_atten_ce_checkpoint_epoch578.pt
+[Epoch 579] val_recon = 0.001039, val_class = 4.471242
+Saved feature_refine_new_atten_ce_checkpoint_epoch579.pt
+[Epoch 580] val_recon = 0.001054, val_class = 4.468529
+Saved feature_refine_new_atten_ce_checkpoint_epoch580.pt
+[Epoch 581] val_recon = 0.001050, val_class = 4.471814
+Saved feature_refine_new_atten_ce_checkpoint_epoch581.pt
+[Epoch 582] val_recon = 0.001062, val_class = 4.470620
+Saved feature_refine_new_atten_ce_checkpoint_epoch582.pt
+[Epoch 583] val_recon = 0.001053, val_class = 4.468274
+Saved feature_refine_new_atten_ce_checkpoint_epoch583.pt
+[Epoch 584] val_recon = 0.001067, val_class = 4.471181
+Saved feature_refine_new_atten_ce_checkpoint_epoch584.pt
+[Epoch 585] val_recon = 0.001056, val_class = 4.471786
+Saved feature_refine_new_atten_ce_checkpoint_epoch585.pt
+[Epoch 586] val_recon = 0.001048, val_class = 4.468618
+Saved feature_refine_new_atten_ce_checkpoint_epoch586.pt
+[Epoch 587] val_recon = 0.001064, val_class = 4.475149
+Saved feature_refine_new_atten_ce_checkpoint_epoch587.pt
+[Epoch 588] val_recon = 0.001034, val_class = 4.469948
+Saved feature_refine_new_atten_ce_checkpoint_epoch588.pt
+[Epoch 589] val_recon = 0.001054, val_class = 4.472049
+Saved feature_refine_new_atten_ce_checkpoint_epoch589.pt
+[Epoch 590] val_recon = 0.001056, val_class = 4.470455
+Saved feature_refine_new_atten_ce_checkpoint_epoch590.pt
+[Epoch 591] val_recon = 0.001064, val_class = 4.475412
+Saved feature_refine_new_atten_ce_checkpoint_epoch591.pt
+[Epoch 592] val_recon = 0.001051, val_class = 4.471192
+Saved feature_refine_new_atten_ce_checkpoint_epoch592.pt
+[Epoch 593] val_recon = 0.001039, val_class = 4.469318
+Saved feature_refine_new_atten_ce_checkpoint_epoch593.pt
+[Epoch 594] val_recon = 0.001042, val_class = 4.470960
+Saved feature_refine_new_atten_ce_checkpoint_epoch594.pt
+[Epoch 595] val_recon = 0.001060, val_class = 4.470793
+Saved feature_refine_new_atten_ce_checkpoint_epoch595.pt
+[Epoch 596] val_recon = 0.001047, val_class = 4.470694
+Saved feature_refine_new_atten_ce_checkpoint_epoch596.pt
+[Epoch 597] val_recon = 0.001034, val_class = 4.472259
+Saved feature_refine_new_atten_ce_checkpoint_epoch597.pt
+[Epoch 598] val_recon = 0.001060, val_class = 4.470057
+Saved feature_refine_new_atten_ce_checkpoint_epoch598.pt
+[Epoch 599] val_recon = 0.001056, val_class = 4.471160
+Saved feature_refine_new_atten_ce_checkpoint_epoch599.pt
+[Epoch 600] val_recon = 0.001041, val_class = 4.468489
+Saved feature_refine_new_atten_ce_checkpoint_epoch600.pt
+[Epoch 601] val_recon = 0.001048, val_class = 4.470360
+Saved feature_refine_new_atten_ce_checkpoint_epoch601.pt
+[Epoch 602] val_recon = 0.001030, val_class = 4.466160
+Saved feature_refine_new_atten_ce_checkpoint_epoch602.pt
+[Epoch 603] val_recon = 0.001041, val_class = 4.469321
+Saved feature_refine_new_atten_ce_checkpoint_epoch603.pt
+[Epoch 604] val_recon = 0.001051, val_class = 4.469543
+Saved feature_refine_new_atten_ce_checkpoint_epoch604.pt
+[Epoch 605] val_recon = 0.001040, val_class = 4.470871
+Saved feature_refine_new_atten_ce_checkpoint_epoch605.pt
+[Epoch 606] val_recon = 0.001051, val_class = 4.469852
+Saved feature_refine_new_atten_ce_checkpoint_epoch606.pt
+[Epoch 607] val_recon = 0.001051, val_class = 4.470782
+Saved feature_refine_new_atten_ce_checkpoint_epoch607.pt
+[Epoch 608] val_recon = 0.001042, val_class = 4.471903
+Saved feature_refine_new_atten_ce_checkpoint_epoch608.pt
+[Epoch 609] val_recon = 0.001050, val_class = 4.470906
+Saved feature_refine_new_atten_ce_checkpoint_epoch609.pt
+[Epoch 610] val_recon = 0.001044, val_class = 4.471844
+Saved feature_refine_new_atten_ce_checkpoint_epoch610.pt
+[Epoch 611] val_recon = 0.001035, val_class = 4.467263
+Saved feature_refine_new_atten_ce_checkpoint_epoch611.pt
+[Epoch 612] val_recon = 0.001061, val_class = 4.474509
+Saved feature_refine_new_atten_ce_checkpoint_epoch612.pt
+[Epoch 613] val_recon = 0.001048, val_class = 4.472057
+Saved feature_refine_new_atten_ce_checkpoint_epoch613.pt
+[Epoch 614] val_recon = 0.001042, val_class = 4.472527
+Saved feature_refine_new_atten_ce_checkpoint_epoch614.pt
+[Epoch 615] val_recon = 0.001055, val_class = 4.472113
+Saved feature_refine_new_atten_ce_checkpoint_epoch615.pt
+[Epoch 616] val_recon = 0.001049, val_class = 4.471281
+Saved feature_refine_new_atten_ce_checkpoint_epoch616.pt
+[Epoch 617] val_recon = 0.001051, val_class = 4.470561
+Saved feature_refine_new_atten_ce_checkpoint_epoch617.pt
+[Epoch 618] val_recon = 0.001050, val_class = 4.471122
+Saved feature_refine_new_atten_ce_checkpoint_epoch618.pt
+[Epoch 619] val_recon = 0.001054, val_class = 4.473309
+Saved feature_refine_new_atten_ce_checkpoint_epoch619.pt
+[Epoch 620] val_recon = 0.001056, val_class = 4.471599
+Saved feature_refine_new_atten_ce_checkpoint_epoch620.pt
+[Epoch 621] val_recon = 0.001052, val_class = 4.470578
+Saved feature_refine_new_atten_ce_checkpoint_epoch621.pt
+[Epoch 622] val_recon = 0.001031, val_class = 4.469377
+Saved feature_refine_new_atten_ce_checkpoint_epoch622.pt
+[Epoch 623] val_recon = 0.001061, val_class = 4.473691
+Saved feature_refine_new_atten_ce_checkpoint_epoch623.pt
+[Epoch 624] val_recon = 0.001046, val_class = 4.466733
+Saved feature_refine_new_atten_ce_checkpoint_epoch624.pt
+[Epoch 625] val_recon = 0.001055, val_class = 4.473012
+Saved feature_refine_new_atten_ce_checkpoint_epoch625.pt
+[Epoch 626] val_recon = 0.001056, val_class = 4.471824
+Saved feature_refine_new_atten_ce_checkpoint_epoch626.pt
+[Epoch 627] val_recon = 0.001050, val_class = 4.473001
+Saved feature_refine_new_atten_ce_checkpoint_epoch627.pt
+[Epoch 628] val_recon = 0.001060, val_class = 4.473989
+Saved feature_refine_new_atten_ce_checkpoint_epoch628.pt
+[Epoch 629] val_recon = 0.001053, val_class = 4.470579
+Saved feature_refine_new_atten_ce_checkpoint_epoch629.pt
+[Epoch 630] val_recon = 0.001033, val_class = 4.470794
+Saved feature_refine_new_atten_ce_checkpoint_epoch630.pt
+[Epoch 631] val_recon = 0.001052, val_class = 4.470093
+Saved feature_refine_new_atten_ce_checkpoint_epoch631.pt
+[Epoch 632] val_recon = 0.001056, val_class = 4.476009
+Saved feature_refine_new_atten_ce_checkpoint_epoch632.pt
+[Epoch 633] val_recon = 0.001055, val_class = 4.471907
+Saved feature_refine_new_atten_ce_checkpoint_epoch633.pt
+[Epoch 634] val_recon = 0.001039, val_class = 4.470265
+Saved feature_refine_new_atten_ce_checkpoint_epoch634.pt
+[Epoch 635] val_recon = 0.001094, val_class = 4.476056
+Saved feature_refine_new_atten_ce_checkpoint_epoch635.pt
+[Epoch 636] val_recon = 0.001055, val_class = 4.470896
+Saved feature_refine_new_atten_ce_checkpoint_epoch636.pt
+[Epoch 637] val_recon = 0.001064, val_class = 4.468736
+Saved feature_refine_new_atten_ce_checkpoint_epoch637.pt
+[Epoch 638] val_recon = 0.001054, val_class = 4.471211
+Saved feature_refine_new_atten_ce_checkpoint_epoch638.pt
+[Epoch 639] val_recon = 0.001041, val_class = 4.470662
+Saved feature_refine_new_atten_ce_checkpoint_epoch639.pt
+[Epoch 640] val_recon = 0.001056, val_class = 4.473177
+Saved feature_refine_new_atten_ce_checkpoint_epoch640.pt
+[Epoch 641] val_recon = 0.001055, val_class = 4.471295
+Saved feature_refine_new_atten_ce_checkpoint_epoch641.pt
+[Epoch 642] val_recon = 0.001056, val_class = 4.471031
+Saved feature_refine_new_atten_ce_checkpoint_epoch642.pt
+[Epoch 643] val_recon = 0.001050, val_class = 4.466629
+Saved feature_refine_new_atten_ce_checkpoint_epoch643.pt
+[Epoch 644] val_recon = 0.001040, val_class = 4.470617
+Saved feature_refine_new_atten_ce_checkpoint_epoch644.pt
+[Epoch 645] val_recon = 0.001060, val_class = 4.468012
+Saved feature_refine_new_atten_ce_checkpoint_epoch645.pt
+[Epoch 646] val_recon = 0.001047, val_class = 4.469349
+Saved feature_refine_new_atten_ce_checkpoint_epoch646.pt
+[Epoch 647] val_recon = 0.001035, val_class = 4.469275
+Saved feature_refine_new_atten_ce_checkpoint_epoch647.pt
+[Epoch 648] val_recon = 0.001060, val_class = 4.471250
+Saved feature_refine_new_atten_ce_checkpoint_epoch648.pt
+[Epoch 649] val_recon = 0.001044, val_class = 4.470495
+Saved feature_refine_new_atten_ce_checkpoint_epoch649.pt
+[Epoch 650] val_recon = 0.001034, val_class = 4.471248
+Saved feature_refine_new_atten_ce_checkpoint_epoch650.pt
+[Epoch 651] val_recon = 0.001041, val_class = 4.471819
+Saved feature_refine_new_atten_ce_checkpoint_epoch651.pt
+[Epoch 652] val_recon = 0.001055, val_class = 4.469702
+Saved feature_refine_new_atten_ce_checkpoint_epoch652.pt
+[Epoch 653] val_recon = 0.001052, val_class = 4.471444
+Saved feature_refine_new_atten_ce_checkpoint_epoch653.pt
+[Epoch 654] val_recon = 0.001068, val_class = 4.470166
+Saved feature_refine_new_atten_ce_checkpoint_epoch654.pt
+[Epoch 655] val_recon = 0.001038, val_class = 4.467056
+Saved feature_refine_new_atten_ce_checkpoint_epoch655.pt
+[Epoch 656] val_recon = 0.001039, val_class = 4.467734
+Saved feature_refine_new_atten_ce_checkpoint_epoch656.pt
+[Epoch 657] val_recon = 0.001051, val_class = 4.470328
+Saved feature_refine_new_atten_ce_checkpoint_epoch657.pt
+[Epoch 658] val_recon = 0.001049, val_class = 4.472051
+Saved feature_refine_new_atten_ce_checkpoint_epoch658.pt
+[Epoch 659] val_recon = 0.001049, val_class = 4.469600
+Saved feature_refine_new_atten_ce_checkpoint_epoch659.pt
+[Epoch 660] val_recon = 0.001047, val_class = 4.468603
+Saved feature_refine_new_atten_ce_checkpoint_epoch660.pt
+[Epoch 661] val_recon = 0.001040, val_class = 4.468709
+Saved feature_refine_new_atten_ce_checkpoint_epoch661.pt
+[Epoch 662] val_recon = 0.001042, val_class = 4.470571
+Saved feature_refine_new_atten_ce_checkpoint_epoch662.pt
+[Epoch 663] val_recon = 0.001060, val_class = 4.471747
+Saved feature_refine_new_atten_ce_checkpoint_epoch663.pt
+[Epoch 664] val_recon = 0.001054, val_class = 4.473124
+Saved feature_refine_new_atten_ce_checkpoint_epoch664.pt
+[Epoch 665] val_recon = 0.001055, val_class = 4.469858
+Saved feature_refine_new_atten_ce_checkpoint_epoch665.pt
+[Epoch 666] val_recon = 0.001054, val_class = 4.472343
+Saved feature_refine_new_atten_ce_checkpoint_epoch666.pt
+[Epoch 667] val_recon = 0.001060, val_class = 4.475680
+Saved feature_refine_new_atten_ce_checkpoint_epoch667.pt
+[Epoch 668] val_recon = 0.001053, val_class = 4.469380
+Saved feature_refine_new_atten_ce_checkpoint_epoch668.pt
+[Epoch 669] val_recon = 0.001049, val_class = 4.470428
+Saved feature_refine_new_atten_ce_checkpoint_epoch669.pt
+[Epoch 670] val_recon = 0.001058, val_class = 4.473751
+Saved feature_refine_new_atten_ce_checkpoint_epoch670.pt
+[Epoch 671] val_recon = 0.001053, val_class = 4.468736
+Saved feature_refine_new_atten_ce_checkpoint_epoch671.pt
+[Epoch 672] val_recon = 0.001043, val_class = 4.470915
+Saved feature_refine_new_atten_ce_checkpoint_epoch672.pt
+[Epoch 673] val_recon = 0.001064, val_class = 4.469764
+Saved feature_refine_new_atten_ce_checkpoint_epoch673.pt
+[Epoch 674] val_recon = 0.001058, val_class = 4.473588
+Saved feature_refine_new_atten_ce_checkpoint_epoch674.pt
+[Epoch 675] val_recon = 0.001055, val_class = 4.471777
+Saved feature_refine_new_atten_ce_checkpoint_epoch675.pt
+[Epoch 676] val_recon = 0.001054, val_class = 4.469739
+Saved feature_refine_new_atten_ce_checkpoint_epoch676.pt
+[Epoch 677] val_recon = 0.001044, val_class = 4.469793
+Saved feature_refine_new_atten_ce_checkpoint_epoch677.pt
+[Epoch 678] val_recon = 0.001040, val_class = 4.469283
+Saved feature_refine_new_atten_ce_checkpoint_epoch678.pt
+[Epoch 679] val_recon = 0.001061, val_class = 4.471039
+Saved feature_refine_new_atten_ce_checkpoint_epoch679.pt
+[Epoch 680] val_recon = 0.001048, val_class = 4.467902
+Saved feature_refine_new_atten_ce_checkpoint_epoch680.pt
+[Epoch 681] val_recon = 0.001037, val_class = 4.468011
+Saved feature_refine_new_atten_ce_checkpoint_epoch681.pt
+[Epoch 682] val_recon = 0.001061, val_class = 4.473376
+Saved feature_refine_new_atten_ce_checkpoint_epoch682.pt
+[Epoch 683] val_recon = 0.001064, val_class = 4.474886
+Saved feature_refine_new_atten_ce_checkpoint_epoch683.pt
+[Epoch 684] val_recon = 0.001027, val_class = 4.467968
+Saved feature_refine_new_atten_ce_checkpoint_epoch684.pt
+[Epoch 685] val_recon = 0.001023, val_class = 4.471774
+Saved feature_refine_new_atten_ce_checkpoint_epoch685.pt
+[Epoch 686] val_recon = 0.001037, val_class = 4.472598
+Saved feature_refine_new_atten_ce_checkpoint_epoch686.pt
+[Epoch 687] val_recon = 0.001051, val_class = 4.470466
+Saved feature_refine_new_atten_ce_checkpoint_epoch687.pt
+[Epoch 688] val_recon = 0.001056, val_class = 4.476011
+Saved feature_refine_new_atten_ce_checkpoint_epoch688.pt
+[Epoch 689] val_recon = 0.001044, val_class = 4.470657
+Saved feature_refine_new_atten_ce_checkpoint_epoch689.pt
+[Epoch 690] val_recon = 0.001047, val_class = 4.472231
+Saved feature_refine_new_atten_ce_checkpoint_epoch690.pt
+[Epoch 691] val_recon = 0.001057, val_class = 4.468479
+Saved feature_refine_new_atten_ce_checkpoint_epoch691.pt
+[Epoch 692] val_recon = 0.001059, val_class = 4.468260
+Saved feature_refine_new_atten_ce_checkpoint_epoch692.pt
+[Epoch 693] val_recon = 0.001034, val_class = 4.469604
+Saved feature_refine_new_atten_ce_checkpoint_epoch693.pt
+[Epoch 694] val_recon = 0.001041, val_class = 4.471052
+Saved feature_refine_new_atten_ce_checkpoint_epoch694.pt
+[Epoch 695] val_recon = 0.001041, val_class = 4.467568
+Saved feature_refine_new_atten_ce_checkpoint_epoch695.pt
+[Epoch 696] val_recon = 0.001051, val_class = 4.471349
+Saved feature_refine_new_atten_ce_checkpoint_epoch696.pt
+[Epoch 697] val_recon = 0.001043, val_class = 4.474851
+Saved feature_refine_new_atten_ce_checkpoint_epoch697.pt
+[Epoch 698] val_recon = 0.001064, val_class = 4.469022
+Saved feature_refine_new_atten_ce_checkpoint_epoch698.pt
+[Epoch 699] val_recon = 0.001044, val_class = 4.470930
+Saved feature_refine_new_atten_ce_checkpoint_epoch699.pt
+[Epoch 700] val_recon = 0.001038, val_class = 4.471051
+Saved feature_refine_new_atten_ce_checkpoint_epoch700.pt
+[Epoch 701] val_recon = 0.001056, val_class = 4.472704
+Saved feature_refine_new_atten_ce_checkpoint_epoch701.pt
+[Epoch 702] val_recon = 0.001032, val_class = 4.468049
+Saved feature_refine_new_atten_ce_checkpoint_epoch702.pt
+[Epoch 703] val_recon = 0.001041, val_class = 4.471657
+Saved feature_refine_new_atten_ce_checkpoint_epoch703.pt
+[Epoch 704] val_recon = 0.001040, val_class = 4.467179
+Saved feature_refine_new_atten_ce_checkpoint_epoch704.pt
+[Epoch 705] val_recon = 0.001051, val_class = 4.470706
+Saved feature_refine_new_atten_ce_checkpoint_epoch705.pt
+[Epoch 706] val_recon = 0.001040, val_class = 4.471073
+Saved feature_refine_new_atten_ce_checkpoint_epoch706.pt
+[Epoch 707] val_recon = 0.001068, val_class = 4.474163
+Saved feature_refine_new_atten_ce_checkpoint_epoch707.pt
+[Epoch 708] val_recon = 0.001058, val_class = 4.469314
+Saved feature_refine_new_atten_ce_checkpoint_epoch708.pt
+[Epoch 709] val_recon = 0.001038, val_class = 4.471927
+Saved feature_refine_new_atten_ce_checkpoint_epoch709.pt
+[Epoch 710] val_recon = 0.001046, val_class = 4.472306
+Saved feature_refine_new_atten_ce_checkpoint_epoch710.pt
+[Epoch 711] val_recon = 0.001043, val_class = 4.470438
+Saved feature_refine_new_atten_ce_checkpoint_epoch711.pt
+[Epoch 712] val_recon = 0.001038, val_class = 4.469028
+Saved feature_refine_new_atten_ce_checkpoint_epoch712.pt
+[Epoch 713] val_recon = 0.001054, val_class = 4.470254
+Saved feature_refine_new_atten_ce_checkpoint_epoch713.pt
+[Epoch 714] val_recon = 0.001035, val_class = 4.468038
+Saved feature_refine_new_atten_ce_checkpoint_epoch714.pt
+[Epoch 715] val_recon = 0.001035, val_class = 4.471160
+Saved feature_refine_new_atten_ce_checkpoint_epoch715.pt
+[Epoch 716] val_recon = 0.001054, val_class = 4.471007
+Saved feature_refine_new_atten_ce_checkpoint_epoch716.pt
+[Epoch 717] val_recon = 0.001060, val_class = 4.476360
+Saved feature_refine_new_atten_ce_checkpoint_epoch717.pt
+[Epoch 718] val_recon = 0.001054, val_class = 4.470107
+Saved feature_refine_new_atten_ce_checkpoint_epoch718.pt
+[Epoch 719] val_recon = 0.001045, val_class = 4.469306
+Saved feature_refine_new_atten_ce_checkpoint_epoch719.pt
+[Epoch 720] val_recon = 0.001063, val_class = 4.473026
+Saved feature_refine_new_atten_ce_checkpoint_epoch720.pt
+[Epoch 721] val_recon = 0.001069, val_class = 4.472369
+Saved feature_refine_new_atten_ce_checkpoint_epoch721.pt
+[Epoch 722] val_recon = 0.001041, val_class = 4.473256
+Saved feature_refine_new_atten_ce_checkpoint_epoch722.pt
+[Epoch 723] val_recon = 0.001041, val_class = 4.468109
+Saved feature_refine_new_atten_ce_checkpoint_epoch723.pt
+[Epoch 724] val_recon = 0.001046, val_class = 4.471704
+Saved feature_refine_new_atten_ce_checkpoint_epoch724.pt
+[Epoch 725] val_recon = 0.001028, val_class = 4.470954
+Saved feature_refine_new_atten_ce_checkpoint_epoch725.pt
+[Epoch 726] val_recon = 0.001052, val_class = 4.473384
+Saved feature_refine_new_atten_ce_checkpoint_epoch726.pt
+[Epoch 727] val_recon = 0.001072, val_class = 4.474891
+Saved feature_refine_new_atten_ce_checkpoint_epoch727.pt
+[Epoch 728] val_recon = 0.001060, val_class = 4.474050
+Saved feature_refine_new_atten_ce_checkpoint_epoch728.pt
+[Epoch 729] val_recon = 0.001028, val_class = 4.472770
+Saved feature_refine_new_atten_ce_checkpoint_epoch729.pt
+[Epoch 730] val_recon = 0.001067, val_class = 4.475792
+Saved feature_refine_new_atten_ce_checkpoint_epoch730.pt
+[Epoch 731] val_recon = 0.001055, val_class = 4.471513
+Saved feature_refine_new_atten_ce_checkpoint_epoch731.pt
+[Epoch 732] val_recon = 0.001053, val_class = 4.472438
+Saved feature_refine_new_atten_ce_checkpoint_epoch732.pt
+[Epoch 733] val_recon = 0.001041, val_class = 4.467376
+Saved feature_refine_new_atten_ce_checkpoint_epoch733.pt
+[Epoch 734] val_recon = 0.001061, val_class = 4.474948
+Saved feature_refine_new_atten_ce_checkpoint_epoch734.pt
+[Epoch 735] val_recon = 0.001038, val_class = 4.472892
+Saved feature_refine_new_atten_ce_checkpoint_epoch735.pt
+[Epoch 736] val_recon = 0.001070, val_class = 4.476530
+Saved feature_refine_new_atten_ce_checkpoint_epoch736.pt
+[Epoch 737] val_recon = 0.001064, val_class = 4.468415
+Saved feature_refine_new_atten_ce_checkpoint_epoch737.pt
+[Epoch 738] val_recon = 0.001048, val_class = 4.468003
+Saved feature_refine_new_atten_ce_checkpoint_epoch738.pt
+[Epoch 739] val_recon = 0.001036, val_class = 4.471281
+Saved feature_refine_new_atten_ce_checkpoint_epoch739.pt
+[Epoch 740] val_recon = 0.001036, val_class = 4.470799
+Saved feature_refine_new_atten_ce_checkpoint_epoch740.pt
+[Epoch 741] val_recon = 0.001062, val_class = 4.468745
+Saved feature_refine_new_atten_ce_checkpoint_epoch741.pt
+[Epoch 742] val_recon = 0.001048, val_class = 4.469855
+Saved feature_refine_new_atten_ce_checkpoint_epoch742.pt
+[Epoch 743] val_recon = 0.001055, val_class = 4.472530
+Saved feature_refine_new_atten_ce_checkpoint_epoch743.pt
+[Epoch 744] val_recon = 0.001058, val_class = 4.472345
+Saved feature_refine_new_atten_ce_checkpoint_epoch744.pt
+[Epoch 745] val_recon = 0.001060, val_class = 4.469999
+Saved feature_refine_new_atten_ce_checkpoint_epoch745.pt
+[Epoch 746] val_recon = 0.001049, val_class = 4.475356
+Saved feature_refine_new_atten_ce_checkpoint_epoch746.pt
+[Epoch 747] val_recon = 0.001076, val_class = 4.471403
+Saved feature_refine_new_atten_ce_checkpoint_epoch747.pt
+[Epoch 748] val_recon = 0.001035, val_class = 4.468426
+Saved feature_refine_new_atten_ce_checkpoint_epoch748.pt
+[Epoch 749] val_recon = 0.001049, val_class = 4.469131
+Saved feature_refine_new_atten_ce_checkpoint_epoch749.pt
+[Epoch 750] val_recon = 0.001040, val_class = 4.469058
+Saved feature_refine_new_atten_ce_checkpoint_epoch750.pt
+[Epoch 751] val_recon = 0.001049, val_class = 4.468399
+Saved feature_refine_new_atten_ce_checkpoint_epoch751.pt
+[Epoch 752] val_recon = 0.001043, val_class = 4.470145
+Saved feature_refine_new_atten_ce_checkpoint_epoch752.pt
+[Epoch 753] val_recon = 0.001044, val_class = 4.473278
+Saved feature_refine_new_atten_ce_checkpoint_epoch753.pt
+[Epoch 754] val_recon = 0.001054, val_class = 4.470267
+Saved feature_refine_new_atten_ce_checkpoint_epoch754.pt
+[Epoch 755] val_recon = 0.001072, val_class = 4.470360
+Saved feature_refine_new_atten_ce_checkpoint_epoch755.pt
+[Epoch 756] val_recon = 0.001042, val_class = 4.474638
+Saved feature_refine_new_atten_ce_checkpoint_epoch756.pt
+[Epoch 757] val_recon = 0.001055, val_class = 4.476361
+Saved feature_refine_new_atten_ce_checkpoint_epoch757.pt
+[Epoch 758] val_recon = 0.001069, val_class = 4.474336
+Saved feature_refine_new_atten_ce_checkpoint_epoch758.pt
+[Epoch 759] val_recon = 0.001036, val_class = 4.468702
+Saved feature_refine_new_atten_ce_checkpoint_epoch759.pt
+[Epoch 760] val_recon = 0.001050, val_class = 4.468045
+Saved feature_refine_new_atten_ce_checkpoint_epoch760.pt
+[Epoch 761] val_recon = 0.001054, val_class = 4.471777
+Saved feature_refine_new_atten_ce_checkpoint_epoch761.pt
+[Epoch 762] val_recon = 0.001045, val_class = 4.468853
+Saved feature_refine_new_atten_ce_checkpoint_epoch762.pt
+[Epoch 763] val_recon = 0.001056, val_class = 4.470753
+Saved feature_refine_new_atten_ce_checkpoint_epoch763.pt
+[Epoch 764] val_recon = 0.001075, val_class = 4.472218
+Saved feature_refine_new_atten_ce_checkpoint_epoch764.pt
+[Epoch 765] val_recon = 0.001026, val_class = 4.470927
+Saved feature_refine_new_atten_ce_checkpoint_epoch765.pt
+[Epoch 766] val_recon = 0.001052, val_class = 4.470303
+Saved feature_refine_new_atten_ce_checkpoint_epoch766.pt
+[Epoch 767] val_recon = 0.001042, val_class = 4.471744
+Saved feature_refine_new_atten_ce_checkpoint_epoch767.pt
+[Epoch 768] val_recon = 0.001046, val_class = 4.471076
+Saved feature_refine_new_atten_ce_checkpoint_epoch768.pt
+[Epoch 769] val_recon = 0.001080, val_class = 4.476711
+Saved feature_refine_new_atten_ce_checkpoint_epoch769.pt
+[Epoch 770] val_recon = 0.001053, val_class = 4.469080
+Saved feature_refine_new_atten_ce_checkpoint_epoch770.pt
+[Epoch 771] val_recon = 0.001059, val_class = 4.470280
+Saved feature_refine_new_atten_ce_checkpoint_epoch771.pt
+[Epoch 772] val_recon = 0.001042, val_class = 4.475081
+Saved feature_refine_new_atten_ce_checkpoint_epoch772.pt
+[Epoch 773] val_recon = 0.001072, val_class = 4.475426
+Saved feature_refine_new_atten_ce_checkpoint_epoch773.pt
+[Epoch 774] val_recon = 0.001047, val_class = 4.467992
+Saved feature_refine_new_atten_ce_checkpoint_epoch774.pt
+[Epoch 775] val_recon = 0.001056, val_class = 4.473546
+Saved feature_refine_new_atten_ce_checkpoint_epoch775.pt
+[Epoch 776] val_recon = 0.001046, val_class = 4.470202
+Saved feature_refine_new_atten_ce_checkpoint_epoch776.pt
+[Epoch 777] val_recon = 0.001042, val_class = 4.472682
+Saved feature_refine_new_atten_ce_checkpoint_epoch777.pt
+[Epoch 778] val_recon = 0.001053, val_class = 4.469610
+Saved feature_refine_new_atten_ce_checkpoint_epoch778.pt
+[Epoch 779] val_recon = 0.001044, val_class = 4.474089
+Saved feature_refine_new_atten_ce_checkpoint_epoch779.pt
+[Epoch 780] val_recon = 0.001079, val_class = 4.474323
+Saved feature_refine_new_atten_ce_checkpoint_epoch780.pt
+[Epoch 781] val_recon = 0.001043, val_class = 4.470646
+Saved feature_refine_new_atten_ce_checkpoint_epoch781.pt
+[Epoch 782] val_recon = 0.001052, val_class = 4.470294
+Saved feature_refine_new_atten_ce_checkpoint_epoch782.pt
+[Epoch 783] val_recon = 0.001070, val_class = 4.470292
+Saved feature_refine_new_atten_ce_checkpoint_epoch783.pt
+[Epoch 784] val_recon = 0.001042, val_class = 4.473182
+Saved feature_refine_new_atten_ce_checkpoint_epoch784.pt
+[Epoch 785] val_recon = 0.001045, val_class = 4.467886
+Saved feature_refine_new_atten_ce_checkpoint_epoch785.pt
+[Epoch 786] val_recon = 0.001048, val_class = 4.471691
+Saved feature_refine_new_atten_ce_checkpoint_epoch786.pt
+[Epoch 787] val_recon = 0.001029, val_class = 4.470204
+Saved feature_refine_new_atten_ce_checkpoint_epoch787.pt
+[Epoch 788] val_recon = 0.001069, val_class = 4.475844
+Saved feature_refine_new_atten_ce_checkpoint_epoch788.pt
+[Epoch 789] val_recon = 0.001050, val_class = 4.470930
+Saved feature_refine_new_atten_ce_checkpoint_epoch789.pt
+[Epoch 790] val_recon = 0.001050, val_class = 4.469405
+Saved feature_refine_new_atten_ce_checkpoint_epoch790.pt
+[Epoch 791] val_recon = 0.001048, val_class = 4.470465
+Saved feature_refine_new_atten_ce_checkpoint_epoch791.pt
+[Epoch 792] val_recon = 0.001033, val_class = 4.467790
+Saved feature_refine_new_atten_ce_checkpoint_epoch792.pt
+[Epoch 793] val_recon = 0.001074, val_class = 4.474193
+Saved feature_refine_new_atten_ce_checkpoint_epoch793.pt
+[Epoch 794] val_recon = 0.001047, val_class = 4.473444
+Saved feature_refine_new_atten_ce_checkpoint_epoch794.pt
+[Epoch 795] val_recon = 0.001061, val_class = 4.473288
+Saved feature_refine_new_atten_ce_checkpoint_epoch795.pt
+[Epoch 796] val_recon = 0.001072, val_class = 4.473245
+Saved feature_refine_new_atten_ce_checkpoint_epoch796.pt
+[Epoch 797] val_recon = 0.001068, val_class = 4.468889
+Saved feature_refine_new_atten_ce_checkpoint_epoch797.pt
+[Epoch 798] val_recon = 0.001064, val_class = 4.476904
+Saved feature_refine_new_atten_ce_checkpoint_epoch798.pt
+[Epoch 799] val_recon = 0.001061, val_class = 4.473057
+Saved feature_refine_new_atten_ce_checkpoint_epoch799.pt
+[Epoch 800] val_recon = 0.001059, val_class = 4.470072
+Saved feature_refine_new_atten_ce_checkpoint_epoch800.pt
+[Epoch 801] val_recon = 0.001044, val_class = 4.471321
+Saved feature_refine_new_atten_ce_checkpoint_epoch801.pt
+[Epoch 802] val_recon = 0.001054, val_class = 4.470214
+Saved feature_refine_new_atten_ce_checkpoint_epoch802.pt
+[Epoch 803] val_recon = 0.001042, val_class = 4.470696
+Saved feature_refine_new_atten_ce_checkpoint_epoch803.pt
+[Epoch 804] val_recon = 0.001056, val_class = 4.469155
+Saved feature_refine_new_atten_ce_checkpoint_epoch804.pt
+[Epoch 805] val_recon = 0.001038, val_class = 4.468192
+Saved feature_refine_new_atten_ce_checkpoint_epoch805.pt
+[Epoch 806] val_recon = 0.001040, val_class = 4.471279
+Saved feature_refine_new_atten_ce_checkpoint_epoch806.pt
+[Epoch 807] val_recon = 0.001048, val_class = 4.470114
+Saved feature_refine_new_atten_ce_checkpoint_epoch807.pt
+[Epoch 808] val_recon = 0.001057, val_class = 4.469722
+Saved feature_refine_new_atten_ce_checkpoint_epoch808.pt
+[Epoch 809] val_recon = 0.001041, val_class = 4.471517
+Saved feature_refine_new_atten_ce_checkpoint_epoch809.pt
+[Epoch 810] val_recon = 0.001053, val_class = 4.471078
+Saved feature_refine_new_atten_ce_checkpoint_epoch810.pt
+[Epoch 811] val_recon = 0.001044, val_class = 4.469941
+Saved feature_refine_new_atten_ce_checkpoint_epoch811.pt
+[Epoch 812] val_recon = 0.001054, val_class = 4.472279
+Saved feature_refine_new_atten_ce_checkpoint_epoch812.pt
+[Epoch 813] val_recon = 0.001041, val_class = 4.466868
+Saved feature_refine_new_atten_ce_checkpoint_epoch813.pt
+[Epoch 814] val_recon = 0.001070, val_class = 4.471252
+Saved feature_refine_new_atten_ce_checkpoint_epoch814.pt
+[Epoch 815] val_recon = 0.001048, val_class = 4.473618
+Saved feature_refine_new_atten_ce_checkpoint_epoch815.pt
+[Epoch 816] val_recon = 0.001056, val_class = 4.472027
+Saved feature_refine_new_atten_ce_checkpoint_epoch816.pt
+[Epoch 817] val_recon = 0.001060, val_class = 4.468551
+Saved feature_refine_new_atten_ce_checkpoint_epoch817.pt
+[Epoch 818] val_recon = 0.001047, val_class = 4.473581
+Saved feature_refine_new_atten_ce_checkpoint_epoch818.pt
+[Epoch 819] val_recon = 0.001042, val_class = 4.472537
+Saved feature_refine_new_atten_ce_checkpoint_epoch819.pt
+[Epoch 820] val_recon = 0.001038, val_class = 4.471842
+Saved feature_refine_new_atten_ce_checkpoint_epoch820.pt
+[Epoch 821] val_recon = 0.001061, val_class = 4.477541
+Saved feature_refine_new_atten_ce_checkpoint_epoch821.pt
+[Epoch 822] val_recon = 0.001048, val_class = 4.468866
+Saved feature_refine_new_atten_ce_checkpoint_epoch822.pt
+[Epoch 823] val_recon = 0.001053, val_class = 4.471024
+Saved feature_refine_new_atten_ce_checkpoint_epoch823.pt
+[Epoch 824] val_recon = 0.001052, val_class = 4.470223
+Saved feature_refine_new_atten_ce_checkpoint_epoch824.pt
+[Epoch 825] val_recon = 0.001039, val_class = 4.469872
+Saved feature_refine_new_atten_ce_checkpoint_epoch825.pt
+[Epoch 826] val_recon = 0.001029, val_class = 4.466575
+Saved feature_refine_new_atten_ce_checkpoint_epoch826.pt
+[Epoch 827] val_recon = 0.001041, val_class = 4.469073
+Saved feature_refine_new_atten_ce_checkpoint_epoch827.pt
+[Epoch 828] val_recon = 0.001061, val_class = 4.473816
+Saved feature_refine_new_atten_ce_checkpoint_epoch828.pt
+[Epoch 829] val_recon = 0.001044, val_class = 4.465614
+Saved feature_refine_new_atten_ce_checkpoint_epoch829.pt
+[Epoch 830] val_recon = 0.001042, val_class = 4.468020
+Saved feature_refine_new_atten_ce_checkpoint_epoch830.pt
+[Epoch 831] val_recon = 0.001047, val_class = 4.468433
+Saved feature_refine_new_atten_ce_checkpoint_epoch831.pt
+[Epoch 832] val_recon = 0.001061, val_class = 4.471157
+Saved feature_refine_new_atten_ce_checkpoint_epoch832.pt
+[Epoch 833] val_recon = 0.001058, val_class = 4.470892
+Saved feature_refine_new_atten_ce_checkpoint_epoch833.pt
+[Epoch 834] val_recon = 0.001059, val_class = 4.473219
+Saved feature_refine_new_atten_ce_checkpoint_epoch834.pt
+[Epoch 835] val_recon = 0.001053, val_class = 4.472418
+Saved feature_refine_new_atten_ce_checkpoint_epoch835.pt
+[Epoch 836] val_recon = 0.001035, val_class = 4.468892
+Saved feature_refine_new_atten_ce_checkpoint_epoch836.pt
+[Epoch 837] val_recon = 0.001058, val_class = 4.472349
+Saved feature_refine_new_atten_ce_checkpoint_epoch837.pt
+[Epoch 838] val_recon = 0.001047, val_class = 4.471264
+Saved feature_refine_new_atten_ce_checkpoint_epoch838.pt
+[Epoch 839] val_recon = 0.001054, val_class = 4.470672
+Saved feature_refine_new_atten_ce_checkpoint_epoch839.pt
+[Epoch 840] val_recon = 0.001057, val_class = 4.474381
+Saved feature_refine_new_atten_ce_checkpoint_epoch840.pt
+[Epoch 841] val_recon = 0.001043, val_class = 4.468600
+Saved feature_refine_new_atten_ce_checkpoint_epoch841.pt
+[Epoch 842] val_recon = 0.001064, val_class = 4.473154
+Saved feature_refine_new_atten_ce_checkpoint_epoch842.pt
+[Epoch 843] val_recon = 0.001058, val_class = 4.472565
+Saved feature_refine_new_atten_ce_checkpoint_epoch843.pt
+[Epoch 844] val_recon = 0.001074, val_class = 4.474327
+Saved feature_refine_new_atten_ce_checkpoint_epoch844.pt
+[Epoch 845] val_recon = 0.001057, val_class = 4.476424
+Saved feature_refine_new_atten_ce_checkpoint_epoch845.pt
+[Epoch 846] val_recon = 0.001049, val_class = 4.474435
+Saved feature_refine_new_atten_ce_checkpoint_epoch846.pt
+[Epoch 847] val_recon = 0.001068, val_class = 4.469427
+Saved feature_refine_new_atten_ce_checkpoint_epoch847.pt
+[Epoch 848] val_recon = 0.001055, val_class = 4.473634
+Saved feature_refine_new_atten_ce_checkpoint_epoch848.pt
+[Epoch 849] val_recon = 0.001054, val_class = 4.472950
+Saved feature_refine_new_atten_ce_checkpoint_epoch849.pt
+[Epoch 850] val_recon = 0.001057, val_class = 4.471125
+Saved feature_refine_new_atten_ce_checkpoint_epoch850.pt
+[Epoch 851] val_recon = 0.001045, val_class = 4.470782
+Saved feature_refine_new_atten_ce_checkpoint_epoch851.pt
+[Epoch 852] val_recon = 0.001037, val_class = 4.471169
+Saved feature_refine_new_atten_ce_checkpoint_epoch852.pt
+[Epoch 853] val_recon = 0.001026, val_class = 4.468070
+Saved feature_refine_new_atten_ce_checkpoint_epoch853.pt
+[Epoch 854] val_recon = 0.001050, val_class = 4.471155
+Saved feature_refine_new_atten_ce_checkpoint_epoch854.pt
+[Epoch 855] val_recon = 0.001048, val_class = 4.471341
+Saved feature_refine_new_atten_ce_checkpoint_epoch855.pt
+[Epoch 856] val_recon = 0.001047, val_class = 4.469551
+Saved feature_refine_new_atten_ce_checkpoint_epoch856.pt
+[Epoch 857] val_recon = 0.001078, val_class = 4.473941
+Saved feature_refine_new_atten_ce_checkpoint_epoch857.pt
+[Epoch 858] val_recon = 0.001047, val_class = 4.468156
+Saved feature_refine_new_atten_ce_checkpoint_epoch858.pt
+[Epoch 859] val_recon = 0.001040, val_class = 4.471950
+Saved feature_refine_new_atten_ce_checkpoint_epoch859.pt
+[Epoch 860] val_recon = 0.001040, val_class = 4.471667
+Saved feature_refine_new_atten_ce_checkpoint_epoch860.pt
+[Epoch 861] val_recon = 0.001053, val_class = 4.475002
+Saved feature_refine_new_atten_ce_checkpoint_epoch861.pt
+[Epoch 862] val_recon = 0.001038, val_class = 4.472255
+Saved feature_refine_new_atten_ce_checkpoint_epoch862.pt
+[Epoch 863] val_recon = 0.001052, val_class = 4.473171
+Saved feature_refine_new_atten_ce_checkpoint_epoch863.pt
+[Epoch 864] val_recon = 0.001038, val_class = 4.470995
+Saved feature_refine_new_atten_ce_checkpoint_epoch864.pt
+[Epoch 865] val_recon = 0.001033, val_class = 4.470243
+Saved feature_refine_new_atten_ce_checkpoint_epoch865.pt
+[Epoch 866] val_recon = 0.001045, val_class = 4.473354
+Saved feature_refine_new_atten_ce_checkpoint_epoch866.pt
+[Epoch 867] val_recon = 0.001056, val_class = 4.468275
+Saved feature_refine_new_atten_ce_checkpoint_epoch867.pt
+[Epoch 868] val_recon = 0.001032, val_class = 4.468058
+Saved feature_refine_new_atten_ce_checkpoint_epoch868.pt
+[Epoch 869] val_recon = 0.001051, val_class = 4.470224
+Saved feature_refine_new_atten_ce_checkpoint_epoch869.pt
+[Epoch 870] val_recon = 0.001041, val_class = 4.470539
+Saved feature_refine_new_atten_ce_checkpoint_epoch870.pt
+[Epoch 871] val_recon = 0.001047, val_class = 4.469956
+Saved feature_refine_new_atten_ce_checkpoint_epoch871.pt
+[Epoch 872] val_recon = 0.001050, val_class = 4.470898
+Saved feature_refine_new_atten_ce_checkpoint_epoch872.pt
+[Epoch 873] val_recon = 0.001044, val_class = 4.471033
+Saved feature_refine_new_atten_ce_checkpoint_epoch873.pt
+[Epoch 874] val_recon = 0.001065, val_class = 4.472104
+Saved feature_refine_new_atten_ce_checkpoint_epoch874.pt
+[Epoch 875] val_recon = 0.001035, val_class = 4.469444
+Saved feature_refine_new_atten_ce_checkpoint_epoch875.pt
+[Epoch 876] val_recon = 0.001027, val_class = 4.467834
+Saved feature_refine_new_atten_ce_checkpoint_epoch876.pt
+[Epoch 877] val_recon = 0.001054, val_class = 4.473035
+Saved feature_refine_new_atten_ce_checkpoint_epoch877.pt
+[Epoch 878] val_recon = 0.001058, val_class = 4.472844
+Saved feature_refine_new_atten_ce_checkpoint_epoch878.pt
+[Epoch 879] val_recon = 0.001048, val_class = 4.468495
+Saved feature_refine_new_atten_ce_checkpoint_epoch879.pt
+[Epoch 880] val_recon = 0.001049, val_class = 4.474069
+Saved feature_refine_new_atten_ce_checkpoint_epoch880.pt
+[Epoch 881] val_recon = 0.001049, val_class = 4.467966
+Saved feature_refine_new_atten_ce_checkpoint_epoch881.pt
+[Epoch 882] val_recon = 0.001053, val_class = 4.469120
+Saved feature_refine_new_atten_ce_checkpoint_epoch882.pt
+[Epoch 883] val_recon = 0.001061, val_class = 4.473607
+Saved feature_refine_new_atten_ce_checkpoint_epoch883.pt
+[Epoch 884] val_recon = 0.001059, val_class = 4.470858
+Saved feature_refine_new_atten_ce_checkpoint_epoch884.pt
+[Epoch 885] val_recon = 0.001050, val_class = 4.470707
+Saved feature_refine_new_atten_ce_checkpoint_epoch885.pt
+[Epoch 886] val_recon = 0.001048, val_class = 4.471365
+Saved feature_refine_new_atten_ce_checkpoint_epoch886.pt
+[Epoch 887] val_recon = 0.001051, val_class = 4.468739
+Saved feature_refine_new_atten_ce_checkpoint_epoch887.pt
+[Epoch 888] val_recon = 0.001040, val_class = 4.472924
+Saved feature_refine_new_atten_ce_checkpoint_epoch888.pt
+[Epoch 889] val_recon = 0.001050, val_class = 4.471089
+Saved feature_refine_new_atten_ce_checkpoint_epoch889.pt
+[Epoch 890] val_recon = 0.001051, val_class = 4.471123
+Saved feature_refine_new_atten_ce_checkpoint_epoch890.pt
+[Epoch 891] val_recon = 0.001041, val_class = 4.471036
+Saved feature_refine_new_atten_ce_checkpoint_epoch891.pt
+[Epoch 892] val_recon = 0.001067, val_class = 4.471733
+Saved feature_refine_new_atten_ce_checkpoint_epoch892.pt
+[Epoch 893] val_recon = 0.001036, val_class = 4.474193
+Saved feature_refine_new_atten_ce_checkpoint_epoch893.pt
+[Epoch 894] val_recon = 0.001052, val_class = 4.472610
+Saved feature_refine_new_atten_ce_checkpoint_epoch894.pt
+[Epoch 895] val_recon = 0.001027, val_class = 4.466923
+Saved feature_refine_new_atten_ce_checkpoint_epoch895.pt
+[Epoch 896] val_recon = 0.001042, val_class = 4.467478
+Saved feature_refine_new_atten_ce_checkpoint_epoch896.pt
+[Epoch 897] val_recon = 0.001052, val_class = 4.468097
+Saved feature_refine_new_atten_ce_checkpoint_epoch897.pt
+[Epoch 898] val_recon = 0.001063, val_class = 4.469631
+Saved feature_refine_new_atten_ce_checkpoint_epoch898.pt
+[Epoch 899] val_recon = 0.001065, val_class = 4.471643
+Saved feature_refine_new_atten_ce_checkpoint_epoch899.pt
+[Epoch 900] val_recon = 0.001037, val_class = 4.471755
+Saved feature_refine_new_atten_ce_checkpoint_epoch900.pt
+[Epoch 901] val_recon = 0.001077, val_class = 4.473879
+Saved feature_refine_new_atten_ce_checkpoint_epoch901.pt
+[Epoch 902] val_recon = 0.001059, val_class = 4.473252
+Saved feature_refine_new_atten_ce_checkpoint_epoch902.pt
+[Epoch 903] val_recon = 0.001053, val_class = 4.472414
+Saved feature_refine_new_atten_ce_checkpoint_epoch903.pt
+[Epoch 904] val_recon = 0.001031, val_class = 4.466731
+Saved feature_refine_new_atten_ce_checkpoint_epoch904.pt
+[Epoch 905] val_recon = 0.001056, val_class = 4.472603
+Saved feature_refine_new_atten_ce_checkpoint_epoch905.pt
+[Epoch 906] val_recon = 0.001042, val_class = 4.470237
+Saved feature_refine_new_atten_ce_checkpoint_epoch906.pt
+[Epoch 907] val_recon = 0.001035, val_class = 4.470688
+Saved feature_refine_new_atten_ce_checkpoint_epoch907.pt
+[Epoch 908] val_recon = 0.001060, val_class = 4.468415
+Saved feature_refine_new_atten_ce_checkpoint_epoch908.pt
+[Epoch 909] val_recon = 0.001062, val_class = 4.472906
+Saved feature_refine_new_atten_ce_checkpoint_epoch909.pt
+[Epoch 910] val_recon = 0.001045, val_class = 4.473249
+Saved feature_refine_new_atten_ce_checkpoint_epoch910.pt
+[Epoch 911] val_recon = 0.001055, val_class = 4.472128
+Saved feature_refine_new_atten_ce_checkpoint_epoch911.pt
+[Epoch 912] val_recon = 0.001044, val_class = 4.469234
+Saved feature_refine_new_atten_ce_checkpoint_epoch912.pt
+[Epoch 913] val_recon = 0.001044, val_class = 4.469079
+Saved feature_refine_new_atten_ce_checkpoint_epoch913.pt
+[Epoch 914] val_recon = 0.001040, val_class = 4.470133
+Saved feature_refine_new_atten_ce_checkpoint_epoch914.pt
+[Epoch 915] val_recon = 0.001053, val_class = 4.470009
+Saved feature_refine_new_atten_ce_checkpoint_epoch915.pt
+[Epoch 916] val_recon = 0.001057, val_class = 4.471308
+Saved feature_refine_new_atten_ce_checkpoint_epoch916.pt
+[Epoch 917] val_recon = 0.001049, val_class = 4.471970
+Saved feature_refine_new_atten_ce_checkpoint_epoch917.pt
+[Epoch 918] val_recon = 0.001055, val_class = 4.466332
+Saved feature_refine_new_atten_ce_checkpoint_epoch918.pt
+[Epoch 919] val_recon = 0.001046, val_class = 4.472153
+Saved feature_refine_new_atten_ce_checkpoint_epoch919.pt
+[Epoch 920] val_recon = 0.001032, val_class = 4.470759
+Saved feature_refine_new_atten_ce_checkpoint_epoch920.pt
+[Epoch 921] val_recon = 0.001053, val_class = 4.471315
+Saved feature_refine_new_atten_ce_checkpoint_epoch921.pt
+[Epoch 922] val_recon = 0.001049, val_class = 4.469810
+Saved feature_refine_new_atten_ce_checkpoint_epoch922.pt
+[Epoch 923] val_recon = 0.001050, val_class = 4.472373
+Saved feature_refine_new_atten_ce_checkpoint_epoch923.pt
+[Epoch 924] val_recon = 0.001052, val_class = 4.466823
+Saved feature_refine_new_atten_ce_checkpoint_epoch924.pt
+[Epoch 925] val_recon = 0.001042, val_class = 4.470402
+Saved feature_refine_new_atten_ce_checkpoint_epoch925.pt
+[Epoch 926] val_recon = 0.001040, val_class = 4.473449
+Saved feature_refine_new_atten_ce_checkpoint_epoch926.pt
+[Epoch 927] val_recon = 0.001042, val_class = 4.469959
+Saved feature_refine_new_atten_ce_checkpoint_epoch927.pt
+[Epoch 928] val_recon = 0.001064, val_class = 4.470094
+Saved feature_refine_new_atten_ce_checkpoint_epoch928.pt
+[Epoch 929] val_recon = 0.001073, val_class = 4.473660
+Saved feature_refine_new_atten_ce_checkpoint_epoch929.pt
+[Epoch 930] val_recon = 0.001040, val_class = 4.471901
+Saved feature_refine_new_atten_ce_checkpoint_epoch930.pt
+[Epoch 931] val_recon = 0.001058, val_class = 4.467648
+Saved feature_refine_new_atten_ce_checkpoint_epoch931.pt
+[Epoch 932] val_recon = 0.001045, val_class = 4.473491
+Saved feature_refine_new_atten_ce_checkpoint_epoch932.pt
+[Epoch 933] val_recon = 0.001056, val_class = 4.469557
+Saved feature_refine_new_atten_ce_checkpoint_epoch933.pt
+[Epoch 934] val_recon = 0.001039, val_class = 4.467479
+Saved feature_refine_new_atten_ce_checkpoint_epoch934.pt
+[Epoch 935] val_recon = 0.001051, val_class = 4.471377
+Saved feature_refine_new_atten_ce_checkpoint_epoch935.pt
+[Epoch 936] val_recon = 0.001047, val_class = 4.470420
+Saved feature_refine_new_atten_ce_checkpoint_epoch936.pt
+[Epoch 937] val_recon = 0.001054, val_class = 4.469599
+Saved feature_refine_new_atten_ce_checkpoint_epoch937.pt
+[Epoch 938] val_recon = 0.001069, val_class = 4.471643
+Saved feature_refine_new_atten_ce_checkpoint_epoch938.pt
+[Epoch 939] val_recon = 0.001037, val_class = 4.467725
+Saved feature_refine_new_atten_ce_checkpoint_epoch939.pt
+[Epoch 940] val_recon = 0.001061, val_class = 4.469248
+Saved feature_refine_new_atten_ce_checkpoint_epoch940.pt
+[Epoch 941] val_recon = 0.001047, val_class = 4.471289
+Saved feature_refine_new_atten_ce_checkpoint_epoch941.pt
+[Epoch 942] val_recon = 0.001068, val_class = 4.469344
+Saved feature_refine_new_atten_ce_checkpoint_epoch942.pt
+[Epoch 943] val_recon = 0.001067, val_class = 4.473696
+Saved feature_refine_new_atten_ce_checkpoint_epoch943.pt
+[Epoch 944] val_recon = 0.001053, val_class = 4.473035
+Saved feature_refine_new_atten_ce_checkpoint_epoch944.pt
+[Epoch 945] val_recon = 0.001035, val_class = 4.472459
+Saved feature_refine_new_atten_ce_checkpoint_epoch945.pt
+[Epoch 946] val_recon = 0.001054, val_class = 4.472013
+Saved feature_refine_new_atten_ce_checkpoint_epoch946.pt
+[Epoch 947] val_recon = 0.001038, val_class = 4.470637
+Saved feature_refine_new_atten_ce_checkpoint_epoch947.pt
+[Epoch 948] val_recon = 0.001046, val_class = 4.468281
+Saved feature_refine_new_atten_ce_checkpoint_epoch948.pt
+[Epoch 949] val_recon = 0.001038, val_class = 4.470709
+Saved feature_refine_new_atten_ce_checkpoint_epoch949.pt
+[Epoch 950] val_recon = 0.001038, val_class = 4.469659
+Saved feature_refine_new_atten_ce_checkpoint_epoch950.pt
+[Epoch 951] val_recon = 0.001049, val_class = 4.469967
+Saved feature_refine_new_atten_ce_checkpoint_epoch951.pt
+[Epoch 952] val_recon = 0.001039, val_class = 4.466981
+Saved feature_refine_new_atten_ce_checkpoint_epoch952.pt
+[Epoch 953] val_recon = 0.001032, val_class = 4.468569
+Saved feature_refine_new_atten_ce_checkpoint_epoch953.pt
+[Epoch 954] val_recon = 0.001046, val_class = 4.467809
+Saved feature_refine_new_atten_ce_checkpoint_epoch954.pt
+[Epoch 955] val_recon = 0.001048, val_class = 4.471648
+Saved feature_refine_new_atten_ce_checkpoint_epoch955.pt
+[Epoch 956] val_recon = 0.001059, val_class = 4.470901
+Saved feature_refine_new_atten_ce_checkpoint_epoch956.pt
+[Epoch 957] val_recon = 0.001065, val_class = 4.470797
+Saved feature_refine_new_atten_ce_checkpoint_epoch957.pt
+[Epoch 958] val_recon = 0.001046, val_class = 4.469226
+Saved feature_refine_new_atten_ce_checkpoint_epoch958.pt
+[Epoch 959] val_recon = 0.001050, val_class = 4.472241
+Saved feature_refine_new_atten_ce_checkpoint_epoch959.pt
+[Epoch 960] val_recon = 0.001043, val_class = 4.469804
+Saved feature_refine_new_atten_ce_checkpoint_epoch960.pt
+[Epoch 961] val_recon = 0.001057, val_class = 4.470716
+Saved feature_refine_new_atten_ce_checkpoint_epoch961.pt
+[Epoch 962] val_recon = 0.001050, val_class = 4.472363
+Saved feature_refine_new_atten_ce_checkpoint_epoch962.pt
+[Epoch 963] val_recon = 0.001056, val_class = 4.472987
+Saved feature_refine_new_atten_ce_checkpoint_epoch963.pt
+[Epoch 964] val_recon = 0.001060, val_class = 4.469644
+Saved feature_refine_new_atten_ce_checkpoint_epoch964.pt
+[Epoch 965] val_recon = 0.001037, val_class = 4.471487
+Saved feature_refine_new_atten_ce_checkpoint_epoch965.pt
+[Epoch 966] val_recon = 0.001061, val_class = 4.470773
+Saved feature_refine_new_atten_ce_checkpoint_epoch966.pt
+[Epoch 967] val_recon = 0.001051, val_class = 4.472973
+Saved feature_refine_new_atten_ce_checkpoint_epoch967.pt
+[Epoch 968] val_recon = 0.001050, val_class = 4.472002
+Saved feature_refine_new_atten_ce_checkpoint_epoch968.pt
+[Epoch 969] val_recon = 0.001065, val_class = 4.473920
+Saved feature_refine_new_atten_ce_checkpoint_epoch969.pt
+[Epoch 970] val_recon = 0.001043, val_class = 4.470793
+Saved feature_refine_new_atten_ce_checkpoint_epoch970.pt
+[Epoch 971] val_recon = 0.001063, val_class = 4.473094
+Saved feature_refine_new_atten_ce_checkpoint_epoch971.pt
+[Epoch 972] val_recon = 0.001064, val_class = 4.476782
+Saved feature_refine_new_atten_ce_checkpoint_epoch972.pt
+[Epoch 973] val_recon = 0.001044, val_class = 4.471603
+Saved feature_refine_new_atten_ce_checkpoint_epoch973.pt
+[Epoch 974] val_recon = 0.001073, val_class = 4.474611
+Saved feature_refine_new_atten_ce_checkpoint_epoch974.pt
+[Epoch 975] val_recon = 0.001059, val_class = 4.468897
+Saved feature_refine_new_atten_ce_checkpoint_epoch975.pt
+[Epoch 976] val_recon = 0.001045, val_class = 4.470411
+Saved feature_refine_new_atten_ce_checkpoint_epoch976.pt
+[Epoch 977] val_recon = 0.001041, val_class = 4.470469
+Saved feature_refine_new_atten_ce_checkpoint_epoch977.pt
+[Epoch 978] val_recon = 0.001044, val_class = 4.471008
+Saved feature_refine_new_atten_ce_checkpoint_epoch978.pt
+[Epoch 979] val_recon = 0.001049, val_class = 4.469070
+Saved feature_refine_new_atten_ce_checkpoint_epoch979.pt
+[Epoch 980] val_recon = 0.001058, val_class = 4.472374
+Saved feature_refine_new_atten_ce_checkpoint_epoch980.pt
+[Epoch 981] val_recon = 0.001037, val_class = 4.472825
+Saved feature_refine_new_atten_ce_checkpoint_epoch981.pt
+[Epoch 982] val_recon = 0.001075, val_class = 4.469375
+Saved feature_refine_new_atten_ce_checkpoint_epoch982.pt
+[Epoch 983] val_recon = 0.001063, val_class = 4.470680
+Saved feature_refine_new_atten_ce_checkpoint_epoch983.pt
+[Epoch 984] val_recon = 0.001042, val_class = 4.466873
+Saved feature_refine_new_atten_ce_checkpoint_epoch984.pt
+[Epoch 985] val_recon = 0.001049, val_class = 4.468981
+Saved feature_refine_new_atten_ce_checkpoint_epoch985.pt
+[Epoch 986] val_recon = 0.001050, val_class = 4.473507
+Saved feature_refine_new_atten_ce_checkpoint_epoch986.pt
+[Epoch 987] val_recon = 0.001059, val_class = 4.474744
+Saved feature_refine_new_atten_ce_checkpoint_epoch987.pt
+[Epoch 988] val_recon = 0.001031, val_class = 4.469567
+Saved feature_refine_new_atten_ce_checkpoint_epoch988.pt
+[Epoch 989] val_recon = 0.001035, val_class = 4.469651
+Saved feature_refine_new_atten_ce_checkpoint_epoch989.pt
+[Epoch 990] val_recon = 0.001048, val_class = 4.467502
+Saved feature_refine_new_atten_ce_checkpoint_epoch990.pt
+[Epoch 991] val_recon = 0.001034, val_class = 4.469755
+Saved feature_refine_new_atten_ce_checkpoint_epoch991.pt
+[Epoch 992] val_recon = 0.001040, val_class = 4.470640
+Saved feature_refine_new_atten_ce_checkpoint_epoch992.pt
+[Epoch 993] val_recon = 0.001043, val_class = 4.470024
+Saved feature_refine_new_atten_ce_checkpoint_epoch993.pt
+[Epoch 994] val_recon = 0.001073, val_class = 4.473652
+Saved feature_refine_new_atten_ce_checkpoint_epoch994.pt
+[Epoch 995] val_recon = 0.001058, val_class = 4.468410
+Saved feature_refine_new_atten_ce_checkpoint_epoch995.pt
+[Epoch 996] val_recon = 0.001074, val_class = 4.472915
+Saved feature_refine_new_atten_ce_checkpoint_epoch996.pt
+[Epoch 997] val_recon = 0.001034, val_class = 4.471148
+Saved feature_refine_new_atten_ce_checkpoint_epoch997.pt
+[Epoch 998] val_recon = 0.001062, val_class = 4.473161
+Saved feature_refine_new_atten_ce_checkpoint_epoch998.pt
+[Epoch 999] val_recon = 0.001050, val_class = 4.470166
+Saved feature_refine_new_atten_ce_checkpoint_epoch999.pt
+[Epoch 1000] val_recon = 0.001031, val_class = 4.468330
+Saved feature_refine_new_atten_ce_checkpoint_epoch1000.pt
+=== Joint AE + CE training finished ===

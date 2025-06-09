@@ -1,0 +1,556 @@
+[Epoch 1] lr=1.00e-03  val_recon=0.029200  val_cls=5.055701  val_center=3599.835451  val_perc=0.006185
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch1.pt
+[Epoch 2] lr=9.98e-04  val_recon=0.021200  val_cls=4.955305  val_center=3131.084377  val_perc=0.005857
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch2.pt
+[Epoch 3] lr=9.96e-04  val_recon=0.011573  val_cls=4.935782  val_center=2722.739033  val_perc=0.003438
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch3.pt
+[Epoch 4] lr=9.93e-04  val_recon=0.025692  val_cls=4.910595  val_center=2369.140864  val_perc=0.003682
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch4.pt
+[Epoch 5] lr=9.89e-04  val_recon=0.064425  val_cls=4.986496  val_center=2066.864114  val_perc=0.007532
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch5.pt
+[Epoch 6] lr=9.84e-04  val_recon=0.008852  val_cls=4.905182  val_center=1796.190575  val_perc=0.002248
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch6.pt
+[Epoch 7] lr=9.79e-04  val_recon=0.022963  val_cls=4.926059  val_center=1569.061861  val_perc=0.003730
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch7.pt
+[Epoch 8] lr=9.72e-04  val_recon=0.024026  val_cls=4.885756  val_center=1367.949329  val_perc=0.004528
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch8.pt
+[Epoch 9] lr=9.65e-04  val_recon=0.051664  val_cls=4.840607  val_center=1193.664227  val_perc=0.004939
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch9.pt
+[Epoch 10] lr=9.57e-04  val_recon=0.011265  val_cls=4.852429  val_center=1042.193562  val_perc=0.003770
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch10.pt
+[Epoch 11] lr=9.48e-04  val_recon=0.008188  val_cls=4.853195  val_center=910.983958  val_perc=0.001652
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch11.pt
+[Epoch 12] lr=9.38e-04  val_recon=0.012027  val_cls=4.844733  val_center=797.009300  val_perc=0.003137
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch12.pt
+[Epoch 13] lr=9.28e-04  val_recon=0.062282  val_cls=4.887402  val_center=699.813903  val_perc=0.006892
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch13.pt
+[Epoch 14] lr=9.16e-04  val_recon=0.008943  val_cls=4.826268  val_center=611.123047  val_perc=0.001943
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch14.pt
+[Epoch 15] lr=9.05e-04  val_recon=0.007295  val_cls=4.799313  val_center=535.676335  val_perc=0.001406
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch15.pt
+[Epoch 16] lr=8.92e-04  val_recon=0.007029  val_cls=4.809316  val_center=469.901133  val_perc=0.001736
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch16.pt
+[Epoch 17] lr=8.79e-04  val_recon=0.004996  val_cls=4.778242  val_center=412.842779  val_perc=0.001465
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch17.pt
+[Epoch 18] lr=8.64e-04  val_recon=0.004781  val_cls=4.760098  val_center=362.491819  val_perc=0.001039
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch18.pt
+[Epoch 19] lr=8.50e-04  val_recon=0.036076  val_cls=4.760760  val_center=318.930997  val_perc=0.005813
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch19.pt
+[Epoch 20] lr=8.35e-04  val_recon=0.009947  val_cls=4.749284  val_center=280.640029  val_perc=0.001787
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch20.pt
+[Epoch 21] lr=8.19e-04  val_recon=0.070643  val_cls=4.731497  val_center=248.194010  val_perc=0.010520
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch21.pt
+[Epoch 22] lr=8.02e-04  val_recon=0.010625  val_cls=4.726966  val_center=218.863691  val_perc=0.001895
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch22.pt
+[Epoch 23] lr=7.85e-04  val_recon=0.013590  val_cls=4.753019  val_center=192.687467  val_perc=0.003621
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch23.pt
+[Epoch 24] lr=7.68e-04  val_recon=0.010098  val_cls=4.776897  val_center=170.557543  val_perc=0.002137
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch24.pt
+[Epoch 25] lr=7.50e-04  val_recon=0.004844  val_cls=4.726363  val_center=151.066695  val_perc=0.001360
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch25.pt
+[Epoch 26] lr=7.32e-04  val_recon=0.007703  val_cls=4.691672  val_center=133.938913  val_perc=0.001594
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch26.pt
+[Epoch 27] lr=7.13e-04  val_recon=0.004076  val_cls=4.670910  val_center=118.972823  val_perc=0.001370
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch27.pt
+[Epoch 28] lr=6.94e-04  val_recon=0.007757  val_cls=4.739568  val_center=105.958901  val_perc=0.001656
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch28.pt
+[Epoch 29] lr=6.74e-04  val_recon=0.009439  val_cls=4.671712  val_center=94.511441  val_perc=0.001961
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch29.pt
+[Epoch 30] lr=6.55e-04  val_recon=0.005180  val_cls=4.658844  val_center=84.417289  val_perc=0.001123
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch30.pt
+[Epoch 31] lr=6.34e-04  val_recon=0.010904  val_cls=4.867928  val_center=75.681834  val_perc=0.002617
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch31.pt
+[Epoch 32] lr=6.14e-04  val_recon=0.004668  val_cls=4.668881  val_center=67.874824  val_perc=0.001594
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch32.pt
+[Epoch 33] lr=5.94e-04  val_recon=0.004962  val_cls=4.648028  val_center=61.082797  val_perc=0.001242
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch33.pt
+[Epoch 34] lr=5.73e-04  val_recon=0.006199  val_cls=4.629195  val_center=54.886505  val_perc=0.001941
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch34.pt
+[Epoch 35] lr=5.52e-04  val_recon=0.007723  val_cls=4.635559  val_center=49.702562  val_perc=0.001513
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch35.pt
+[Epoch 36] lr=5.31e-04  val_recon=0.012095  val_cls=4.596566  val_center=44.906974  val_perc=0.002913
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch36.pt
+[Epoch 37] lr=5.11e-04  val_recon=0.008155  val_cls=4.610850  val_center=40.740243  val_perc=0.002425
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch37.pt
+[Epoch 38] lr=4.90e-04  val_recon=0.006911  val_cls=4.659512  val_center=37.173922  val_perc=0.001690
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch38.pt
+[Epoch 39] lr=4.69e-04  val_recon=0.002351  val_cls=4.563780  val_center=33.925928  val_perc=0.000716
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch39.pt
+[Epoch 40] lr=4.48e-04  val_recon=0.006776  val_cls=4.615962  val_center=31.025157  val_perc=0.002188
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch40.pt
+[Epoch 41] lr=4.27e-04  val_recon=0.010312  val_cls=4.571688  val_center=28.454550  val_perc=0.002267
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch41.pt
+[Epoch 42] lr=4.06e-04  val_recon=0.005932  val_cls=4.535736  val_center=26.228923  val_perc=0.001181
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch42.pt
+[Epoch 43] lr=3.86e-04  val_recon=0.001772  val_cls=4.520858  val_center=24.198329  val_perc=0.000527
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch43.pt
+[Epoch 44] lr=3.66e-04  val_recon=0.007799  val_cls=4.579323  val_center=22.468361  val_perc=0.001653
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch44.pt
+[Epoch 45] lr=3.46e-04  val_recon=0.002382  val_cls=4.523474  val_center=20.865067  val_perc=0.000594
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch45.pt
+[Epoch 46] lr=3.26e-04  val_recon=0.002965  val_cls=4.513190  val_center=19.489071  val_perc=0.000925
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch46.pt
+[Epoch 47] lr=3.06e-04  val_recon=0.002776  val_cls=4.571757  val_center=18.215775  val_perc=0.000756
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch47.pt
+[Epoch 48] lr=2.87e-04  val_recon=0.003247  val_cls=4.570426  val_center=17.061394  val_perc=0.000936
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch48.pt
+[Epoch 49] lr=2.68e-04  val_recon=0.011499  val_cls=4.561842  val_center=16.083302  val_perc=0.002702
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch49.pt
+[Epoch 50] lr=2.50e-04  val_recon=0.005483  val_cls=4.553090  val_center=15.210713  val_perc=0.001362
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch50.pt
+[Epoch 51] lr=2.32e-04  val_recon=0.004993  val_cls=4.540240  val_center=14.438238  val_perc=0.001435
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch51.pt
+[Epoch 52] lr=2.15e-04  val_recon=0.002139  val_cls=4.501265  val_center=13.740586  val_perc=0.000550
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch52.pt
+[Epoch 53] lr=1.98e-04  val_recon=0.005979  val_cls=4.496658  val_center=13.064096  val_perc=0.001336
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch53.pt
+[Epoch 54] lr=1.81e-04  val_recon=0.002940  val_cls=4.458982  val_center=12.487056  val_perc=0.000964
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch54.pt
+[Epoch 55] lr=1.66e-04  val_recon=0.005525  val_cls=4.463042  val_center=11.963208  val_perc=0.001525
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch55.pt
+[Epoch 56] lr=1.50e-04  val_recon=0.003159  val_cls=4.472487  val_center=11.519459  val_perc=0.000767
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch56.pt
+[Epoch 57] lr=1.36e-04  val_recon=0.002972  val_cls=4.455202  val_center=11.158059  val_perc=0.000717
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch57.pt
+[Epoch 58] lr=1.22e-04  val_recon=0.002100  val_cls=4.449798  val_center=10.816671  val_perc=0.000505
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch58.pt
+[Epoch 59] lr=1.08e-04  val_recon=0.003229  val_cls=4.414829  val_center=10.481402  val_perc=0.000882
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch59.pt
+[Epoch 60] lr=9.56e-05  val_recon=0.001509  val_cls=4.416658  val_center=10.186876  val_perc=0.000400
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch60.pt
+[Epoch 61] lr=8.36e-05  val_recon=0.004699  val_cls=4.406599  val_center=9.962418  val_perc=0.001192
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch61.pt
+[Epoch 62] lr=7.24e-05  val_recon=0.001561  val_cls=4.407480  val_center=9.722971  val_perc=0.000398
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch62.pt
+[Epoch 63] lr=6.19e-05  val_recon=0.002667  val_cls=4.424177  val_center=9.555102  val_perc=0.000726
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch63.pt
+[Epoch 64] lr=5.22e-05  val_recon=0.002491  val_cls=4.415773  val_center=9.408908  val_perc=0.000590
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch64.pt
+[Epoch 65] lr=4.33e-05  val_recon=0.002117  val_cls=4.425344  val_center=9.280460  val_perc=0.000579
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch65.pt
+[Epoch 66] lr=3.52e-05  val_recon=0.001322  val_cls=4.393492  val_center=9.166040  val_perc=0.000359
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch66.pt
+[Epoch 67] lr=2.79e-05  val_recon=0.001754  val_cls=4.402033  val_center=9.078225  val_perc=0.000487
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch67.pt
+[Epoch 68] lr=2.14e-05  val_recon=0.001370  val_cls=4.387832  val_center=9.012782  val_perc=0.000377
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch68.pt
+[Epoch 69] lr=1.58e-05  val_recon=0.001684  val_cls=4.394275  val_center=8.956081  val_perc=0.000443
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch69.pt
+[Epoch 70] lr=1.10e-05  val_recon=0.001344  val_cls=4.392164  val_center=8.912546  val_perc=0.000358
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch70.pt
+[Epoch 71] lr=7.10e-06  val_recon=0.001231  val_cls=4.387793  val_center=8.887371  val_perc=0.000336
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch71.pt
+[Epoch 72] lr=4.04e-06  val_recon=0.001272  val_cls=4.386281  val_center=8.856541  val_perc=0.000338
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch72.pt
+[Epoch 73] lr=1.85e-06  val_recon=0.001229  val_cls=4.378132  val_center=8.853390  val_perc=0.000336
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch73.pt
+[Epoch 74] lr=5.39e-07  val_recon=0.001181  val_cls=4.384546  val_center=8.839144  val_perc=0.000329
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch74.pt
+[Epoch 75] lr=1.00e-03  val_recon=0.001178  val_cls=4.380674  val_center=8.840593  val_perc=0.000319
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch75.pt
+[Epoch 76] lr=1.00e-03  val_recon=0.039066  val_cls=5.099211  val_center=8.402038  val_perc=0.008129
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch76.pt
+[Epoch 77] lr=1.00e-03  val_recon=0.021368  val_cls=5.310572  val_center=8.846715  val_perc=0.003566
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch77.pt
+[Epoch 78] lr=9.99e-04  val_recon=0.019820  val_cls=4.800618  val_center=5.888262  val_perc=0.005118
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch78.pt
+[Epoch 79] lr=9.98e-04  val_recon=0.007726  val_cls=4.641547  val_center=4.142433  val_perc=0.002430
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch79.pt
+[Epoch 80] lr=9.97e-04  val_recon=0.004681  val_cls=4.602994  val_center=3.149142  val_perc=0.001221
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch80.pt
+[Epoch 81] lr=9.96e-04  val_recon=0.007709  val_cls=4.601983  val_center=2.729986  val_perc=0.001880
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch81.pt
+[Epoch 82] lr=9.95e-04  val_recon=0.010310  val_cls=4.592819  val_center=2.479569  val_perc=0.001724
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch82.pt
+[Epoch 83] lr=9.93e-04  val_recon=0.007801  val_cls=4.579686  val_center=2.097891  val_perc=0.001596
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch83.pt
+[Epoch 84] lr=9.91e-04  val_recon=0.005824  val_cls=4.623145  val_center=1.779254  val_perc=0.001239
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch84.pt
+[Epoch 85] lr=9.89e-04  val_recon=0.004492  val_cls=4.630846  val_center=1.543929  val_perc=0.001048
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch85.pt
+[Epoch 86] lr=9.87e-04  val_recon=0.005328  val_cls=4.588450  val_center=1.381505  val_perc=0.001537
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch86.pt
+[Epoch 87] lr=9.84e-04  val_recon=0.005803  val_cls=4.634673  val_center=2.064961  val_perc=0.001368
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch87.pt
+[Epoch 88] lr=9.82e-04  val_recon=0.005303  val_cls=4.632591  val_center=1.498325  val_perc=0.001183
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch88.pt
+[Epoch 89] lr=9.79e-04  val_recon=0.003876  val_cls=4.560586  val_center=1.020339  val_perc=0.000859
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch89.pt
+[Epoch 90] lr=9.76e-04  val_recon=0.003266  val_cls=4.553585  val_center=0.914199  val_perc=0.000913
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch90.pt
+[Epoch 91] lr=9.72e-04  val_recon=0.013402  val_cls=4.548473  val_center=0.952578  val_perc=0.002495
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch91.pt
+[Epoch 92] lr=9.69e-04  val_recon=0.003698  val_cls=4.607772  val_center=0.844239  val_perc=0.000824
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch92.pt
+[Epoch 93] lr=9.65e-04  val_recon=0.002899  val_cls=4.531217  val_center=0.739756  val_perc=0.000892
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch93.pt
+[Epoch 94] lr=9.61e-04  val_recon=0.003076  val_cls=4.563290  val_center=0.714374  val_perc=0.000696
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch94.pt
+[Epoch 95] lr=9.57e-04  val_recon=0.003800  val_cls=4.550838  val_center=0.679562  val_perc=0.000892
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch95.pt
+[Epoch 96] lr=9.52e-04  val_recon=0.013340  val_cls=4.737220  val_center=1.579187  val_perc=0.003131
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch96.pt
+[Epoch 97] lr=9.48e-04  val_recon=0.002811  val_cls=4.504355  val_center=0.623741  val_perc=0.000679
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch97.pt
+[Epoch 98] lr=9.43e-04  val_recon=0.002899  val_cls=4.532105  val_center=0.549947  val_perc=0.000718
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch98.pt
+[Epoch 99] lr=9.38e-04  val_recon=0.004915  val_cls=4.529193  val_center=0.656746  val_perc=0.001359
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch99.pt
+[Epoch 100] lr=9.33e-04  val_recon=0.005347  val_cls=4.553172  val_center=0.562346  val_perc=0.001396
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch100.pt
+[Epoch 101] lr=9.28e-04  val_recon=0.013635  val_cls=4.747175  val_center=1.613262  val_perc=0.003132
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch101.pt
+[Epoch 102] lr=9.22e-04  val_recon=0.002910  val_cls=4.519845  val_center=0.581574  val_perc=0.000672
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch102.pt
+[Epoch 103] lr=9.16e-04  val_recon=0.023907  val_cls=5.047480  val_center=2.477478  val_perc=0.002998
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch103.pt
+[Epoch 104] lr=9.11e-04  val_recon=0.004144  val_cls=4.541075  val_center=0.546589  val_perc=0.000910
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch104.pt
+[Epoch 105] lr=9.05e-04  val_recon=0.002231  val_cls=4.473697  val_center=0.535642  val_perc=0.000559
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch105.pt
+[Epoch 106] lr=8.98e-04  val_recon=0.021977  val_cls=5.826119  val_center=2.937982  val_perc=0.003467
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch106.pt
+[Epoch 107] lr=8.92e-04  val_recon=0.005131  val_cls=4.676169  val_center=0.685074  val_perc=0.001261
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch107.pt
+[Epoch 108] lr=8.85e-04  val_recon=0.005101  val_cls=4.524731  val_center=0.505103  val_perc=0.001268
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch108.pt
+[Epoch 109] lr=8.79e-04  val_recon=0.004293  val_cls=4.584652  val_center=0.550512  val_perc=0.000910
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch109.pt
+[Epoch 110] lr=8.72e-04  val_recon=0.001965  val_cls=4.490538  val_center=0.562829  val_perc=0.000447
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch110.pt
+[Epoch 111] lr=8.64e-04  val_recon=0.006395  val_cls=4.487882  val_center=0.612131  val_perc=0.001355
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch111.pt
+[Epoch 112] lr=8.57e-04  val_recon=0.006960  val_cls=4.549430  val_center=0.591779  val_perc=0.001557
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch112.pt
+[Epoch 113] lr=8.50e-04  val_recon=0.003315  val_cls=4.542747  val_center=0.601894  val_perc=0.001040
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch113.pt
+[Epoch 114] lr=8.42e-04  val_recon=0.001641  val_cls=4.466902  val_center=0.590053  val_perc=0.000488
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch114.pt
+[Epoch 115] lr=8.35e-04  val_recon=0.006510  val_cls=4.603980  val_center=0.668482  val_perc=0.001479
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch115.pt
+[Epoch 116] lr=8.27e-04  val_recon=0.003286  val_cls=4.468419  val_center=0.658909  val_perc=0.000805
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch116.pt
+[Epoch 117] lr=8.19e-04  val_recon=0.009747  val_cls=5.026591  val_center=1.694819  val_perc=0.001503
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch117.pt
+[Epoch 118] lr=8.11e-04  val_recon=0.001494  val_cls=4.418981  val_center=0.545269  val_perc=0.000417
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch118.pt
+[Epoch 119] lr=8.02e-04  val_recon=0.002391  val_cls=4.511713  val_center=0.679429  val_perc=0.000794
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch119.pt
+[Epoch 120] lr=7.94e-04  val_recon=0.003313  val_cls=4.435295  val_center=0.552271  val_perc=0.001105
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch120.pt
+[Epoch 121] lr=7.85e-04  val_recon=0.002809  val_cls=4.397403  val_center=0.536161  val_perc=0.000700
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch121.pt
+[Epoch 122] lr=7.77e-04  val_recon=0.001617  val_cls=4.452276  val_center=0.667931  val_perc=0.000420
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch122.pt
+[Epoch 123] lr=7.68e-04  val_recon=0.042665  val_cls=5.529302  val_center=2.830841  val_perc=0.004990
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch123.pt
+[Epoch 124] lr=7.59e-04  val_recon=0.002295  val_cls=4.436950  val_center=0.623824  val_perc=0.000555
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch124.pt
+[Epoch 125] lr=7.50e-04  val_recon=0.001706  val_cls=4.421718  val_center=0.617557  val_perc=0.000434
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch125.pt
+[Epoch 126] lr=7.41e-04  val_recon=0.001639  val_cls=4.400830  val_center=0.557069  val_perc=0.000447
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch126.pt
+[Epoch 127] lr=7.32e-04  val_recon=0.002092  val_cls=4.464617  val_center=0.591811  val_perc=0.000691
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch127.pt
+[Epoch 128] lr=7.22e-04  val_recon=0.001775  val_cls=4.445622  val_center=0.580889  val_perc=0.000475
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch128.pt
+[Epoch 129] lr=7.13e-04  val_recon=0.002943  val_cls=4.392068  val_center=0.559826  val_perc=0.000793
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch129.pt
+[Epoch 130] lr=7.03e-04  val_recon=0.006520  val_cls=4.741528  val_center=1.319872  val_perc=0.001427
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch130.pt
+[Epoch 131] lr=6.94e-04  val_recon=0.002932  val_cls=4.393686  val_center=0.552776  val_perc=0.000867
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch131.pt
+[Epoch 132] lr=6.84e-04  val_recon=0.001525  val_cls=4.394395  val_center=0.585073  val_perc=0.000415
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch132.pt
+[Epoch 133] lr=6.74e-04  val_recon=0.002986  val_cls=4.381593  val_center=0.568158  val_perc=0.000961
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch133.pt
+[Epoch 134] lr=6.64e-04  val_recon=0.002164  val_cls=4.425110  val_center=0.597007  val_perc=0.000552
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch134.pt
+[Epoch 135] lr=6.55e-04  val_recon=0.002806  val_cls=4.483132  val_center=0.582656  val_perc=0.000668
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch135.pt
+[Epoch 136] lr=6.45e-04  val_recon=0.015423  val_cls=4.987475  val_center=1.351590  val_perc=0.003611
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch136.pt
+[Epoch 137] lr=6.34e-04  val_recon=0.001872  val_cls=4.429549  val_center=0.542532  val_perc=0.000567
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch137.pt
+[Epoch 138] lr=6.24e-04  val_recon=0.003534  val_cls=4.530666  val_center=0.651352  val_perc=0.000842
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch138.pt
+[Epoch 139] lr=6.14e-04  val_recon=0.001762  val_cls=4.408110  val_center=0.595919  val_perc=0.000448
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch139.pt
+[Epoch 140] lr=6.04e-04  val_recon=0.001806  val_cls=4.444721  val_center=0.604480  val_perc=0.000460
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch140.pt
+[Epoch 141] lr=5.94e-04  val_recon=0.003268  val_cls=4.561102  val_center=0.706162  val_perc=0.001116
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch141.pt
+[Epoch 142] lr=5.83e-04  val_recon=0.002272  val_cls=4.411105  val_center=0.593710  val_perc=0.000783
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch142.pt
+[Epoch 143] lr=5.73e-04  val_recon=0.001844  val_cls=4.407553  val_center=0.635490  val_perc=0.000628
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch143.pt
+[Epoch 144] lr=5.63e-04  val_recon=0.004244  val_cls=4.407858  val_center=0.655449  val_perc=0.000913
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch144.pt
+[Epoch 145] lr=5.52e-04  val_recon=0.001208  val_cls=4.403943  val_center=0.593406  val_perc=0.000374
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch145.pt
+[Epoch 146] lr=5.42e-04  val_recon=0.001843  val_cls=4.388044  val_center=0.624203  val_perc=0.000476
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch146.pt
+[Epoch 147] lr=5.31e-04  val_recon=0.003379  val_cls=4.404545  val_center=0.656780  val_perc=0.000918
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch147.pt
+[Epoch 148] lr=5.21e-04  val_recon=0.004973  val_cls=4.432766  val_center=0.706822  val_perc=0.001661
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch148.pt
+[Epoch 149] lr=5.11e-04  val_recon=0.002238  val_cls=4.495398  val_center=0.755071  val_perc=0.000700
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch149.pt
+[Epoch 150] lr=5.00e-04  val_recon=0.001678  val_cls=4.420081  val_center=0.639376  val_perc=0.000425
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch150.pt
+[Epoch 151] lr=4.90e-04  val_recon=0.007701  val_cls=4.609983  val_center=1.060351  val_perc=0.001529
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch151.pt
+[Epoch 152] lr=4.79e-04  val_recon=0.002586  val_cls=4.421293  val_center=0.605348  val_perc=0.000649
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch152.pt
+[Epoch 153] lr=4.69e-04  val_recon=0.001524  val_cls=4.412167  val_center=0.623630  val_perc=0.000508
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch153.pt
+[Epoch 154] lr=4.58e-04  val_recon=0.001346  val_cls=4.348954  val_center=0.593473  val_perc=0.000353
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch154.pt
+[Epoch 155] lr=4.48e-04  val_recon=0.001305  val_cls=4.376525  val_center=0.626010  val_perc=0.000378
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch155.pt
+[Epoch 156] lr=4.37e-04  val_recon=0.003757  val_cls=4.377644  val_center=0.663438  val_perc=0.001034
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch156.pt
+[Epoch 157] lr=4.27e-04  val_recon=0.001426  val_cls=4.364712  val_center=0.639122  val_perc=0.000456
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch157.pt
+[Epoch 158] lr=4.17e-04  val_recon=0.001731  val_cls=4.357403  val_center=0.614082  val_perc=0.000629
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch158.pt
+[Epoch 159] lr=4.06e-04  val_recon=0.002736  val_cls=4.338674  val_center=0.628476  val_perc=0.000637
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch159.pt
+[Epoch 160] lr=3.96e-04  val_recon=0.007113  val_cls=4.715518  val_center=1.036327  val_perc=0.001094
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch160.pt
+[Epoch 161] lr=3.86e-04  val_recon=0.001928  val_cls=4.339095  val_center=0.605844  val_perc=0.000576
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch161.pt
+[Epoch 162] lr=3.76e-04  val_recon=0.001365  val_cls=4.336336  val_center=0.600009  val_perc=0.000365
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch162.pt
+[Epoch 163] lr=3.66e-04  val_recon=0.003280  val_cls=4.379251  val_center=0.631756  val_perc=0.001017
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch163.pt
+[Epoch 164] lr=3.56e-04  val_recon=0.003720  val_cls=4.404649  val_center=0.689433  val_perc=0.001206
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch164.pt
+[Epoch 165] lr=3.46e-04  val_recon=0.001210  val_cls=4.386061  val_center=0.650897  val_perc=0.000366
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch165.pt
+[Epoch 166] lr=3.36e-04  val_recon=0.002521  val_cls=4.334406  val_center=0.638143  val_perc=0.000679
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch166.pt
+[Epoch 167] lr=3.26e-04  val_recon=0.002224  val_cls=4.322680  val_center=0.624685  val_perc=0.000581
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch167.pt
+[Epoch 168] lr=3.16e-04  val_recon=0.001748  val_cls=4.368567  val_center=0.620280  val_perc=0.000502
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch168.pt
+[Epoch 169] lr=3.06e-04  val_recon=0.001875  val_cls=4.351213  val_center=0.650352  val_perc=0.000451
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch169.pt
+[Epoch 170] lr=2.97e-04  val_recon=0.001200  val_cls=4.325124  val_center=0.613090  val_perc=0.000324
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch170.pt
+[Epoch 171] lr=2.87e-04  val_recon=0.001588  val_cls=4.333735  val_center=0.612276  val_perc=0.000515
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch171.pt
+[Epoch 172] lr=2.78e-04  val_recon=0.001369  val_cls=4.330133  val_center=0.606613  val_perc=0.000415
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch172.pt
+[Epoch 173] lr=2.68e-04  val_recon=0.002646  val_cls=4.392198  val_center=0.669990  val_perc=0.000716
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch173.pt
+[Epoch 174] lr=2.59e-04  val_recon=0.001164  val_cls=4.331617  val_center=0.626465  val_perc=0.000369
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch174.pt
+[Epoch 175] lr=2.50e-04  val_recon=0.001525  val_cls=4.316788  val_center=0.628521  val_perc=0.000532
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch175.pt
+[Epoch 176] lr=2.41e-04  val_recon=0.001306  val_cls=4.338524  val_center=0.609168  val_perc=0.000367
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch176.pt
+[Epoch 177] lr=2.32e-04  val_recon=0.001504  val_cls=4.312079  val_center=0.621947  val_perc=0.000406
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch177.pt
+[Epoch 178] lr=2.23e-04  val_recon=0.001199  val_cls=4.351748  val_center=0.622698  val_perc=0.000327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch178.pt
+[Epoch 179] lr=2.15e-04  val_recon=0.001787  val_cls=4.333086  val_center=0.650174  val_perc=0.000504
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch179.pt
+[Epoch 180] lr=2.06e-04  val_recon=0.001161  val_cls=4.308281  val_center=0.630752  val_perc=0.000328
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch180.pt
+[Epoch 181] lr=1.98e-04  val_recon=0.001392  val_cls=4.332315  val_center=0.640156  val_perc=0.000478
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch181.pt
+[Epoch 182] lr=1.90e-04  val_recon=0.001227  val_cls=4.327071  val_center=0.622817  val_perc=0.000364
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch182.pt
+[Epoch 183] lr=1.81e-04  val_recon=0.001037  val_cls=4.320281  val_center=0.627454  val_perc=0.000304
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch183.pt
+[Epoch 184] lr=1.73e-04  val_recon=0.001148  val_cls=4.323371  val_center=0.621601  val_perc=0.000332
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch184.pt
+[Epoch 185] lr=1.66e-04  val_recon=0.002268  val_cls=4.347321  val_center=0.637185  val_perc=0.000793
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch185.pt
+[Epoch 186] lr=1.58e-04  val_recon=0.001408  val_cls=4.312096  val_center=0.615248  val_perc=0.000401
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch186.pt
+[Epoch 187] lr=1.50e-04  val_recon=0.001044  val_cls=4.304359  val_center=0.636395  val_perc=0.000304
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch187.pt
+[Epoch 188] lr=1.43e-04  val_recon=0.001611  val_cls=4.391286  val_center=0.648466  val_perc=0.000586
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch188.pt
+[Epoch 189] lr=1.36e-04  val_recon=0.001923  val_cls=4.327494  val_center=0.635590  val_perc=0.000526
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch189.pt
+[Epoch 190] lr=1.29e-04  val_recon=0.001073  val_cls=4.308434  val_center=0.603665  val_perc=0.000294
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch190.pt
+[Epoch 191] lr=1.22e-04  val_recon=0.001480  val_cls=4.295261  val_center=0.623598  val_perc=0.000401
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch191.pt
+[Epoch 192] lr=1.15e-04  val_recon=0.002269  val_cls=4.354561  val_center=0.624345  val_perc=0.000569
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch192.pt
+[Epoch 193] lr=1.08e-04  val_recon=0.002116  val_cls=4.305677  val_center=0.637172  val_perc=0.000530
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch193.pt
+[Epoch 194] lr=1.02e-04  val_recon=0.001161  val_cls=4.298314  val_center=0.599629  val_perc=0.000331
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch194.pt
+[Epoch 195] lr=9.56e-05  val_recon=0.001256  val_cls=4.309718  val_center=0.597708  val_perc=0.000342
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch195.pt
+[Epoch 196] lr=8.95e-05  val_recon=0.001346  val_cls=4.321546  val_center=0.605552  val_perc=0.000483
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch196.pt
+[Epoch 197] lr=8.36e-05  val_recon=0.001942  val_cls=4.340825  val_center=0.625465  val_perc=0.000543
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch197.pt
+[Epoch 198] lr=7.79e-05  val_recon=0.001722  val_cls=4.295060  val_center=0.612049  val_perc=0.000474
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch198.pt
+[Epoch 199] lr=7.24e-05  val_recon=0.001175  val_cls=4.305685  val_center=0.606021  val_perc=0.000318
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch199.pt
+[Epoch 200] lr=6.71e-05  val_recon=0.001375  val_cls=4.283428  val_center=0.588240  val_perc=0.000370
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch200.pt
+[Epoch 201] lr=6.19e-05  val_recon=0.001155  val_cls=4.282910  val_center=0.610300  val_perc=0.000349
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch201.pt
+[Epoch 202] lr=5.70e-05  val_recon=0.001073  val_cls=4.275813  val_center=0.581385  val_perc=0.000341
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch202.pt
+[Epoch 203] lr=5.22e-05  val_recon=0.001256  val_cls=4.304008  val_center=0.607316  val_perc=0.000379
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch203.pt
+[Epoch 204] lr=4.77e-05  val_recon=0.001038  val_cls=4.279021  val_center=0.604063  val_perc=0.000306
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch204.pt
+[Epoch 205] lr=4.33e-05  val_recon=0.001024  val_cls=4.274883  val_center=0.602175  val_perc=0.000298
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch205.pt
+[Epoch 206] lr=3.92e-05  val_recon=0.001434  val_cls=4.291973  val_center=0.597388  val_perc=0.000408
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch206.pt
+[Epoch 207] lr=3.52e-05  val_recon=0.001070  val_cls=4.276943  val_center=0.591031  val_perc=0.000292
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch207.pt
+[Epoch 208] lr=3.15e-05  val_recon=0.001040  val_cls=4.273736  val_center=0.596124  val_perc=0.000297
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch208.pt
+[Epoch 209] lr=2.79e-05  val_recon=0.001095  val_cls=4.272179  val_center=0.598562  val_perc=0.000323
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch209.pt
+[Epoch 210] lr=2.46e-05  val_recon=0.001065  val_cls=4.283852  val_center=0.591745  val_perc=0.000292
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch210.pt
+[Epoch 211] lr=2.14e-05  val_recon=0.001045  val_cls=4.268363  val_center=0.597911  val_perc=0.000317
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch211.pt
+[Epoch 212] lr=1.85e-05  val_recon=0.001043  val_cls=4.266077  val_center=0.592546  val_perc=0.000290
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch212.pt
+[Epoch 213] lr=1.58e-05  val_recon=0.001022  val_cls=4.266248  val_center=0.590447  val_perc=0.000304
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch213.pt
+[Epoch 214] lr=1.33e-05  val_recon=0.001010  val_cls=4.270109  val_center=0.592388  val_perc=0.000286
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch214.pt
+[Epoch 215] lr=1.10e-05  val_recon=0.001004  val_cls=4.269457  val_center=0.589917  val_perc=0.000294
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch215.pt
+[Epoch 216] lr=8.96e-06  val_recon=0.001093  val_cls=4.270866  val_center=0.592860  val_perc=0.000300
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch216.pt
+[Epoch 217] lr=7.10e-06  val_recon=0.000992  val_cls=4.265209  val_center=0.590812  val_perc=0.000283
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch217.pt
+[Epoch 218] lr=5.46e-06  val_recon=0.000989  val_cls=4.263402  val_center=0.586975  val_perc=0.000282
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch218.pt
+[Epoch 219] lr=4.04e-06  val_recon=0.000994  val_cls=4.266037  val_center=0.583544  val_perc=0.000283
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch219.pt
+[Epoch 220] lr=2.84e-06  val_recon=0.000997  val_cls=4.263769  val_center=0.589669  val_perc=0.000281
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch220.pt
+[Epoch 221] lr=1.85e-06  val_recon=0.000997  val_cls=4.263585  val_center=0.581544  val_perc=0.000280
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch221.pt
+[Epoch 222] lr=1.09e-06  val_recon=0.000988  val_cls=4.264803  val_center=0.586337  val_perc=0.000281
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch222.pt
+[Epoch 223] lr=5.39e-07  val_recon=0.000988  val_cls=4.263306  val_center=0.590729  val_perc=0.000280
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch223.pt
+[Epoch 224] lr=2.10e-07  val_recon=0.000986  val_cls=4.263730  val_center=0.590186  val_perc=0.000280
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch224.pt
+[Epoch 225] lr=1.00e-03  val_recon=0.000986  val_cls=4.263090  val_center=0.585076  val_perc=0.000281
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch225.pt
+[Epoch 226] lr=1.00e-03  val_recon=0.007316  val_cls=5.014975  val_center=1.360289  val_perc=0.002438
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch226.pt
+[Epoch 227] lr=1.00e-03  val_recon=0.027141  val_cls=5.031187  val_center=1.894918  val_perc=0.004741
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch227.pt
+[Epoch 228] lr=1.00e-03  val_recon=0.004002  val_cls=4.587019  val_center=0.844821  val_perc=0.000925
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch228.pt
+[Epoch 229] lr=1.00e-03  val_recon=0.002832  val_cls=4.527097  val_center=0.751980  val_perc=0.000685
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch229.pt
+[Epoch 230] lr=9.99e-04  val_recon=0.006034  val_cls=4.658143  val_center=0.895650  val_perc=0.001620
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch230.pt
+[Epoch 231] lr=9.99e-04  val_recon=0.003786  val_cls=4.559566  val_center=0.795814  val_perc=0.001116
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch231.pt
+[Epoch 232] lr=9.99e-04  val_recon=0.009709  val_cls=7.203468  val_center=3.743889  val_perc=0.001576
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch232.pt
+[Epoch 233] lr=9.98e-04  val_recon=0.009354  val_cls=4.622855  val_center=0.740611  val_perc=0.002306
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch233.pt
+[Epoch 234] lr=9.98e-04  val_recon=0.001928  val_cls=4.544670  val_center=0.775420  val_perc=0.000634
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch234.pt
+[Epoch 235] lr=9.97e-04  val_recon=0.003924  val_cls=4.595910  val_center=1.093032  val_perc=0.001361
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch235.pt
+[Epoch 236] lr=9.97e-04  val_recon=0.002294  val_cls=4.523656  val_center=0.750231  val_perc=0.000703
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch236.pt
+[Epoch 237] lr=9.96e-04  val_recon=0.001720  val_cls=4.507979  val_center=0.711523  val_perc=0.000481
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch237.pt
+[Epoch 238] lr=9.95e-04  val_recon=0.011646  val_cls=4.690673  val_center=1.064347  val_perc=0.002368
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch238.pt
+[Epoch 239] lr=9.95e-04  val_recon=0.001731  val_cls=4.497861  val_center=0.711191  val_perc=0.000640
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch239.pt
+[Epoch 240] lr=9.94e-04  val_recon=0.001861  val_cls=4.525804  val_center=0.709284  val_perc=0.000506
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch240.pt
+[Epoch 241] lr=9.93e-04  val_recon=0.002761  val_cls=4.593709  val_center=0.882679  val_perc=0.000871
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch241.pt
+[Epoch 242] lr=9.92e-04  val_recon=0.002246  val_cls=4.537989  val_center=0.786652  val_perc=0.000911
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch242.pt
+[Epoch 243] lr=9.91e-04  val_recon=0.229895  val_cls=6.457067  val_center=6.205154  val_perc=0.019166
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch243.pt
+[Epoch 244] lr=9.90e-04  val_recon=0.001442  val_cls=4.466909  val_center=0.662296  val_perc=0.000421
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch244.pt
+[Epoch 245] lr=9.89e-04  val_recon=0.002751  val_cls=4.538612  val_center=0.730753  val_perc=0.000850
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch245.pt
+[Epoch 246] lr=9.88e-04  val_recon=0.001433  val_cls=4.513176  val_center=0.688660  val_perc=0.000405
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch246.pt
+[Epoch 247] lr=9.87e-04  val_recon=0.002479  val_cls=4.529040  val_center=0.692855  val_perc=0.000815
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch247.pt
+[Epoch 248] lr=9.86e-04  val_recon=0.001487  val_cls=4.584226  val_center=0.797959  val_perc=0.000451
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch248.pt
+[Epoch 249] lr=9.84e-04  val_recon=0.002416  val_cls=4.538827  val_center=0.770451  val_perc=0.000970
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch249.pt
+[Epoch 250] lr=9.83e-04  val_recon=0.002985  val_cls=4.515217  val_center=0.691987  val_perc=0.001027
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch250.pt
+[Epoch 251] lr=9.82e-04  val_recon=0.002516  val_cls=4.538258  val_center=0.777053  val_perc=0.000625
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch251.pt
+[Epoch 252] lr=9.80e-04  val_recon=0.003058  val_cls=4.507101  val_center=0.717341  val_perc=0.000916
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch252.pt
+[Epoch 253] lr=9.79e-04  val_recon=0.002654  val_cls=4.570324  val_center=0.868653  val_perc=0.000638
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch253.pt
+[Epoch 254] lr=9.77e-04  val_recon=0.004129  val_cls=4.545291  val_center=0.720211  val_perc=0.001149
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch254.pt
+[Epoch 255] lr=9.76e-04  val_recon=0.004129  val_cls=4.542768  val_center=0.734478  val_perc=0.001027
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch255.pt
+[Epoch 256] lr=9.74e-04  val_recon=0.001245  val_cls=4.505951  val_center=0.725667  val_perc=0.000366
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch256.pt
+[Epoch 257] lr=9.72e-04  val_recon=0.004857  val_cls=4.561269  val_center=0.828695  val_perc=0.001333
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch257.pt
+[Epoch 258] lr=9.70e-04  val_recon=0.001190  val_cls=4.533428  val_center=0.718072  val_perc=0.000349
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch258.pt
+[Epoch 259] lr=9.69e-04  val_recon=0.002829  val_cls=4.531689  val_center=0.831338  val_perc=0.000789
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch259.pt
+[Epoch 260] lr=9.67e-04  val_recon=0.001385  val_cls=4.481966  val_center=0.666888  val_perc=0.000380
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch260.pt
+[Epoch 261] lr=9.65e-04  val_recon=0.002071  val_cls=4.504829  val_center=0.758410  val_perc=0.000560
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch261.pt
+[Epoch 262] lr=9.63e-04  val_recon=0.002212  val_cls=4.572362  val_center=0.785759  val_perc=0.000541
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch262.pt
+[Epoch 263] lr=9.61e-04  val_recon=0.001367  val_cls=4.487274  val_center=0.722072  val_perc=0.000385
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch263.pt
+[Epoch 264] lr=9.59e-04  val_recon=0.001804  val_cls=4.520547  val_center=0.795738  val_perc=0.000527
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch264.pt
+[Epoch 265] lr=9.57e-04  val_recon=0.014037  val_cls=4.595875  val_center=0.918505  val_perc=0.002384
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch265.pt
+[Epoch 266] lr=9.55e-04  val_recon=0.002232  val_cls=4.498940  val_center=0.708994  val_perc=0.000577
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch266.pt
+[Epoch 267] lr=9.52e-04  val_recon=0.004189  val_cls=4.530880  val_center=0.752340  val_perc=0.000990
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch267.pt
+[Epoch 268] lr=9.50e-04  val_recon=0.003418  val_cls=4.533244  val_center=0.767577  val_perc=0.000930
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch268.pt
+[Epoch 269] lr=9.48e-04  val_recon=0.002545  val_cls=4.554068  val_center=0.746514  val_perc=0.000616
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch269.pt
+[Epoch 270] lr=9.46e-04  val_recon=0.003725  val_cls=4.552364  val_center=0.831776  val_perc=0.000836
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch270.pt
+[Epoch 271] lr=9.43e-04  val_recon=0.581318  val_cls=30.347319  val_center=169.412772  val_perc=0.054144
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch271.pt
+[Epoch 272] lr=9.41e-04  val_recon=0.005411  val_cls=4.611363  val_center=0.741241  val_perc=0.001267
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch272.pt
+[Epoch 273] lr=9.38e-04  val_recon=0.001511  val_cls=4.585951  val_center=0.720998  val_perc=0.000460
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch273.pt
+[Epoch 274] lr=9.36e-04  val_recon=0.002598  val_cls=4.554571  val_center=0.675751  val_perc=0.000708
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch274.pt
+[Epoch 275] lr=9.33e-04  val_recon=0.002489  val_cls=4.568821  val_center=0.679921  val_perc=0.000669
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch275.pt
+[Epoch 276] lr=9.30e-04  val_recon=0.008490  val_cls=4.736311  val_center=1.110415  val_perc=0.002100
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch276.pt
+[Epoch 277] lr=9.28e-04  val_recon=0.002067  val_cls=4.630495  val_center=0.703057  val_perc=0.000524
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch277.pt
+[Epoch 278] lr=9.25e-04  val_recon=0.002814  val_cls=4.540727  val_center=0.719990  val_perc=0.000709
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_85in5out/checkpoint/checkpoint_epoch278.pt

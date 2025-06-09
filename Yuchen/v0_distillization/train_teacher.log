@@ -1,0 +1,1000 @@
+VAL Ep1: rec 0.01055353 perc 0.00118022 ce 4.78762673
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch1.pt
+VAL Ep2: rec 0.00553510 perc 0.00077544 ce 4.59301442
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch2.pt
+VAL Ep3: rec 0.00327817 perc 0.00059127 ce 4.59564824
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch3.pt
+VAL Ep4: rec 0.00269822 perc 0.00048632 ce 4.91082198
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch4.pt
+VAL Ep5: rec 0.00227403 perc 0.00044329 ce 5.44631745
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch5.pt
+VAL Ep6: rec 0.00191635 perc 0.00038614 ce 5.93519617
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch6.pt
+VAL Ep7: rec 0.00168419 perc 0.00036165 ce 6.92102876
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch7.pt
+VAL Ep8: rec 0.00145971 perc 0.00031990 ce 7.27513867
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch8.pt
+VAL Ep9: rec 0.00153326 perc 0.00034038 ce 8.13337381
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch9.pt
+VAL Ep10: rec 0.00129206 perc 0.00028935 ce 8.48111260
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch10.pt
+VAL Ep11: rec 0.00113239 perc 0.00026437 ce 8.41577544
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch11.pt
+VAL Ep12: rec 0.00106215 perc 0.00025178 ce 8.30341273
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch12.pt
+VAL Ep13: rec 0.00098111 perc 0.00024269 ce 8.57157100
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch13.pt
+VAL Ep14: rec 0.00091793 perc 0.00022941 ce 8.56373600
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch14.pt
+VAL Ep15: rec 0.00084649 perc 0.00021019 ce 8.50427458
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch15.pt
+VAL Ep16: rec 0.00080871 perc 0.00020504 ce 8.52658850
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch16.pt
+VAL Ep17: rec 0.00087946 perc 0.00024090 ce 8.49491216
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch17.pt
+VAL Ep18: rec 0.00073817 perc 0.00019219 ce 8.61996488
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch18.pt
+VAL Ep19: rec 0.00072170 perc 0.00018786 ce 8.41809432
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch19.pt
+VAL Ep20: rec 0.00072744 perc 0.00019598 ce 8.79223632
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch20.pt
+VAL Ep21: rec 0.00062373 perc 0.00017093 ce 8.47595478
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch21.pt
+VAL Ep22: rec 0.00063722 perc 0.00017017 ce 8.58738341
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch22.pt
+VAL Ep23: rec 0.00059686 perc 0.00016394 ce 8.62047391
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch23.pt
+VAL Ep24: rec 0.00057871 perc 0.00015681 ce 8.63510421
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch24.pt
+VAL Ep25: rec 0.00055310 perc 0.00014915 ce 8.54285626
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch25.pt
+VAL Ep26: rec 0.00055755 perc 0.00016177 ce 8.66523564
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch26.pt
+VAL Ep27: rec 0.00057954 perc 0.00015292 ce 8.84724781
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch27.pt
+VAL Ep28: rec 0.00054885 perc 0.00015311 ce 9.27746177
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch28.pt
+VAL Ep29: rec 0.00054501 perc 0.00015079 ce 9.51597913
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch29.pt
+VAL Ep30: rec 0.00065271 perc 0.00018021 ce 9.67562813
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch30.pt
+VAL Ep31: rec 0.00079835 perc 0.00020211 ce 9.91629586
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch31.pt
+VAL Ep32: rec 0.00064444 perc 0.00017501 ce 9.73958451
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch32.pt
+VAL Ep33: rec 0.00062872 perc 0.00016519 ce 10.13212602
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch33.pt
+VAL Ep34: rec 0.00055927 perc 0.00015361 ce 10.21887222
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch34.pt
+VAL Ep35: rec 0.00056088 perc 0.00015847 ce 10.68159690
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch35.pt
+VAL Ep36: rec 0.00053496 perc 0.00014453 ce 10.17175848
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch36.pt
+VAL Ep37: rec 0.00051317 perc 0.00013752 ce 10.76967045
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch37.pt
+VAL Ep38: rec 0.00045867 perc 0.00013260 ce 10.56588566
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch38.pt
+VAL Ep39: rec 0.00043478 perc 0.00012416 ce 10.89086273
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch39.pt
+VAL Ep40: rec 0.00040599 perc 0.00011925 ce 10.58695222
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch40.pt
+VAL Ep41: rec 0.00040786 perc 0.00011420 ce 10.44870451
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch41.pt
+VAL Ep42: rec 0.00042684 perc 0.00012463 ce 10.39454183
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch42.pt
+VAL Ep43: rec 0.00037280 perc 0.00010743 ce 10.33212033
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch43.pt
+VAL Ep44: rec 0.00036647 perc 0.00010641 ce 10.51612057
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch44.pt
+VAL Ep45: rec 0.00035256 perc 0.00010546 ce 10.21009070
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch45.pt
+VAL Ep46: rec 0.00034908 perc 0.00010341 ce 10.18854826
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch46.pt
+VAL Ep47: rec 0.00034047 perc 0.00009927 ce 10.04140316
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch47.pt
+VAL Ep48: rec 0.00033159 perc 0.00009843 ce 9.84057270
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch48.pt
+VAL Ep49: rec 0.00033299 perc 0.00010324 ce 9.60303023
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch49.pt
+VAL Ep50: rec 0.00032001 perc 0.00009377 ce 9.85904172
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch50.pt
+VAL Ep51: rec 0.00031646 perc 0.00009253 ce 9.90681855
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch51.pt
+VAL Ep52: rec 0.00031131 perc 0.00009204 ce 9.71472164
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch52.pt
+VAL Ep53: rec 0.00029144 perc 0.00008733 ce 9.70486934
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch53.pt
+VAL Ep54: rec 0.00029865 perc 0.00008930 ce 9.47618093
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch54.pt
+VAL Ep55: rec 0.00029440 perc 0.00008819 ce 9.26398595
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch55.pt
+VAL Ep56: rec 0.00029900 perc 0.00009818 ce 9.27028867
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch56.pt
+VAL Ep57: rec 0.00031821 perc 0.00009954 ce 9.14507063
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch57.pt
+VAL Ep58: rec 0.00028061 perc 0.00008743 ce 8.95825818
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch58.pt
+VAL Ep59: rec 0.00028029 perc 0.00008354 ce 8.99887141
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch59.pt
+VAL Ep60: rec 0.00026173 perc 0.00007829 ce 9.17890061
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch60.pt
+VAL Ep61: rec 0.00025902 perc 0.00008021 ce 9.37299923
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch61.pt
+VAL Ep62: rec 0.00032224 perc 0.00009252 ce 10.07045377
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch62.pt
+VAL Ep63: rec 0.00028940 perc 0.00008903 ce 9.41756796
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch63.pt
+VAL Ep64: rec 0.00028853 perc 0.00009635 ce 9.40992314
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch64.pt
+VAL Ep65: rec 0.00025679 perc 0.00007894 ce 9.63088662
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch65.pt
+VAL Ep66: rec 0.00029996 perc 0.00009696 ce 9.77357377
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch66.pt
+VAL Ep67: rec 0.00027202 perc 0.00008059 ce 10.16713152
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch67.pt
+VAL Ep68: rec 0.00034395 perc 0.00010303 ce 11.13032044
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch68.pt
+VAL Ep69: rec 0.00043617 perc 0.00011706 ce 11.19087940
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch69.pt
+VAL Ep70: rec 0.00077077 perc 0.00020302 ce 11.91315485
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch70.pt
+VAL Ep71: rec 0.00050327 perc 0.00015507 ce 12.25148344
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch71.pt
+VAL Ep72: rec 0.00039149 perc 0.00011466 ce 11.97270591
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch72.pt
+VAL Ep73: rec 0.00037273 perc 0.00010432 ce 12.51785861
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch73.pt
+VAL Ep74: rec 0.00032682 perc 0.00009765 ce 12.34811365
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch74.pt
+VAL Ep75: rec 0.00029326 perc 0.00008672 ce 12.42906494
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch75.pt
+VAL Ep76: rec 0.00036281 perc 0.00011581 ce 12.85307469
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch76.pt
+VAL Ep77: rec 0.00026213 perc 0.00008088 ce 12.14049391
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch77.pt
+VAL Ep78: rec 0.00025901 perc 0.00007684 ce 12.32567613
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch78.pt
+VAL Ep79: rec 0.00025117 perc 0.00007776 ce 12.08885815
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch79.pt
+VAL Ep80: rec 0.00024348 perc 0.00007641 ce 12.30271190
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch80.pt
+VAL Ep81: rec 0.00028005 perc 0.00009393 ce 12.09287925
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch81.pt
+VAL Ep82: rec 0.00022853 perc 0.00007082 ce 11.88930353
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch82.pt
+VAL Ep83: rec 0.00022004 perc 0.00006911 ce 11.74415374
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch83.pt
+VAL Ep84: rec 0.00022593 perc 0.00006947 ce 11.62630226
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch84.pt
+VAL Ep85: rec 0.00023655 perc 0.00007359 ce 12.27717516
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch85.pt
+VAL Ep86: rec 0.00025227 perc 0.00008021 ce 11.80448183
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch86.pt
+VAL Ep87: rec 0.00021826 perc 0.00006666 ce 11.63955685
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch87.pt
+VAL Ep88: rec 0.00024140 perc 0.00008092 ce 11.60871370
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch88.pt
+VAL Ep89: rec 0.00023493 perc 0.00007706 ce 11.42477703
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch89.pt
+VAL Ep90: rec 0.00021049 perc 0.00006347 ce 11.54736748
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch90.pt
+VAL Ep91: rec 0.00019808 perc 0.00006247 ce 11.48700980
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch91.pt
+VAL Ep92: rec 0.00023004 perc 0.00007477 ce 11.98627226
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch92.pt
+VAL Ep93: rec 0.00020188 perc 0.00006310 ce 11.82917661
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch93.pt
+VAL Ep94: rec 0.00020528 perc 0.00006890 ce 11.55518782
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch94.pt
+VAL Ep95: rec 0.00023591 perc 0.00007660 ce 11.81470672
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch95.pt
+VAL Ep96: rec 0.00021552 perc 0.00006801 ce 11.65092425
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch96.pt
+VAL Ep97: rec 0.00042390 perc 0.00015466 ce 11.55307818
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch97.pt
+VAL Ep98: rec 0.00028848 perc 0.00010041 ce 11.91985872
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch98.pt
+VAL Ep99: rec 0.00020384 perc 0.00006125 ce 11.96318352
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch99.pt
+VAL Ep100: rec 0.00020230 perc 0.00006195 ce 11.74566811
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch100.pt
+VAL Ep101: rec 0.00018976 perc 0.00006163 ce 11.53832920
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch101.pt
+VAL Ep102: rec 0.00020499 perc 0.00006483 ce 12.08287749
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch102.pt
+VAL Ep103: rec 0.00026170 perc 0.00007889 ce 12.24321048
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch103.pt
+VAL Ep104: rec 0.00027112 perc 0.00007569 ce 12.56333106
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch104.pt
+VAL Ep105: rec 0.00025476 perc 0.00007605 ce 12.91635409
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch105.pt
+VAL Ep106: rec 0.00024055 perc 0.00007083 ce 12.57075058
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch106.pt
+VAL Ep107: rec 0.00034077 perc 0.00009909 ce 13.04235851
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch107.pt
+VAL Ep108: rec 0.00027068 perc 0.00007906 ce 13.20129229
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch108.pt
+VAL Ep109: rec 0.00029364 perc 0.00009676 ce 13.70715848
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch109.pt
+VAL Ep110: rec 0.00028263 perc 0.00008405 ce 13.83030188
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch110.pt
+VAL Ep111: rec 0.00024158 perc 0.00007304 ce 14.19960200
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch111.pt
+VAL Ep112: rec 0.00024945 perc 0.00007965 ce 13.98162966
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch112.pt
+VAL Ep113: rec 0.00029723 perc 0.00009175 ce 13.37754299
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch113.pt
+VAL Ep114: rec 0.00023151 perc 0.00006827 ce 13.82070860
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch114.pt
+VAL Ep115: rec 0.00024233 perc 0.00007736 ce 14.00370260
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch115.pt
+VAL Ep116: rec 0.00018987 perc 0.00006005 ce 13.79605417
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch116.pt
+VAL Ep117: rec 0.00023051 perc 0.00007156 ce 13.92824676
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch117.pt
+VAL Ep118: rec 0.00019562 perc 0.00006280 ce 13.81550785
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch118.pt
+VAL Ep119: rec 0.00019660 perc 0.00006337 ce 14.19582805
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch119.pt
+VAL Ep120: rec 0.00020315 perc 0.00006134 ce 13.73329822
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch120.pt
+VAL Ep121: rec 0.00020397 perc 0.00006763 ce 13.76907532
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch121.pt
+VAL Ep122: rec 0.00019970 perc 0.00006001 ce 14.41404773
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch122.pt
+VAL Ep123: rec 0.00018206 perc 0.00005860 ce 14.16890126
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch123.pt
+VAL Ep124: rec 0.00027782 perc 0.00010477 ce 13.69910501
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch124.pt
+VAL Ep125: rec 0.00017745 perc 0.00005796 ce 13.91390131
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch125.pt
+VAL Ep126: rec 0.00016897 perc 0.00005427 ce 13.77270823
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch126.pt
+VAL Ep127: rec 0.00018924 perc 0.00006071 ce 13.63341551
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch127.pt
+VAL Ep128: rec 0.00017131 perc 0.00005636 ce 13.92866935
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch128.pt
+VAL Ep129: rec 0.00015779 perc 0.00005201 ce 13.58541008
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch129.pt
+VAL Ep130: rec 0.00019373 perc 0.00006106 ce 13.94506040
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch130.pt
+VAL Ep131: rec 0.00016620 perc 0.00005585 ce 13.65907183
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch131.pt
+VAL Ep132: rec 0.00024750 perc 0.00008389 ce 13.82110855
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch132.pt
+VAL Ep133: rec 0.00015689 perc 0.00005049 ce 13.14308944
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch133.pt
+VAL Ep134: rec 0.00029258 perc 0.00011135 ce 13.47735293
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch134.pt
+VAL Ep135: rec 0.00014110 perc 0.00004510 ce 13.35709370
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch135.pt
+VAL Ep136: rec 0.00016282 perc 0.00005227 ce 13.21268562
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch136.pt
+VAL Ep137: rec 0.00015234 perc 0.00005066 ce 13.30057378
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch137.pt
+VAL Ep138: rec 0.00015313 perc 0.00004956 ce 13.50496372
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch138.pt
+VAL Ep139: rec 0.00015299 perc 0.00004940 ce 13.60327941
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch139.pt
+VAL Ep140: rec 0.00017053 perc 0.00005585 ce 13.96666504
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch140.pt
+VAL Ep141: rec 0.00015248 perc 0.00004851 ce 13.79852183
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch141.pt
+VAL Ep142: rec 0.00018818 perc 0.00005975 ce 14.15535842
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch142.pt
+VAL Ep143: rec 0.00016853 perc 0.00005180 ce 14.35937151
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch143.pt
+VAL Ep144: rec 0.00022501 perc 0.00006383 ce 14.29069983
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch144.pt
+VAL Ep145: rec 0.00023522 perc 0.00008011 ce 15.00058573
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch145.pt
+VAL Ep146: rec 0.00018828 perc 0.00005818 ce 14.78821461
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch146.pt
+VAL Ep147: rec 0.00020210 perc 0.00006144 ce 15.02167071
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch147.pt
+VAL Ep148: rec 0.00020300 perc 0.00006716 ce 15.20473023
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch148.pt
+VAL Ep149: rec 0.00017345 perc 0.00005584 ce 15.20220513
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch149.pt
+VAL Ep150: rec 0.00023469 perc 0.00007642 ce 15.60438140
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch150.pt
+VAL Ep151: rec 0.00019172 perc 0.00006584 ce 14.88512712
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch151.pt
+VAL Ep152: rec 0.00018611 perc 0.00006097 ce 15.68401580
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch152.pt
+VAL Ep153: rec 0.00018904 perc 0.00006070 ce 15.53076520
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch153.pt
+VAL Ep154: rec 0.00022000 perc 0.00006924 ce 15.13936982
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch154.pt
+VAL Ep155: rec 0.00021481 perc 0.00006319 ce 15.60845069
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch155.pt
+VAL Ep156: rec 0.00018440 perc 0.00006032 ce 14.98443728
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch156.pt
+VAL Ep157: rec 0.00021433 perc 0.00007601 ce 15.12496566
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch157.pt
+VAL Ep158: rec 0.00017778 perc 0.00005931 ce 14.98703285
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch158.pt
+VAL Ep159: rec 0.00019028 perc 0.00006221 ce 15.51872906
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch159.pt
+VAL Ep160: rec 0.00014527 perc 0.00004691 ce 15.36233593
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch160.pt
+VAL Ep161: rec 0.00014216 perc 0.00004524 ce 15.11875039
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch161.pt
+VAL Ep162: rec 0.00019331 perc 0.00006808 ce 15.31831424
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch162.pt
+VAL Ep163: rec 0.00014878 perc 0.00004629 ce 14.84660998
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch163.pt
+VAL Ep164: rec 0.00016637 perc 0.00005226 ce 15.16021572
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch164.pt
+VAL Ep165: rec 0.00015325 perc 0.00004796 ce 14.97098225
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch165.pt
+VAL Ep166: rec 0.00015020 perc 0.00005161 ce 15.02705175
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch166.pt
+VAL Ep167: rec 0.00017506 perc 0.00006131 ce 14.85956551
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch167.pt
+VAL Ep168: rec 0.00015277 perc 0.00005038 ce 15.27264714
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch168.pt
+VAL Ep169: rec 0.00014577 perc 0.00004558 ce 15.18551724
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch169.pt
+VAL Ep170: rec 0.00023337 perc 0.00007974 ce 15.43693912
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch170.pt
+VAL Ep171: rec 0.00025118 perc 0.00008697 ce 14.78347865
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch171.pt
+VAL Ep172: rec 0.00014012 perc 0.00004519 ce 14.82034807
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch172.pt
+VAL Ep173: rec 0.00012984 perc 0.00004104 ce 14.91014874
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch173.pt
+VAL Ep174: rec 0.00012512 perc 0.00004138 ce 14.12886086
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch174.pt
+VAL Ep175: rec 0.00014825 perc 0.00004658 ce 15.31256782
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch175.pt
+VAL Ep176: rec 0.00014166 perc 0.00004436 ce 15.21164584
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch176.pt
+VAL Ep177: rec 0.00012890 perc 0.00004147 ce 14.91606866
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch177.pt
+VAL Ep178: rec 0.00013997 perc 0.00004439 ce 15.07513867
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch178.pt
+VAL Ep179: rec 0.00015957 perc 0.00005112 ce 15.43447539
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch179.pt
+VAL Ep180: rec 0.00014865 perc 0.00004619 ce 15.21902603
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch180.pt
+VAL Ep181: rec 0.00017074 perc 0.00006046 ce 15.70631425
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch181.pt
+VAL Ep182: rec 0.00016712 perc 0.00005580 ce 15.45143725
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch182.pt
+VAL Ep183: rec 0.00016435 perc 0.00005277 ce 15.69776246
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch183.pt
+VAL Ep184: rec 0.00014934 perc 0.00004676 ce 15.16910121
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch184.pt
+VAL Ep185: rec 0.00022345 perc 0.00007835 ce 15.85427582
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch185.pt
+VAL Ep186: rec 0.00016120 perc 0.00005231 ce 16.32950234
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch186.pt
+VAL Ep187: rec 0.00015672 perc 0.00004987 ce 15.98503598
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch187.pt
+VAL Ep188: rec 0.00017696 perc 0.00005955 ce 15.87141552
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch188.pt
+VAL Ep189: rec 0.00016690 perc 0.00005694 ce 15.81025450
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch189.pt
+VAL Ep190: rec 0.00014425 perc 0.00004615 ce 15.79386526
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch190.pt
+VAL Ep191: rec 0.00024189 perc 0.00008222 ce 15.78660030
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch191.pt
+VAL Ep192: rec 0.00015312 perc 0.00004694 ce 15.98792368
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch192.pt
+VAL Ep193: rec 0.00014551 perc 0.00004538 ce 15.68156601
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch193.pt
+VAL Ep194: rec 0.00013572 perc 0.00004275 ce 16.08456549
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch194.pt
+VAL Ep195: rec 0.00015645 perc 0.00004996 ce 15.89316886
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch195.pt
+VAL Ep196: rec 0.00016453 perc 0.00004718 ce 15.85570304
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch196.pt
+VAL Ep197: rec 0.00013178 perc 0.00004497 ce 15.70107223
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch197.pt
+VAL Ep198: rec 0.00015017 perc 0.00004652 ce 15.94250794
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch198.pt
+VAL Ep199: rec 0.00014655 perc 0.00005023 ce 15.80163649
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch199.pt
+VAL Ep200: rec 0.00019634 perc 0.00006786 ce 16.24179953
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch200.pt
+VAL Ep201: rec 0.00013998 perc 0.00004535 ce 15.70762692
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch201.pt
+VAL Ep202: rec 0.00012839 perc 0.00004257 ce 16.01795995
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch202.pt
+VAL Ep203: rec 0.00014609 perc 0.00004770 ce 15.89571935
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch203.pt
+VAL Ep204: rec 0.00013044 perc 0.00004236 ce 16.71022833
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch204.pt
+VAL Ep205: rec 0.00017520 perc 0.00006360 ce 15.76836124
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch205.pt
+VAL Ep206: rec 0.00012720 perc 0.00004288 ce 16.08683759
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch206.pt
+VAL Ep207: rec 0.00011419 perc 0.00003853 ce 15.55861219
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch207.pt
+VAL Ep208: rec 0.00013879 perc 0.00004632 ce 16.05945040
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch208.pt
+VAL Ep209: rec 0.00014351 perc 0.00004751 ce 16.36568980
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch209.pt
+VAL Ep210: rec 0.00029408 perc 0.00010971 ce 16.10922591
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch210.pt
+VAL Ep211: rec 0.00016978 perc 0.00006033 ce 16.29064115
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch211.pt
+VAL Ep212: rec 0.00013857 perc 0.00004744 ce 16.32691228
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch212.pt
+VAL Ep213: rec 0.00011689 perc 0.00003846 ce 16.42853997
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch213.pt
+VAL Ep214: rec 0.00012719 perc 0.00003994 ce 15.59695794
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch214.pt
+VAL Ep215: rec 0.00012699 perc 0.00004224 ce 15.84917980
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch215.pt
+VAL Ep216: rec 0.00017681 perc 0.00005103 ce 16.27747122
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch216.pt
+VAL Ep217: rec 0.00016358 perc 0.00005054 ce 16.09780285
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch217.pt
+VAL Ep218: rec 0.00012453 perc 0.00004056 ce 16.23601475
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch218.pt
+VAL Ep219: rec 0.00012697 perc 0.00004208 ce 16.79420920
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch219.pt
+VAL Ep220: rec 0.00010965 perc 0.00003503 ce 16.27999622
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch220.pt
+VAL Ep221: rec 0.00015214 perc 0.00005210 ce 16.77856584
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch221.pt
+VAL Ep222: rec 0.00017290 perc 0.00005899 ce 16.63476056
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch222.pt
+VAL Ep223: rec 0.00017924 perc 0.00006507 ce 17.37014513
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch223.pt
+VAL Ep224: rec 0.00018252 perc 0.00006273 ce 17.00508419
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch224.pt
+VAL Ep225: rec 0.00011735 perc 0.00003728 ce 16.82698848
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch225.pt
+VAL Ep226: rec 0.00015355 perc 0.00005470 ce 16.90564087
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch226.pt
+VAL Ep227: rec 0.00015311 perc 0.00005496 ce 17.29641854
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch227.pt
+VAL Ep228: rec 0.00014901 perc 0.00004826 ce 17.33746939
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch228.pt
+VAL Ep229: rec 0.00016659 perc 0.00005757 ce 16.90243821
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch229.pt
+VAL Ep230: rec 0.00015279 perc 0.00005328 ce 17.32004580
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch230.pt
+VAL Ep231: rec 0.00012921 perc 0.00004139 ce 16.92515138
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch231.pt
+VAL Ep232: rec 0.00012440 perc 0.00004102 ce 17.23702501
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch232.pt
+VAL Ep233: rec 0.00012060 perc 0.00003850 ce 17.36472423
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch233.pt
+VAL Ep234: rec 0.00013419 perc 0.00004507 ce 17.20911861
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch234.pt
+VAL Ep235: rec 0.00012742 perc 0.00004120 ce 17.43444795
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch235.pt
+VAL Ep236: rec 0.00012637 perc 0.00003958 ce 17.45943459
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch236.pt
+VAL Ep237: rec 0.00011640 perc 0.00003766 ce 17.80982891
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch237.pt
+VAL Ep238: rec 0.00014929 perc 0.00004644 ce 17.82383636
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch238.pt
+VAL Ep239: rec 0.00013366 perc 0.00004355 ce 17.65252005
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch239.pt
+VAL Ep240: rec 0.00017145 perc 0.00005414 ce 17.01468816
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch240.pt
+VAL Ep241: rec 0.00012025 perc 0.00003982 ce 17.42082670
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch241.pt
+VAL Ep242: rec 0.00011016 perc 0.00003675 ce 17.30821794
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch242.pt
+VAL Ep243: rec 0.00012115 perc 0.00004077 ce 17.23803541
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch243.pt
+VAL Ep244: rec 0.00011335 perc 0.00003992 ce 16.89331503
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch244.pt
+VAL Ep245: rec 0.00017451 perc 0.00006111 ce 17.59669230
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch245.pt
+VAL Ep246: rec 0.00012710 perc 0.00004014 ce 17.39151832
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch246.pt
+VAL Ep247: rec 0.00011813 perc 0.00003974 ce 16.79205195
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch247.pt
+VAL Ep248: rec 0.00012754 perc 0.00004541 ce 17.65911799
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch248.pt
+VAL Ep249: rec 0.00012173 perc 0.00003939 ce 17.49288822
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch249.pt
+VAL Ep250: rec 0.00010745 perc 0.00003528 ce 17.14347367
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch250.pt
+VAL Ep251: rec 0.00015962 perc 0.00005545 ce 17.36946909
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch251.pt
+VAL Ep252: rec 0.00013943 perc 0.00004929 ce 17.48796847
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch252.pt
+VAL Ep253: rec 0.00011243 perc 0.00003608 ce 17.16625318
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch253.pt
+VAL Ep254: rec 0.00011332 perc 0.00003607 ce 17.20840170
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch254.pt
+VAL Ep255: rec 0.00012517 perc 0.00004194 ce 17.51465649
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch255.pt
+VAL Ep256: rec 0.00015085 perc 0.00005275 ce 17.11684027
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch256.pt
+VAL Ep257: rec 0.00013031 perc 0.00004549 ce 17.40001489
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch257.pt
+VAL Ep258: rec 0.00015429 perc 0.00004852 ce 18.06257624
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch258.pt
+VAL Ep259: rec 0.00013073 perc 0.00004212 ce 18.74834234
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch259.pt
+VAL Ep260: rec 0.00014199 perc 0.00004622 ce 17.67825463
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch260.pt
+VAL Ep261: rec 0.00012243 perc 0.00004168 ce 17.60421579
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch261.pt
+VAL Ep262: rec 0.00016267 perc 0.00005716 ce 17.48970885
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch262.pt
+VAL Ep263: rec 0.00012253 perc 0.00003810 ce 17.64258422
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch263.pt
+VAL Ep264: rec 0.00011329 perc 0.00003915 ce 18.18392536
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch264.pt
+VAL Ep265: rec 0.00011897 perc 0.00003996 ce 17.49725284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch265.pt
+VAL Ep266: rec 0.00010565 perc 0.00003401 ce 18.05278044
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch266.pt
+VAL Ep267: rec 0.00010500 perc 0.00003506 ce 18.62848129
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch267.pt
+VAL Ep268: rec 0.00010314 perc 0.00003343 ce 17.77681255
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch268.pt
+VAL Ep269: rec 0.00015543 perc 0.00005600 ce 18.28102137
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch269.pt
+VAL Ep270: rec 0.00011327 perc 0.00003664 ce 17.38914714
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch270.pt
+VAL Ep271: rec 0.00013925 perc 0.00004689 ce 18.73871462
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch271.pt
+VAL Ep272: rec 0.00011044 perc 0.00003566 ce 17.96546289
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch272.pt
+VAL Ep273: rec 0.00014089 perc 0.00004771 ce 18.22332231
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch273.pt
+VAL Ep274: rec 0.00011318 perc 0.00003600 ce 18.11989943
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch274.pt
+VAL Ep275: rec 0.00013625 perc 0.00004397 ce 18.60860420
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch275.pt
+VAL Ep276: rec 0.00011152 perc 0.00003634 ce 17.86157734
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch276.pt
+VAL Ep277: rec 0.00014396 perc 0.00004568 ce 18.45078515
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch277.pt
+VAL Ep278: rec 0.00011103 perc 0.00003453 ce 18.19996061
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch278.pt
+VAL Ep279: rec 0.00012330 perc 0.00004094 ce 18.09818736
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch279.pt
+VAL Ep280: rec 0.00013955 perc 0.00004220 ce 17.65389441
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch280.pt
+VAL Ep281: rec 0.00010230 perc 0.00003322 ce 18.05961819
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch281.pt
+VAL Ep282: rec 0.00012936 perc 0.00004394 ce 17.79311796
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch282.pt
+VAL Ep283: rec 0.00009568 perc 0.00003192 ce 18.27501555
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch283.pt
+VAL Ep284: rec 0.00010083 perc 0.00003365 ce 17.81180889
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch284.pt
+VAL Ep285: rec 0.00015602 perc 0.00005227 ce 18.62803992
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch285.pt
+VAL Ep286: rec 0.00009914 perc 0.00003204 ce 17.66019545
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch286.pt
+VAL Ep287: rec 0.00010703 perc 0.00003361 ce 17.37831920
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch287.pt
+VAL Ep288: rec 0.00010166 perc 0.00003373 ce 17.98079937
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch288.pt
+VAL Ep289: rec 0.00013245 perc 0.00004938 ce 18.16023582
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch289.pt
+VAL Ep290: rec 0.00010770 perc 0.00003690 ce 18.47879856
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch290.pt
+VAL Ep291: rec 0.00012633 perc 0.00004348 ce 18.55496105
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch291.pt
+VAL Ep292: rec 0.00012477 perc 0.00003948 ce 18.66468205
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch292.pt
+VAL Ep293: rec 0.00010833 perc 0.00003472 ce 18.41019394
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch293.pt
+VAL Ep294: rec 0.00009990 perc 0.00003416 ce 18.79900060
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch294.pt
+VAL Ep295: rec 0.00011268 perc 0.00003678 ce 18.95991095
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch295.pt
+VAL Ep296: rec 0.00009727 perc 0.00003293 ce 18.77869187
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch296.pt
+VAL Ep297: rec 0.00010976 perc 0.00003422 ce 18.62419607
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch297.pt
+VAL Ep298: rec 0.00011605 perc 0.00003843 ce 18.86374367
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch298.pt
+VAL Ep299: rec 0.00010636 perc 0.00003303 ce 18.72661018
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch299.pt
+VAL Ep300: rec 0.00008767 perc 0.00002892 ce 18.42094272
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch300.pt
+VAL Ep301: rec 0.00010426 perc 0.00003428 ce 18.94480297
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch301.pt
+VAL Ep302: rec 0.00012684 perc 0.00004478 ce 18.40543163
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch302.pt
+VAL Ep303: rec 0.00012784 perc 0.00004388 ce 18.12407919
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch303.pt
+VAL Ep304: rec 0.00018090 perc 0.00006756 ce 18.03936211
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch304.pt
+VAL Ep305: rec 0.00011756 perc 0.00004208 ce 18.69460423
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch305.pt
+VAL Ep306: rec 0.00009903 perc 0.00003185 ce 18.81278950
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch306.pt
+VAL Ep307: rec 0.00009400 perc 0.00003047 ce 18.26714764
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch307.pt
+VAL Ep308: rec 0.00010284 perc 0.00003491 ce 18.80842015
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch308.pt
+VAL Ep309: rec 0.00008886 perc 0.00002881 ce 18.66021686
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch309.pt
+VAL Ep310: rec 0.00009999 perc 0.00003296 ce 18.82422027
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch310.pt
+VAL Ep311: rec 0.00011679 perc 0.00004302 ce 18.59059305
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch311.pt
+VAL Ep312: rec 0.00010207 perc 0.00003395 ce 18.30547965
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch312.pt
+VAL Ep313: rec 0.00010715 perc 0.00003631 ce 18.36174888
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch313.pt
+VAL Ep314: rec 0.00009470 perc 0.00003200 ce 18.27765115
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch314.pt
+VAL Ep315: rec 0.00009572 perc 0.00003177 ce 18.46603012
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch315.pt
+VAL Ep316: rec 0.00009080 perc 0.00002999 ce 18.87271536
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch316.pt
+VAL Ep317: rec 0.00009720 perc 0.00003176 ce 18.28526326
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch317.pt
+VAL Ep318: rec 0.00009940 perc 0.00003295 ce 18.13527614
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch318.pt
+VAL Ep319: rec 0.00011121 perc 0.00003583 ce 18.66381366
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch319.pt
+VAL Ep320: rec 0.00011786 perc 0.00004033 ce 18.90804196
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch320.pt
+VAL Ep321: rec 0.00009156 perc 0.00003027 ce 18.52737010
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch321.pt
+VAL Ep322: rec 0.00011431 perc 0.00003684 ce 18.67888782
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch322.pt
+VAL Ep323: rec 0.00008838 perc 0.00002898 ce 18.58798300
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch323.pt
+VAL Ep324: rec 0.00011779 perc 0.00003850 ce 19.17696677
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch324.pt
+VAL Ep325: rec 0.00009469 perc 0.00003102 ce 19.03077195
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch325.pt
+VAL Ep326: rec 0.00009592 perc 0.00003172 ce 18.80064329
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch326.pt
+VAL Ep327: rec 0.00008754 perc 0.00002865 ce 18.70447966
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch327.pt
+VAL Ep328: rec 0.00010176 perc 0.00003176 ce 18.55678282
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch328.pt
+VAL Ep329: rec 0.00008649 perc 0.00002916 ce 18.45464645
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch329.pt
+VAL Ep330: rec 0.00008934 perc 0.00003006 ce 18.70206510
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch330.pt
+VAL Ep331: rec 0.00011289 perc 0.00003312 ce 18.94904505
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch331.pt
+VAL Ep332: rec 0.00010303 perc 0.00003486 ce 18.59692024
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch332.pt
+VAL Ep333: rec 0.00015526 perc 0.00006016 ce 19.12468707
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch333.pt
+VAL Ep334: rec 0.00012283 perc 0.00004178 ce 18.50762565
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch334.pt
+VAL Ep335: rec 0.00011720 perc 0.00003876 ce 18.90878476
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch335.pt
+VAL Ep336: rec 0.00008723 perc 0.00002857 ce 18.89091826
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch336.pt
+VAL Ep337: rec 0.00010897 perc 0.00003847 ce 19.50548630
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch337.pt
+VAL Ep338: rec 0.00012057 perc 0.00004161 ce 19.04672654
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch338.pt
+VAL Ep339: rec 0.00010213 perc 0.00003232 ce 19.77727591
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch339.pt
+VAL Ep340: rec 0.00009914 perc 0.00003282 ce 18.96746612
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch340.pt
+VAL Ep341: rec 0.00011642 perc 0.00004120 ce 19.70617948
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch341.pt
+VAL Ep342: rec 0.00014834 perc 0.00005093 ce 19.60687416
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch342.pt
+VAL Ep343: rec 0.00013978 perc 0.00004705 ce 19.79987111
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch343.pt
+VAL Ep344: rec 0.00012989 perc 0.00004571 ce 19.47322007
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch344.pt
+VAL Ep345: rec 0.00012717 perc 0.00004188 ce 19.44862657
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch345.pt
+VAL Ep346: rec 0.00010185 perc 0.00003543 ce 19.47944344
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch346.pt
+VAL Ep347: rec 0.00010739 perc 0.00003476 ce 19.54011683
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch347.pt
+VAL Ep348: rec 0.00008691 perc 0.00002874 ce 19.71763123
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch348.pt
+VAL Ep349: rec 0.00010525 perc 0.00003578 ce 19.61589764
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch349.pt
+VAL Ep350: rec 0.00010667 perc 0.00003593 ce 19.11929057
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch350.pt
+VAL Ep351: rec 0.00010622 perc 0.00003646 ce 19.80664538
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch351.pt
+VAL Ep352: rec 0.00010677 perc 0.00003611 ce 19.88918907
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch352.pt
+VAL Ep353: rec 0.00009470 perc 0.00003084 ce 19.71251650
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch353.pt
+VAL Ep354: rec 0.00010237 perc 0.00003310 ce 19.06975348
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch354.pt
+VAL Ep355: rec 0.00014637 perc 0.00005406 ce 19.54276313
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch355.pt
+VAL Ep356: rec 0.00010653 perc 0.00003369 ce 19.43016859
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch356.pt
+VAL Ep357: rec 0.00008980 perc 0.00003017 ce 20.16969260
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch357.pt
+VAL Ep358: rec 0.00011150 perc 0.00003688 ce 20.16803716
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch358.pt
+VAL Ep359: rec 0.00014370 perc 0.00004368 ce 21.84853288
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch359.pt
+VAL Ep360: rec 0.00010841 perc 0.00003695 ce 20.48693449
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch360.pt
+VAL Ep361: rec 0.00010340 perc 0.00003611 ce 19.75893854
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch361.pt
+VAL Ep362: rec 0.00010119 perc 0.00003240 ce 19.40087565
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch362.pt
+VAL Ep363: rec 0.00011037 perc 0.00003714 ce 20.27983491
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch363.pt
+VAL Ep364: rec 0.00008933 perc 0.00003171 ce 19.62882798
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch364.pt
+VAL Ep365: rec 0.00008370 perc 0.00002816 ce 19.85572623
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch365.pt
+VAL Ep366: rec 0.00008822 perc 0.00002930 ce 19.39886224
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch366.pt
+VAL Ep367: rec 0.00010052 perc 0.00003230 ce 19.96241332
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch367.pt
+VAL Ep368: rec 0.00009147 perc 0.00003097 ce 20.09471375
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch368.pt
+VAL Ep369: rec 0.00009457 perc 0.00003227 ce 20.52657710
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch369.pt
+VAL Ep370: rec 0.00011773 perc 0.00003734 ce 19.88624493
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch370.pt
+VAL Ep371: rec 0.00010546 perc 0.00003566 ce 19.12801523
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch371.pt
+VAL Ep372: rec 0.00012314 perc 0.00004469 ce 19.71249898
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch372.pt
+VAL Ep373: rec 0.00008134 perc 0.00002710 ce 19.87592168
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch373.pt
+VAL Ep374: rec 0.00007858 perc 0.00002564 ce 19.00344531
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch374.pt
+VAL Ep375: rec 0.00012222 perc 0.00004245 ce 20.33474754
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch375.pt
+VAL Ep376: rec 0.00012309 perc 0.00004454 ce 19.51335265
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch376.pt
+VAL Ep377: rec 0.00010424 perc 0.00003850 ce 19.70140376
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch377.pt
+VAL Ep378: rec 0.00012019 perc 0.00004567 ce 19.76698703
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch378.pt
+VAL Ep379: rec 0.00010097 perc 0.00003382 ce 19.76390773
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch379.pt
+VAL Ep380: rec 0.00008971 perc 0.00002997 ce 19.83742375
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch380.pt
+VAL Ep381: rec 0.00010957 perc 0.00003947 ce 19.52855072
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch381.pt
+VAL Ep382: rec 0.00009378 perc 0.00003077 ce 19.63517227
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch382.pt
+VAL Ep383: rec 0.00009629 perc 0.00003234 ce 19.58896726
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch383.pt
+VAL Ep384: rec 0.00009106 perc 0.00002984 ce 19.92613284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch384.pt
+VAL Ep385: rec 0.00012037 perc 0.00004323 ce 20.98356625
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch385.pt
+VAL Ep386: rec 0.00009815 perc 0.00003433 ce 19.97306353
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch386.pt
+VAL Ep387: rec 0.00009016 perc 0.00002905 ce 20.56145404
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch387.pt
+VAL Ep388: rec 0.00009480 perc 0.00003362 ce 19.65489212
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch388.pt
+VAL Ep389: rec 0.00009008 perc 0.00002873 ce 20.16773183
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch389.pt
+VAL Ep390: rec 0.00009772 perc 0.00003010 ce 19.51857327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch390.pt
+VAL Ep391: rec 0.00008465 perc 0.00002812 ce 19.44298382
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch391.pt
+VAL Ep392: rec 0.00007876 perc 0.00002625 ce 20.29353178
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch392.pt
+VAL Ep393: rec 0.00008226 perc 0.00002724 ce 19.64705367
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch393.pt
+VAL Ep394: rec 0.00010620 perc 0.00003410 ce 20.47310371
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch394.pt
+VAL Ep395: rec 0.00008406 perc 0.00002774 ce 20.26736471
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch395.pt
+VAL Ep396: rec 0.00007838 perc 0.00002738 ce 20.15751292
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch396.pt
+VAL Ep397: rec 0.00009343 perc 0.00003140 ce 19.55991751
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch397.pt
+VAL Ep398: rec 0.00008497 perc 0.00002753 ce 19.99505234
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch398.pt
+VAL Ep399: rec 0.00011199 perc 0.00003610 ce 19.95386961
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch399.pt
+VAL Ep400: rec 0.00008544 perc 0.00002821 ce 20.50762089
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch400.pt
+VAL Ep401: rec 0.00008478 perc 0.00002974 ce 21.70824033
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch401.pt
+VAL Ep402: rec 0.00008940 perc 0.00002961 ce 21.09832708
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch402.pt
+VAL Ep403: rec 0.00010210 perc 0.00003687 ce 20.42538084
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch403.pt
+VAL Ep404: rec 0.00009633 perc 0.00003307 ce 21.10349066
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch404.pt
+VAL Ep405: rec 0.00013442 perc 0.00004210 ce 20.13894684
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch405.pt
+VAL Ep406: rec 0.00013977 perc 0.00005369 ce 20.92221083
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch406.pt
+VAL Ep407: rec 0.00008661 perc 0.00003057 ce 20.38964304
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch407.pt
+VAL Ep408: rec 0.00010394 perc 0.00003730 ce 20.31052567
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch408.pt
+VAL Ep409: rec 0.00008248 perc 0.00002796 ce 20.55352412
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch409.pt
+VAL Ep410: rec 0.00008161 perc 0.00002675 ce 20.47294467
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch410.pt
+VAL Ep411: rec 0.00007961 perc 0.00002573 ce 20.61376725
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch411.pt
+VAL Ep412: rec 0.00012030 perc 0.00004228 ce 19.58941195
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch412.pt
+VAL Ep413: rec 0.00011641 perc 0.00003992 ce 19.97656380
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch413.pt
+VAL Ep414: rec 0.00008452 perc 0.00002806 ce 20.65871986
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch414.pt
+VAL Ep415: rec 0.00009818 perc 0.00002986 ce 20.42326313
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch415.pt
+VAL Ep416: rec 0.00008417 perc 0.00002842 ce 20.50513983
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch416.pt
+VAL Ep417: rec 0.00009567 perc 0.00003167 ce 20.91682546
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch417.pt
+VAL Ep418: rec 0.00009322 perc 0.00003393 ce 20.69461289
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch418.pt
+VAL Ep419: rec 0.00009476 perc 0.00003118 ce 20.92022806
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch419.pt
+VAL Ep420: rec 0.00008775 perc 0.00002800 ce 21.50452307
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch420.pt
+VAL Ep421: rec 0.00007975 perc 0.00002723 ce 20.49153708
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch421.pt
+VAL Ep422: rec 0.00008411 perc 0.00002743 ce 20.14456312
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch422.pt
+VAL Ep423: rec 0.00009767 perc 0.00003194 ce 20.21387852
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch423.pt
+VAL Ep424: rec 0.00007659 perc 0.00002606 ce 21.03961838
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch424.pt
+VAL Ep425: rec 0.00007520 perc 0.00002576 ce 20.77928847
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch425.pt
+VAL Ep426: rec 0.00007505 perc 0.00002503 ce 21.36844415
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch426.pt
+VAL Ep427: rec 0.00011452 perc 0.00004045 ce 21.19326556
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch427.pt
+VAL Ep428: rec 0.00007721 perc 0.00002674 ce 20.56618436
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch428.pt
+VAL Ep429: rec 0.00009658 perc 0.00003073 ce 20.62771680
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch429.pt
+VAL Ep430: rec 0.00008500 perc 0.00002715 ce 20.65949393
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch430.pt
+VAL Ep431: rec 0.00009188 perc 0.00003174 ce 20.75519593
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch431.pt
+VAL Ep432: rec 0.00013009 perc 0.00004943 ce 20.85775992
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch432.pt
+VAL Ep433: rec 0.00008254 perc 0.00002994 ce 20.52636244
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch433.pt
+VAL Ep434: rec 0.00008454 perc 0.00002886 ce 21.04849645
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch434.pt
+VAL Ep435: rec 0.00007492 perc 0.00002475 ce 20.86456999
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch435.pt
+VAL Ep436: rec 0.00009296 perc 0.00003047 ce 20.24995232
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch436.pt
+VAL Ep437: rec 0.00008663 perc 0.00002822 ce 20.27539682
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch437.pt
+VAL Ep438: rec 0.00010823 perc 0.00003979 ce 20.65643522
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch438.pt
+VAL Ep439: rec 0.00007765 perc 0.00002776 ce 19.95920799
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch439.pt
+VAL Ep440: rec 0.00012994 perc 0.00004848 ce 19.83814544
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch440.pt
+VAL Ep441: rec 0.00008695 perc 0.00003071 ce 20.23965853
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch441.pt
+VAL Ep442: rec 0.00007793 perc 0.00002565 ce 20.75685121
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch442.pt
+VAL Ep443: rec 0.00008774 perc 0.00002969 ce 20.29011265
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch443.pt
+VAL Ep444: rec 0.00010133 perc 0.00003790 ce 20.93394780
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch444.pt
+VAL Ep445: rec 0.00012056 perc 0.00004535 ce 21.56150101
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch445.pt
+VAL Ep446: rec 0.00007698 perc 0.00002510 ce 20.85571584
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch446.pt
+VAL Ep447: rec 0.00009197 perc 0.00002940 ce 21.59149638
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch447.pt
+VAL Ep448: rec 0.00011594 perc 0.00004045 ce 20.50909404
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch448.pt
+VAL Ep449: rec 0.00007041 perc 0.00002358 ce 20.99932170
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch449.pt
+VAL Ep450: rec 0.00007108 perc 0.00002452 ce 20.99361513
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch450.pt
+VAL Ep451: rec 0.00014257 perc 0.00005196 ce 21.29458925
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch451.pt
+VAL Ep452: rec 0.00008248 perc 0.00002598 ce 21.16016219
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch452.pt
+VAL Ep453: rec 0.00009080 perc 0.00003180 ce 20.39171270
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch453.pt
+VAL Ep454: rec 0.00008730 perc 0.00002870 ce 20.95489875
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch454.pt
+VAL Ep455: rec 0.00008587 perc 0.00003123 ce 20.97795175
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch455.pt
+VAL Ep456: rec 0.00009092 perc 0.00003158 ce 20.54705819
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch456.pt
+VAL Ep457: rec 0.00007108 perc 0.00002349 ce 21.77323394
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch457.pt
+VAL Ep458: rec 0.00009018 perc 0.00003185 ce 21.55717398
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch458.pt
+VAL Ep459: rec 0.00007922 perc 0.00002640 ce 22.03877326
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch459.pt
+VAL Ep460: rec 0.00007365 perc 0.00002492 ce 21.25823931
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch460.pt
+VAL Ep461: rec 0.00008713 perc 0.00003009 ce 20.83589862
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch461.pt
+VAL Ep462: rec 0.00007725 perc 0.00002511 ce 21.44294500
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch462.pt
+VAL Ep463: rec 0.00009321 perc 0.00003508 ce 21.94483097
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch463.pt
+VAL Ep464: rec 0.00009881 perc 0.00003253 ce 21.67891644
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch464.pt
+VAL Ep465: rec 0.00008374 perc 0.00002679 ce 20.81624816
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch465.pt
+VAL Ep466: rec 0.00008908 perc 0.00002943 ce 21.37054434
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch466.pt
+VAL Ep467: rec 0.00007089 perc 0.00002478 ce 20.84839246
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch467.pt
+VAL Ep468: rec 0.00008996 perc 0.00003073 ce 20.56457780
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch468.pt
+VAL Ep469: rec 0.00007746 perc 0.00002525 ce 20.43003954
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch469.pt
+VAL Ep470: rec 0.00007469 perc 0.00002688 ce 20.97824551
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch470.pt
+VAL Ep471: rec 0.00007694 perc 0.00002555 ce 21.41111550
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch471.pt
+VAL Ep472: rec 0.00008057 perc 0.00002711 ce 21.02848347
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch472.pt
+VAL Ep473: rec 0.00012318 perc 0.00004416 ce 21.67020337
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch473.pt
+VAL Ep474: rec 0.00007739 perc 0.00002682 ce 21.21469130
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch474.pt
+VAL Ep475: rec 0.00010218 perc 0.00003616 ce 21.47744179
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch475.pt
+VAL Ep476: rec 0.00009644 perc 0.00003545 ce 20.73013152
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch476.pt
+VAL Ep477: rec 0.00007834 perc 0.00002771 ce 21.03638005
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch477.pt
+VAL Ep478: rec 0.00008688 perc 0.00002984 ce 20.60585728
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch478.pt
+VAL Ep479: rec 0.00007168 perc 0.00002300 ce 21.26289342
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch479.pt
+VAL Ep480: rec 0.00007086 perc 0.00002325 ce 20.79394547
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch480.pt
+VAL Ep481: rec 0.00007228 perc 0.00002511 ce 20.61747456
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch481.pt
+VAL Ep482: rec 0.00010539 perc 0.00003564 ce 20.95232296
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch482.pt
+VAL Ep483: rec 0.00007611 perc 0.00002428 ce 21.70075611
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch483.pt
+VAL Ep484: rec 0.00008326 perc 0.00002774 ce 21.70235559
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch484.pt
+VAL Ep485: rec 0.00009874 perc 0.00003337 ce 20.66034495
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch485.pt
+VAL Ep486: rec 0.00008664 perc 0.00003116 ce 22.69158744
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch486.pt
+VAL Ep487: rec 0.00007582 perc 0.00002482 ce 22.51603653
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch487.pt
+VAL Ep488: rec 0.00010645 perc 0.00003707 ce 21.73101466
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch488.pt
+VAL Ep489: rec 0.00007981 perc 0.00002870 ce 21.84936174
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch489.pt
+VAL Ep490: rec 0.00007984 perc 0.00002549 ce 22.42166702
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch490.pt
+VAL Ep491: rec 0.00007931 perc 0.00002714 ce 22.38733311
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch491.pt
+VAL Ep492: rec 0.00008514 perc 0.00003068 ce 21.57484830
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch492.pt
+VAL Ep493: rec 0.00010926 perc 0.00003742 ce 22.30576637
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch493.pt
+VAL Ep494: rec 0.00010589 perc 0.00003748 ce 21.98531263
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch494.pt
+VAL Ep495: rec 0.00008839 perc 0.00003186 ce 22.22297281
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch495.pt
+VAL Ep496: rec 0.00007377 perc 0.00002512 ce 21.69289019
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch496.pt
+VAL Ep497: rec 0.00006575 perc 0.00002171 ce 21.94023337
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch497.pt
+VAL Ep498: rec 0.00008700 perc 0.00003026 ce 21.50372721
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch498.pt
+VAL Ep499: rec 0.00007314 perc 0.00002478 ce 22.22640815
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch499.pt
+VAL Ep500: rec 0.00008877 perc 0.00002994 ce 21.32808914
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v0_distillization/checkpoint_teacher/teacher_epoch500.pt

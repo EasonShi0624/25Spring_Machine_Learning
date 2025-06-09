@@ -1,0 +1,237 @@
+Epoch 01: Train→ Tot -0.02209258  Recon 0.00017226  Cls 0.03883291  Acc 0.02081129 | Val→ Tot -0.02976712  Recon 0.00003861  Cls 0.03838538  Acc 0.03121693
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch1.pt
+Epoch 02: Train→ Tot -0.03045249  Recon 0.00003341  Cls 0.03755780  Acc 0.02951205 | Val→ Tot -0.03253087  Recon 0.00002815  Cls 0.03717217  Acc 0.03968254
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch2.pt
+Epoch 03: Train→ Tot -0.03432780  Recon 0.00002095  Cls 0.03652472  Acc 0.03968254 | Val→ Tot -0.03654194  Recon 0.00001734  Cls 0.03640587  Acc 0.04444444
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch3.pt
+Epoch 04: Train→ Tot -0.03722308  Recon 0.00001470  Cls 0.03585809  Acc 0.04185773 | Val→ Tot -0.03870188  Recon 0.00001320  Cls 0.03642030  Acc 0.04126984
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch4.pt
+Epoch 05: Train→ Tot -0.03859325  Recon 0.00001250  Cls 0.03534649  Acc 0.05020576 | Val→ Tot -0.03888477  Recon 0.00001313  Cls 0.03578064  Acc 0.04920635
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch5.pt
+Epoch 06: Train→ Tot -0.03932016  Recon 0.00001150  Cls 0.03498867  Acc 0.04973545 | Val→ Tot -0.04012731  Recon 0.00001141  Cls 0.03522067  Acc 0.05291005
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch6.pt
+Epoch 07: Train→ Tot -0.04000090  Recon 0.00001065  Cls 0.03456846  Acc 0.05332158 | Val→ Tot -0.04021416  Recon 0.00001133  Cls 0.03507915  Acc 0.05185185
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch7.pt
+Epoch 08: Train→ Tot -0.04035743  Recon 0.00001028  Cls 0.03427514  Acc 0.05755438 | Val→ Tot -0.03897532  Recon 0.00000981  Cls 0.04740444  Acc 0.01587302
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch8.pt
+Epoch 09: Train→ Tot -0.04121661  Recon 0.00000929  Cls 0.03399089  Acc 0.06319812 | Val→ Tot -0.03818780  Recon 0.00001196  Cls 0.04290417  Acc 0.02486772
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch9.pt
+Epoch 10: Train→ Tot -0.04215940  Recon 0.00000832  Cls 0.03360224  Acc 0.06384480 | Val→ Tot -0.03959553  Recon 0.00001087  Cls 0.03953957  Acc 0.02592593
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch10.pt
+Epoch 11: Train→ Tot -0.04232646  Recon 0.00000821  Cls 0.03339264  Acc 0.06743092 | Val→ Tot -0.04235546  Recon 0.00000821  Cls 0.03699899  Acc 0.03650794
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch11.pt
+Epoch 12: Train→ Tot -0.04308878  Recon 0.00000749  Cls 0.03317377  Acc 0.07189888 | Val→ Tot -0.04214313  Recon 0.00000891  Cls 0.03501104  Acc 0.05555556
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch12.pt
+Epoch 13: Train→ Tot -0.04332749  Recon 0.00000734  Cls 0.03290430  Acc 0.06990006 | Val→ Tot -0.04267077  Recon 0.00000859  Cls 0.03396780  Acc 0.06560847
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch13.pt
+Epoch 14: Train→ Tot -0.04373359  Recon 0.00000700  Cls 0.03274540  Acc 0.07295708 | Val→ Tot -0.04356525  Recon 0.00000770  Cls 0.03384136  Acc 0.06243386
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch14.pt
+Epoch 15: Train→ Tot -0.04407075  Recon 0.00000676  Cls 0.03239797  Acc 0.07619048 | Val→ Tot -0.04491844  Recon 0.00000651  Cls 0.03379648  Acc 0.06190476
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch15.pt
+Epoch 16: Train→ Tot -0.04424615  Recon 0.00000666  Cls 0.03223747  Acc 0.07742504 | Val→ Tot -0.04568199  Recon 0.00000596  Cls 0.03351943  Acc 0.07037037
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch16.pt
+Epoch 17: Train→ Tot -0.04486274  Recon 0.00000619  Cls 0.03199919  Acc 0.07971781 | Val→ Tot -0.04586686  Recon 0.00000580  Cls 0.03363227  Acc 0.06719577
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch17.pt
+Epoch 18: Train→ Tot -0.04507993  Recon 0.00000606  Cls 0.03183370  Acc 0.08465608 | Val→ Tot -0.04297795  Recon 0.00000835  Cls 0.03362570  Acc 0.07354497
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch18.pt
+Epoch 19: Train→ Tot -0.04507822  Recon 0.00000610  Cls 0.03162103  Acc 0.08412698 | Val→ Tot -0.04443734  Recon 0.00000670  Cls 0.03485210  Acc 0.05978836
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch19.pt
+Epoch 20: Train→ Tot -0.04518415  Recon 0.00000607  Cls 0.03138468  Acc 0.08871252 | Val→ Tot -0.04380305  Recon 0.00000649  Cls 0.03900190  Acc 0.03333333
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch20.pt
+Epoch 21: Train→ Tot -0.04545702  Recon 0.00000589  Cls 0.03119152  Acc 0.08941799 | Val→ Tot -0.04548568  Recon 0.00000620  Cls 0.03302085  Acc 0.07407407
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch21.pt
+Epoch 22: Train→ Tot -0.04591315  Recon 0.00000559  Cls 0.03108104  Acc 0.08888889 | Val→ Tot -0.04380490  Recon 0.00000763  Cls 0.03314367  Acc 0.07566138
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch22.pt
+Epoch 23: Train→ Tot -0.04566829  Recon 0.00000578  Cls 0.03094591  Acc 0.09647266 | Val→ Tot -0.04582604  Recon 0.00000576  Cls 0.03406764  Acc 0.07301587
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch23.pt
+Epoch 24: Train→ Tot -0.04705863  Recon 0.00000495  Cls 0.03022380  Acc 0.10088183 | Val→ Tot -0.04693703  Recon 0.00000521  Cls 0.03276079  Acc 0.07883598
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch24.pt
+Epoch 25: Train→ Tot -0.04716977  Recon 0.00000490  Cls 0.03006485  Acc 0.10423280 | Val→ Tot -0.04783620  Recon 0.00000464  Cls 0.03280825  Acc 0.07724868
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch25.pt
+Epoch 26: Train→ Tot -0.04721005  Recon 0.00000491  Cls 0.02991810  Acc 0.10493827 | Val→ Tot -0.04785552  Recon 0.00000459  Cls 0.03311849  Acc 0.07883598
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch26.pt
+Epoch 27: Train→ Tot -0.04742019  Recon 0.00000479  Cls 0.02983017  Acc 0.10570253 | Val→ Tot -0.04730232  Recon 0.00000485  Cls 0.03357048  Acc 0.07037037
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch27.pt
+Epoch 28: Train→ Tot -0.04724709  Recon 0.00000493  Cls 0.02966000  Acc 0.10629042 | Val→ Tot -0.04663251  Recon 0.00000513  Cls 0.03451922  Acc 0.05714286
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch28.pt
+Epoch 29: Train→ Tot -0.04766939  Recon 0.00000469  Cls 0.02945912  Acc 0.11164021 | Val→ Tot -0.04769815  Recon 0.00000463  Cls 0.03347916  Acc 0.06878307
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch29.pt
+Epoch 30: Train→ Tot -0.04785655  Recon 0.00000459  Cls 0.02937747  Acc 0.11216931 | Val→ Tot -0.04822007  Recon 0.00000449  Cls 0.03232025  Acc 0.08412698
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch30.pt
+Epoch 31: Train→ Tot -0.04798752  Recon 0.00000454  Cls 0.02921553  Acc 0.11563786 | Val→ Tot -0.04723055  Recon 0.00000505  Cls 0.03253222  Acc 0.07830688
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch31.pt
+Epoch 32: Train→ Tot -0.04802567  Recon 0.00000455  Cls 0.02905083  Acc 0.11563786 | Val→ Tot -0.04832553  Recon 0.00000444  Cls 0.03224195  Acc 0.08677249
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch32.pt
+Epoch 33: Train→ Tot -0.04822819  Recon 0.00000445  Cls 0.02893864  Acc 0.11957672 | Val→ Tot -0.04884999  Recon 0.00000414  Cls 0.03243005  Acc 0.08412698
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch33.pt
+Epoch 34: Train→ Tot -0.04837176  Recon 0.00000440  Cls 0.02877015  Acc 0.12181070 | Val→ Tot -0.04826944  Recon 0.00000437  Cls 0.03303347  Acc 0.07142857
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch34.pt
+Epoch 35: Train→ Tot -0.04840159  Recon 0.00000439  Cls 0.02866942  Acc 0.12151675 | Val→ Tot -0.04811767  Recon 0.00000456  Cls 0.03222593  Acc 0.08306878
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch35.pt
+Epoch 36: Train→ Tot -0.04845219  Recon 0.00000439  Cls 0.02854047  Acc 0.12263374 | Val→ Tot -0.04880075  Recon 0.00000421  Cls 0.03201165  Acc 0.08518519
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch36.pt
+Epoch 37: Train→ Tot -0.04868733  Recon 0.00000429  Cls 0.02832686  Acc 0.12986479 | Val→ Tot -0.04828929  Recon 0.00000443  Cls 0.03244711  Acc 0.07724868
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch37.pt
+Epoch 38: Train→ Tot -0.04886259  Recon 0.00000419  Cls 0.02827569  Acc 0.12598471 | Val→ Tot -0.04908364  Recon 0.00000401  Cls 0.03244515  Acc 0.08042328
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch38.pt
+Epoch 39: Train→ Tot -0.04883313  Recon 0.00000425  Cls 0.02805323  Acc 0.13621399 | Val→ Tot -0.04766347  Recon 0.00000477  Cls 0.03265229  Acc 0.08201058
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch39.pt
+Epoch 40: Train→ Tot -0.04906121  Recon 0.00000414  Cls 0.02792124  Acc 0.13180482 | Val→ Tot -0.04851380  Recon 0.00000434  Cls 0.03224865  Acc 0.07883598
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch40.pt
+Epoch 41: Train→ Tot -0.04913910  Recon 0.00000412  Cls 0.02778474  Acc 0.13956496 | Val→ Tot -0.04917821  Recon 0.00000402  Cls 0.03200997  Acc 0.08783069
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch41.pt
+Epoch 42: Train→ Tot -0.04921351  Recon 0.00000410  Cls 0.02766393  Acc 0.13974133 | Val→ Tot -0.04925275  Recon 0.00000396  Cls 0.03216790  Acc 0.08518519
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch42.pt
+Epoch 43: Train→ Tot -0.04920343  Recon 0.00000415  Cls 0.02743892  Acc 0.13991770 | Val→ Tot -0.04837163  Recon 0.00000385  Cls 0.03706617  Acc 0.06719577
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch43.pt
+Epoch 44: Train→ Tot -0.04944998  Recon 0.00000404  Cls 0.02724224  Acc 0.14673721 | Val→ Tot -0.04964550  Recon 0.00000378  Cls 0.03212418  Acc 0.08571429
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch44.pt
+Epoch 45: Train→ Tot -0.04951632  Recon 0.00000402  Cls 0.02712921  Acc 0.14803057 | Val→ Tot -0.04908682  Recon 0.00000399  Cls 0.03259809  Acc 0.08253968
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch45.pt
+Epoch 46: Train→ Tot -0.04962343  Recon 0.00000399  Cls 0.02700709  Acc 0.14902998 | Val→ Tot -0.04846982  Recon 0.00000425  Cls 0.03307545  Acc 0.06878307
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch46.pt
+Epoch 47: Train→ Tot -0.04978133  Recon 0.00000393  Cls 0.02682917  Acc 0.15437978 | Val→ Tot -0.04731161  Recon 0.00000493  Cls 0.03303197  Acc 0.08095238
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch47.pt
+Epoch 48: Train→ Tot -0.04979825  Recon 0.00000395  Cls 0.02666322  Acc 0.15643739 | Val→ Tot -0.04942486  Recon 0.00000382  Cls 0.03262205  Acc 0.08412698
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch48.pt
+Epoch 49: Train→ Tot -0.05006350  Recon 0.00000384  Cls 0.02646645  Acc 0.15896531 | Val→ Tot -0.04739687  Recon 0.00000382  Cls 0.04212777  Acc 0.04973545
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch49.pt
+Epoch 50: Train→ Tot -0.05006978  Recon 0.00000385  Cls 0.02638584  Acc 0.15920047 | Val→ Tot -0.04961761  Recon 0.00000377  Cls 0.03229648  Acc 0.08624339
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch50.pt
+Epoch 51: Train→ Tot -0.05070764  Recon 0.00000367  Cls 0.02555092  Acc 0.17730747 | Val→ Tot -0.04941753  Recon 0.00000357  Cls 0.03499073  Acc 0.08465608
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch51.pt
+Epoch 52: Train→ Tot -0.05078833  Recon 0.00000366  Cls 0.02532751  Acc 0.18324515 | Val→ Tot -0.04995138  Recon 0.00000351  Cls 0.03322913  Acc 0.08359788
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch52.pt
+Epoch 53: Train→ Tot -0.05104042  Recon 0.00000359  Cls 0.02501850  Acc 0.18453851 | Val→ Tot -0.04966552  Recon 0.00000354  Cls 0.03420186  Acc 0.08835979
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch53.pt
+Epoch 54: Train→ Tot -0.05113112  Recon 0.00000356  Cls 0.02491034  Acc 0.18430335 | Val→ Tot -0.04988118  Recon 0.00000354  Cls 0.03327987  Acc 0.08677249
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch54.pt
+Epoch 55: Train→ Tot -0.05114204  Recon 0.00000358  Cls 0.02473327  Acc 0.19582598 | Val→ Tot -0.04897645  Recon 0.00000360  Cls 0.03666647  Acc 0.07142857
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch55.pt
+Epoch 56: Train→ Tot -0.05117482  Recon 0.00000357  Cls 0.02470756  Acc 0.19611993 | Val→ Tot -0.04934615  Recon 0.00000349  Cls 0.03610233  Acc 0.07301587
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch56.pt
+Epoch 57: Train→ Tot -0.05135181  Recon 0.00000353  Cls 0.02442426  Acc 0.20094062 | Val→ Tot -0.05027026  Recon 0.00000341  Cls 0.03291224  Acc 0.09153439
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch57.pt
+Epoch 58: Train→ Tot -0.05139450  Recon 0.00000353  Cls 0.02429116  Acc 0.20734862 | Val→ Tot -0.05018898  Recon 0.00000336  Cls 0.03368862  Acc 0.07671958
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch58.pt
+Epoch 59: Train→ Tot -0.05149375  Recon 0.00000351  Cls 0.02415456  Acc 0.20593768 | Val→ Tot -0.05003985  Recon 0.00000342  Cls 0.03380430  Acc 0.07830688
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch59.pt
+Epoch 60: Train→ Tot -0.05157936  Recon 0.00000350  Cls 0.02391839  Acc 0.21787184 | Val→ Tot -0.05022485  Recon 0.00000337  Cls 0.03350059  Acc 0.07460317
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch60.pt
+Epoch 61: Train→ Tot -0.05167617  Recon 0.00000348  Cls 0.02377225  Acc 0.21893004 | Val→ Tot -0.05036431  Recon 0.00000332  Cls 0.03337428  Acc 0.08095238
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch61.pt
+Epoch 62: Train→ Tot -0.05173088  Recon 0.00000346  Cls 0.02371466  Acc 0.22087008 | Val→ Tot -0.04968900  Recon 0.00000338  Cls 0.03577929  Acc 0.08148148
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch62.pt
+Epoch 63: Train→ Tot -0.05170582  Recon 0.00000349  Cls 0.02366560  Acc 0.21751911 | Val→ Tot -0.05020608  Recon 0.00000342  Cls 0.03306414  Acc 0.08941799
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch63.pt
+Epoch 64: Train→ Tot -0.05189064  Recon 0.00000345  Cls 0.02335823  Acc 0.22910053 | Val→ Tot -0.04966964  Recon 0.00000342  Cls 0.03538430  Acc 0.07936508
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch64.pt
+Epoch 65: Train→ Tot -0.05198931  Recon 0.00000344  Cls 0.02312840  Acc 0.22974721 | Val→ Tot -0.04852780  Recon 0.00000330  Cls 0.04232331  Acc 0.07248677
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch65.pt
+Epoch 66: Train→ Tot -0.05197622  Recon 0.00000344  Cls 0.02314021  Acc 0.23568489 | Val→ Tot -0.05002102  Recon 0.00000350  Cls 0.03301409  Acc 0.08994709
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch66.pt
+Epoch 67: Train→ Tot -0.05209737  Recon 0.00000342  Cls 0.02294134  Acc 0.23880071 | Val→ Tot -0.04986195  Recon 0.00000328  Cls 0.03604943  Acc 0.08253968
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch67.pt
+Epoch 68: Train→ Tot -0.05258492  Recon 0.00000333  Cls 0.02212409  Acc 0.25808348 | Val→ Tot -0.04997258  Recon 0.00000323  Cls 0.03604262  Acc 0.07460317
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch68.pt
+Epoch 69: Train→ Tot -0.05270428  Recon 0.00000330  Cls 0.02199485  Acc 0.26654909 | Val→ Tot -0.05049424  Recon 0.00000323  Cls 0.03375351  Acc 0.07566138
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch69.pt
+Epoch 70: Train→ Tot -0.05282624  Recon 0.00000328  Cls 0.02180981  Acc 0.26707819 | Val→ Tot -0.04980645  Recon 0.00000324  Cls 0.03674940  Acc 0.08253968
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch70.pt
+Epoch 71: Train→ Tot -0.05294542  Recon 0.00000328  Cls 0.02148693  Acc 0.27519106 | Val→ Tot -0.04973418  Recon 0.00000318  Cls 0.03781165  Acc 0.07777778
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch71.pt
+Epoch 72: Train→ Tot -0.05296703  Recon 0.00000327  Cls 0.02146270  Acc 0.27307466 | Val→ Tot -0.05006764  Recon 0.00000315  Cls 0.03659517  Acc 0.07724868
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch72.pt
+Epoch 73: Train→ Tot -0.05300040  Recon 0.00000328  Cls 0.02132742  Acc 0.28165785 | Val→ Tot -0.04987645  Recon 0.00000315  Cls 0.03746031  Acc 0.07460317
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch73.pt
+Epoch 74: Train→ Tot -0.05302273  Recon 0.00000327  Cls 0.02132890  Acc 0.28030570 | Val→ Tot -0.04955038  Recon 0.00000317  Cls 0.03876616  Acc 0.07619048
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch74.pt
+Epoch 75: Train→ Tot -0.05312572  Recon 0.00000326  Cls 0.02109383  Acc 0.28712522 | Val→ Tot -0.04899670  Recon 0.00000316  Cls 0.04167097  Acc 0.06772487
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch75.pt
+Epoch 76: Train→ Tot -0.05335730  Recon 0.00000322  Cls 0.02078197  Acc 0.29729571 | Val→ Tot -0.04976646  Recon 0.00000309  Cls 0.03868957  Acc 0.07195767
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch76.pt
+Epoch 77: Train→ Tot -0.05348062  Recon 0.00000320  Cls 0.02052484  Acc 0.30834803 | Val→ Tot -0.04918297  Recon 0.00000310  Cls 0.04152292  Acc 0.06931217
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch77.pt
+Epoch 78: Train→ Tot -0.05349874  Recon 0.00000320  Cls 0.02050106  Acc 0.30088183 | Val→ Tot -0.04970138  Recon 0.00000311  Cls 0.03872909  Acc 0.07354497
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch78.pt
+Epoch 79: Train→ Tot -0.05362778  Recon 0.00000319  Cls 0.02026490  Acc 0.30917108 | Val→ Tot -0.04864318  Recon 0.00000310  Cls 0.04439357  Acc 0.06984127
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch79.pt
+Epoch 80: Train→ Tot -0.05364165  Recon 0.00000319  Cls 0.02019806  Acc 0.31105232 | Val→ Tot -0.05009791  Recon 0.00000313  Cls 0.03666348  Acc 0.07830688
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch80.pt
+Epoch 81: Train→ Tot -0.05367458  Recon 0.00000320  Cls 0.02009049  Acc 0.31164021 | Val→ Tot -0.04919977  Recon 0.00000309  Cls 0.04157519  Acc 0.07513228
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch81.pt
+Epoch 82: Train→ Tot -0.05383882  Recon 0.00000317  Cls 0.01981718  Acc 0.32216343 | Val→ Tot -0.04957380  Recon 0.00000308  Cls 0.03980001  Acc 0.07460317
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch82.pt
+Epoch 83: Train→ Tot -0.05383982  Recon 0.00000316  Cls 0.01984680  Acc 0.32427984 | Val→ Tot -0.04957665  Recon 0.00000306  Cls 0.04000203  Acc 0.07883598
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch83.pt
+Epoch 84: Train→ Tot -0.05389847  Recon 0.00000316  Cls 0.01971835  Acc 0.32580835 | Val→ Tot -0.04963369  Recon 0.00000307  Cls 0.03968748  Acc 0.07883598
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch84.pt
+Epoch 85: Train→ Tot -0.05390653  Recon 0.00000316  Cls 0.01968484  Acc 0.33051146 | Val→ Tot -0.04942670  Recon 0.00000306  Cls 0.04083821  Acc 0.07089947
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch85.pt
+Epoch 86: Train→ Tot -0.05396475  Recon 0.00000316  Cls 0.01960001  Acc 0.33168724 | Val→ Tot -0.04949875  Recon 0.00000307  Cls 0.04028082  Acc 0.07830688
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch86.pt
+Epoch 87: Train→ Tot -0.05393035  Recon 0.00000316  Cls 0.01965666  Acc 0.32645503 | Val→ Tot -0.04953351  Recon 0.00000305  Cls 0.04034668  Acc 0.07777778
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch87.pt
+Epoch 88: Train→ Tot -0.05404969  Recon 0.00000314  Cls 0.01947720  Acc 0.33497942 | Val→ Tot -0.04929507  Recon 0.00000305  Cls 0.04170818  Acc 0.07142857
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch88.pt
+Epoch 89: Train→ Tot -0.05406325  Recon 0.00000314  Cls 0.01942081  Acc 0.33544974 | Val→ Tot -0.04925004  Recon 0.00000304  Cls 0.04195535  Acc 0.07513228
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch89.pt
+Epoch 90: Train→ Tot -0.05408895  Recon 0.00000313  Cls 0.01942610  Acc 0.33674309 | Val→ Tot -0.04926864  Recon 0.00000305  Cls 0.04179159  Acc 0.07195767
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch90.pt
+Epoch 91: Train→ Tot -0.05407179  Recon 0.00000314  Cls 0.01943983  Acc 0.33198119 | Val→ Tot -0.04926068  Recon 0.00000304  Cls 0.04190874  Acc 0.07671958
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch91.pt
+Epoch 92: Train→ Tot -0.05412242  Recon 0.00000314  Cls 0.01933789  Acc 0.33644915 | Val→ Tot -0.04924086  Recon 0.00000304  Cls 0.04202892  Acc 0.07460317
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch92.pt
+Epoch 93: Train→ Tot -0.05413660  Recon 0.00000313  Cls 0.01931568  Acc 0.33668430 | Val→ Tot -0.04935445  Recon 0.00000305  Cls 0.04137431  Acc 0.07195767
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch93.pt
+Epoch 94: Train→ Tot -0.05412443  Recon 0.00000313  Cls 0.01935619  Acc 0.33680188 | Val→ Tot -0.04908751  Recon 0.00000304  Cls 0.04289258  Acc 0.07830688
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch94.pt
+Epoch 95: Train→ Tot -0.05420956  Recon 0.00000312  Cls 0.01920291  Acc 0.34109347 | Val→ Tot -0.04924335  Recon 0.00000304  Cls 0.04209762  Acc 0.07407407
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch95.pt
+Epoch 96: Train→ Tot -0.05415868  Recon 0.00000313  Cls 0.01925640  Acc 0.34168136 | Val→ Tot -0.04946234  Recon 0.00000304  Cls 0.04086652  Acc 0.07566138
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch96.pt
+Epoch 97: Train→ Tot -0.05418287  Recon 0.00000313  Cls 0.01921588  Acc 0.34150500 | Val→ Tot -0.04930046  Recon 0.00000304  Cls 0.04177503  Acc 0.07460317
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch97.pt
+Epoch 98: Train→ Tot -0.05420807  Recon 0.00000313  Cls 0.01914792  Acc 0.34309230 | Val→ Tot -0.04911359  Recon 0.00000304  Cls 0.04280049  Acc 0.07513228
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch98.pt
+Epoch 99: Train→ Tot -0.05419370  Recon 0.00000313  Cls 0.01916935  Acc 0.34562022 | Val→ Tot -0.04915488  Recon 0.00000304  Cls 0.04259127  Acc 0.07407407
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch99.pt
+Epoch 100: Train→ Tot -0.05418036  Recon 0.00000313  Cls 0.01919481  Acc 0.34003527 | Val→ Tot -0.04922433  Recon 0.00000303  Cls 0.04223517  Acc 0.07195767
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch100.pt
+Epoch 101: Train→ Tot -0.05426476  Recon 0.00000313  Cls 0.01901664  Acc 0.34644327 | Val→ Tot -0.04929481  Recon 0.00000304  Cls 0.04183049  Acc 0.07301587
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch101.pt
+Epoch 102: Train→ Tot -0.05418172  Recon 0.00000313  Cls 0.01919700  Acc 0.34444444 | Val→ Tot -0.04913975  Recon 0.00000303  Cls 0.04269607  Acc 0.07619048
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch102.pt
+Epoch 103: Train→ Tot -0.05420638  Recon 0.00000313  Cls 0.01915983  Acc 0.34179894 | Val→ Tot -0.04925013  Recon 0.00000304  Cls 0.04207204  Acc 0.07301587
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch103.pt
+Epoch 104: Train→ Tot -0.05423267  Recon 0.00000312  Cls 0.01914725  Acc 0.34150500 | Val→ Tot -0.04918375  Recon 0.00000303  Cls 0.04246673  Acc 0.07301587
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch104.pt
+Epoch 105: Train→ Tot -0.05426790  Recon 0.00000312  Cls 0.01904705  Acc 0.34291593 | Val→ Tot -0.04914912  Recon 0.00000303  Cls 0.04265347  Acc 0.07460317
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch105.pt
+Epoch 106: Train→ Tot -0.05424283  Recon 0.00000312  Cls 0.01912598  Acc 0.34556143 | Val→ Tot -0.04923417  Recon 0.00000303  Cls 0.04221563  Acc 0.07301587
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch106.pt
+Epoch 107: Train→ Tot -0.05425442  Recon 0.00000312  Cls 0.01909900  Acc 0.34585538 | Val→ Tot -0.04919738  Recon 0.00000303  Cls 0.04238757  Acc 0.07619048
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch107.pt
+Epoch 108: Train→ Tot -0.05427921  Recon 0.00000311  Cls 0.01906994  Acc 0.34808936 | Val→ Tot -0.04914368  Recon 0.00000303  Cls 0.04268033  Acc 0.07354497
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch108.pt
+Epoch 109: Train→ Tot -0.05428541  Recon 0.00000312  Cls 0.01902876  Acc 0.34432687 | Val→ Tot -0.04919347  Recon 0.00000303  Cls 0.04244823  Acc 0.07407407
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch109.pt
+Epoch 110: Train→ Tot -0.05418832  Recon 0.00000311  Cls 0.01930684  Acc 0.34162257 | Val→ Tot -0.04918382  Recon 0.00000304  Cls 0.04241099  Acc 0.07142857
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch110.pt
+Epoch 111: Train→ Tot -0.05420530  Recon 0.00000312  Cls 0.01919667  Acc 0.33997648 | Val→ Tot -0.04926270  Recon 0.00000303  Cls 0.04207158  Acc 0.07301587
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch111.pt
+Epoch 112: Train→ Tot -0.05428501  Recon 0.00000312  Cls 0.01903893  Acc 0.34656085 | Val→ Tot -0.04918587  Recon 0.00000303  Cls 0.04243753  Acc 0.07460317
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch112.pt
+Epoch 113: Train→ Tot -0.05424476  Recon 0.00000312  Cls 0.01913185  Acc 0.34144621 | Val→ Tot -0.04922212  Recon 0.00000303  Cls 0.04226024  Acc 0.07142857
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch113.pt
+Epoch 114: Train→ Tot -0.05424554  Recon 0.00000312  Cls 0.01913545  Acc 0.34850088 | Val→ Tot -0.04916750  Recon 0.00000303  Cls 0.04257155  Acc 0.07513228
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch114.pt
+Epoch 115: Train→ Tot -0.05426886  Recon 0.00000311  Cls 0.01909025  Acc 0.34479718 | Val→ Tot -0.04917676  Recon 0.00000303  Cls 0.04255181  Acc 0.07142857
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch115.pt
+Epoch 116: Train→ Tot -0.05426116  Recon 0.00000312  Cls 0.01905054  Acc 0.34997061 | Val→ Tot -0.04916864  Recon 0.00000303  Cls 0.04258585  Acc 0.07142857
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch116.pt
+Epoch 117: Train→ Tot -0.05425733  Recon 0.00000312  Cls 0.01907219  Acc 0.34897119 | Val→ Tot -0.04921487  Recon 0.00000303  Cls 0.04233379  Acc 0.07301587
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch117.pt
+Epoch 118: Train→ Tot -0.05429647  Recon 0.00000312  Cls 0.01902972  Acc 0.34867725 | Val→ Tot -0.04915899  Recon 0.00000304  Cls 0.04256690  Acc 0.07248677
+✓ saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v10088_final/more_layer_cls/manual_search/w1dp0.2_Mish/checkpoint/Mish_weight1_droppath0.2_epoch118.pt
+⏹ Early-stopping after 119 epochs (no impro. for 50)

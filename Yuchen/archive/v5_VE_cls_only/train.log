@@ -1,0 +1,1300 @@
+ → VAL recon=475.8038, acc=0.0476
+Saved checkpoint_epoch1.pt
+ → VAL recon=322.3623, acc=0.0481
+Saved checkpoint_epoch2.pt
+ → VAL recon=255.4492, acc=0.0532
+Saved checkpoint_epoch3.pt
+ → VAL recon=206.6968, acc=0.0495
+Saved checkpoint_epoch4.pt
+ → VAL recon=244.3483, acc=0.0495
+Saved checkpoint_epoch5.pt
+ → VAL recon=169.8125, acc=0.0505
+Saved checkpoint_epoch6.pt
+ → VAL recon=147.3031, acc=0.0484
+Saved checkpoint_epoch7.pt
+ → VAL recon=193.0633, acc=0.0450
+Saved checkpoint_epoch8.pt
+ → VAL recon=113.6401, acc=0.0487
+Saved checkpoint_epoch9.pt
+ → VAL recon=108.2249, acc=0.0540
+Saved checkpoint_epoch10.pt
+ → VAL recon=119.9590, acc=0.0511
+Saved checkpoint_epoch11.pt
+ → VAL recon=105.3825, acc=0.0495
+Saved checkpoint_epoch12.pt
+ → VAL recon=102.6759, acc=0.0511
+Saved checkpoint_epoch13.pt
+ → VAL recon=104.9589, acc=0.0548
+Saved checkpoint_epoch14.pt
+ → VAL recon=110.7812, acc=0.0487
+Saved checkpoint_epoch15.pt
+ → VAL recon=97.4264, acc=0.0505
+Saved checkpoint_epoch16.pt
+ → VAL recon=102.1693, acc=0.0479
+Saved checkpoint_epoch17.pt
+ → VAL recon=86.6564, acc=0.0519
+Saved checkpoint_epoch18.pt
+ → VAL recon=89.9242, acc=0.0500
+Saved checkpoint_epoch19.pt
+ → VAL recon=85.9913, acc=0.0534
+Saved checkpoint_epoch20.pt
+ → VAL recon=93.9934, acc=0.0511
+Saved checkpoint_epoch21.pt
+ → VAL recon=88.7222, acc=0.0526
+Saved checkpoint_epoch22.pt
+ → VAL recon=81.9755, acc=0.0532
+Saved checkpoint_epoch23.pt
+ → VAL recon=83.1816, acc=0.0556
+Saved checkpoint_epoch24.pt
+ → VAL recon=83.0409, acc=0.0553
+Saved checkpoint_epoch25.pt
+ → VAL recon=80.2996, acc=0.0511
+Saved checkpoint_epoch26.pt
+ → VAL recon=72.7484, acc=0.0537
+Saved checkpoint_epoch27.pt
+ → VAL recon=75.5295, acc=0.0579
+Saved checkpoint_epoch28.pt
+ → VAL recon=71.7320, acc=0.0542
+Saved checkpoint_epoch29.pt
+ → VAL recon=72.3131, acc=0.0556
+Saved checkpoint_epoch30.pt
+ → VAL recon=71.6421, acc=0.0545
+Saved checkpoint_epoch31.pt
+ → VAL recon=69.7145, acc=0.0556
+Saved checkpoint_epoch32.pt
+ → VAL recon=71.5436, acc=0.0566
+Saved checkpoint_epoch33.pt
+ → VAL recon=72.6497, acc=0.0550
+Saved checkpoint_epoch34.pt
+ → VAL recon=77.1916, acc=0.0540
+Saved checkpoint_epoch35.pt
+ → VAL recon=68.1778, acc=0.0558
+Saved checkpoint_epoch36.pt
+ → VAL recon=70.7814, acc=0.0558
+Saved checkpoint_epoch37.pt
+ → VAL recon=66.5175, acc=0.0548
+Saved checkpoint_epoch38.pt
+ → VAL recon=66.4419, acc=0.0556
+Saved checkpoint_epoch39.pt
+ → VAL recon=66.1354, acc=0.0561
+Saved checkpoint_epoch40.pt
+ → VAL recon=65.8866, acc=0.0529
+Saved checkpoint_epoch41.pt
+ → VAL recon=65.6357, acc=0.0534
+Saved checkpoint_epoch42.pt
+ → VAL recon=65.5276, acc=0.0561
+Saved checkpoint_epoch43.pt
+ → VAL recon=64.8713, acc=0.0550
+Saved checkpoint_epoch44.pt
+ → VAL recon=64.8454, acc=0.0558
+Saved checkpoint_epoch45.pt
+ → VAL recon=64.8602, acc=0.0550
+Saved checkpoint_epoch46.pt
+ → VAL recon=64.6759, acc=0.0553
+Saved checkpoint_epoch47.pt
+ → VAL recon=64.6798, acc=0.0548
+Saved checkpoint_epoch48.pt
+ → VAL recon=64.9159, acc=0.0558
+Saved checkpoint_epoch49.pt
+ → VAL recon=101.5464, acc=0.0513
+Saved checkpoint_epoch50.pt
+ → VAL recon=120.9852, acc=0.0500
+Saved checkpoint_epoch51.pt
+ → VAL recon=97.1591, acc=0.0492
+Saved checkpoint_epoch52.pt
+ → VAL recon=80.5537, acc=0.0495
+Saved checkpoint_epoch53.pt
+ → VAL recon=74.0065, acc=0.0526
+Saved checkpoint_epoch54.pt
+ → VAL recon=78.6784, acc=0.0479
+Saved checkpoint_epoch55.pt
+ → VAL recon=86.4380, acc=0.0413
+Saved checkpoint_epoch56.pt
+ → VAL recon=91.2204, acc=0.0450
+Saved checkpoint_epoch57.pt
+ → VAL recon=74.3304, acc=0.0460
+Saved checkpoint_epoch58.pt
+ → VAL recon=99.9797, acc=0.0474
+Saved checkpoint_epoch59.pt
+ → VAL recon=80.9451, acc=0.0476
+Saved checkpoint_epoch60.pt
+ → VAL recon=71.4833, acc=0.0503
+Saved checkpoint_epoch61.pt
+ → VAL recon=79.2515, acc=0.0516
+Saved checkpoint_epoch62.pt
+ → VAL recon=68.0342, acc=0.0497
+Saved checkpoint_epoch63.pt
+ → VAL recon=74.3712, acc=0.0495
+Saved checkpoint_epoch64.pt
+ → VAL recon=116.5733, acc=0.0521
+Saved checkpoint_epoch65.pt
+ → VAL recon=66.6077, acc=0.0508
+Saved checkpoint_epoch66.pt
+ → VAL recon=74.6023, acc=0.0550
+Saved checkpoint_epoch67.pt
+ → VAL recon=72.7917, acc=0.0569
+Saved checkpoint_epoch68.pt
+ → VAL recon=85.3843, acc=0.0516
+Saved checkpoint_epoch69.pt
+ → VAL recon=65.2596, acc=0.0513
+Saved checkpoint_epoch70.pt
+ → VAL recon=83.4629, acc=0.0540
+Saved checkpoint_epoch71.pt
+ → VAL recon=60.9015, acc=0.0505
+Saved checkpoint_epoch72.pt
+ → VAL recon=65.9432, acc=0.0542
+Saved checkpoint_epoch73.pt
+ → VAL recon=77.2570, acc=0.0516
+Saved checkpoint_epoch74.pt
+ → VAL recon=64.3938, acc=0.0495
+Saved checkpoint_epoch75.pt
+ → VAL recon=68.9745, acc=0.0505
+Saved checkpoint_epoch76.pt
+ → VAL recon=59.9852, acc=0.0529
+Saved checkpoint_epoch77.pt
+ → VAL recon=71.3564, acc=0.0524
+Saved checkpoint_epoch78.pt
+ → VAL recon=76.2257, acc=0.0566
+Saved checkpoint_epoch79.pt
+ → VAL recon=60.3892, acc=0.0563
+Saved checkpoint_epoch80.pt
+ → VAL recon=76.4013, acc=0.0511
+Saved checkpoint_epoch81.pt
+ → VAL recon=58.3508, acc=0.0516
+Saved checkpoint_epoch82.pt
+ → VAL recon=64.7667, acc=0.0524
+Saved checkpoint_epoch83.pt
+ → VAL recon=62.4593, acc=0.0481
+Saved checkpoint_epoch84.pt
+ → VAL recon=62.9832, acc=0.0513
+Saved checkpoint_epoch85.pt
+ → VAL recon=57.3608, acc=0.0495
+Saved checkpoint_epoch86.pt
+ → VAL recon=58.4627, acc=0.0561
+Saved checkpoint_epoch87.pt
+ → VAL recon=62.6255, acc=0.0540
+Saved checkpoint_epoch88.pt
+ → VAL recon=57.0426, acc=0.0534
+Saved checkpoint_epoch89.pt
+ → VAL recon=63.4588, acc=0.0500
+Saved checkpoint_epoch90.pt
+ → VAL recon=59.9203, acc=0.0500
+Saved checkpoint_epoch91.pt
+ → VAL recon=57.8517, acc=0.0548
+Saved checkpoint_epoch92.pt
+ → VAL recon=66.0295, acc=0.0542
+Saved checkpoint_epoch93.pt
+ → VAL recon=60.7763, acc=0.0558
+Saved checkpoint_epoch94.pt
+ → VAL recon=71.5448, acc=0.0545
+Saved checkpoint_epoch95.pt
+ → VAL recon=58.0961, acc=0.0532
+Saved checkpoint_epoch96.pt
+ → VAL recon=54.7842, acc=0.0529
+Saved checkpoint_epoch97.pt
+ → VAL recon=57.7116, acc=0.0582
+Saved checkpoint_epoch98.pt
+ → VAL recon=55.0593, acc=0.0537
+Saved checkpoint_epoch99.pt
+ → VAL recon=66.1876, acc=0.0561
+Saved checkpoint_epoch100.pt
+ → VAL recon=56.6353, acc=0.0556
+Saved checkpoint_epoch101.pt
+ → VAL recon=63.2699, acc=0.0569
+Saved checkpoint_epoch102.pt
+ → VAL recon=55.0061, acc=0.0569
+Saved checkpoint_epoch103.pt
+ → VAL recon=54.0835, acc=0.0526
+Saved checkpoint_epoch104.pt
+ → VAL recon=54.2146, acc=0.0563
+Saved checkpoint_epoch105.pt
+ → VAL recon=52.9946, acc=0.0553
+Saved checkpoint_epoch106.pt
+ → VAL recon=57.2944, acc=0.0513
+Saved checkpoint_epoch107.pt
+ → VAL recon=71.0957, acc=0.0500
+Saved checkpoint_epoch108.pt
+ → VAL recon=55.2118, acc=0.0526
+Saved checkpoint_epoch109.pt
+ → VAL recon=65.2638, acc=0.0526
+Saved checkpoint_epoch110.pt
+ → VAL recon=55.5910, acc=0.0532
+Saved checkpoint_epoch111.pt
+ → VAL recon=59.8952, acc=0.0526
+Saved checkpoint_epoch112.pt
+ → VAL recon=56.5632, acc=0.0534
+Saved checkpoint_epoch113.pt
+ → VAL recon=50.8199, acc=0.0558
+Saved checkpoint_epoch114.pt
+ → VAL recon=55.2481, acc=0.0511
+Saved checkpoint_epoch115.pt
+ → VAL recon=55.9592, acc=0.0500
+Saved checkpoint_epoch116.pt
+ → VAL recon=57.4727, acc=0.0500
+Saved checkpoint_epoch117.pt
+ → VAL recon=56.8779, acc=0.0537
+Saved checkpoint_epoch118.pt
+ → VAL recon=50.4925, acc=0.0540
+Saved checkpoint_epoch119.pt
+ → VAL recon=53.9108, acc=0.0487
+Saved checkpoint_epoch120.pt
+ → VAL recon=51.8623, acc=0.0519
+Saved checkpoint_epoch121.pt
+ → VAL recon=50.5403, acc=0.0526
+Saved checkpoint_epoch122.pt
+ → VAL recon=50.8033, acc=0.0537
+Saved checkpoint_epoch123.pt
+ → VAL recon=54.9813, acc=0.0532
+Saved checkpoint_epoch124.pt
+ → VAL recon=50.8539, acc=0.0556
+Saved checkpoint_epoch125.pt
+ → VAL recon=51.8842, acc=0.0553
+Saved checkpoint_epoch126.pt
+ → VAL recon=51.0507, acc=0.0500
+Saved checkpoint_epoch127.pt
+ → VAL recon=49.6274, acc=0.0529
+Saved checkpoint_epoch128.pt
+ → VAL recon=49.9775, acc=0.0532
+Saved checkpoint_epoch129.pt
+ → VAL recon=49.2184, acc=0.0540
+Saved checkpoint_epoch130.pt
+ → VAL recon=53.1349, acc=0.0521
+Saved checkpoint_epoch131.pt
+ → VAL recon=50.1707, acc=0.0534
+Saved checkpoint_epoch132.pt
+ → VAL recon=48.5180, acc=0.0505
+Saved checkpoint_epoch133.pt
+ → VAL recon=51.7712, acc=0.0511
+Saved checkpoint_epoch134.pt
+ → VAL recon=48.0373, acc=0.0532
+Saved checkpoint_epoch135.pt
+ → VAL recon=47.8442, acc=0.0532
+Saved checkpoint_epoch136.pt
+ → VAL recon=51.0654, acc=0.0521
+Saved checkpoint_epoch137.pt
+ → VAL recon=48.6185, acc=0.0526
+Saved checkpoint_epoch138.pt
+ → VAL recon=48.0083, acc=0.0561
+Saved checkpoint_epoch139.pt
+ → VAL recon=54.2334, acc=0.0521
+Saved checkpoint_epoch140.pt
+ → VAL recon=48.8129, acc=0.0529
+Saved checkpoint_epoch141.pt
+ → VAL recon=49.7037, acc=0.0505
+Saved checkpoint_epoch142.pt
+ → VAL recon=50.9559, acc=0.0561
+Saved checkpoint_epoch143.pt
+ → VAL recon=47.0862, acc=0.0558
+Saved checkpoint_epoch144.pt
+ → VAL recon=47.6098, acc=0.0545
+Saved checkpoint_epoch145.pt
+ → VAL recon=46.9771, acc=0.0545
+Saved checkpoint_epoch146.pt
+ → VAL recon=47.7668, acc=0.0590
+Saved checkpoint_epoch147.pt
+ → VAL recon=49.2541, acc=0.0561
+Saved checkpoint_epoch148.pt
+ → VAL recon=50.1012, acc=0.0526
+Saved checkpoint_epoch149.pt
+ → VAL recon=47.0863, acc=0.0540
+Saved checkpoint_epoch150.pt
+ → VAL recon=46.7526, acc=0.0556
+Saved checkpoint_epoch151.pt
+ → VAL recon=46.6860, acc=0.0540
+Saved checkpoint_epoch152.pt
+ → VAL recon=45.8920, acc=0.0553
+Saved checkpoint_epoch153.pt
+ → VAL recon=45.9242, acc=0.0532
+Saved checkpoint_epoch154.pt
+ → VAL recon=47.1141, acc=0.0548
+Saved checkpoint_epoch155.pt
+ → VAL recon=46.8796, acc=0.0548
+Saved checkpoint_epoch156.pt
+ → VAL recon=45.8846, acc=0.0529
+Saved checkpoint_epoch157.pt
+ → VAL recon=45.8284, acc=0.0540
+Saved checkpoint_epoch158.pt
+ → VAL recon=45.4806, acc=0.0561
+Saved checkpoint_epoch159.pt
+ → VAL recon=46.5864, acc=0.0550
+Saved checkpoint_epoch160.pt
+ → VAL recon=45.5503, acc=0.0534
+Saved checkpoint_epoch161.pt
+ → VAL recon=45.3951, acc=0.0569
+Saved checkpoint_epoch162.pt
+ → VAL recon=46.3903, acc=0.0548
+Saved checkpoint_epoch163.pt
+ → VAL recon=45.8155, acc=0.0563
+Saved checkpoint_epoch164.pt
+ → VAL recon=46.8505, acc=0.0550
+Saved checkpoint_epoch165.pt
+ → VAL recon=45.6290, acc=0.0550
+Saved checkpoint_epoch166.pt
+ → VAL recon=45.5483, acc=0.0542
+Saved checkpoint_epoch167.pt
+ → VAL recon=45.1071, acc=0.0571
+Saved checkpoint_epoch168.pt
+ → VAL recon=45.8038, acc=0.0550
+Saved checkpoint_epoch169.pt
+ → VAL recon=45.0380, acc=0.0566
+Saved checkpoint_epoch170.pt
+ → VAL recon=44.8705, acc=0.0540
+Saved checkpoint_epoch171.pt
+ → VAL recon=45.1626, acc=0.0550
+Saved checkpoint_epoch172.pt
+ → VAL recon=44.7198, acc=0.0558
+Saved checkpoint_epoch173.pt
+ → VAL recon=44.6301, acc=0.0574
+Saved checkpoint_epoch174.pt
+ → VAL recon=44.6292, acc=0.0545
+Saved checkpoint_epoch175.pt
+ → VAL recon=45.0266, acc=0.0542
+Saved checkpoint_epoch176.pt
+ → VAL recon=44.6314, acc=0.0553
+Saved checkpoint_epoch177.pt
+ → VAL recon=45.1109, acc=0.0558
+Saved checkpoint_epoch178.pt
+ → VAL recon=44.6028, acc=0.0571
+Saved checkpoint_epoch179.pt
+ → VAL recon=45.2445, acc=0.0556
+Saved checkpoint_epoch180.pt
+ → VAL recon=44.6764, acc=0.0558
+Saved checkpoint_epoch181.pt
+ → VAL recon=44.5848, acc=0.0553
+Saved checkpoint_epoch182.pt
+ → VAL recon=45.2088, acc=0.0566
+Saved checkpoint_epoch183.pt
+ → VAL recon=44.5817, acc=0.0556
+Saved checkpoint_epoch184.pt
+ → VAL recon=45.1779, acc=0.0553
+Saved checkpoint_epoch185.pt
+ → VAL recon=44.7834, acc=0.0558
+Saved checkpoint_epoch186.pt
+ → VAL recon=44.3373, acc=0.0558
+Saved checkpoint_epoch187.pt
+ → VAL recon=44.5349, acc=0.0561
+Saved checkpoint_epoch188.pt
+ → VAL recon=44.6266, acc=0.0561
+Saved checkpoint_epoch189.pt
+ → VAL recon=44.6969, acc=0.0558
+Saved checkpoint_epoch190.pt
+ → VAL recon=44.6645, acc=0.0558
+Saved checkpoint_epoch191.pt
+ → VAL recon=45.2140, acc=0.0553
+Saved checkpoint_epoch192.pt
+ → VAL recon=44.7088, acc=0.0553
+Saved checkpoint_epoch193.pt
+ → VAL recon=44.4736, acc=0.0556
+Saved checkpoint_epoch194.pt
+ → VAL recon=44.9595, acc=0.0548
+Saved checkpoint_epoch195.pt
+ → VAL recon=44.3938, acc=0.0553
+Saved checkpoint_epoch196.pt
+ → VAL recon=44.3158, acc=0.0558
+Saved checkpoint_epoch197.pt
+ → VAL recon=44.2080, acc=0.0553
+Saved checkpoint_epoch198.pt
+ → VAL recon=44.4001, acc=0.0550
+Saved checkpoint_epoch199.pt
+ → VAL recon=57.3826, acc=0.0508
+Saved checkpoint_epoch200.pt
+ → VAL recon=63.2972, acc=0.0505
+Saved checkpoint_epoch201.pt
+ → VAL recon=60.8644, acc=0.0434
+Saved checkpoint_epoch202.pt
+ → VAL recon=57.4641, acc=0.0489
+Saved checkpoint_epoch203.pt
+ → VAL recon=84.5816, acc=0.0505
+Saved checkpoint_epoch204.pt
+ → VAL recon=72.0788, acc=0.0519
+Saved checkpoint_epoch205.pt
+ → VAL recon=60.2537, acc=0.0548
+Saved checkpoint_epoch206.pt
+ → VAL recon=56.3364, acc=0.0558
+Saved checkpoint_epoch207.pt
+ → VAL recon=60.6407, acc=0.0513
+Saved checkpoint_epoch208.pt
+ → VAL recon=58.4159, acc=0.0545
+Saved checkpoint_epoch209.pt
+ → VAL recon=53.0118, acc=0.0532
+Saved checkpoint_epoch210.pt
+ → VAL recon=52.8048, acc=0.0474
+Saved checkpoint_epoch211.pt
+ → VAL recon=71.0701, acc=0.0476
+Saved checkpoint_epoch212.pt
+ → VAL recon=56.2575, acc=0.0487
+Saved checkpoint_epoch213.pt
+ → VAL recon=58.7117, acc=0.0532
+Saved checkpoint_epoch214.pt
+ → VAL recon=56.5381, acc=0.0503
+Saved checkpoint_epoch215.pt
+ → VAL recon=59.5908, acc=0.0497
+Saved checkpoint_epoch216.pt
+ → VAL recon=52.5064, acc=0.0526
+Saved checkpoint_epoch217.pt
+ → VAL recon=61.2211, acc=0.0563
+Saved checkpoint_epoch218.pt
+ → VAL recon=51.0590, acc=0.0532
+Saved checkpoint_epoch219.pt
+ → VAL recon=69.5809, acc=0.0542
+Saved checkpoint_epoch220.pt
+ → VAL recon=50.0796, acc=0.0497
+Saved checkpoint_epoch221.pt
+ → VAL recon=51.7736, acc=0.0521
+Saved checkpoint_epoch222.pt
+ → VAL recon=50.0405, acc=0.0500
+Saved checkpoint_epoch223.pt
+ → VAL recon=49.6795, acc=0.0524
+Saved checkpoint_epoch224.pt
+ → VAL recon=58.6610, acc=0.0532
+Saved checkpoint_epoch225.pt
+ → VAL recon=50.8113, acc=0.0524
+Saved checkpoint_epoch226.pt
+ → VAL recon=55.8366, acc=0.0497
+Saved checkpoint_epoch227.pt
+ → VAL recon=65.3958, acc=0.0516
+Saved checkpoint_epoch228.pt
+ → VAL recon=52.1211, acc=0.0516
+Saved checkpoint_epoch229.pt
+ → VAL recon=64.9596, acc=0.0529
+Saved checkpoint_epoch230.pt
+ → VAL recon=92.8201, acc=0.0495
+Saved checkpoint_epoch231.pt
+ → VAL recon=57.6225, acc=0.0534
+Saved checkpoint_epoch232.pt
+ → VAL recon=50.0701, acc=0.0500
+Saved checkpoint_epoch233.pt
+ → VAL recon=50.3784, acc=0.0511
+Saved checkpoint_epoch234.pt
+ → VAL recon=57.1670, acc=0.0431
+Saved checkpoint_epoch235.pt
+ → VAL recon=66.9319, acc=0.0521
+Saved checkpoint_epoch236.pt
+ → VAL recon=52.2298, acc=0.0534
+Saved checkpoint_epoch237.pt
+ → VAL recon=51.5258, acc=0.0526
+Saved checkpoint_epoch238.pt
+ → VAL recon=51.9415, acc=0.0479
+Saved checkpoint_epoch239.pt
+ → VAL recon=70.8929, acc=0.0540
+Saved checkpoint_epoch240.pt
+ → VAL recon=83.8588, acc=0.0524
+Saved checkpoint_epoch241.pt
+ → VAL recon=53.9291, acc=0.0524
+Saved checkpoint_epoch242.pt
+ → VAL recon=65.4496, acc=0.0545
+Saved checkpoint_epoch243.pt
+ → VAL recon=56.4661, acc=0.0513
+Saved checkpoint_epoch244.pt
+ → VAL recon=71.9728, acc=0.0542
+Saved checkpoint_epoch245.pt
+ → VAL recon=62.6218, acc=0.0513
+Saved checkpoint_epoch246.pt
+ → VAL recon=61.1007, acc=0.0513
+Saved checkpoint_epoch247.pt
+ → VAL recon=72.7293, acc=0.0524
+Saved checkpoint_epoch248.pt
+ → VAL recon=63.8227, acc=0.0508
+Saved checkpoint_epoch249.pt
+ → VAL recon=55.1582, acc=0.0497
+Saved checkpoint_epoch250.pt
+ → VAL recon=56.3724, acc=0.0516
+Saved checkpoint_epoch251.pt
+ → VAL recon=71.6728, acc=0.0542
+Saved checkpoint_epoch252.pt
+ → VAL recon=57.6502, acc=0.0516
+Saved checkpoint_epoch253.pt
+ → VAL recon=63.2461, acc=0.0503
+Saved checkpoint_epoch254.pt
+ → VAL recon=59.3301, acc=0.0500
+Saved checkpoint_epoch255.pt
+ → VAL recon=60.9420, acc=0.0513
+Saved checkpoint_epoch256.pt
+ → VAL recon=54.4520, acc=0.0497
+Saved checkpoint_epoch257.pt
+ → VAL recon=59.9711, acc=0.0439
+Saved checkpoint_epoch258.pt
+ → VAL recon=58.7536, acc=0.0495
+Saved checkpoint_epoch259.pt
+ → VAL recon=70.3635, acc=0.0542
+Saved checkpoint_epoch260.pt
+ → VAL recon=87.4584, acc=0.0516
+Saved checkpoint_epoch261.pt
+ → VAL recon=64.3484, acc=0.0503
+Saved checkpoint_epoch262.pt
+ → VAL recon=64.0011, acc=0.0503
+Saved checkpoint_epoch263.pt
+ → VAL recon=70.2482, acc=0.0511
+Saved checkpoint_epoch264.pt
+ → VAL recon=71.8227, acc=0.0503
+Saved checkpoint_epoch265.pt
+ → VAL recon=58.4984, acc=0.0500
+Saved checkpoint_epoch266.pt
+ → VAL recon=70.5598, acc=0.0484
+Saved checkpoint_epoch267.pt
+ → VAL recon=73.0267, acc=0.0529
+Saved checkpoint_epoch268.pt
+ → VAL recon=55.1155, acc=0.0489
+Saved checkpoint_epoch269.pt
+ → VAL recon=91.2765, acc=0.0495
+Saved checkpoint_epoch270.pt
+ → VAL recon=102.5776, acc=0.0468
+Saved checkpoint_epoch271.pt
+ → VAL recon=76.3543, acc=0.0463
+Saved checkpoint_epoch272.pt
+ → VAL recon=102.4260, acc=0.0495
+Saved checkpoint_epoch273.pt
+ → VAL recon=81.4033, acc=0.0524
+Saved checkpoint_epoch274.pt
+ → VAL recon=64.0544, acc=0.0497
+Saved checkpoint_epoch275.pt
+ → VAL recon=76.7013, acc=0.0519
+Saved checkpoint_epoch276.pt
+ → VAL recon=95.2809, acc=0.0534
+Saved checkpoint_epoch277.pt
+ → VAL recon=59.4513, acc=0.0495
+Saved checkpoint_epoch278.pt
+ → VAL recon=65.7045, acc=0.0537
+Saved checkpoint_epoch279.pt
+ → VAL recon=68.0977, acc=0.0497
+Saved checkpoint_epoch280.pt
+ → VAL recon=60.4251, acc=0.0521
+Saved checkpoint_epoch281.pt
+ → VAL recon=79.9353, acc=0.0487
+Saved checkpoint_epoch282.pt
+ → VAL recon=80.4065, acc=0.0516
+Saved checkpoint_epoch283.pt
+ → VAL recon=82.7159, acc=0.0542
+Saved checkpoint_epoch284.pt
+ → VAL recon=95.1630, acc=0.0563
+Saved checkpoint_epoch285.pt
+ → VAL recon=96.3565, acc=0.0519
+Saved checkpoint_epoch286.pt
+ → VAL recon=52.7871, acc=0.0542
+Saved checkpoint_epoch287.pt
+ → VAL recon=75.7380, acc=0.0550
+Saved checkpoint_epoch288.pt
+ → VAL recon=61.2294, acc=0.0542
+Saved checkpoint_epoch289.pt
+ → VAL recon=88.5919, acc=0.0511
+Saved checkpoint_epoch290.pt
+ → VAL recon=57.4818, acc=0.0511
+Saved checkpoint_epoch291.pt
+ → VAL recon=67.4695, acc=0.0521
+Saved checkpoint_epoch292.pt
+ → VAL recon=88.8529, acc=0.0561
+Saved checkpoint_epoch293.pt
+ → VAL recon=69.5662, acc=0.0505
+Saved checkpoint_epoch294.pt
+ → VAL recon=66.0863, acc=0.0495
+Saved checkpoint_epoch295.pt
+ → VAL recon=91.0540, acc=0.0537
+Saved checkpoint_epoch296.pt
+ → VAL recon=73.3458, acc=0.0534
+Saved checkpoint_epoch297.pt
+ → VAL recon=84.3917, acc=0.0500
+Saved checkpoint_epoch298.pt
+ → VAL recon=72.8633, acc=0.0500
+Saved checkpoint_epoch299.pt
+ → VAL recon=105.2418, acc=0.0534
+Saved checkpoint_epoch300.pt
+ → VAL recon=93.7193, acc=0.0495
+Saved checkpoint_epoch301.pt
+ → VAL recon=92.8269, acc=0.0513
+Saved checkpoint_epoch302.pt
+ → VAL recon=208.5819, acc=0.0481
+Saved checkpoint_epoch303.pt
+ → VAL recon=53.9106, acc=0.0487
+Saved checkpoint_epoch304.pt
+ → VAL recon=65.0063, acc=0.0503
+Saved checkpoint_epoch305.pt
+ → VAL recon=96.5474, acc=0.0500
+Saved checkpoint_epoch306.pt
+ → VAL recon=64.0910, acc=0.0548
+Saved checkpoint_epoch307.pt
+ → VAL recon=110.9372, acc=0.0487
+Saved checkpoint_epoch308.pt
+ → VAL recon=74.6311, acc=0.0484
+Saved checkpoint_epoch309.pt
+ → VAL recon=100.0911, acc=0.0519
+Saved checkpoint_epoch310.pt
+ → VAL recon=105.4909, acc=0.0524
+Saved checkpoint_epoch311.pt
+ → VAL recon=73.9482, acc=0.0550
+Saved checkpoint_epoch312.pt
+ → VAL recon=51.7676, acc=0.0550
+Saved checkpoint_epoch313.pt
+ → VAL recon=98.1389, acc=0.0569
+Saved checkpoint_epoch314.pt
+ → VAL recon=103.1245, acc=0.0558
+Saved checkpoint_epoch315.pt
+ → VAL recon=67.3913, acc=0.0508
+Saved checkpoint_epoch316.pt
+ → VAL recon=98.5846, acc=0.0529
+Saved checkpoint_epoch317.pt
+ → VAL recon=77.9979, acc=0.0540
+Saved checkpoint_epoch318.pt
+ → VAL recon=70.7652, acc=0.0495
+Saved checkpoint_epoch319.pt
+ → VAL recon=62.7145, acc=0.0529
+Saved checkpoint_epoch320.pt
+ → VAL recon=129.1535, acc=0.0458
+Saved checkpoint_epoch321.pt
+ → VAL recon=76.3341, acc=0.0500
+Saved checkpoint_epoch322.pt
+ → VAL recon=91.6045, acc=0.0534
+Saved checkpoint_epoch323.pt
+ → VAL recon=75.6598, acc=0.0529
+Saved checkpoint_epoch324.pt
+ → VAL recon=118.7395, acc=0.0521
+Saved checkpoint_epoch325.pt
+ → VAL recon=90.6519, acc=0.0524
+Saved checkpoint_epoch326.pt
+ → VAL recon=114.7295, acc=0.0526
+Saved checkpoint_epoch327.pt
+ → VAL recon=71.4026, acc=0.0529
+Saved checkpoint_epoch328.pt
+ → VAL recon=110.4259, acc=0.0532
+Saved checkpoint_epoch329.pt
+ → VAL recon=89.6662, acc=0.0508
+Saved checkpoint_epoch330.pt
+ → VAL recon=68.8526, acc=0.0513
+Saved checkpoint_epoch331.pt
+ → VAL recon=111.5380, acc=0.0511
+Saved checkpoint_epoch332.pt
+ → VAL recon=92.1146, acc=0.0503
+Saved checkpoint_epoch333.pt
+ → VAL recon=132.2058, acc=0.0474
+Saved checkpoint_epoch334.pt
+ → VAL recon=70.1334, acc=0.0497
+Saved checkpoint_epoch335.pt
+ → VAL recon=87.9447, acc=0.0508
+Saved checkpoint_epoch336.pt
+ → VAL recon=78.5374, acc=0.0526
+Saved checkpoint_epoch337.pt
+ → VAL recon=92.3118, acc=0.0500
+Saved checkpoint_epoch338.pt
+ → VAL recon=102.6902, acc=0.0526
+Saved checkpoint_epoch339.pt
+ → VAL recon=81.0439, acc=0.0519
+Saved checkpoint_epoch340.pt
+ → VAL recon=71.0226, acc=0.0508
+Saved checkpoint_epoch341.pt
+ → VAL recon=93.7986, acc=0.0505
+Saved checkpoint_epoch342.pt
+ → VAL recon=90.0525, acc=0.0521
+Saved checkpoint_epoch343.pt
+ → VAL recon=84.4432, acc=0.0550
+Saved checkpoint_epoch344.pt
+ → VAL recon=121.9622, acc=0.0497
+Saved checkpoint_epoch345.pt
+ → VAL recon=81.7525, acc=0.0503
+Saved checkpoint_epoch346.pt
+ → VAL recon=111.6249, acc=0.0489
+Saved checkpoint_epoch347.pt
+ → VAL recon=129.5550, acc=0.0545
+Saved checkpoint_epoch348.pt
+ → VAL recon=101.4572, acc=0.0503
+Saved checkpoint_epoch349.pt
+ → VAL recon=82.6084, acc=0.0513
+Saved checkpoint_epoch350.pt
+ → VAL recon=88.4276, acc=0.0556
+Saved checkpoint_epoch351.pt
+ → VAL recon=120.9652, acc=0.0526
+Saved checkpoint_epoch352.pt
+ → VAL recon=117.9913, acc=0.0516
+Saved checkpoint_epoch353.pt
+ → VAL recon=82.3559, acc=0.0487
+Saved checkpoint_epoch354.pt
+ → VAL recon=113.6241, acc=0.0513
+Saved checkpoint_epoch355.pt
+ → VAL recon=92.8060, acc=0.0503
+Saved checkpoint_epoch356.pt
+ → VAL recon=103.3748, acc=0.0455
+Saved checkpoint_epoch357.pt
+ → VAL recon=102.3348, acc=0.0532
+Saved checkpoint_epoch358.pt
+ → VAL recon=125.3843, acc=0.0516
+Saved checkpoint_epoch359.pt
+ → VAL recon=93.2179, acc=0.0529
+Saved checkpoint_epoch360.pt
+ → VAL recon=64.9130, acc=0.0540
+Saved checkpoint_epoch361.pt
+ → VAL recon=71.2340, acc=0.0521
+Saved checkpoint_epoch362.pt
+ → VAL recon=123.2323, acc=0.0519
+Saved checkpoint_epoch363.pt
+ → VAL recon=85.1208, acc=0.0545
+Saved checkpoint_epoch364.pt
+ → VAL recon=116.0573, acc=0.0513
+Saved checkpoint_epoch365.pt
+ → VAL recon=82.8984, acc=0.0556
+Saved checkpoint_epoch366.pt
+ → VAL recon=140.2201, acc=0.0508
+Saved checkpoint_epoch367.pt
+ → VAL recon=101.8292, acc=0.0521
+Saved checkpoint_epoch368.pt
+ → VAL recon=80.8788, acc=0.0497
+Saved checkpoint_epoch369.pt
+ → VAL recon=98.6042, acc=0.0529
+Saved checkpoint_epoch370.pt
+ → VAL recon=96.7664, acc=0.0553
+Saved checkpoint_epoch371.pt
+ → VAL recon=112.6522, acc=0.0505
+Saved checkpoint_epoch372.pt
+ → VAL recon=75.6140, acc=0.0516
+Saved checkpoint_epoch373.pt
+ → VAL recon=89.1048, acc=0.0513
+Saved checkpoint_epoch374.pt
+ → VAL recon=88.9112, acc=0.0526
+Saved checkpoint_epoch375.pt
+ → VAL recon=155.8862, acc=0.0537
+Saved checkpoint_epoch376.pt
+ → VAL recon=62.1203, acc=0.0574
+Saved checkpoint_epoch377.pt
+ → VAL recon=88.0961, acc=0.0550
+Saved checkpoint_epoch378.pt
+ → VAL recon=124.9085, acc=0.0497
+Saved checkpoint_epoch379.pt
+ → VAL recon=88.7361, acc=0.0577
+Saved checkpoint_epoch380.pt
+ → VAL recon=157.3414, acc=0.0524
+Saved checkpoint_epoch381.pt
+ → VAL recon=113.3521, acc=0.0545
+Saved checkpoint_epoch382.pt
+ → VAL recon=99.6969, acc=0.0537
+Saved checkpoint_epoch383.pt
+ → VAL recon=88.2548, acc=0.0553
+Saved checkpoint_epoch384.pt
+ → VAL recon=90.1415, acc=0.0558
+Saved checkpoint_epoch385.pt
+ → VAL recon=96.8881, acc=0.0550
+Saved checkpoint_epoch386.pt
+ → VAL recon=101.6764, acc=0.0545
+Saved checkpoint_epoch387.pt
+ → VAL recon=100.2176, acc=0.0558
+Saved checkpoint_epoch388.pt
+ → VAL recon=95.4424, acc=0.0569
+Saved checkpoint_epoch389.pt
+ → VAL recon=108.1550, acc=0.0540
+Saved checkpoint_epoch390.pt
+ → VAL recon=97.9335, acc=0.0524
+Saved checkpoint_epoch391.pt
+ → VAL recon=118.3981, acc=0.0476
+Saved checkpoint_epoch392.pt
+ → VAL recon=71.6589, acc=0.0542
+Saved checkpoint_epoch393.pt
+ → VAL recon=102.4307, acc=0.0563
+Saved checkpoint_epoch394.pt
+ → VAL recon=120.2301, acc=0.0558
+Saved checkpoint_epoch395.pt
+ → VAL recon=116.7142, acc=0.0553
+Saved checkpoint_epoch396.pt
+ → VAL recon=73.5956, acc=0.0563
+Saved checkpoint_epoch397.pt
+ → VAL recon=134.4171, acc=0.0553
+Saved checkpoint_epoch398.pt
+ → VAL recon=90.0579, acc=0.0545
+Saved checkpoint_epoch399.pt
+ → VAL recon=110.6444, acc=0.0529
+Saved checkpoint_epoch400.pt
+ → VAL recon=130.1222, acc=0.0548
+Saved checkpoint_epoch401.pt
+ → VAL recon=187.9414, acc=0.0521
+Saved checkpoint_epoch402.pt
+ → VAL recon=97.3572, acc=0.0545
+Saved checkpoint_epoch403.pt
+ → VAL recon=125.8347, acc=0.0526
+Saved checkpoint_epoch404.pt
+ → VAL recon=118.5067, acc=0.0550
+Saved checkpoint_epoch405.pt
+ → VAL recon=99.5457, acc=0.0558
+Saved checkpoint_epoch406.pt
+ → VAL recon=119.4184, acc=0.0558
+Saved checkpoint_epoch407.pt
+ → VAL recon=113.2192, acc=0.0558
+Saved checkpoint_epoch408.pt
+ → VAL recon=124.4843, acc=0.0566
+Saved checkpoint_epoch409.pt
+ → VAL recon=120.7071, acc=0.0537
+Saved checkpoint_epoch410.pt
+ → VAL recon=133.2868, acc=0.0556
+Saved checkpoint_epoch411.pt
+ → VAL recon=92.4093, acc=0.0534
+Saved checkpoint_epoch412.pt
+ → VAL recon=85.2275, acc=0.0556
+Saved checkpoint_epoch413.pt
+ → VAL recon=104.1997, acc=0.0526
+Saved checkpoint_epoch414.pt
+ → VAL recon=104.4862, acc=0.0519
+Saved checkpoint_epoch415.pt
+ → VAL recon=108.8214, acc=0.0513
+Saved checkpoint_epoch416.pt
+ → VAL recon=145.4509, acc=0.0526
+Saved checkpoint_epoch417.pt
+ → VAL recon=124.3049, acc=0.0556
+Saved checkpoint_epoch418.pt
+ → VAL recon=96.8945, acc=0.0537
+Saved checkpoint_epoch419.pt
+ → VAL recon=106.1221, acc=0.0540
+Saved checkpoint_epoch420.pt
+ → VAL recon=108.4773, acc=0.0521
+Saved checkpoint_epoch421.pt
+ → VAL recon=120.0299, acc=0.0550
+Saved checkpoint_epoch422.pt
+ → VAL recon=166.9618, acc=0.0561
+Saved checkpoint_epoch423.pt
+ → VAL recon=132.7990, acc=0.0524
+Saved checkpoint_epoch424.pt
+ → VAL recon=135.1020, acc=0.0521
+Saved checkpoint_epoch425.pt
+ → VAL recon=128.1286, acc=0.0569
+Saved checkpoint_epoch426.pt
+ → VAL recon=105.7486, acc=0.0574
+Saved checkpoint_epoch427.pt
+ → VAL recon=145.6596, acc=0.0558
+Saved checkpoint_epoch428.pt
+ → VAL recon=77.8197, acc=0.0540
+Saved checkpoint_epoch429.pt
+ → VAL recon=99.5006, acc=0.0556
+Saved checkpoint_epoch430.pt
+ → VAL recon=123.3676, acc=0.0540
+Saved checkpoint_epoch431.pt
+ → VAL recon=96.8813, acc=0.0545
+Saved checkpoint_epoch432.pt
+ → VAL recon=152.8292, acc=0.0529
+Saved checkpoint_epoch433.pt
+ → VAL recon=108.5108, acc=0.0571
+Saved checkpoint_epoch434.pt
+ → VAL recon=136.2885, acc=0.0534
+Saved checkpoint_epoch435.pt
+ → VAL recon=134.6093, acc=0.0566
+Saved checkpoint_epoch436.pt
+ → VAL recon=147.5445, acc=0.0550
+Saved checkpoint_epoch437.pt
+ → VAL recon=127.0908, acc=0.0516
+Saved checkpoint_epoch438.pt
+ → VAL recon=106.9630, acc=0.0563
+Saved checkpoint_epoch439.pt
+ → VAL recon=102.7623, acc=0.0542
+Saved checkpoint_epoch440.pt
+ → VAL recon=102.4394, acc=0.0561
+Saved checkpoint_epoch441.pt
+ → VAL recon=104.5714, acc=0.0563
+Saved checkpoint_epoch442.pt
+ → VAL recon=97.7019, acc=0.0540
+Saved checkpoint_epoch443.pt
+ → VAL recon=133.6366, acc=0.0529
+Saved checkpoint_epoch444.pt
+ → VAL recon=113.6206, acc=0.0550
+Saved checkpoint_epoch445.pt
+ → VAL recon=119.5295, acc=0.0524
+Saved checkpoint_epoch446.pt
+ → VAL recon=108.0599, acc=0.0542
+Saved checkpoint_epoch447.pt
+ → VAL recon=96.5644, acc=0.0574
+Saved checkpoint_epoch448.pt
+ → VAL recon=87.4270, acc=0.0553
+Saved checkpoint_epoch449.pt
+ → VAL recon=122.5125, acc=0.0548
+Saved checkpoint_epoch450.pt
+ → VAL recon=107.8765, acc=0.0563
+Saved checkpoint_epoch451.pt
+ → VAL recon=109.9357, acc=0.0548
+Saved checkpoint_epoch452.pt
+ → VAL recon=138.6916, acc=0.0529
+Saved checkpoint_epoch453.pt
+ → VAL recon=93.4852, acc=0.0553
+Saved checkpoint_epoch454.pt
+ → VAL recon=144.1280, acc=0.0537
+Saved checkpoint_epoch455.pt
+ → VAL recon=129.9401, acc=0.0537
+Saved checkpoint_epoch456.pt
+ → VAL recon=97.4033, acc=0.0563
+Saved checkpoint_epoch457.pt
+ → VAL recon=116.1042, acc=0.0553
+Saved checkpoint_epoch458.pt
+ → VAL recon=94.1603, acc=0.0569
+Saved checkpoint_epoch459.pt
+ → VAL recon=107.1727, acc=0.0524
+Saved checkpoint_epoch460.pt
+ → VAL recon=142.6462, acc=0.0529
+Saved checkpoint_epoch461.pt
+ → VAL recon=117.6441, acc=0.0550
+Saved checkpoint_epoch462.pt
+ → VAL recon=106.3977, acc=0.0558
+Saved checkpoint_epoch463.pt
+ → VAL recon=135.8557, acc=0.0540
+Saved checkpoint_epoch464.pt
+ → VAL recon=131.6286, acc=0.0550
+Saved checkpoint_epoch465.pt
+ → VAL recon=102.9706, acc=0.0526
+Saved checkpoint_epoch466.pt
+ → VAL recon=99.5724, acc=0.0537
+Saved checkpoint_epoch467.pt
+ → VAL recon=119.6856, acc=0.0529
+Saved checkpoint_epoch468.pt
+ → VAL recon=120.2785, acc=0.0563
+Saved checkpoint_epoch469.pt
+ → VAL recon=118.1950, acc=0.0553
+Saved checkpoint_epoch470.pt
+ → VAL recon=102.2446, acc=0.0569
+Saved checkpoint_epoch471.pt
+ → VAL recon=108.9189, acc=0.0563
+Saved checkpoint_epoch472.pt
+ → VAL recon=104.8841, acc=0.0569
+Saved checkpoint_epoch473.pt
+ → VAL recon=103.9680, acc=0.0550
+Saved checkpoint_epoch474.pt
+ → VAL recon=142.7061, acc=0.0556
+Saved checkpoint_epoch475.pt
+ → VAL recon=121.1077, acc=0.0532
+Saved checkpoint_epoch476.pt
+ → VAL recon=100.1259, acc=0.0532
+Saved checkpoint_epoch477.pt
+ → VAL recon=142.5765, acc=0.0534
+Saved checkpoint_epoch478.pt
+ → VAL recon=148.1844, acc=0.0511
+Saved checkpoint_epoch479.pt
+ → VAL recon=96.9248, acc=0.0550
+Saved checkpoint_epoch480.pt
+ → VAL recon=117.0055, acc=0.0537
+Saved checkpoint_epoch481.pt
+ → VAL recon=100.2156, acc=0.0540
+Saved checkpoint_epoch482.pt
+ → VAL recon=131.1919, acc=0.0524
+Saved checkpoint_epoch483.pt
+ → VAL recon=141.1697, acc=0.0537
+Saved checkpoint_epoch484.pt
+ → VAL recon=128.5142, acc=0.0524
+Saved checkpoint_epoch485.pt
+ → VAL recon=123.9942, acc=0.0545
+Saved checkpoint_epoch486.pt
+ → VAL recon=104.6058, acc=0.0540
+Saved checkpoint_epoch487.pt
+ → VAL recon=111.5769, acc=0.0542
+Saved checkpoint_epoch488.pt
+ → VAL recon=115.9109, acc=0.0526
+Saved checkpoint_epoch489.pt
+ → VAL recon=115.4949, acc=0.0553
+Saved checkpoint_epoch490.pt
+ → VAL recon=102.1478, acc=0.0529
+Saved checkpoint_epoch491.pt
+ → VAL recon=107.0733, acc=0.0561
+Saved checkpoint_epoch492.pt
+ → VAL recon=128.6006, acc=0.0526
+Saved checkpoint_epoch493.pt
+ → VAL recon=115.9051, acc=0.0537
+Saved checkpoint_epoch494.pt
+ → VAL recon=96.9117, acc=0.0521
+Saved checkpoint_epoch495.pt
+ → VAL recon=127.7332, acc=0.0524
+Saved checkpoint_epoch496.pt
+ → VAL recon=114.7911, acc=0.0532
+Saved checkpoint_epoch497.pt
+ → VAL recon=128.1494, acc=0.0503
+Saved checkpoint_epoch498.pt
+ → VAL recon=132.0382, acc=0.0542
+Saved checkpoint_epoch499.pt
+ → VAL recon=117.8556, acc=0.0550
+Saved checkpoint_epoch500.pt
+ → VAL recon=101.5530, acc=0.0542
+Saved checkpoint_epoch501.pt
+ → VAL recon=98.0614, acc=0.0550
+Saved checkpoint_epoch502.pt
+ → VAL recon=115.5313, acc=0.0556
+Saved checkpoint_epoch503.pt
+ → VAL recon=135.2919, acc=0.0574
+Saved checkpoint_epoch504.pt
+ → VAL recon=109.3628, acc=0.0540
+Saved checkpoint_epoch505.pt
+ → VAL recon=118.8656, acc=0.0537
+Saved checkpoint_epoch506.pt
+ → VAL recon=108.0729, acc=0.0529
+Saved checkpoint_epoch507.pt
+ → VAL recon=113.2816, acc=0.0563
+Saved checkpoint_epoch508.pt
+ → VAL recon=110.5061, acc=0.0579
+Saved checkpoint_epoch509.pt
+ → VAL recon=131.0407, acc=0.0561
+Saved checkpoint_epoch510.pt
+ → VAL recon=111.3516, acc=0.0550
+Saved checkpoint_epoch511.pt
+ → VAL recon=135.4381, acc=0.0548
+Saved checkpoint_epoch512.pt
+ → VAL recon=136.4135, acc=0.0566
+Saved checkpoint_epoch513.pt
+ → VAL recon=118.1417, acc=0.0558
+Saved checkpoint_epoch514.pt
+ → VAL recon=127.9860, acc=0.0574
+Saved checkpoint_epoch515.pt
+ → VAL recon=109.8809, acc=0.0569
+Saved checkpoint_epoch516.pt
+ → VAL recon=132.1540, acc=0.0577
+Saved checkpoint_epoch517.pt
+ → VAL recon=127.6513, acc=0.0532
+Saved checkpoint_epoch518.pt
+ → VAL recon=141.4952, acc=0.0566
+Saved checkpoint_epoch519.pt
+ → VAL recon=130.0543, acc=0.0534
+Saved checkpoint_epoch520.pt
+ → VAL recon=135.2503, acc=0.0540
+Saved checkpoint_epoch521.pt
+ → VAL recon=112.6041, acc=0.0529
+Saved checkpoint_epoch522.pt
+ → VAL recon=113.2812, acc=0.0548
+Saved checkpoint_epoch523.pt
+ → VAL recon=124.5053, acc=0.0571
+Saved checkpoint_epoch524.pt
+ → VAL recon=112.8188, acc=0.0542
+Saved checkpoint_epoch525.pt
+ → VAL recon=132.6385, acc=0.0550
+Saved checkpoint_epoch526.pt
+ → VAL recon=131.8906, acc=0.0561
+Saved checkpoint_epoch527.pt
+ → VAL recon=117.5195, acc=0.0534
+Saved checkpoint_epoch528.pt
+ → VAL recon=107.3074, acc=0.0574
+Saved checkpoint_epoch529.pt
+ → VAL recon=117.3153, acc=0.0566
+Saved checkpoint_epoch530.pt
+ → VAL recon=115.4484, acc=0.0553
+Saved checkpoint_epoch531.pt
+ → VAL recon=121.7901, acc=0.0540
+Saved checkpoint_epoch532.pt
+ → VAL recon=152.7896, acc=0.0529
+Saved checkpoint_epoch533.pt
+ → VAL recon=141.7472, acc=0.0534
+Saved checkpoint_epoch534.pt
+ → VAL recon=123.0864, acc=0.0537
+Saved checkpoint_epoch535.pt
+ → VAL recon=126.4158, acc=0.0537
+Saved checkpoint_epoch536.pt
+ → VAL recon=127.7227, acc=0.0558
+Saved checkpoint_epoch537.pt
+ → VAL recon=117.1282, acc=0.0553
+Saved checkpoint_epoch538.pt
+ → VAL recon=119.6054, acc=0.0526
+Saved checkpoint_epoch539.pt
+ → VAL recon=113.0276, acc=0.0550
+Saved checkpoint_epoch540.pt
+ → VAL recon=129.5837, acc=0.0556
+Saved checkpoint_epoch541.pt
+ → VAL recon=124.6346, acc=0.0521
+Saved checkpoint_epoch542.pt
+ → VAL recon=123.4628, acc=0.0521
+Saved checkpoint_epoch543.pt
+ → VAL recon=129.3729, acc=0.0534
+Saved checkpoint_epoch544.pt
+ → VAL recon=119.5594, acc=0.0537
+Saved checkpoint_epoch545.pt
+ → VAL recon=123.5063, acc=0.0534
+Saved checkpoint_epoch546.pt
+ → VAL recon=142.5604, acc=0.0540
+Saved checkpoint_epoch547.pt
+ → VAL recon=128.6243, acc=0.0521
+Saved checkpoint_epoch548.pt
+ → VAL recon=126.0804, acc=0.0553
+Saved checkpoint_epoch549.pt
+ → VAL recon=120.9874, acc=0.0542
+Saved checkpoint_epoch550.pt
+ → VAL recon=122.2551, acc=0.0537
+Saved checkpoint_epoch551.pt
+ → VAL recon=114.3171, acc=0.0569
+Saved checkpoint_epoch552.pt
+ → VAL recon=131.7094, acc=0.0540
+Saved checkpoint_epoch553.pt
+ → VAL recon=118.7617, acc=0.0563
+Saved checkpoint_epoch554.pt
+ → VAL recon=121.7634, acc=0.0556
+Saved checkpoint_epoch555.pt
+ → VAL recon=134.1110, acc=0.0545
+Saved checkpoint_epoch556.pt
+ → VAL recon=125.0599, acc=0.0553
+Saved checkpoint_epoch557.pt
+ → VAL recon=123.0326, acc=0.0542
+Saved checkpoint_epoch558.pt
+ → VAL recon=133.4021, acc=0.0553
+Saved checkpoint_epoch559.pt
+ → VAL recon=119.7904, acc=0.0558
+Saved checkpoint_epoch560.pt
+ → VAL recon=125.8513, acc=0.0556
+Saved checkpoint_epoch561.pt
+ → VAL recon=139.8693, acc=0.0561
+Saved checkpoint_epoch562.pt
+ → VAL recon=123.8596, acc=0.0563
+Saved checkpoint_epoch563.pt
+ → VAL recon=134.3559, acc=0.0542
+Saved checkpoint_epoch564.pt
+ → VAL recon=112.8683, acc=0.0553
+Saved checkpoint_epoch565.pt
+ → VAL recon=127.8750, acc=0.0558
+Saved checkpoint_epoch566.pt
+ → VAL recon=129.9616, acc=0.0550
+Saved checkpoint_epoch567.pt
+ → VAL recon=138.4860, acc=0.0553
+Saved checkpoint_epoch568.pt
+ → VAL recon=133.6370, acc=0.0553
+Saved checkpoint_epoch569.pt
+ → VAL recon=117.2673, acc=0.0558
+Saved checkpoint_epoch570.pt
+ → VAL recon=128.0000, acc=0.0550
+Saved checkpoint_epoch571.pt
+ → VAL recon=119.4485, acc=0.0558
+Saved checkpoint_epoch572.pt
+ → VAL recon=138.4659, acc=0.0550
+Saved checkpoint_epoch573.pt
+ → VAL recon=126.7019, acc=0.0566
+Saved checkpoint_epoch574.pt
+ → VAL recon=132.2138, acc=0.0561
+Saved checkpoint_epoch575.pt
+ → VAL recon=131.1999, acc=0.0574
+Saved checkpoint_epoch576.pt
+ → VAL recon=124.0279, acc=0.0563
+Saved checkpoint_epoch577.pt
+ → VAL recon=123.6216, acc=0.0566
+Saved checkpoint_epoch578.pt
+ → VAL recon=125.5097, acc=0.0556
+Saved checkpoint_epoch579.pt
+ → VAL recon=120.9806, acc=0.0558
+Saved checkpoint_epoch580.pt
+ → VAL recon=128.7840, acc=0.0545
+Saved checkpoint_epoch581.pt
+ → VAL recon=122.6822, acc=0.0561
+Saved checkpoint_epoch582.pt
+ → VAL recon=122.7924, acc=0.0556
+Saved checkpoint_epoch583.pt
+ → VAL recon=123.7443, acc=0.0566
+Saved checkpoint_epoch584.pt
+ → VAL recon=124.5711, acc=0.0561
+Saved checkpoint_epoch585.pt
+ → VAL recon=126.7529, acc=0.0563
+Saved checkpoint_epoch586.pt
+ → VAL recon=124.7842, acc=0.0553
+Saved checkpoint_epoch587.pt
+ → VAL recon=136.0612, acc=0.0537
+Saved checkpoint_epoch588.pt
+ → VAL recon=130.1002, acc=0.0545
+Saved checkpoint_epoch589.pt
+ → VAL recon=127.4826, acc=0.0556
+Saved checkpoint_epoch590.pt
+ → VAL recon=120.5910, acc=0.0563
+Saved checkpoint_epoch591.pt
+ → VAL recon=122.7072, acc=0.0550
+Saved checkpoint_epoch592.pt
+ → VAL recon=133.2788, acc=0.0561
+Saved checkpoint_epoch593.pt
+ → VAL recon=134.4310, acc=0.0563
+Saved checkpoint_epoch594.pt
+ → VAL recon=123.6439, acc=0.0558
+Saved checkpoint_epoch595.pt
+ → VAL recon=124.6966, acc=0.0550
+Saved checkpoint_epoch596.pt
+ → VAL recon=130.0797, acc=0.0548
+Saved checkpoint_epoch597.pt
+ → VAL recon=127.7080, acc=0.0550
+Saved checkpoint_epoch598.pt
+ → VAL recon=126.3229, acc=0.0553
+Saved checkpoint_epoch599.pt
+ → VAL recon=127.5661, acc=0.0558
+Saved checkpoint_epoch600.pt
+ → VAL recon=135.1349, acc=0.0561
+Saved checkpoint_epoch601.pt
+ → VAL recon=127.3056, acc=0.0561
+Saved checkpoint_epoch602.pt
+ → VAL recon=122.7084, acc=0.0561
+Saved checkpoint_epoch603.pt
+ → VAL recon=124.1330, acc=0.0566
+Saved checkpoint_epoch604.pt
+ → VAL recon=125.4437, acc=0.0566
+Saved checkpoint_epoch605.pt
+ → VAL recon=131.8842, acc=0.0556
+Saved checkpoint_epoch606.pt
+ → VAL recon=128.5738, acc=0.0569
+Saved checkpoint_epoch607.pt
+ → VAL recon=123.0489, acc=0.0556
+Saved checkpoint_epoch608.pt
+ → VAL recon=132.5293, acc=0.0558
+Saved checkpoint_epoch609.pt
+ → VAL recon=131.6631, acc=0.0563
+Saved checkpoint_epoch610.pt
+ → VAL recon=121.8120, acc=0.0542
+Saved checkpoint_epoch611.pt
+ → VAL recon=120.5716, acc=0.0550
+Saved checkpoint_epoch612.pt
+ → VAL recon=124.0313, acc=0.0556
+Saved checkpoint_epoch613.pt
+ → VAL recon=124.7752, acc=0.0558
+Saved checkpoint_epoch614.pt
+ → VAL recon=129.2661, acc=0.0553
+Saved checkpoint_epoch615.pt
+ → VAL recon=126.4727, acc=0.0553
+Saved checkpoint_epoch616.pt
+ → VAL recon=125.3843, acc=0.0558
+Saved checkpoint_epoch617.pt
+ → VAL recon=126.4000, acc=0.0561
+Saved checkpoint_epoch618.pt
+ → VAL recon=125.0096, acc=0.0558
+Saved checkpoint_epoch619.pt
+ → VAL recon=130.7144, acc=0.0563
+Saved checkpoint_epoch620.pt
+ → VAL recon=130.4097, acc=0.0556
+Saved checkpoint_epoch621.pt
+ → VAL recon=130.1786, acc=0.0553
+Saved checkpoint_epoch622.pt
+ → VAL recon=117.9736, acc=0.0566
+Saved checkpoint_epoch623.pt
+ → VAL recon=128.0025, acc=0.0556
+Saved checkpoint_epoch624.pt
+ → VAL recon=123.7383, acc=0.0561
+Saved checkpoint_epoch625.pt
+ → VAL recon=125.7261, acc=0.0556
+Saved checkpoint_epoch626.pt
+ → VAL recon=136.7898, acc=0.0556
+Saved checkpoint_epoch627.pt
+ → VAL recon=129.8359, acc=0.0542
+Saved checkpoint_epoch628.pt
+ → VAL recon=138.5303, acc=0.0558
+Saved checkpoint_epoch629.pt
+ → VAL recon=127.4885, acc=0.0553
+Saved checkpoint_epoch630.pt
+ → VAL recon=131.4026, acc=0.0540
+Saved checkpoint_epoch631.pt
+ → VAL recon=123.7046, acc=0.0558
+Saved checkpoint_epoch632.pt
+ → VAL recon=129.5500, acc=0.0548
+Saved checkpoint_epoch633.pt
+ → VAL recon=131.7680, acc=0.0556
+Saved checkpoint_epoch634.pt
+ → VAL recon=131.8582, acc=0.0558
+Saved checkpoint_epoch635.pt
+ → VAL recon=135.3724, acc=0.0556
+Saved checkpoint_epoch636.pt
+ → VAL recon=130.6970, acc=0.0556
+Saved checkpoint_epoch637.pt
+ → VAL recon=131.0686, acc=0.0550
+Saved checkpoint_epoch638.pt
+ → VAL recon=131.8200, acc=0.0556
+Saved checkpoint_epoch639.pt
+ → VAL recon=143.7759, acc=0.0550
+Saved checkpoint_epoch640.pt
+ → VAL recon=130.9608, acc=0.0545
+Saved checkpoint_epoch641.pt
+ → VAL recon=126.9245, acc=0.0548
+Saved checkpoint_epoch642.pt
+ → VAL recon=131.2269, acc=0.0542
+Saved checkpoint_epoch643.pt
+ → VAL recon=131.2843, acc=0.0558
+Saved checkpoint_epoch644.pt
+ → VAL recon=123.7935, acc=0.0558
+Saved checkpoint_epoch645.pt
+ → VAL recon=128.7594, acc=0.0556
+Saved checkpoint_epoch646.pt
+ → VAL recon=127.6342, acc=0.0553
+Saved checkpoint_epoch647.pt
+ → VAL recon=128.4626, acc=0.0550
+Saved checkpoint_epoch648.pt
+ → VAL recon=127.9274, acc=0.0548
+Saved checkpoint_epoch649.pt
+ → VAL recon=167.1952, acc=0.0463
+Saved checkpoint_epoch650.pt

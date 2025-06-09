@@ -1,0 +1,5 @@
+awk '{
+  if (match($0, /val_recon=([0-9.]+)/, R) && match($0, /val_cls=([0-9.]+)/, C)) {
+    printf "val_recon=%s, val_cls=%s, ratio=%.4f%%\n", R[1], C[1], R[1]/C[1]*100
+  }
+}' /mnt/data/1000_train_Mish.log

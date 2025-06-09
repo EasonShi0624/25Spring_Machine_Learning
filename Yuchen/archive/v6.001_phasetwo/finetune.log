@@ -1,0 +1,57 @@
+Epoch 01: recon=32.198129, acc=0.0095, score=3380.803575
+  → New best score, checkpointed.
+Epoch 02: recon=39.592378, acc=0.0095, score=4157.199653
+Epoch 03: recon=28.939076, acc=0.0095, score=3038.602987
+  → New best score, checkpointed.
+Epoch 04: recon=29.527193, acc=0.0095, score=3100.355238
+Epoch 05: recon=31.323530, acc=0.0095, score=3288.970608
+Epoch 06: recon=28.668493, acc=0.0095, score=3010.191800
+  → New best score, checkpointed.
+Epoch 07: recon=30.036070, acc=0.0095, score=3153.787313
+Epoch 08: recon=31.240787, acc=0.0095, score=3280.282606
+Epoch 09: recon=28.980874, acc=0.0095, score=3042.991753
+Epoch 10: recon=32.686233, acc=0.0095, score=3432.054443
+Epoch 11: recon=27.844754, acc=0.0095, score=2923.699164
+  → New best score, checkpointed.
+Epoch 12: recon=29.364913, acc=0.0095, score=3083.315850
+Epoch 13: recon=31.003347, acc=0.0095, score=3255.351481
+Epoch 14: recon=28.471098, acc=0.0095, score=2989.465291
+Epoch 15: recon=32.312665, acc=0.0095, score=3392.829807
+Epoch 16: recon=30.366443, acc=0.0095, score=3188.476549
+Epoch 17: recon=30.906691, acc=0.0095, score=3245.202569
+Epoch 18: recon=31.368854, acc=0.0095, score=3293.729628
+Epoch 19: recon=31.865723, acc=0.0095, score=3345.900947
+Epoch 20: recon=27.633928, acc=0.0095, score=2901.562459
+  → New best score, checkpointed.
+Epoch 21: recon=25.488230, acc=0.0095, score=2676.264119
+  → New best score, checkpointed.
+Epoch 22: recon=27.991748, acc=0.0095, score=2939.133545
+Epoch 23: recon=34.450372, acc=0.0095, score=3617.289022
+Epoch 24: recon=28.781914, acc=0.0095, score=3022.100952
+Epoch 25: recon=33.080851, acc=0.0095, score=3473.489407
+Epoch 26: recon=35.074346, acc=0.0095, score=3682.806369
+Epoch 27: recon=37.561924, acc=0.0095, score=3944.001994
+Epoch 28: recon=29.751837, acc=0.0095, score=3123.942925
+Epoch 29: recon=30.739762, acc=0.0095, score=3227.675022
+Epoch 30: recon=28.416410, acc=0.0095, score=2983.723036
+Epoch 31: recon=29.089529, acc=0.0095, score=3054.400553
+Epoch 32: recon=33.307211, acc=0.0095, score=3497.257148
+Epoch 33: recon=29.497066, acc=0.0095, score=3097.191881
+Epoch 34: recon=26.735322, acc=0.0095, score=2807.208794
+Epoch 35: recon=33.325379, acc=0.0095, score=3499.164781
+Epoch 36: recon=31.711196, acc=0.0095, score=3329.675578
+Epoch 37: recon=29.366061, acc=0.0095, score=3083.436374
+Epoch 38: recon=35.369039, acc=0.0095, score=3713.749118
+Epoch 39: recon=30.091948, acc=0.0095, score=3159.654568
+Epoch 40: recon=32.761945, acc=0.0095, score=3440.004272
+Epoch 41: recon=34.639969, acc=0.0095, score=3637.196696
+Epoch 42: recon=32.196203, acc=0.0095, score=3380.601264
+Epoch 43: recon=32.150708, acc=0.0095, score=3375.824314
+Epoch 44: recon=37.155689, acc=0.0095, score=3901.347385
+Epoch 45: recon=30.085898, acc=0.0095, score=3159.019301
+Epoch 46: recon=30.452384, acc=0.0095, score=3197.500339
+Epoch 47: recon=29.828253, acc=0.0095, score=3131.966526
+Epoch 48: recon=35.658501, acc=0.0095, score=3744.142592
+Epoch 49: recon=28.487314, acc=0.0095, score=2991.167982
+Epoch 50: recon=30.240472, acc=0.0095, score=3175.249593
+Finished. Best ratio = 2676.264119

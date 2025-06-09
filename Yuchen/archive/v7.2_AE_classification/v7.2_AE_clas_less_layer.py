@@ -1,0 +1,420 @@
+import os
+import random
+import numpy as np
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import torch.optim as optim
+from PIL import Image
+from torch.utils.data import Dataset, DataLoader, Subset
+from torch.optim.lr_scheduler import CosineAnnealingLR
+from torch.optim.lr_scheduler import ReduceLROnPlateau
+from torch.amp import autocast, GradScaler
+
+from sklearn.model_selection import train_test_split
+from torchvision import transforms, models
+from tqdm import tqdm
+
+
+# ----------------------------
+# 1. Dataset & Augmentations
+# ----------------------------
+class CustomDataset(Dataset):
+    def __init__(self, npz_file, transform=None):
+        data = np.load(npz_file)
+        self.images = data['images']   # (N, 3, 128, 128), float32 [0,1]
+        self.labels = data['labels']   # (N,), int
+        self.transform = transform
+
+    def __len__(self):
+        return len(self.images)
+
+    def __getitem__(self, idx):
+        # uint8 for PIL
+        img_np = (self.images[idx].transpose(1,2,0) * 255).astype(np.uint8)
+        img = Image.fromarray(img_np)
+        if self.transform:
+            img = self.transform(img)
+        else:
+            img = transforms.ToTensor()(img)
+        label = torch.tensor(self.labels[idx], dtype=torch.long)
+        return img, label
+
+# train_transforms = transforms.Compose([ #define transform methods########
+#     transforms.RandomHorizontalFlip(),
+#     transforms.RandomVerticalFlip(),
+#     transforms.RandomRotation(
+#         15,
+#         interpolation=transforms.InterpolationMode.BILINEAR
+#     ),
+#     transforms.ColorJitter(brightness=0.2, contrast=0.2, saturation=0.2, hue=0.1),
+#     transforms.ToTensor(),
+# ])
+# val_transforms = transforms.Compose([
+#     transforms.ToTensor(),
+# ])
+
+train_transforms = transforms.Compose([
+    transforms.RandomResizedCrop(128, scale=(0.7, 1.0)),
+    transforms.RandomHorizontalFlip(),
+    transforms.RandomApply([transforms.ColorJitter(0.4, 0.4, 0.4, 0.1)], p=0.8),
+    transforms.RandomGrayscale(p=0.2),
+    transforms.ToTensor(),
+])
+
+val_transforms = transforms.Compose([
+    transforms.ToTensor(),
+])
+# adjust to your dataset path
+os.chdir("/gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v6_morelayerv4")
+full_dataset = CustomDataset("/gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/dataset/train_data_128.npz", transform=None)
+num_classes = int(np.unique(full_dataset.labels).shape[0])
+
+train_idx, val_idx = train_test_split(
+    list(range(len(full_dataset))),
+    test_size=0.1,
+    random_state=42,
+    stratify=full_dataset.labels
+)
+train_subset = Subset(full_dataset, train_idx)
+val_subset   = Subset(full_dataset, val_idx)
+train_subset.dataset.transform = train_transforms
+val_subset.dataset.transform   = val_transforms
+
+train_loader = DataLoader(train_subset, batch_size=128, shuffle=True,     ####Hyper parameter: BATCH SIZE
+                          num_workers=4, pin_memory=True, persistent_workers=True)
+val_loader   = DataLoader(val_subset,   batch_size=128, shuffle=False,
+                          num_workers=4, pin_memory=True, persistent_workers=True)
+
+
+# ----------------------------
+# 3. ConvVAE Model
+# ----------------------------
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import math
+import torch.nn as nn
+import torch.nn.functional as F
+
+class ClassifierHead(nn.Module):
+    def __init__(self, in_channels, num_classes):
+        super().__init__()
+        self.net = nn.Sequential(
+            # 1) channel expansion + spatial encoding
+            nn.Conv2d(in_channels, 32, kernel_size=3, padding=1),
+            nn.BatchNorm2d(32),
+            nn.ReLU(inplace=True),
+
+            # 2) squeeze spatial dimensions to 1×1
+            nn.AdaptiveAvgPool2d((1,1)),
+
+            # 3) flatten and MLP
+            nn.Flatten(),
+            nn.Dropout(0.5),
+            nn.Linear(32, 128),
+            nn.ReLU(inplace=True),
+            nn.Dropout(0.5),
+            nn.Linear(128, num_classes)
+        )
+
+    def forward(self, z):
+        # z: [B, in_channels, H, W]
+        return self.net(z)
+
+
+class ResBlock(nn.Module):
+    """
+    A standard residual block with two 3x3 conv layers and SiLU activation.
+    """
+    def __init__(self, channels):
+        super().__init__()
+        self.conv1 = nn.Conv2d(channels, channels, kernel_size=3, padding=1)
+        self.bn1   = nn.BatchNorm2d(channels)
+        self.act   = nn.SiLU()
+        self.conv2 = nn.Conv2d(channels, channels, kernel_size=3, padding=1)
+        self.bn2   = nn.BatchNorm2d(channels)
+
+    def forward(self, x):
+        residual = x
+        out = self.conv1(x)
+        out = self.bn1(out)
+        out = self.act(out)
+        out = self.conv2(out)
+        out = self.bn2(out)
+        out = out + residual
+        return self.act(out)
+
+
+class SelfAttention(nn.Module):
+    def __init__(self, in_dim, num_heads=4):
+        super().__init__()
+        assert in_dim % num_heads == 0
+        self.num_heads = num_heads
+        self.d_k = in_dim // num_heads
+
+        # one proj for all heads, then reshape
+        self.to_qkv = nn.Conv2d(in_dim, in_dim * 3, 1, bias=False)
+        self.unify_heads = nn.Conv2d(in_dim, in_dim, 1)
+        self.norm1 = nn.GroupNorm(1, in_dim)
+        self.norm2 = nn.GroupNorm(1, in_dim)
+        self.ffn = nn.Sequential(
+            nn.Conv2d(in_dim, in_dim*4, 1),
+            nn.SiLU(),
+            nn.Conv2d(in_dim*4, in_dim, 1),
+        )
+        self.gamma = nn.Parameter(torch.zeros(1))
+
+    def forward(self, x):
+        B, C, H, W = x.shape
+        x_norm = self.norm1(x)
+        qkv = self.to_qkv(x_norm)
+        q, k, v = qkv.chunk(3, dim=1)
+
+        def reshape(t):
+            return t.view(B, self.num_heads, self.d_k, H*W)
+        q, k, v = reshape(q), reshape(k), reshape(v)
+
+        scores = torch.einsum('bhdi,bhdj->bhij', q, k) / math.sqrt(self.d_k)
+        attn   = torch.softmax(scores, dim=-1)
+        out = torch.einsum('bhij,bhdj->bhdi', attn, v)
+        out = out.contiguous().view(B, C, H, W)
+
+        attn_out = self.unify_heads(out)
+        x2 = x + self.gamma * attn_out
+
+        x2_norm = self.norm2(x2)
+        ffn_out = self.ffn(x2_norm)
+        return x2 + ffn_out
+
+
+class FeatureRefinementBlock(nn.Module):
+    """
+    A two-layer conv block with residual and LeakyReLU activation.
+    """
+    def __init__(self, channels):
+        super().__init__()
+        self.block = nn.Sequential(
+            nn.Conv2d(channels, channels, kernel_size=3, stride=1, padding=1),
+            nn.BatchNorm2d(channels),
+            nn.LeakyReLU(0.1, inplace=True),
+            nn.Conv2d(channels, channels, kernel_size=3, stride=1, padding=1),
+            nn.BatchNorm2d(channels)
+        )
+        self.activation = nn.LeakyReLU(0.1, inplace=True)
+
+    def forward(self, x):
+        identity = x
+        out = self.block(x)
+        out = out + identity
+        return self.activation(out)
+
+
+class ConvAE(nn.Module):
+    def __init__(self, input_channels=3, latent_channels=8, num_classes=170):
+        super().__init__()
+        self.latent_channels = latent_channels
+
+        # — encoder backbone (same as before) —
+        self.encoder = nn.Sequential(
+            nn.Conv2d(input_channels, 64, 3, 2, 1),  # 128→64
+            nn.BatchNorm2d(64), nn.Mish(),
+
+            nn.Conv2d(64, 128, 3, 2, 1),               # 64→32
+            nn.BatchNorm2d(128), nn.Mish(),
+
+            nn.Conv2d(128, 256, 3, 1, 1),
+            nn.BatchNorm2d(256), nn.Mish(), nn.Dropout2d(0.1),
+            ResBlock(256),
+            FeatureRefinementBlock(256),
+
+        )
+
+        # — deterministic bottleneck (maps to latent_channels) —
+        self.bottleneck_conv = nn.Conv2d(256, latent_channels, kernel_size=1)
+        # — reverse of bottleneck —
+        self.expand_conv     = nn.Conv2d(latent_channels, 256, kernel_size=1)
+
+        # — decoder backbone (mirror of encoder) —
+        self.decoder = nn.Sequential(
+
+            nn.Conv2d(256, 128, 3, 1, 1),
+            nn.BatchNorm2d(128), nn.Mish(),
+            ResBlock(128),
+            FeatureRefinementBlock(128),
+
+            nn.Conv2d(128, 128, 3, 1, 1),
+            nn.BatchNorm2d(128), nn.Mish(),
+            nn.ConvTranspose2d(128, 64, 4, 2, 1),      # 32→64
+            nn.BatchNorm2d(64), nn.Mish(),
+
+            nn.ConvTranspose2d(64, input_channels, 4, 2, 1),
+            nn.Sigmoid()
+        )
+
+        # — optional classifier head (unchanged) —
+        self.classifier = ClassifierHead(
+            in_channels=latent_channels,
+            num_classes=num_classes
+        )
+
+    def preprocess(self, x):
+        return 2 * x - 1  # map [0,1]→[-1,1]
+
+    def encode(self, x):
+        x = self.preprocess(x)
+        h = self.encoder(x)
+        z = self.bottleneck_conv(h)
+        return z
+
+    def decode(self, z):
+        h = self.expand_conv(z)
+        return self.decoder(h)
+
+    def forward(self, x):
+        z       = self.encode(x)
+        x_recon = self.decode(z)
+        # flatten for classifier
+        logits  = self.classifier(z)
+        return x_recon, z, logits
+
+
+
+# ----------------------------
+# 4. Loss & Validation
+# ----------------------------
+def vae_loss(x, x_recon):
+    recon1 = F.mse_loss(x, x_recon)  # SSIM-based reconstruction loss
+    # kl    = -0.5 * torch.mean(1 + logvar - mean.pow(2) - logvar.exp())
+    return recon1
+
+def validate(model, loader, device, kl_weight,center_loss):
+    model.eval()
+    stats = {'recon': 0, 'kl': 0, 'class': 0, 'center': 0, 'n': 0}
+
+    with torch.no_grad():
+        for x, y in loader:
+            x, y = x.to(device), y.to(device)
+            x_recon, z, mean, logvar, logits = model(x)
+
+            total, r, k = vae_loss(x, x_recon, mean, logvar, kl_weight)
+            c_loss = F.cross_entropy(logits, y)
+            zf = z.view(z.size(0), -1)
+            cen = center_loss(zf, y)
+            bsz = x.size(0)
+            stats['recon'] += r.item() * bsz
+            stats['kl']    += k.item() * bsz
+            stats['center'] += cen.item() * bsz
+            stats['class'] += c_loss.item() * bsz
+            stats['n']     += bsz
+
+
+    avg = {k: stats[k]/stats['n'] for k in ['recon', 'kl', 'class','center']}
+    return avg
+
+
+# ----------------------------
+# 5. Training Loop
+# ----------------------------
+def ae_loss(x, x_recon):
+    return F.mse_loss(x, x_recon)
+
+
+def train_ae_with_classification(
+    model,
+    train_loader,
+    val_loader,
+    optimizer,
+    device,
+    num_epochs=50,
+    class_weight=1.0
+):
+    """
+    Train the AE + classifier jointly.
+    class_weight: multiplier on the CE loss (default 1.0).
+    """
+    model.to(device)
+    scheduler = ReduceLROnPlateau(optimizer, mode='min', factor=0.8, patience=5)
+    scaler    = GradScaler()
+
+    for epoch in range(1, num_epochs + 1):
+        model.train()
+        loop = tqdm(train_loader, desc=f"Epoch {epoch}/{num_epochs}")
+        for x, y in loop:
+            x, y = x.to(device), y.to(device)
+            optimizer.zero_grad()
+
+            # ------- forward --------
+            with autocast(device_type='cuda'):
+                x_recon, z, logits = model(x)
+                recon_loss  = F.mse_loss(x, x_recon)
+                class_loss  = F.cross_entropy(logits, y)
+                loss        = torch.log(recon_loss) + class_weight * torch.log(class_loss)
+
+            # ------- backward & step --------
+            scaler.scale(loss).backward()
+            scaler.step(optimizer)
+            scaler.update()
+
+            # ------- logging --------
+            loop.set_postfix({
+                'recon':       f"{recon_loss.item():.4f}",
+                'class_loss':  f"{class_loss.item():.4f}",
+                'lr':          f"{optimizer.param_groups[0]['lr']:.1e}"
+            })
+
+        # ------ validation --------
+        model.eval()
+        total_recon, total_class, n = 0.0, 0.0, 0
+        with torch.no_grad():
+            for x, y in val_loader:
+                x, y = x.to(device), y.to(device)
+                x_recon, _, logits = model(x)
+                r = F.mse_loss(x, x_recon, reduction='mean')
+                c = F.cross_entropy(logits, y, reduction='mean')
+                bsz = x.size(0)
+                total_recon += r.item() * bsz
+                total_class += c.item() * bsz
+                n += bsz
+
+        avg_recon = total_recon / n
+        avg_class = total_class / n
+        print(f"[Epoch {epoch}] val_recon = {avg_recon:.6f}, val_class = {avg_class:.6f}")
+
+        # step scheduler on reconstruction (or you could choose total loss)
+        scheduler.step(avg_recon)
+
+        # checkpoint
+        ckpt_dir = "/gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v7.2_AE_classification/checkpoint"
+        torch.save(
+            model.state_dict(),
+            f"{ckpt_dir}/AE_classi_epoch{epoch}.pt"
+        )
+        print(f"Saved feature_refine_new_atten_ce_checkpoint_epoch{epoch}.pt")
+
+    print("=== Joint AE + CE training finished ===")
+
+# ----------------------------
+# 6. Main
+# ----------------------------
+if __name__ == "__main__":
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    model = ConvAE(input_channels=3, latent_channels=8, num_classes=num_classes)
+    model.to(device)
+
+    optimizer = optim.AdamW(model.parameters(), lr=1e-3, weight_decay=1e-4)
+
+    train_ae_with_classification(
+        model=model,
+        train_loader=train_loader,
+        val_loader=val_loader,
+        optimizer=optimizer,
+        device=device,
+        num_epochs=1000,
+        class_weight=1.3   # try tuning this if you want to balance CE vs MSE
+    )
+
+#### Recon only. No residual block. Recon=combination of two functions.
+### Best entry (1280)
+### 更新：新的resblock, attention

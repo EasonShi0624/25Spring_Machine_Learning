@@ -1,0 +1,1500 @@
+[Epoch 1] lr=9.99e-04  val_recon=0.014437  val_cls=4.941129  val_center=3555.681339  val_perc=0.002789
+Saved checkpoint_epoch1.pt
+[Epoch 2] lr=9.96e-04  val_recon=0.009937  val_cls=4.841540  val_center=3087.267733  val_perc=0.002009
+Saved checkpoint_epoch2.pt
+[Epoch 3] lr=9.91e-04  val_recon=0.008203  val_cls=4.818081  val_center=2682.820363  val_perc=0.001330
+Saved checkpoint_epoch3.pt
+[Epoch 4] lr=9.84e-04  val_recon=0.037593  val_cls=4.795087  val_center=2337.398852  val_perc=0.002840
+Saved checkpoint_epoch4.pt
+[Epoch 5] lr=9.76e-04  val_recon=0.007085  val_cls=4.734694  val_center=2037.964050  val_perc=0.001105
+Saved checkpoint_epoch5.pt
+[Epoch 6] lr=9.65e-04  val_recon=0.005407  val_cls=4.685850  val_center=1780.161795  val_perc=0.001243
+Saved checkpoint_epoch6.pt
+[Epoch 7] lr=9.52e-04  val_recon=0.005586  val_cls=4.687776  val_center=1557.135889  val_perc=0.001197
+Saved checkpoint_epoch7.pt
+[Epoch 8] lr=9.38e-04  val_recon=0.004475  val_cls=4.629046  val_center=1364.679527  val_perc=0.000936
+Saved checkpoint_epoch8.pt
+[Epoch 9] lr=9.22e-04  val_recon=0.004249  val_cls=4.619313  val_center=1197.708275  val_perc=0.000772
+Saved checkpoint_epoch9.pt
+[Epoch 10] lr=9.05e-04  val_recon=0.003465  val_cls=4.602552  val_center=1052.816746  val_perc=0.000780
+Saved checkpoint_epoch10.pt
+[Epoch 11] lr=8.85e-04  val_recon=0.004329  val_cls=4.594850  val_center=927.454514  val_perc=0.000671
+Saved checkpoint_epoch11.pt
+[Epoch 12] lr=8.64e-04  val_recon=0.003115  val_cls=4.542998  val_center=818.776937  val_perc=0.000632
+Saved checkpoint_epoch12.pt
+[Epoch 13] lr=8.42e-04  val_recon=0.003534  val_cls=4.551054  val_center=724.251098  val_perc=0.000677
+Saved checkpoint_epoch13.pt
+[Epoch 14] lr=8.19e-04  val_recon=0.004232  val_cls=4.583264  val_center=643.467715  val_perc=0.000867
+Saved checkpoint_epoch14.pt
+[Epoch 15] lr=7.94e-04  val_recon=0.003165  val_cls=4.548150  val_center=570.830192  val_perc=0.000701
+Saved checkpoint_epoch15.pt
+[Epoch 16] lr=7.68e-04  val_recon=0.002625  val_cls=4.513238  val_center=508.462609  val_perc=0.000552
+Saved checkpoint_epoch16.pt
+[Epoch 17] lr=7.41e-04  val_recon=0.004086  val_cls=4.489591  val_center=454.548838  val_perc=0.000662
+Saved checkpoint_epoch17.pt
+[Epoch 18] lr=7.13e-04  val_recon=0.002975  val_cls=4.484554  val_center=407.148983  val_perc=0.000754
+Saved checkpoint_epoch18.pt
+[Epoch 19] lr=6.84e-04  val_recon=0.003131  val_cls=4.499126  val_center=365.799293  val_perc=0.000645
+Saved checkpoint_epoch19.pt
+[Epoch 20] lr=6.55e-04  val_recon=0.002260  val_cls=4.502776  val_center=329.814359  val_perc=0.000523
+Saved checkpoint_epoch20.pt
+[Epoch 21] lr=6.24e-04  val_recon=0.002256  val_cls=4.487324  val_center=298.414055  val_perc=0.000502
+Saved checkpoint_epoch21.pt
+[Epoch 22] lr=5.94e-04  val_recon=0.001923  val_cls=4.474710  val_center=271.143826  val_perc=0.000435
+Saved checkpoint_epoch22.pt
+[Epoch 23] lr=5.63e-04  val_recon=0.002423  val_cls=4.468754  val_center=246.928931  val_perc=0.000512
+Saved checkpoint_epoch23.pt
+[Epoch 24] lr=5.31e-04  val_recon=0.002074  val_cls=4.445722  val_center=225.720746  val_perc=0.000492
+Saved checkpoint_epoch24.pt
+[Epoch 25] lr=5.00e-04  val_recon=0.001872  val_cls=4.451187  val_center=207.373714  val_perc=0.000412
+Saved checkpoint_epoch25.pt
+[Epoch 26] lr=4.69e-04  val_recon=0.002470  val_cls=4.460459  val_center=190.997677  val_perc=0.000572
+Saved checkpoint_epoch26.pt
+[Epoch 27] lr=4.37e-04  val_recon=0.001885  val_cls=4.439749  val_center=176.842478  val_perc=0.000424
+Saved checkpoint_epoch27.pt
+[Epoch 28] lr=4.06e-04  val_recon=0.002074  val_cls=4.443786  val_center=164.260958  val_perc=0.000474
+Saved checkpoint_epoch28.pt
+[Epoch 29] lr=3.76e-04  val_recon=0.001959  val_cls=4.431317  val_center=153.226301  val_perc=0.000451
+Saved checkpoint_epoch29.pt
+[Epoch 30] lr=3.45e-04  val_recon=0.002036  val_cls=4.439103  val_center=143.626386  val_perc=0.000466
+Saved checkpoint_epoch30.pt
+[Epoch 31] lr=3.16e-04  val_recon=0.001899  val_cls=4.419895  val_center=135.163549  val_perc=0.000420
+Saved checkpoint_epoch31.pt
+[Epoch 32] lr=2.87e-04  val_recon=0.001843  val_cls=4.419456  val_center=127.776058  val_perc=0.000434
+Saved checkpoint_epoch32.pt
+[Epoch 33] lr=2.59e-04  val_recon=0.002213  val_cls=4.426684  val_center=121.239172  val_perc=0.000560
+Saved checkpoint_epoch33.pt
+[Epoch 34] lr=2.32e-04  val_recon=0.001694  val_cls=4.411185  val_center=115.496638  val_perc=0.000404
+Saved checkpoint_epoch34.pt
+[Epoch 35] lr=2.06e-04  val_recon=0.002104  val_cls=4.426946  val_center=110.807653  val_perc=0.000446
+Saved checkpoint_epoch35.pt
+[Epoch 36] lr=1.81e-04  val_recon=0.001910  val_cls=4.406466  val_center=106.298419  val_perc=0.000442
+Saved checkpoint_epoch36.pt
+[Epoch 37] lr=1.58e-04  val_recon=0.001629  val_cls=4.402675  val_center=102.763915  val_perc=0.000376
+Saved checkpoint_epoch37.pt
+[Epoch 38] lr=1.36e-04  val_recon=0.001716  val_cls=4.396469  val_center=99.587284  val_perc=0.000396
+Saved checkpoint_epoch38.pt
+[Epoch 39] lr=1.15e-04  val_recon=0.001747  val_cls=4.399706  val_center=96.799773  val_perc=0.000404
+Saved checkpoint_epoch39.pt
+[Epoch 40] lr=9.55e-05  val_recon=0.001756  val_cls=4.396514  val_center=94.552026  val_perc=0.000441
+Saved checkpoint_epoch40.pt
+[Epoch 41] lr=7.78e-05  val_recon=0.001564  val_cls=4.399207  val_center=92.649377  val_perc=0.000367
+Saved checkpoint_epoch41.pt
+[Epoch 42] lr=6.19e-05  val_recon=0.001586  val_cls=4.395176  val_center=91.090744  val_perc=0.000381
+Saved checkpoint_epoch42.pt
+[Epoch 43] lr=4.76e-05  val_recon=0.001570  val_cls=4.386278  val_center=89.881879  val_perc=0.000382
+Saved checkpoint_epoch43.pt
+[Epoch 44] lr=3.51e-05  val_recon=0.001552  val_cls=4.389502  val_center=88.999967  val_perc=0.000359
+Saved checkpoint_epoch44.pt
+[Epoch 45] lr=2.45e-05  val_recon=0.001532  val_cls=4.384679  val_center=88.299903  val_perc=0.000364
+Saved checkpoint_epoch45.pt
+[Epoch 46] lr=1.57e-05  val_recon=0.001560  val_cls=4.383885  val_center=87.766729  val_perc=0.000372
+Saved checkpoint_epoch46.pt
+[Epoch 47] lr=8.87e-06  val_recon=0.001512  val_cls=4.380481  val_center=87.461245  val_perc=0.000357
+Saved checkpoint_epoch47.pt
+[Epoch 48] lr=3.95e-06  val_recon=0.001495  val_cls=4.381789  val_center=87.242159  val_perc=0.000353
+Saved checkpoint_epoch48.pt
+[Epoch 49] lr=9.97e-07  val_recon=0.001486  val_cls=4.382443  val_center=87.151982  val_perc=0.000356
+Saved checkpoint_epoch49.pt
+[Epoch 50] lr=1.00e-03  val_recon=0.001482  val_cls=4.381229  val_center=87.136817  val_perc=0.000356
+Saved checkpoint_epoch50.pt
+[Epoch 51] lr=1.00e-03  val_recon=0.005079  val_cls=4.562093  val_center=69.062350  val_perc=0.000985
+Saved checkpoint_epoch51.pt
+[Epoch 52] lr=9.99e-04  val_recon=0.003545  val_cls=4.491194  val_center=55.886692  val_perc=0.000795
+Saved checkpoint_epoch52.pt
+[Epoch 53] lr=9.98e-04  val_recon=0.003347  val_cls=4.494874  val_center=46.353540  val_perc=0.000593
+Saved checkpoint_epoch53.pt
+[Epoch 54] lr=9.96e-04  val_recon=0.009404  val_cls=4.601283  val_center=39.126092  val_perc=0.001192
+Saved checkpoint_epoch54.pt
+[Epoch 55] lr=9.94e-04  val_recon=0.003834  val_cls=4.516712  val_center=32.836262  val_perc=0.000758
+Saved checkpoint_epoch55.pt
+[Epoch 56] lr=9.91e-04  val_recon=0.001959  val_cls=4.507830  val_center=27.846499  val_perc=0.000429
+Saved checkpoint_epoch56.pt
+[Epoch 57] lr=9.88e-04  val_recon=0.002305  val_cls=4.518880  val_center=23.649706  val_perc=0.000530
+Saved checkpoint_epoch57.pt
+[Epoch 58] lr=9.84e-04  val_recon=0.002835  val_cls=4.506772  val_center=20.526163  val_perc=0.000559
+Saved checkpoint_epoch58.pt
+[Epoch 59] lr=9.80e-04  val_recon=0.003641  val_cls=4.835243  val_center=19.968645  val_perc=0.000646
+Saved checkpoint_epoch59.pt
+[Epoch 60] lr=9.76e-04  val_recon=0.002654  val_cls=4.525630  val_center=15.773678  val_perc=0.000527
+Saved checkpoint_epoch60.pt
+[Epoch 61] lr=9.70e-04  val_recon=0.001933  val_cls=4.480327  val_center=13.888179  val_perc=0.000447
+Saved checkpoint_epoch61.pt
+[Epoch 62] lr=9.65e-04  val_recon=0.004828  val_cls=4.792403  val_center=13.189102  val_perc=0.000839
+Saved checkpoint_epoch62.pt
+[Epoch 63] lr=9.59e-04  val_recon=0.002268  val_cls=4.477009  val_center=10.782337  val_perc=0.000517
+Saved checkpoint_epoch63.pt
+[Epoch 64] lr=9.52e-04  val_recon=0.002860  val_cls=4.481341  val_center=9.807570  val_perc=0.000530
+Saved checkpoint_epoch64.pt
+[Epoch 65] lr=9.46e-04  val_recon=0.002333  val_cls=4.487867  val_center=8.912644  val_perc=0.000492
+Saved checkpoint_epoch65.pt
+[Epoch 66] lr=9.38e-04  val_recon=0.002631  val_cls=4.476903  val_center=8.061385  val_perc=0.000508
+Saved checkpoint_epoch66.pt
+[Epoch 67] lr=9.30e-04  val_recon=0.002356  val_cls=4.478146  val_center=7.429569  val_perc=0.000478
+Saved checkpoint_epoch67.pt
+[Epoch 68] lr=9.22e-04  val_recon=0.002276  val_cls=4.522841  val_center=6.879223  val_perc=0.000451
+Saved checkpoint_epoch68.pt
+[Epoch 69] lr=9.14e-04  val_recon=0.004523  val_cls=4.509892  val_center=6.485884  val_perc=0.000810
+Saved checkpoint_epoch69.pt
+[Epoch 70] lr=9.05e-04  val_recon=0.001976  val_cls=4.487632  val_center=5.889764  val_perc=0.000448
+Saved checkpoint_epoch70.pt
+[Epoch 71] lr=8.95e-04  val_recon=0.002733  val_cls=4.493579  val_center=5.596500  val_perc=0.000553
+Saved checkpoint_epoch71.pt
+[Epoch 72] lr=8.85e-04  val_recon=0.002685  val_cls=4.569358  val_center=5.583580  val_perc=0.000597
+Saved checkpoint_epoch72.pt
+[Epoch 73] lr=8.75e-04  val_recon=0.002849  val_cls=4.606254  val_center=5.461362  val_perc=0.000585
+Saved checkpoint_epoch73.pt
+[Epoch 74] lr=8.64e-04  val_recon=0.001629  val_cls=4.494192  val_center=4.754663  val_perc=0.000378
+Saved checkpoint_epoch74.pt
+[Epoch 75] lr=8.54e-04  val_recon=0.002102  val_cls=4.554894  val_center=4.877906  val_perc=0.000422
+Saved checkpoint_epoch75.pt
+[Epoch 76] lr=8.42e-04  val_recon=0.001808  val_cls=4.539549  val_center=4.504490  val_perc=0.000410
+Saved checkpoint_epoch76.pt
+[Epoch 77] lr=8.31e-04  val_recon=0.001779  val_cls=4.505855  val_center=4.243835  val_perc=0.000423
+Saved checkpoint_epoch77.pt
+[Epoch 78] lr=8.19e-04  val_recon=0.002590  val_cls=4.608358  val_center=4.620918  val_perc=0.000555
+Saved checkpoint_epoch78.pt
+[Epoch 79] lr=8.06e-04  val_recon=0.001696  val_cls=4.527186  val_center=4.157954  val_perc=0.000406
+Saved checkpoint_epoch79.pt
+[Epoch 80] lr=7.94e-04  val_recon=0.001906  val_cls=4.524309  val_center=4.091361  val_perc=0.000409
+Saved checkpoint_epoch80.pt
+[Epoch 81] lr=7.81e-04  val_recon=0.002374  val_cls=4.614102  val_center=4.185264  val_perc=0.000535
+Saved checkpoint_epoch81.pt
+[Epoch 82] lr=7.68e-04  val_recon=0.001651  val_cls=4.521174  val_center=3.715758  val_perc=0.000370
+Saved checkpoint_epoch82.pt
+[Epoch 83] lr=7.55e-04  val_recon=0.001780  val_cls=4.638645  val_center=4.237557  val_perc=0.000415
+Saved checkpoint_epoch83.pt
+[Epoch 84] lr=7.41e-04  val_recon=0.001814  val_cls=4.510660  val_center=3.692220  val_perc=0.000407
+Saved checkpoint_epoch84.pt
+[Epoch 85] lr=7.27e-04  val_recon=0.001901  val_cls=4.543234  val_center=3.683016  val_perc=0.000411
+Saved checkpoint_epoch85.pt
+[Epoch 86] lr=7.13e-04  val_recon=0.002081  val_cls=4.554079  val_center=3.500180  val_perc=0.000473
+Saved checkpoint_epoch86.pt
+[Epoch 87] lr=6.99e-04  val_recon=0.001846  val_cls=4.550625  val_center=3.391603  val_perc=0.000439
+Saved checkpoint_epoch87.pt
+[Epoch 88] lr=6.84e-04  val_recon=0.002725  val_cls=4.618883  val_center=3.843209  val_perc=0.000582
+Saved checkpoint_epoch88.pt
+[Epoch 89] lr=6.69e-04  val_recon=0.001590  val_cls=4.506177  val_center=3.406758  val_perc=0.000361
+Saved checkpoint_epoch89.pt
+[Epoch 90] lr=6.55e-04  val_recon=0.003515  val_cls=5.045371  val_center=5.859733  val_perc=0.000609
+Saved checkpoint_epoch90.pt
+[Epoch 91] lr=6.39e-04  val_recon=0.001803  val_cls=4.518647  val_center=3.330437  val_perc=0.000393
+Saved checkpoint_epoch91.pt
+[Epoch 92] lr=6.24e-04  val_recon=0.001829  val_cls=4.523382  val_center=3.315150  val_perc=0.000446
+Saved checkpoint_epoch92.pt
+[Epoch 93] lr=6.09e-04  val_recon=0.002000  val_cls=4.650851  val_center=3.677585  val_perc=0.000457
+Saved checkpoint_epoch93.pt
+[Epoch 94] lr=5.94e-04  val_recon=0.001560  val_cls=4.580582  val_center=3.432381  val_perc=0.000371
+Saved checkpoint_epoch94.pt
+[Epoch 95] lr=5.78e-04  val_recon=0.002100  val_cls=4.529166  val_center=3.280189  val_perc=0.000410
+Saved checkpoint_epoch95.pt
+[Epoch 96] lr=5.63e-04  val_recon=0.001996  val_cls=4.636224  val_center=3.598746  val_perc=0.000462
+Saved checkpoint_epoch96.pt
+[Epoch 97] lr=5.47e-04  val_recon=0.002427  val_cls=4.545321  val_center=3.229046  val_perc=0.000563
+Saved checkpoint_epoch97.pt
+[Epoch 98] lr=5.31e-04  val_recon=0.001649  val_cls=4.582930  val_center=3.421768  val_perc=0.000409
+Saved checkpoint_epoch98.pt
+[Epoch 99] lr=5.16e-04  val_recon=0.001895  val_cls=4.558121  val_center=2.988367  val_perc=0.000380
+Saved checkpoint_epoch99.pt
+[Epoch 100] lr=5.00e-04  val_recon=0.001570  val_cls=4.629078  val_center=3.377326  val_perc=0.000383
+Saved checkpoint_epoch100.pt
+[Epoch 101] lr=4.84e-04  val_recon=0.001466  val_cls=4.615196  val_center=3.480297  val_perc=0.000366
+Saved checkpoint_epoch101.pt
+[Epoch 102] lr=4.69e-04  val_recon=0.001683  val_cls=4.608837  val_center=3.327286  val_perc=0.000377
+Saved checkpoint_epoch102.pt
+[Epoch 103] lr=4.53e-04  val_recon=0.001812  val_cls=4.538380  val_center=3.139269  val_perc=0.000377
+Saved checkpoint_epoch103.pt
+[Epoch 104] lr=4.37e-04  val_recon=0.001624  val_cls=4.618001  val_center=3.153632  val_perc=0.000391
+Saved checkpoint_epoch104.pt
+[Epoch 105] lr=4.22e-04  val_recon=0.001595  val_cls=4.571550  val_center=3.140456  val_perc=0.000365
+Saved checkpoint_epoch105.pt
+[Epoch 106] lr=4.06e-04  val_recon=0.002127  val_cls=4.643418  val_center=3.362649  val_perc=0.000491
+Saved checkpoint_epoch106.pt
+[Epoch 107] lr=3.91e-04  val_recon=0.002140  val_cls=4.589397  val_center=3.129142  val_perc=0.000423
+Saved checkpoint_epoch107.pt
+[Epoch 108] lr=3.76e-04  val_recon=0.003182  val_cls=4.568619  val_center=3.025993  val_perc=0.000584
+Saved checkpoint_epoch108.pt
+[Epoch 109] lr=3.61e-04  val_recon=0.001650  val_cls=4.548700  val_center=3.035029  val_perc=0.000371
+Saved checkpoint_epoch109.pt
+[Epoch 110] lr=3.45e-04  val_recon=0.002093  val_cls=4.900040  val_center=3.783068  val_perc=0.000467
+Saved checkpoint_epoch110.pt
+[Epoch 111] lr=3.31e-04  val_recon=0.001717  val_cls=4.591032  val_center=3.119674  val_perc=0.000383
+Saved checkpoint_epoch111.pt
+[Epoch 112] lr=3.16e-04  val_recon=0.001477  val_cls=4.519762  val_center=2.964823  val_perc=0.000363
+Saved checkpoint_epoch112.pt
+[Epoch 113] lr=3.01e-04  val_recon=0.001411  val_cls=4.534094  val_center=3.027428  val_perc=0.000332
+Saved checkpoint_epoch113.pt
+[Epoch 114] lr=2.87e-04  val_recon=0.001480  val_cls=4.530578  val_center=2.944378  val_perc=0.000342
+Saved checkpoint_epoch114.pt
+[Epoch 115] lr=2.73e-04  val_recon=0.001660  val_cls=4.533399  val_center=2.880076  val_perc=0.000420
+Saved checkpoint_epoch115.pt
+[Epoch 116] lr=2.59e-04  val_recon=0.002394  val_cls=4.577012  val_center=2.993846  val_perc=0.000513
+Saved checkpoint_epoch116.pt
+[Epoch 117] lr=2.45e-04  val_recon=0.001580  val_cls=4.531992  val_center=2.933066  val_perc=0.000361
+Saved checkpoint_epoch117.pt
+[Epoch 118] lr=2.32e-04  val_recon=0.001440  val_cls=4.605246  val_center=3.119646  val_perc=0.000330
+Saved checkpoint_epoch118.pt
+[Epoch 119] lr=2.19e-04  val_recon=0.001383  val_cls=4.510001  val_center=2.847551  val_perc=0.000351
+Saved checkpoint_epoch119.pt
+[Epoch 120] lr=2.06e-04  val_recon=0.001401  val_cls=4.514855  val_center=2.815213  val_perc=0.000342
+Saved checkpoint_epoch120.pt
+[Epoch 121] lr=1.94e-04  val_recon=0.001584  val_cls=4.568255  val_center=2.926783  val_perc=0.000376
+Saved checkpoint_epoch121.pt
+[Epoch 122] lr=1.81e-04  val_recon=0.001823  val_cls=4.588451  val_center=2.957764  val_perc=0.000404
+Saved checkpoint_epoch122.pt
+[Epoch 123] lr=1.69e-04  val_recon=0.001639  val_cls=4.541048  val_center=2.922914  val_perc=0.000353
+Saved checkpoint_epoch123.pt
+[Epoch 124] lr=1.58e-04  val_recon=0.001392  val_cls=4.580989  val_center=2.968512  val_perc=0.000327
+Saved checkpoint_epoch124.pt
+[Epoch 125] lr=1.46e-04  val_recon=0.001535  val_cls=4.606402  val_center=2.958033  val_perc=0.000338
+Saved checkpoint_epoch125.pt
+[Epoch 126] lr=1.36e-04  val_recon=0.001399  val_cls=4.523180  val_center=2.755824  val_perc=0.000332
+Saved checkpoint_epoch126.pt
+[Epoch 127] lr=1.25e-04  val_recon=0.001621  val_cls=4.559953  val_center=2.993785  val_perc=0.000357
+Saved checkpoint_epoch127.pt
+[Epoch 128] lr=1.15e-04  val_recon=0.001455  val_cls=4.499629  val_center=2.797433  val_perc=0.000342
+Saved checkpoint_epoch128.pt
+[Epoch 129] lr=1.05e-04  val_recon=0.001332  val_cls=4.514020  val_center=2.842343  val_perc=0.000318
+Saved checkpoint_epoch129.pt
+[Epoch 130] lr=9.55e-05  val_recon=0.001578  val_cls=4.556903  val_center=2.964105  val_perc=0.000425
+Saved checkpoint_epoch130.pt
+[Epoch 131] lr=8.65e-05  val_recon=0.001440  val_cls=4.528129  val_center=2.828850  val_perc=0.000347
+Saved checkpoint_epoch131.pt
+[Epoch 132] lr=7.78e-05  val_recon=0.001258  val_cls=4.503175  val_center=2.761184  val_perc=0.000307
+Saved checkpoint_epoch132.pt
+[Epoch 133] lr=6.96e-05  val_recon=0.001514  val_cls=4.502038  val_center=2.748238  val_perc=0.000353
+Saved checkpoint_epoch133.pt
+[Epoch 134] lr=6.19e-05  val_recon=0.001285  val_cls=4.519736  val_center=2.787100  val_perc=0.000302
+Saved checkpoint_epoch134.pt
+[Epoch 135] lr=5.45e-05  val_recon=0.001294  val_cls=4.508545  val_center=2.766022  val_perc=0.000316
+Saved checkpoint_epoch135.pt
+[Epoch 136] lr=4.76e-05  val_recon=0.001303  val_cls=4.506337  val_center=2.773205  val_perc=0.000308
+Saved checkpoint_epoch136.pt
+[Epoch 137] lr=4.11e-05  val_recon=0.001294  val_cls=4.511977  val_center=2.771549  val_perc=0.000319
+Saved checkpoint_epoch137.pt
+[Epoch 138] lr=3.51e-05  val_recon=0.001300  val_cls=4.509556  val_center=2.756897  val_perc=0.000307
+Saved checkpoint_epoch138.pt
+[Epoch 139] lr=2.96e-05  val_recon=0.001384  val_cls=4.510767  val_center=2.777926  val_perc=0.000323
+Saved checkpoint_epoch139.pt
+[Epoch 140] lr=2.45e-05  val_recon=0.001290  val_cls=4.499954  val_center=2.719047  val_perc=0.000317
+Saved checkpoint_epoch140.pt
+[Epoch 141] lr=1.99e-05  val_recon=0.001251  val_cls=4.507858  val_center=2.736961  val_perc=0.000307
+Saved checkpoint_epoch141.pt
+[Epoch 142] lr=1.57e-05  val_recon=0.001251  val_cls=4.507787  val_center=2.745574  val_perc=0.000313
+Saved checkpoint_epoch142.pt
+[Epoch 143] lr=1.21e-05  val_recon=0.001257  val_cls=4.501989  val_center=2.745332  val_perc=0.000307
+Saved checkpoint_epoch143.pt
+[Epoch 144] lr=8.87e-06  val_recon=0.001251  val_cls=4.500274  val_center=2.710732  val_perc=0.000304
+Saved checkpoint_epoch144.pt
+[Epoch 145] lr=6.17e-06  val_recon=0.001239  val_cls=4.505635  val_center=2.747695  val_perc=0.000307
+Saved checkpoint_epoch145.pt
+[Epoch 146] lr=3.95e-06  val_recon=0.001236  val_cls=4.499075  val_center=2.744258  val_perc=0.000302
+Saved checkpoint_epoch146.pt
+[Epoch 147] lr=2.23e-06  val_recon=0.001237  val_cls=4.508413  val_center=2.753700  val_perc=0.000305
+Saved checkpoint_epoch147.pt
+[Epoch 148] lr=9.97e-07  val_recon=0.001234  val_cls=4.500992  val_center=2.734238  val_perc=0.000301
+Saved checkpoint_epoch148.pt
+[Epoch 149] lr=2.57e-07  val_recon=0.001236  val_cls=4.499581  val_center=2.723106  val_perc=0.000302
+Saved checkpoint_epoch149.pt
+[Epoch 150] lr=1.00e-03  val_recon=0.001235  val_cls=4.504287  val_center=2.751205  val_perc=0.000304
+Saved checkpoint_epoch150.pt
+[Epoch 151] lr=1.00e-03  val_recon=0.002954  val_cls=4.687099  val_center=3.294618  val_perc=0.000606
+Saved checkpoint_epoch151.pt
+[Epoch 152] lr=1.00e-03  val_recon=0.003035  val_cls=4.608208  val_center=3.025212  val_perc=0.000625
+Saved checkpoint_epoch152.pt
+[Epoch 153] lr=9.99e-04  val_recon=0.002520  val_cls=4.612243  val_center=2.962739  val_perc=0.000553
+Saved checkpoint_epoch153.pt
+[Epoch 154] lr=9.99e-04  val_recon=0.021812  val_cls=4.948790  val_center=4.480955  val_perc=0.002294
+Saved checkpoint_epoch154.pt
+[Epoch 155] lr=9.98e-04  val_recon=0.002113  val_cls=4.697839  val_center=3.066698  val_perc=0.000457
+Saved checkpoint_epoch155.pt
+[Epoch 156] lr=9.98e-04  val_recon=0.001790  val_cls=4.672807  val_center=3.061096  val_perc=0.000383
+Saved checkpoint_epoch156.pt
+[Epoch 157] lr=9.97e-04  val_recon=0.002218  val_cls=4.773952  val_center=3.305304  val_perc=0.000475
+Saved checkpoint_epoch157.pt
+[Epoch 158] lr=9.96e-04  val_recon=0.002885  val_cls=4.720910  val_center=3.074092  val_perc=0.000692
+Saved checkpoint_epoch158.pt
+[Epoch 159] lr=9.95e-04  val_recon=0.001735  val_cls=4.673079  val_center=3.110256  val_perc=0.000391
+Saved checkpoint_epoch159.pt
+[Epoch 160] lr=9.94e-04  val_recon=0.002030  val_cls=4.630735  val_center=2.908069  val_perc=0.000475
+Saved checkpoint_epoch160.pt
+[Epoch 161] lr=9.93e-04  val_recon=0.001638  val_cls=4.722991  val_center=3.007703  val_perc=0.000378
+Saved checkpoint_epoch161.pt
+[Epoch 162] lr=9.91e-04  val_recon=0.001602  val_cls=4.653887  val_center=3.058720  val_perc=0.000385
+Saved checkpoint_epoch162.pt
+[Epoch 163] lr=9.90e-04  val_recon=0.002397  val_cls=4.667278  val_center=3.015836  val_perc=0.000481
+Saved checkpoint_epoch163.pt
+[Epoch 164] lr=9.88e-04  val_recon=0.001970  val_cls=4.698543  val_center=2.836939  val_perc=0.000472
+Saved checkpoint_epoch164.pt
+[Epoch 165] lr=9.86e-04  val_recon=0.001595  val_cls=4.650383  val_center=2.867015  val_perc=0.000392
+Saved checkpoint_epoch165.pt
+[Epoch 166] lr=9.84e-04  val_recon=0.002840  val_cls=5.120675  val_center=3.696413  val_perc=0.000571
+Saved checkpoint_epoch166.pt
+[Epoch 167] lr=9.82e-04  val_recon=0.001378  val_cls=4.703358  val_center=2.984994  val_perc=0.000342
+Saved checkpoint_epoch167.pt
+[Epoch 168] lr=9.80e-04  val_recon=0.001694  val_cls=4.629254  val_center=2.811014  val_perc=0.000407
+Saved checkpoint_epoch168.pt
+[Epoch 169] lr=9.78e-04  val_recon=0.001526  val_cls=4.653361  val_center=2.723203  val_perc=0.000346
+Saved checkpoint_epoch169.pt
+[Epoch 170] lr=9.76e-04  val_recon=0.001475  val_cls=4.646146  val_center=2.625845  val_perc=0.000361
+Saved checkpoint_epoch170.pt
+[Epoch 171] lr=9.73e-04  val_recon=0.002281  val_cls=4.826287  val_center=3.066397  val_perc=0.000485
+Saved checkpoint_epoch171.pt
+[Epoch 172] lr=9.70e-04  val_recon=0.007870  val_cls=6.654983  val_center=8.874581  val_perc=0.001254
+Saved checkpoint_epoch172.pt
+[Epoch 173] lr=9.68e-04  val_recon=0.001568  val_cls=4.762534  val_center=2.830867  val_perc=0.000381
+Saved checkpoint_epoch173.pt
+[Epoch 174] lr=9.65e-04  val_recon=0.002038  val_cls=4.742296  val_center=2.907838  val_perc=0.000429
+Saved checkpoint_epoch174.pt
+[Epoch 175] lr=9.62e-04  val_recon=0.002111  val_cls=4.752017  val_center=2.704358  val_perc=0.000522
+Saved checkpoint_epoch175.pt
+[Epoch 176] lr=9.59e-04  val_recon=0.001407  val_cls=4.827140  val_center=2.911849  val_perc=0.000359
+Saved checkpoint_epoch176.pt
+[Epoch 177] lr=9.56e-04  val_recon=0.001560  val_cls=4.672527  val_center=2.587568  val_perc=0.000348
+Saved checkpoint_epoch177.pt
+[Epoch 178] lr=9.52e-04  val_recon=0.001650  val_cls=4.719748  val_center=2.641125  val_perc=0.000370
+Saved checkpoint_epoch178.pt
+[Epoch 179] lr=9.49e-04  val_recon=0.001702  val_cls=4.712730  val_center=2.753011  val_perc=0.000356
+Saved checkpoint_epoch179.pt
+[Epoch 180] lr=9.46e-04  val_recon=0.003811  val_cls=4.813586  val_center=2.950689  val_perc=0.000658
+Saved checkpoint_epoch180.pt
+[Epoch 181] lr=9.42e-04  val_recon=0.028271  val_cls=9.393963  val_center=8.542005  val_perc=0.002475
+Saved checkpoint_epoch181.pt
+[Epoch 182] lr=9.38e-04  val_recon=0.002415  val_cls=4.821360  val_center=2.815890  val_perc=0.000526
+Saved checkpoint_epoch182.pt
+[Epoch 183] lr=9.34e-04  val_recon=0.001445  val_cls=5.062008  val_center=3.060183  val_perc=0.000346
+Saved checkpoint_epoch183.pt
+[Epoch 184] lr=9.30e-04  val_recon=0.002030  val_cls=4.875406  val_center=2.895505  val_perc=0.000453
+Saved checkpoint_epoch184.pt
+[Epoch 185] lr=9.26e-04  val_recon=0.001825  val_cls=4.699638  val_center=2.502327  val_perc=0.000369
+Saved checkpoint_epoch185.pt
+[Epoch 186] lr=9.22e-04  val_recon=0.001387  val_cls=5.340741  val_center=3.216370  val_perc=0.000318
+Saved checkpoint_epoch186.pt
+[Epoch 187] lr=9.18e-04  val_recon=0.001838  val_cls=5.279892  val_center=3.235073  val_perc=0.000382
+Saved checkpoint_epoch187.pt
+[Epoch 188] lr=9.14e-04  val_recon=0.001871  val_cls=4.800241  val_center=2.622904  val_perc=0.000403
+Saved checkpoint_epoch188.pt
+[Epoch 189] lr=9.09e-04  val_recon=0.001554  val_cls=4.794623  val_center=2.708993  val_perc=0.000360
+Saved checkpoint_epoch189.pt
+[Epoch 190] lr=9.05e-04  val_recon=0.001404  val_cls=4.708697  val_center=2.458256  val_perc=0.000360
+Saved checkpoint_epoch190.pt
+[Epoch 191] lr=9.00e-04  val_recon=0.001583  val_cls=4.889958  val_center=2.571094  val_perc=0.000374
+Saved checkpoint_epoch191.pt
+[Epoch 192] lr=8.95e-04  val_recon=0.001622  val_cls=4.704563  val_center=2.484216  val_perc=0.000358
+Saved checkpoint_epoch192.pt
+[Epoch 193] lr=8.90e-04  val_recon=0.001718  val_cls=4.907822  val_center=2.804542  val_perc=0.000356
+Saved checkpoint_epoch193.pt
+[Epoch 194] lr=8.85e-04  val_recon=0.001696  val_cls=4.786188  val_center=2.482909  val_perc=0.000392
+Saved checkpoint_epoch194.pt
+[Epoch 195] lr=8.80e-04  val_recon=0.002518  val_cls=4.887153  val_center=2.595106  val_perc=0.000518
+Saved checkpoint_epoch195.pt
+[Epoch 196] lr=8.75e-04  val_recon=0.001635  val_cls=4.770131  val_center=2.474777  val_perc=0.000354
+Saved checkpoint_epoch196.pt
+[Epoch 197] lr=8.70e-04  val_recon=0.001625  val_cls=4.802242  val_center=2.557016  val_perc=0.000368
+Saved checkpoint_epoch197.pt
+[Epoch 198] lr=8.64e-04  val_recon=0.001797  val_cls=4.768615  val_center=2.404460  val_perc=0.000417
+Saved checkpoint_epoch198.pt
+[Epoch 199] lr=8.59e-04  val_recon=0.001736  val_cls=4.789341  val_center=2.390872  val_perc=0.000390
+Saved checkpoint_epoch199.pt
+[Epoch 200] lr=8.54e-04  val_recon=0.001650  val_cls=4.932323  val_center=2.395123  val_perc=0.000397
+Saved checkpoint_epoch200.pt
+[Epoch 201] lr=8.48e-04  val_recon=0.003652  val_cls=4.887863  val_center=2.587839  val_perc=0.000712
+Saved checkpoint_epoch201.pt
+[Epoch 202] lr=8.42e-04  val_recon=0.002486  val_cls=4.783081  val_center=2.424630  val_perc=0.000628
+Saved checkpoint_epoch202.pt
+[Epoch 203] lr=8.37e-04  val_recon=0.001942  val_cls=4.734276  val_center=2.306532  val_perc=0.000398
+Saved checkpoint_epoch203.pt
+[Epoch 204] lr=8.31e-04  val_recon=0.001679  val_cls=4.943002  val_center=2.460440  val_perc=0.000361
+Saved checkpoint_epoch204.pt
+[Epoch 205] lr=8.25e-04  val_recon=0.001686  val_cls=4.785974  val_center=2.382276  val_perc=0.000386
+Saved checkpoint_epoch205.pt
+[Epoch 206] lr=8.19e-04  val_recon=0.001487  val_cls=5.304294  val_center=2.706320  val_perc=0.000355
+Saved checkpoint_epoch206.pt
+[Epoch 207] lr=8.13e-04  val_recon=0.001778  val_cls=4.991727  val_center=2.416053  val_perc=0.000450
+Saved checkpoint_epoch207.pt
+[Epoch 208] lr=8.06e-04  val_recon=0.004972  val_cls=4.855059  val_center=2.438031  val_perc=0.000839
+Saved checkpoint_epoch208.pt
+[Epoch 209] lr=8.00e-04  val_recon=0.001313  val_cls=4.677070  val_center=2.114547  val_perc=0.000318
+Saved checkpoint_epoch209.pt
+[Epoch 210] lr=7.94e-04  val_recon=0.066424  val_cls=12.341494  val_center=19.374899  val_perc=0.002423
+Saved checkpoint_epoch210.pt
+[Epoch 211] lr=7.88e-04  val_recon=0.002443  val_cls=4.870716  val_center=2.280424  val_perc=0.000470
+Saved checkpoint_epoch211.pt
+[Epoch 212] lr=7.81e-04  val_recon=0.001943  val_cls=4.949913  val_center=2.345769  val_perc=0.000417
+Saved checkpoint_epoch212.pt
+[Epoch 213] lr=7.75e-04  val_recon=0.001767  val_cls=4.753983  val_center=2.202772  val_perc=0.000413
+Saved checkpoint_epoch213.pt
+[Epoch 214] lr=7.68e-04  val_recon=0.002961  val_cls=4.817254  val_center=2.352154  val_perc=0.000588
+Saved checkpoint_epoch214.pt
+[Epoch 215] lr=7.61e-04  val_recon=0.001865  val_cls=4.733284  val_center=2.115160  val_perc=0.000434
+Saved checkpoint_epoch215.pt
+[Epoch 216] lr=7.55e-04  val_recon=0.001864  val_cls=4.792625  val_center=2.279685  val_perc=0.000375
+Saved checkpoint_epoch216.pt
+[Epoch 217] lr=7.48e-04  val_recon=0.004052  val_cls=4.694580  val_center=2.012658  val_perc=0.000866
+Saved checkpoint_epoch217.pt
+[Epoch 218] lr=7.41e-04  val_recon=0.002711  val_cls=4.820285  val_center=2.246628  val_perc=0.000538
+Saved checkpoint_epoch218.pt
+[Epoch 219] lr=7.34e-04  val_recon=0.001551  val_cls=4.854925  val_center=2.089585  val_perc=0.000397
+Saved checkpoint_epoch219.pt
+[Epoch 220] lr=7.27e-04  val_recon=0.008118  val_cls=4.917513  val_center=2.379437  val_perc=0.001064
+Saved checkpoint_epoch220.pt
+[Epoch 221] lr=7.20e-04  val_recon=0.001605  val_cls=4.774085  val_center=2.208636  val_perc=0.000387
+Saved checkpoint_epoch221.pt
+[Epoch 222] lr=7.13e-04  val_recon=0.001477  val_cls=4.740305  val_center=2.125306  val_perc=0.000333
+Saved checkpoint_epoch222.pt
+[Epoch 223] lr=7.06e-04  val_recon=0.001834  val_cls=4.739595  val_center=2.143803  val_perc=0.000376
+Saved checkpoint_epoch223.pt
+[Epoch 224] lr=6.99e-04  val_recon=0.001419  val_cls=5.043167  val_center=2.319981  val_perc=0.000358
+Saved checkpoint_epoch224.pt
+[Epoch 225] lr=6.91e-04  val_recon=0.001401  val_cls=4.824440  val_center=2.236324  val_perc=0.000326
+Saved checkpoint_epoch225.pt
+[Epoch 226] lr=6.84e-04  val_recon=0.001435  val_cls=4.791645  val_center=2.199897  val_perc=0.000389
+Saved checkpoint_epoch226.pt
+[Epoch 227] lr=6.77e-04  val_recon=0.002928  val_cls=4.811965  val_center=2.157976  val_perc=0.000518
+Saved checkpoint_epoch227.pt
+[Epoch 228] lr=6.69e-04  val_recon=0.001803  val_cls=4.765301  val_center=2.006149  val_perc=0.000424
+Saved checkpoint_epoch228.pt
+[Epoch 229] lr=6.62e-04  val_recon=0.001502  val_cls=5.227921  val_center=2.453560  val_perc=0.000343
+Saved checkpoint_epoch229.pt
+[Epoch 230] lr=6.55e-04  val_recon=0.001871  val_cls=5.075008  val_center=2.431654  val_perc=0.000420
+Saved checkpoint_epoch230.pt
+[Epoch 231] lr=6.47e-04  val_recon=0.002231  val_cls=5.012615  val_center=2.165828  val_perc=0.000441
+Saved checkpoint_epoch231.pt
+[Epoch 232] lr=6.39e-04  val_recon=0.002885  val_cls=4.849775  val_center=2.154124  val_perc=0.000531
+Saved checkpoint_epoch232.pt
+[Epoch 233] lr=6.32e-04  val_recon=0.001265  val_cls=4.757205  val_center=1.950480  val_perc=0.000297
+Saved checkpoint_epoch233.pt
+[Epoch 234] lr=6.24e-04  val_recon=0.001269  val_cls=4.806839  val_center=2.004141  val_perc=0.000300
+Saved checkpoint_epoch234.pt
+[Epoch 235] lr=6.17e-04  val_recon=0.006289  val_cls=4.821042  val_center=2.023989  val_perc=0.001040
+Saved checkpoint_epoch235.pt
+[Epoch 236] lr=6.09e-04  val_recon=0.001392  val_cls=4.742103  val_center=1.979603  val_perc=0.000315
+Saved checkpoint_epoch236.pt
+[Epoch 237] lr=6.01e-04  val_recon=0.002264  val_cls=4.743226  val_center=1.997034  val_perc=0.000449
+Saved checkpoint_epoch237.pt
+[Epoch 238] lr=5.94e-04  val_recon=0.001632  val_cls=4.820348  val_center=2.060900  val_perc=0.000360
+Saved checkpoint_epoch238.pt
+[Epoch 239] lr=5.86e-04  val_recon=0.001812  val_cls=4.900758  val_center=2.116362  val_perc=0.000380
+Saved checkpoint_epoch239.pt
+[Epoch 240] lr=5.78e-04  val_recon=0.002206  val_cls=4.730133  val_center=1.834641  val_perc=0.000566
+Saved checkpoint_epoch240.pt
+[Epoch 241] lr=5.70e-04  val_recon=0.002732  val_cls=4.910354  val_center=2.004158  val_perc=0.000487
+Saved checkpoint_epoch241.pt
+[Epoch 242] lr=5.63e-04  val_recon=0.001706  val_cls=4.826539  val_center=1.983396  val_perc=0.000422
+Saved checkpoint_epoch242.pt
+[Epoch 243] lr=5.55e-04  val_recon=0.001956  val_cls=4.778958  val_center=1.913504  val_perc=0.000416
+Saved checkpoint_epoch243.pt
+[Epoch 244] lr=5.47e-04  val_recon=0.001454  val_cls=4.963655  val_center=2.250472  val_perc=0.000362
+Saved checkpoint_epoch244.pt
+[Epoch 245] lr=5.39e-04  val_recon=0.001590  val_cls=4.860928  val_center=1.994590  val_perc=0.000381
+Saved checkpoint_epoch245.pt
+[Epoch 246] lr=5.31e-04  val_recon=0.001470  val_cls=5.069404  val_center=2.129302  val_perc=0.000354
+Saved checkpoint_epoch246.pt
+[Epoch 247] lr=5.24e-04  val_recon=0.001562  val_cls=4.990143  val_center=2.022259  val_perc=0.000353
+Saved checkpoint_epoch247.pt
+[Epoch 248] lr=5.16e-04  val_recon=0.002213  val_cls=4.780784  val_center=1.780258  val_perc=0.000414
+Saved checkpoint_epoch248.pt
+[Epoch 249] lr=5.08e-04  val_recon=0.001404  val_cls=4.935352  val_center=1.970823  val_perc=0.000355
+Saved checkpoint_epoch249.pt
+[Epoch 250] lr=5.00e-04  val_recon=0.002374  val_cls=4.800797  val_center=1.966026  val_perc=0.000460
+Saved checkpoint_epoch250.pt
+[Epoch 251] lr=4.92e-04  val_recon=0.002095  val_cls=4.862845  val_center=2.021189  val_perc=0.000436
+Saved checkpoint_epoch251.pt
+[Epoch 252] lr=4.84e-04  val_recon=0.001867  val_cls=4.863527  val_center=1.979738  val_perc=0.000393
+Saved checkpoint_epoch252.pt
+[Epoch 253] lr=4.76e-04  val_recon=0.001832  val_cls=4.766172  val_center=1.828255  val_perc=0.000398
+Saved checkpoint_epoch253.pt
+[Epoch 254] lr=4.69e-04  val_recon=0.002140  val_cls=5.058433  val_center=2.112240  val_perc=0.000428
+Saved checkpoint_epoch254.pt
+[Epoch 255] lr=4.61e-04  val_recon=0.001451  val_cls=4.879716  val_center=1.854977  val_perc=0.000354
+Saved checkpoint_epoch255.pt
+[Epoch 256] lr=4.53e-04  val_recon=0.003188  val_cls=4.753967  val_center=1.839792  val_perc=0.000618
+Saved checkpoint_epoch256.pt
+[Epoch 257] lr=4.45e-04  val_recon=0.001441  val_cls=4.654206  val_center=1.723512  val_perc=0.000337
+Saved checkpoint_epoch257.pt
+[Epoch 258] lr=4.37e-04  val_recon=0.001668  val_cls=4.771084  val_center=1.805543  val_perc=0.000477
+Saved checkpoint_epoch258.pt
+[Epoch 259] lr=4.30e-04  val_recon=0.001214  val_cls=4.861983  val_center=1.905773  val_perc=0.000298
+Saved checkpoint_epoch259.pt
+[Epoch 260] lr=4.22e-04  val_recon=0.001271  val_cls=4.738656  val_center=1.792832  val_perc=0.000316
+Saved checkpoint_epoch260.pt
+[Epoch 261] lr=4.14e-04  val_recon=0.001479  val_cls=4.786736  val_center=1.710471  val_perc=0.000395
+Saved checkpoint_epoch261.pt
+[Epoch 262] lr=4.06e-04  val_recon=0.001445  val_cls=4.842850  val_center=1.773554  val_perc=0.000348
+Saved checkpoint_epoch262.pt
+[Epoch 263] lr=3.99e-04  val_recon=0.001940  val_cls=4.704706  val_center=1.638113  val_perc=0.000448
+Saved checkpoint_epoch263.pt
+[Epoch 264] lr=3.91e-04  val_recon=0.001304  val_cls=4.801412  val_center=1.794425  val_perc=0.000326
+Saved checkpoint_epoch264.pt
+[Epoch 265] lr=3.83e-04  val_recon=0.001862  val_cls=4.939427  val_center=1.961462  val_perc=0.000395
+Saved checkpoint_epoch265.pt
+[Epoch 266] lr=3.76e-04  val_recon=0.001291  val_cls=4.754532  val_center=1.740683  val_perc=0.000311
+Saved checkpoint_epoch266.pt
+[Epoch 267] lr=3.68e-04  val_recon=0.001534  val_cls=4.789557  val_center=1.824107  val_perc=0.000365
+Saved checkpoint_epoch267.pt
+[Epoch 268] lr=3.61e-04  val_recon=0.002904  val_cls=4.860223  val_center=1.743476  val_perc=0.000560
+Saved checkpoint_epoch268.pt
+[Epoch 269] lr=3.53e-04  val_recon=0.001387  val_cls=4.754826  val_center=1.727154  val_perc=0.000322
+Saved checkpoint_epoch269.pt
+[Epoch 270] lr=3.45e-04  val_recon=0.001216  val_cls=4.813607  val_center=1.779198  val_perc=0.000304
+Saved checkpoint_epoch270.pt
+[Epoch 271] lr=3.38e-04  val_recon=0.001271  val_cls=4.739515  val_center=1.721168  val_perc=0.000295
+Saved checkpoint_epoch271.pt
+[Epoch 272] lr=3.31e-04  val_recon=0.001263  val_cls=4.815526  val_center=1.754019  val_perc=0.000304
+Saved checkpoint_epoch272.pt
+[Epoch 273] lr=3.23e-04  val_recon=0.001771  val_cls=4.766896  val_center=1.708208  val_perc=0.000377
+Saved checkpoint_epoch273.pt
+[Epoch 274] lr=3.16e-04  val_recon=0.001580  val_cls=4.878825  val_center=1.850013  val_perc=0.000368
+Saved checkpoint_epoch274.pt
+[Epoch 275] lr=3.09e-04  val_recon=0.002701  val_cls=4.812537  val_center=1.801898  val_perc=0.000507
+Saved checkpoint_epoch275.pt
+[Epoch 276] lr=3.01e-04  val_recon=0.001303  val_cls=4.818751  val_center=1.701902  val_perc=0.000314
+Saved checkpoint_epoch276.pt
+[Epoch 277] lr=2.94e-04  val_recon=0.001729  val_cls=4.826063  val_center=1.728709  val_perc=0.000393
+Saved checkpoint_epoch277.pt
+[Epoch 278] lr=2.87e-04  val_recon=0.001871  val_cls=4.904109  val_center=1.783767  val_perc=0.000450
+Saved checkpoint_epoch278.pt
+[Epoch 279] lr=2.80e-04  val_recon=0.001358  val_cls=4.781652  val_center=1.741691  val_perc=0.000340
+Saved checkpoint_epoch279.pt
+[Epoch 280] lr=2.73e-04  val_recon=0.001837  val_cls=4.971505  val_center=1.783052  val_perc=0.000371
+Saved checkpoint_epoch280.pt
+[Epoch 281] lr=2.66e-04  val_recon=0.001211  val_cls=4.825011  val_center=1.775291  val_perc=0.000295
+Saved checkpoint_epoch281.pt
+[Epoch 282] lr=2.59e-04  val_recon=0.001242  val_cls=4.820962  val_center=1.661991  val_perc=0.000319
+Saved checkpoint_epoch282.pt
+[Epoch 283] lr=2.52e-04  val_recon=0.001882  val_cls=4.924887  val_center=1.765163  val_perc=0.000421
+Saved checkpoint_epoch283.pt
+[Epoch 284] lr=2.45e-04  val_recon=0.001360  val_cls=4.779068  val_center=1.680667  val_perc=0.000350
+Saved checkpoint_epoch284.pt
+[Epoch 285] lr=2.39e-04  val_recon=0.001625  val_cls=4.957693  val_center=1.869429  val_perc=0.000355
+Saved checkpoint_epoch285.pt
+[Epoch 286] lr=2.32e-04  val_recon=0.001246  val_cls=4.770401  val_center=1.709594  val_perc=0.000290
+Saved checkpoint_epoch286.pt
+[Epoch 287] lr=2.25e-04  val_recon=0.001182  val_cls=4.724708  val_center=1.626684  val_perc=0.000307
+Saved checkpoint_epoch287.pt
+[Epoch 288] lr=2.19e-04  val_recon=0.001454  val_cls=4.886642  val_center=1.780823  val_perc=0.000343
+Saved checkpoint_epoch288.pt
+[Epoch 289] lr=2.13e-04  val_recon=0.001344  val_cls=4.855150  val_center=1.763320  val_perc=0.000344
+Saved checkpoint_epoch289.pt
+[Epoch 290] lr=2.06e-04  val_recon=0.001614  val_cls=4.739310  val_center=1.619907  val_perc=0.000356
+Saved checkpoint_epoch290.pt
+[Epoch 291] lr=2.00e-04  val_recon=0.002656  val_cls=4.822980  val_center=1.695373  val_perc=0.000493
+Saved checkpoint_epoch291.pt
+[Epoch 292] lr=1.94e-04  val_recon=0.001276  val_cls=4.725393  val_center=1.573865  val_perc=0.000310
+Saved checkpoint_epoch292.pt
+[Epoch 293] lr=1.87e-04  val_recon=0.001241  val_cls=4.773871  val_center=1.664852  val_perc=0.000287
+Saved checkpoint_epoch293.pt
+[Epoch 294] lr=1.81e-04  val_recon=0.001784  val_cls=4.786491  val_center=1.673626  val_perc=0.000384
+Saved checkpoint_epoch294.pt
+[Epoch 295] lr=1.75e-04  val_recon=0.001169  val_cls=4.868252  val_center=1.724672  val_perc=0.000289
+Saved checkpoint_epoch295.pt
+[Epoch 296] lr=1.69e-04  val_recon=0.001709  val_cls=4.824042  val_center=1.660664  val_perc=0.000382
+Saved checkpoint_epoch296.pt
+[Epoch 297] lr=1.64e-04  val_recon=0.001299  val_cls=4.722558  val_center=1.601608  val_perc=0.000306
+Saved checkpoint_epoch297.pt
+[Epoch 298] lr=1.58e-04  val_recon=0.001379  val_cls=4.769235  val_center=1.626104  val_perc=0.000309
+Saved checkpoint_epoch298.pt
+[Epoch 299] lr=1.52e-04  val_recon=0.001146  val_cls=4.697945  val_center=1.560595  val_perc=0.000298
+Saved checkpoint_epoch299.pt
+[Epoch 300] lr=1.46e-04  val_recon=0.001197  val_cls=4.680081  val_center=1.547464  val_perc=0.000298
+Saved checkpoint_epoch300.pt
+[Epoch 301] lr=1.41e-04  val_recon=0.001555  val_cls=5.033496  val_center=1.758760  val_perc=0.000336
+Saved checkpoint_epoch301.pt
+[Epoch 302] lr=1.36e-04  val_recon=0.001274  val_cls=4.742902  val_center=1.614290  val_perc=0.000310
+Saved checkpoint_epoch302.pt
+[Epoch 303] lr=1.30e-04  val_recon=0.001352  val_cls=4.780047  val_center=1.639041  val_perc=0.000330
+Saved checkpoint_epoch303.pt
+[Epoch 304] lr=1.25e-04  val_recon=0.001480  val_cls=4.715472  val_center=1.534248  val_perc=0.000377
+Saved checkpoint_epoch304.pt
+[Epoch 305] lr=1.20e-04  val_recon=0.001162  val_cls=4.709824  val_center=1.519080  val_perc=0.000279
+Saved checkpoint_epoch305.pt
+[Epoch 306] lr=1.15e-04  val_recon=0.001290  val_cls=4.844407  val_center=1.689546  val_perc=0.000300
+Saved checkpoint_epoch306.pt
+[Epoch 307] lr=1.10e-04  val_recon=0.001451  val_cls=4.796942  val_center=1.603142  val_perc=0.000330
+Saved checkpoint_epoch307.pt
+[Epoch 308] lr=1.05e-04  val_recon=0.001312  val_cls=4.706536  val_center=1.560976  val_perc=0.000321
+Saved checkpoint_epoch308.pt
+[Epoch 309] lr=1.00e-04  val_recon=0.001462  val_cls=4.754065  val_center=1.620733  val_perc=0.000361
+Saved checkpoint_epoch309.pt
+[Epoch 310] lr=9.55e-05  val_recon=0.001452  val_cls=4.726537  val_center=1.538994  val_perc=0.000375
+Saved checkpoint_epoch310.pt
+[Epoch 311] lr=9.09e-05  val_recon=0.001371  val_cls=4.727950  val_center=1.572671  val_perc=0.000308
+Saved checkpoint_epoch311.pt
+[Epoch 312] lr=8.65e-05  val_recon=0.001150  val_cls=4.762524  val_center=1.578462  val_perc=0.000285
+Saved checkpoint_epoch312.pt
+[Epoch 313] lr=8.21e-05  val_recon=0.001266  val_cls=4.700567  val_center=1.534982  val_perc=0.000290
+Saved checkpoint_epoch313.pt
+[Epoch 314] lr=7.78e-05  val_recon=0.001165  val_cls=4.706351  val_center=1.563994  val_perc=0.000282
+Saved checkpoint_epoch314.pt
+[Epoch 315] lr=7.37e-05  val_recon=0.001119  val_cls=4.687219  val_center=1.526576  val_perc=0.000276
+Saved checkpoint_epoch315.pt
+[Epoch 316] lr=6.96e-05  val_recon=0.001132  val_cls=4.757110  val_center=1.554078  val_perc=0.000282
+Saved checkpoint_epoch316.pt
+[Epoch 317] lr=6.57e-05  val_recon=0.001174  val_cls=4.721623  val_center=1.558003  val_perc=0.000289
+Saved checkpoint_epoch317.pt
+[Epoch 318] lr=6.19e-05  val_recon=0.001223  val_cls=4.756265  val_center=1.573248  val_perc=0.000296
+Saved checkpoint_epoch318.pt
+[Epoch 319] lr=5.81e-05  val_recon=0.001271  val_cls=4.681497  val_center=1.516358  val_perc=0.000332
+Saved checkpoint_epoch319.pt
+[Epoch 320] lr=5.45e-05  val_recon=0.001184  val_cls=4.701261  val_center=1.537759  val_perc=0.000304
+Saved checkpoint_epoch320.pt
+[Epoch 321] lr=5.10e-05  val_recon=0.001227  val_cls=4.698614  val_center=1.530245  val_perc=0.000286
+Saved checkpoint_epoch321.pt
+[Epoch 322] lr=4.76e-05  val_recon=0.001200  val_cls=4.691933  val_center=1.551867  val_perc=0.000284
+Saved checkpoint_epoch322.pt
+[Epoch 323] lr=4.43e-05  val_recon=0.001161  val_cls=4.710712  val_center=1.530250  val_perc=0.000287
+Saved checkpoint_epoch323.pt
+[Epoch 324] lr=4.11e-05  val_recon=0.001136  val_cls=4.691330  val_center=1.537954  val_perc=0.000282
+Saved checkpoint_epoch324.pt
+[Epoch 325] lr=3.81e-05  val_recon=0.001134  val_cls=4.708386  val_center=1.530257  val_perc=0.000294
+Saved checkpoint_epoch325.pt
+[Epoch 326] lr=3.51e-05  val_recon=0.001118  val_cls=4.710999  val_center=1.531587  val_perc=0.000283
+Saved checkpoint_epoch326.pt
+[Epoch 327] lr=3.23e-05  val_recon=0.001196  val_cls=4.687768  val_center=1.511742  val_perc=0.000288
+Saved checkpoint_epoch327.pt
+[Epoch 328] lr=2.96e-05  val_recon=0.001135  val_cls=4.730440  val_center=1.554235  val_perc=0.000279
+Saved checkpoint_epoch328.pt
+[Epoch 329] lr=2.70e-05  val_recon=0.001101  val_cls=4.695750  val_center=1.516827  val_perc=0.000274
+Saved checkpoint_epoch329.pt
+[Epoch 330] lr=2.45e-05  val_recon=0.001126  val_cls=4.695697  val_center=1.524672  val_perc=0.000280
+Saved checkpoint_epoch330.pt
+[Epoch 331] lr=2.21e-05  val_recon=0.001170  val_cls=4.721262  val_center=1.546953  val_perc=0.000282
+Saved checkpoint_epoch331.pt
+[Epoch 332] lr=1.99e-05  val_recon=0.001103  val_cls=4.683155  val_center=1.512688  val_perc=0.000281
+Saved checkpoint_epoch332.pt
+[Epoch 333] lr=1.77e-05  val_recon=0.001121  val_cls=4.688859  val_center=1.512226  val_perc=0.000276
+Saved checkpoint_epoch333.pt
+[Epoch 334] lr=1.57e-05  val_recon=0.001110  val_cls=4.711315  val_center=1.523779  val_perc=0.000274
+Saved checkpoint_epoch334.pt
+[Epoch 335] lr=1.38e-05  val_recon=0.001107  val_cls=4.688237  val_center=1.505362  val_perc=0.000274
+Saved checkpoint_epoch335.pt
+[Epoch 336] lr=1.21e-05  val_recon=0.001105  val_cls=4.699680  val_center=1.528455  val_perc=0.000274
+Saved checkpoint_epoch336.pt
+[Epoch 337] lr=1.04e-05  val_recon=0.001127  val_cls=4.676802  val_center=1.499535  val_perc=0.000276
+Saved checkpoint_epoch337.pt
+[Epoch 338] lr=8.87e-06  val_recon=0.001129  val_cls=4.692712  val_center=1.516368  val_perc=0.000286
+Saved checkpoint_epoch338.pt
+[Epoch 339] lr=7.46e-06  val_recon=0.001121  val_cls=4.682191  val_center=1.502761  val_perc=0.000283
+Saved checkpoint_epoch339.pt
+[Epoch 340] lr=6.17e-06  val_recon=0.001112  val_cls=4.683652  val_center=1.500274  val_perc=0.000286
+Saved checkpoint_epoch340.pt
+[Epoch 341] lr=5.00e-06  val_recon=0.001110  val_cls=4.695216  val_center=1.516613  val_perc=0.000283
+Saved checkpoint_epoch341.pt
+[Epoch 342] lr=3.95e-06  val_recon=0.001098  val_cls=4.691147  val_center=1.514243  val_perc=0.000275
+Saved checkpoint_epoch342.pt
+[Epoch 343] lr=3.03e-06  val_recon=0.001093  val_cls=4.694762  val_center=1.513102  val_perc=0.000276
+Saved checkpoint_epoch343.pt
+[Epoch 344] lr=2.23e-06  val_recon=0.001092  val_cls=4.685027  val_center=1.504879  val_perc=0.000275
+Saved checkpoint_epoch344.pt
+[Epoch 345] lr=1.55e-06  val_recon=0.001099  val_cls=4.687973  val_center=1.506394  val_perc=0.000280
+Saved checkpoint_epoch345.pt
+[Epoch 346] lr=9.97e-07  val_recon=0.001093  val_cls=4.687256  val_center=1.500995  val_perc=0.000278
+Saved checkpoint_epoch346.pt
+[Epoch 347] lr=5.65e-07  val_recon=0.001093  val_cls=4.691737  val_center=1.513319  val_perc=0.000276
+Saved checkpoint_epoch347.pt
+[Epoch 348] lr=2.57e-07  val_recon=0.001098  val_cls=4.688492  val_center=1.503334  val_perc=0.000278
+Saved checkpoint_epoch348.pt
+[Epoch 349] lr=7.17e-08  val_recon=0.001093  val_cls=4.688909  val_center=1.505669  val_perc=0.000278
+Saved checkpoint_epoch349.pt
+[Epoch 350] lr=1.00e-03  val_recon=0.001097  val_cls=4.689382  val_center=1.504446  val_perc=0.000276
+Saved checkpoint_epoch350.pt
+[Epoch 351] lr=1.00e-03  val_recon=0.001927  val_cls=4.947428  val_center=1.940904  val_perc=0.000455
+Saved checkpoint_epoch351.pt
+[Epoch 352] lr=1.00e-03  val_recon=0.003308  val_cls=4.895723  val_center=1.799665  val_perc=0.000592
+Saved checkpoint_epoch352.pt
+[Epoch 353] lr=1.00e-03  val_recon=0.001767  val_cls=4.887587  val_center=1.824876  val_perc=0.000372
+Saved checkpoint_epoch353.pt
+[Epoch 354] lr=1.00e-03  val_recon=0.001527  val_cls=5.120518  val_center=1.843560  val_perc=0.000350
+Saved checkpoint_epoch354.pt
+[Epoch 355] lr=1.00e-03  val_recon=0.001804  val_cls=4.861840  val_center=1.770137  val_perc=0.000389
+Saved checkpoint_epoch355.pt
+[Epoch 356] lr=9.99e-04  val_recon=0.002170  val_cls=4.841718  val_center=1.757860  val_perc=0.000415
+Saved checkpoint_epoch356.pt
+[Epoch 357] lr=9.99e-04  val_recon=0.002404  val_cls=4.996505  val_center=1.888546  val_perc=0.000453
+Saved checkpoint_epoch357.pt
+[Epoch 358] lr=9.99e-04  val_recon=0.001390  val_cls=4.893281  val_center=1.748189  val_perc=0.000333
+Saved checkpoint_epoch358.pt
+[Epoch 359] lr=9.99e-04  val_recon=0.002272  val_cls=4.917312  val_center=1.783960  val_perc=0.000501
+Saved checkpoint_epoch359.pt
+[Epoch 360] lr=9.98e-04  val_recon=0.003018  val_cls=5.249509  val_center=2.216546  val_perc=0.000762
+Saved checkpoint_epoch360.pt
+[Epoch 361] lr=9.98e-04  val_recon=0.003242  val_cls=4.890310  val_center=1.725369  val_perc=0.000591
+Saved checkpoint_epoch361.pt
+[Epoch 362] lr=9.98e-04  val_recon=0.002110  val_cls=4.948481  val_center=1.731230  val_perc=0.000436
+Saved checkpoint_epoch362.pt
+[Epoch 363] lr=9.97e-04  val_recon=0.002041  val_cls=4.840970  val_center=1.652941  val_perc=0.000429
+Saved checkpoint_epoch363.pt
+[Epoch 364] lr=9.97e-04  val_recon=0.001827  val_cls=4.970848  val_center=1.772132  val_perc=0.000412
+Saved checkpoint_epoch364.pt
+[Epoch 365] lr=9.97e-04  val_recon=0.001669  val_cls=4.818422  val_center=1.551960  val_perc=0.000352
+Saved checkpoint_epoch365.pt
+[Epoch 366] lr=9.96e-04  val_recon=0.002649  val_cls=5.262125  val_center=1.834670  val_perc=0.000631
+Saved checkpoint_epoch366.pt
+[Epoch 367] lr=9.96e-04  val_recon=0.010317  val_cls=5.933647  val_center=3.143909  val_perc=0.001201
+Saved checkpoint_epoch367.pt
+[Epoch 368] lr=9.95e-04  val_recon=0.001741  val_cls=4.868324  val_center=1.727383  val_perc=0.000383
+Saved checkpoint_epoch368.pt
+[Epoch 369] lr=9.94e-04  val_recon=0.001721  val_cls=5.939573  val_center=2.380604  val_perc=0.000404
+Saved checkpoint_epoch369.pt
+[Epoch 370] lr=9.94e-04  val_recon=0.001451  val_cls=5.164426  val_center=1.703236  val_perc=0.000342
+Saved checkpoint_epoch370.pt
+[Epoch 371] lr=9.93e-04  val_recon=0.001756  val_cls=5.055908  val_center=1.793918  val_perc=0.000405
+Saved checkpoint_epoch371.pt
+[Epoch 372] lr=9.93e-04  val_recon=0.012115  val_cls=4.869810  val_center=1.706766  val_perc=0.001438
+Saved checkpoint_epoch372.pt
+[Epoch 373] lr=9.92e-04  val_recon=0.001770  val_cls=5.069326  val_center=1.746072  val_perc=0.000436
+Saved checkpoint_epoch373.pt
+[Epoch 374] lr=9.91e-04  val_recon=0.003762  val_cls=5.247190  val_center=1.951059  val_perc=0.000649
+Saved checkpoint_epoch374.pt
+[Epoch 375] lr=9.90e-04  val_recon=0.001438  val_cls=5.035250  val_center=1.697691  val_perc=0.000356
+Saved checkpoint_epoch375.pt
+[Epoch 376] lr=9.90e-04  val_recon=0.002325  val_cls=5.106647  val_center=1.722219  val_perc=0.000470
+Saved checkpoint_epoch376.pt
+[Epoch 377] lr=9.89e-04  val_recon=0.003908  val_cls=5.043852  val_center=1.814724  val_perc=0.000772
+Saved checkpoint_epoch377.pt
+[Epoch 378] lr=9.88e-04  val_recon=0.001729  val_cls=5.188218  val_center=1.835291  val_perc=0.000468
+Saved checkpoint_epoch378.pt
+[Epoch 379] lr=9.87e-04  val_recon=0.003001  val_cls=4.886278  val_center=1.621163  val_perc=0.000607
+Saved checkpoint_epoch379.pt
+[Epoch 380] lr=9.86e-04  val_recon=0.001429  val_cls=4.993259  val_center=1.661726  val_perc=0.000342
+Saved checkpoint_epoch380.pt
+[Epoch 381] lr=9.85e-04  val_recon=0.001892  val_cls=4.934140  val_center=1.625490  val_perc=0.000430
+Saved checkpoint_epoch381.pt
+[Epoch 382] lr=9.84e-04  val_recon=0.001741  val_cls=5.005152  val_center=1.560537  val_perc=0.000382
+Saved checkpoint_epoch382.pt
+[Epoch 383] lr=9.83e-04  val_recon=0.001340  val_cls=4.824431  val_center=1.437606  val_perc=0.000324
+Saved checkpoint_epoch383.pt
+[Epoch 384] lr=9.82e-04  val_recon=0.002265  val_cls=4.970921  val_center=1.670750  val_perc=0.000469
+Saved checkpoint_epoch384.pt
+[Epoch 385] lr=9.81e-04  val_recon=0.001773  val_cls=4.968330  val_center=1.545014  val_perc=0.000409
+Saved checkpoint_epoch385.pt
+[Epoch 386] lr=9.80e-04  val_recon=0.002114  val_cls=5.059294  val_center=1.504713  val_perc=0.000478
+Saved checkpoint_epoch386.pt
+[Epoch 387] lr=9.79e-04  val_recon=0.002914  val_cls=4.961646  val_center=1.572264  val_perc=0.000509
+Saved checkpoint_epoch387.pt
+[Epoch 388] lr=9.78e-04  val_recon=0.001921  val_cls=5.027808  val_center=1.548347  val_perc=0.000403
+Saved checkpoint_epoch388.pt
+[Epoch 389] lr=9.77e-04  val_recon=0.001865  val_cls=4.976804  val_center=1.557058  val_perc=0.000413
+Saved checkpoint_epoch389.pt
+[Epoch 390] lr=9.76e-04  val_recon=0.001250  val_cls=5.189174  val_center=1.573251  val_perc=0.000294
+Saved checkpoint_epoch390.pt
+[Epoch 391] lr=9.74e-04  val_recon=0.002111  val_cls=5.179741  val_center=1.774740  val_perc=0.000436
+Saved checkpoint_epoch391.pt
+[Epoch 392] lr=9.73e-04  val_recon=0.001622  val_cls=5.235251  val_center=1.794249  val_perc=0.000348
+Saved checkpoint_epoch392.pt
+[Epoch 393] lr=9.72e-04  val_recon=0.002222  val_cls=5.014110  val_center=1.610381  val_perc=0.000495
+Saved checkpoint_epoch393.pt
+[Epoch 394] lr=9.70e-04  val_recon=0.002235  val_cls=5.124255  val_center=1.615232  val_perc=0.000480
+Saved checkpoint_epoch394.pt
+[Epoch 395] lr=9.69e-04  val_recon=0.001882  val_cls=4.858345  val_center=1.403038  val_perc=0.000414
+Saved checkpoint_epoch395.pt
+[Epoch 396] lr=9.68e-04  val_recon=0.001415  val_cls=5.951265  val_center=1.971077  val_perc=0.000338
+Saved checkpoint_epoch396.pt
+[Epoch 397] lr=9.66e-04  val_recon=0.001994  val_cls=5.340989  val_center=1.801603  val_perc=0.000476
+Saved checkpoint_epoch397.pt
+[Epoch 398] lr=9.65e-04  val_recon=0.001916  val_cls=5.350698  val_center=1.636342  val_perc=0.000402
+Saved checkpoint_epoch398.pt
+[Epoch 399] lr=9.63e-04  val_recon=0.005856  val_cls=5.000211  val_center=1.697785  val_perc=0.001085
+Saved checkpoint_epoch399.pt
+[Epoch 400] lr=9.62e-04  val_recon=0.001945  val_cls=5.000130  val_center=1.627392  val_perc=0.000504
+Saved checkpoint_epoch400.pt
+[Epoch 401] lr=9.60e-04  val_recon=0.001540  val_cls=5.002487  val_center=1.531544  val_perc=0.000368
+Saved checkpoint_epoch401.pt
+[Epoch 402] lr=9.59e-04  val_recon=0.002180  val_cls=4.914373  val_center=1.466479  val_perc=0.000492
+Saved checkpoint_epoch402.pt
+[Epoch 403] lr=9.57e-04  val_recon=0.002231  val_cls=5.225615  val_center=1.647822  val_perc=0.000534
+Saved checkpoint_epoch403.pt
+[Epoch 404] lr=9.56e-04  val_recon=0.001813  val_cls=5.004717  val_center=1.610379  val_perc=0.000442
+Saved checkpoint_epoch404.pt
+[Epoch 405] lr=9.54e-04  val_recon=0.002040  val_cls=5.116264  val_center=1.542516  val_perc=0.000501
+Saved checkpoint_epoch405.pt
+[Epoch 406] lr=9.52e-04  val_recon=0.002080  val_cls=4.987335  val_center=1.481651  val_perc=0.000414
+Saved checkpoint_epoch406.pt
+[Epoch 407] lr=9.51e-04  val_recon=0.002086  val_cls=5.142768  val_center=1.518901  val_perc=0.000415
+Saved checkpoint_epoch407.pt
+[Epoch 408] lr=9.49e-04  val_recon=0.001410  val_cls=4.948344  val_center=1.428946  val_perc=0.000313
+Saved checkpoint_epoch408.pt
+[Epoch 409] lr=9.47e-04  val_recon=0.001552  val_cls=5.040855  val_center=1.538916  val_perc=0.000366
+Saved checkpoint_epoch409.pt
+[Epoch 410] lr=9.46e-04  val_recon=0.002588  val_cls=5.406536  val_center=1.549752  val_perc=0.000535
+Saved checkpoint_epoch410.pt
+[Epoch 411] lr=9.44e-04  val_recon=0.002202  val_cls=5.066567  val_center=1.484721  val_perc=0.000541
+Saved checkpoint_epoch411.pt
+[Epoch 412] lr=9.42e-04  val_recon=0.001893  val_cls=5.043344  val_center=1.406399  val_perc=0.000444
+Saved checkpoint_epoch412.pt
+[Epoch 413] lr=9.40e-04  val_recon=0.001822  val_cls=5.051233  val_center=1.494564  val_perc=0.000384
+Saved checkpoint_epoch413.pt
+[Epoch 414] lr=9.38e-04  val_recon=0.001933  val_cls=5.025514  val_center=1.493749  val_perc=0.000390
+Saved checkpoint_epoch414.pt
+[Epoch 415] lr=9.36e-04  val_recon=0.001291  val_cls=5.168679  val_center=1.564135  val_perc=0.000302
+Saved checkpoint_epoch415.pt
+[Epoch 416] lr=9.34e-04  val_recon=0.003300  val_cls=5.064869  val_center=1.320195  val_perc=0.000683
+Saved checkpoint_epoch416.pt
+[Epoch 417] lr=9.32e-04  val_recon=0.002707  val_cls=4.956831  val_center=1.389886  val_perc=0.000495
+Saved checkpoint_epoch417.pt
+[Epoch 418] lr=9.30e-04  val_recon=0.001751  val_cls=4.943049  val_center=1.364301  val_perc=0.000410
+Saved checkpoint_epoch418.pt
+[Epoch 419] lr=9.28e-04  val_recon=0.001815  val_cls=4.973176  val_center=1.378687  val_perc=0.000387
+Saved checkpoint_epoch419.pt
+[Epoch 420] lr=9.26e-04  val_recon=0.002145  val_cls=5.145067  val_center=1.441555  val_perc=0.000421
+Saved checkpoint_epoch420.pt
+[Epoch 421] lr=9.24e-04  val_recon=0.001154  val_cls=5.363022  val_center=1.586398  val_perc=0.000276
+Saved checkpoint_epoch421.pt
+[Epoch 422] lr=9.22e-04  val_recon=0.001334  val_cls=5.116095  val_center=1.475006  val_perc=0.000312
+Saved checkpoint_epoch422.pt
+[Epoch 423] lr=9.20e-04  val_recon=0.001633  val_cls=4.917726  val_center=1.307992  val_perc=0.000401
+Saved checkpoint_epoch423.pt
+[Epoch 424] lr=9.18e-04  val_recon=0.001310  val_cls=4.997217  val_center=1.392004  val_perc=0.000356
+Saved checkpoint_epoch424.pt
+[Epoch 425] lr=9.16e-04  val_recon=0.001625  val_cls=5.007917  val_center=1.472035  val_perc=0.000358
+Saved checkpoint_epoch425.pt
+[Epoch 426] lr=9.14e-04  val_recon=0.001774  val_cls=5.110940  val_center=1.392671  val_perc=0.000375
+Saved checkpoint_epoch426.pt
+[Epoch 427] lr=9.11e-04  val_recon=0.001588  val_cls=5.730633  val_center=1.852452  val_perc=0.000383
+Saved checkpoint_epoch427.pt
+[Epoch 428] lr=9.09e-04  val_recon=0.001299  val_cls=4.949820  val_center=1.332831  val_perc=0.000301
+Saved checkpoint_epoch428.pt
+[Epoch 429] lr=9.07e-04  val_recon=0.001768  val_cls=4.932788  val_center=1.305009  val_perc=0.000413
+Saved checkpoint_epoch429.pt
+[Epoch 430] lr=9.05e-04  val_recon=0.001580  val_cls=5.066631  val_center=1.314977  val_perc=0.000356
+Saved checkpoint_epoch430.pt
+[Epoch 431] lr=9.02e-04  val_recon=0.001762  val_cls=5.164348  val_center=1.531123  val_perc=0.000366
+Saved checkpoint_epoch431.pt
+[Epoch 432] lr=9.00e-04  val_recon=0.003714  val_cls=4.979177  val_center=1.202292  val_perc=0.000656
+Saved checkpoint_epoch432.pt
+[Epoch 433] lr=8.97e-04  val_recon=0.007626  val_cls=5.095677  val_center=1.263632  val_perc=0.001089
+Saved checkpoint_epoch433.pt
+[Epoch 434] lr=8.95e-04  val_recon=0.001718  val_cls=4.930439  val_center=1.207614  val_perc=0.000409
+Saved checkpoint_epoch434.pt
+[Epoch 435] lr=8.93e-04  val_recon=0.002413  val_cls=4.980900  val_center=1.242500  val_perc=0.000477
+Saved checkpoint_epoch435.pt
+[Epoch 436] lr=8.90e-04  val_recon=0.001810  val_cls=4.967279  val_center=1.391591  val_perc=0.000426
+Saved checkpoint_epoch436.pt
+[Epoch 437] lr=8.88e-04  val_recon=0.001230  val_cls=5.030682  val_center=1.258426  val_perc=0.000300
+Saved checkpoint_epoch437.pt
+[Epoch 438] lr=8.85e-04  val_recon=0.001241  val_cls=4.907160  val_center=1.217985  val_perc=0.000316
+Saved checkpoint_epoch438.pt
+[Epoch 439] lr=8.83e-04  val_recon=0.001768  val_cls=5.024098  val_center=1.357326  val_perc=0.000422
+Saved checkpoint_epoch439.pt
+[Epoch 440] lr=8.80e-04  val_recon=0.001346  val_cls=5.114044  val_center=1.385196  val_perc=0.000329
+Saved checkpoint_epoch440.pt
+[Epoch 441] lr=8.78e-04  val_recon=0.001631  val_cls=5.046470  val_center=1.369418  val_perc=0.000393
+Saved checkpoint_epoch441.pt
+[Epoch 442] lr=8.75e-04  val_recon=0.001496  val_cls=4.936707  val_center=1.298854  val_perc=0.000338
+Saved checkpoint_epoch442.pt
+[Epoch 443] lr=8.72e-04  val_recon=0.002205  val_cls=5.032057  val_center=1.309651  val_perc=0.000464
+Saved checkpoint_epoch443.pt
+[Epoch 444] lr=8.70e-04  val_recon=0.001252  val_cls=4.948024  val_center=1.128279  val_perc=0.000303
+Saved checkpoint_epoch444.pt
+[Epoch 445] lr=8.67e-04  val_recon=0.001988  val_cls=4.882063  val_center=1.140542  val_perc=0.000468
+Saved checkpoint_epoch445.pt
+[Epoch 446] lr=8.64e-04  val_recon=0.004153  val_cls=5.328110  val_center=1.564223  val_perc=0.000761
+Saved checkpoint_epoch446.pt
+[Epoch 447] lr=8.62e-04  val_recon=0.002677  val_cls=4.947885  val_center=1.196100  val_perc=0.000614
+Saved checkpoint_epoch447.pt
+[Epoch 448] lr=8.59e-04  val_recon=0.002153  val_cls=4.983086  val_center=1.303574  val_perc=0.000513
+Saved checkpoint_epoch448.pt
+[Epoch 449] lr=8.56e-04  val_recon=0.001673  val_cls=4.959705  val_center=1.161362  val_perc=0.000349
+Saved checkpoint_epoch449.pt
+[Epoch 450] lr=8.54e-04  val_recon=0.001134  val_cls=5.298163  val_center=1.479599  val_perc=0.000286
+Saved checkpoint_epoch450.pt
+[Epoch 451] lr=8.51e-04  val_recon=0.002004  val_cls=4.893327  val_center=1.112448  val_perc=0.000416
+Saved checkpoint_epoch451.pt
+[Epoch 452] lr=8.48e-04  val_recon=0.001491  val_cls=4.934733  val_center=1.142457  val_perc=0.000329
+Saved checkpoint_epoch452.pt
+[Epoch 453] lr=8.45e-04  val_recon=0.001302  val_cls=5.034159  val_center=1.243585  val_perc=0.000306
+Saved checkpoint_epoch453.pt
+[Epoch 454] lr=8.42e-04  val_recon=0.001951  val_cls=5.044643  val_center=1.246619  val_perc=0.000420
+Saved checkpoint_epoch454.pt
+[Epoch 455] lr=8.39e-04  val_recon=0.004532  val_cls=4.905340  val_center=1.119797  val_perc=0.000758
+Saved checkpoint_epoch455.pt
+[Epoch 456] lr=8.37e-04  val_recon=0.003005  val_cls=5.287588  val_center=1.406306  val_perc=0.000750
+Saved checkpoint_epoch456.pt
+[Epoch 457] lr=8.34e-04  val_recon=0.002263  val_cls=5.034685  val_center=1.189779  val_perc=0.000498
+Saved checkpoint_epoch457.pt
+[Epoch 458] lr=8.31e-04  val_recon=0.002336  val_cls=4.992752  val_center=1.216289  val_perc=0.000520
+Saved checkpoint_epoch458.pt
+[Epoch 459] lr=8.28e-04  val_recon=0.002088  val_cls=4.963427  val_center=1.103135  val_perc=0.000504
+Saved checkpoint_epoch459.pt
+[Epoch 460] lr=8.25e-04  val_recon=0.001360  val_cls=5.193675  val_center=1.350337  val_perc=0.000333
+Saved checkpoint_epoch460.pt
+[Epoch 461] lr=8.22e-04  val_recon=0.001413  val_cls=4.967356  val_center=1.161435  val_perc=0.000320
+Saved checkpoint_epoch461.pt
+[Epoch 462] lr=8.19e-04  val_recon=0.003262  val_cls=4.933815  val_center=1.131632  val_perc=0.000622
+Saved checkpoint_epoch462.pt
+[Epoch 463] lr=8.16e-04  val_recon=0.001561  val_cls=4.940130  val_center=1.115423  val_perc=0.000416
+Saved checkpoint_epoch463.pt
+[Epoch 464] lr=8.13e-04  val_recon=0.001768  val_cls=4.931744  val_center=1.164235  val_perc=0.000372
+Saved checkpoint_epoch464.pt
+[Epoch 465] lr=8.10e-04  val_recon=0.006328  val_cls=4.986750  val_center=1.192224  val_perc=0.000975
+Saved checkpoint_epoch465.pt
+[Epoch 466] lr=8.06e-04  val_recon=0.004743  val_cls=4.936910  val_center=1.157194  val_perc=0.000854
+Saved checkpoint_epoch466.pt
+[Epoch 467] lr=8.03e-04  val_recon=0.001523  val_cls=4.849416  val_center=1.066254  val_perc=0.000408
+Saved checkpoint_epoch467.pt
+[Epoch 468] lr=8.00e-04  val_recon=0.003377  val_cls=4.923450  val_center=1.149491  val_perc=0.000672
+Saved checkpoint_epoch468.pt
+[Epoch 469] lr=7.97e-04  val_recon=0.004227  val_cls=5.081544  val_center=1.315997  val_perc=0.000765
+Saved checkpoint_epoch469.pt
+[Epoch 470] lr=7.94e-04  val_recon=0.002274  val_cls=5.019074  val_center=1.142525  val_perc=0.000559
+Saved checkpoint_epoch470.pt
+[Epoch 471] lr=7.91e-04  val_recon=0.002502  val_cls=4.996469  val_center=1.226839  val_perc=0.000550
+Saved checkpoint_epoch471.pt
+[Epoch 472] lr=7.88e-04  val_recon=0.003767  val_cls=4.984716  val_center=1.163457  val_perc=0.000789
+Saved checkpoint_epoch472.pt
+[Epoch 473] lr=7.84e-04  val_recon=0.002072  val_cls=4.939448  val_center=1.060576  val_perc=0.000491
+Saved checkpoint_epoch473.pt
+[Epoch 474] lr=7.81e-04  val_recon=0.002558  val_cls=5.250398  val_center=1.286046  val_perc=0.000568
+Saved checkpoint_epoch474.pt
+[Epoch 475] lr=7.78e-04  val_recon=0.001918  val_cls=5.036686  val_center=1.148045  val_perc=0.000429
+Saved checkpoint_epoch475.pt
+[Epoch 476] lr=7.75e-04  val_recon=0.001798  val_cls=4.902243  val_center=0.960765  val_perc=0.000399
+Saved checkpoint_epoch476.pt
+[Epoch 477] lr=7.71e-04  val_recon=0.001355  val_cls=5.049214  val_center=1.176357  val_perc=0.000351
+Saved checkpoint_epoch477.pt
+[Epoch 478] lr=7.68e-04  val_recon=0.016933  val_cls=5.051686  val_center=1.326132  val_perc=0.002015
+Saved checkpoint_epoch478.pt
+[Epoch 479] lr=7.65e-04  val_recon=0.005790  val_cls=5.035748  val_center=1.114117  val_perc=0.000947
+Saved checkpoint_epoch479.pt
+[Epoch 480] lr=7.61e-04  val_recon=0.001556  val_cls=5.187360  val_center=1.291510  val_perc=0.000377
+Saved checkpoint_epoch480.pt
+[Epoch 481] lr=7.58e-04  val_recon=0.002508  val_cls=4.945212  val_center=1.076434  val_perc=0.000601
+Saved checkpoint_epoch481.pt
+[Epoch 482] lr=7.55e-04  val_recon=0.002484  val_cls=5.192276  val_center=1.452645  val_perc=0.000628
+Saved checkpoint_epoch482.pt
+[Epoch 483] lr=7.51e-04  val_recon=0.001325  val_cls=4.962104  val_center=1.103581  val_perc=0.000321
+Saved checkpoint_epoch483.pt
+[Epoch 484] lr=7.48e-04  val_recon=0.001859  val_cls=4.966254  val_center=1.106870  val_perc=0.000412
+Saved checkpoint_epoch484.pt
+[Epoch 485] lr=7.44e-04  val_recon=0.003311  val_cls=4.955975  val_center=1.099311  val_perc=0.000721
+Saved checkpoint_epoch485.pt
+[Epoch 486] lr=7.41e-04  val_recon=0.002764  val_cls=4.958811  val_center=1.089551  val_perc=0.000609
+Saved checkpoint_epoch486.pt
+[Epoch 487] lr=7.37e-04  val_recon=0.001339  val_cls=4.910847  val_center=1.036051  val_perc=0.000328
+Saved checkpoint_epoch487.pt
+[Epoch 488] lr=7.34e-04  val_recon=0.003972  val_cls=4.934098  val_center=1.058678  val_perc=0.000746
+Saved checkpoint_epoch488.pt
+[Epoch 489] lr=7.30e-04  val_recon=0.002709  val_cls=5.095362  val_center=1.118868  val_perc=0.000565
+Saved checkpoint_epoch489.pt
+[Epoch 490] lr=7.27e-04  val_recon=0.001757  val_cls=5.003479  val_center=1.072935  val_perc=0.000393
+Saved checkpoint_epoch490.pt
+[Epoch 491] lr=7.23e-04  val_recon=0.002647  val_cls=4.966397  val_center=1.066999  val_perc=0.000565
+Saved checkpoint_epoch491.pt
+[Epoch 492] lr=7.20e-04  val_recon=0.002169  val_cls=4.882067  val_center=1.007392  val_perc=0.000479
+Saved checkpoint_epoch492.pt
+[Epoch 493] lr=7.16e-04  val_recon=0.001290  val_cls=5.065407  val_center=1.076050  val_perc=0.000312
+Saved checkpoint_epoch493.pt
+[Epoch 494] lr=7.13e-04  val_recon=0.002761  val_cls=4.976102  val_center=1.036878  val_perc=0.000628
+Saved checkpoint_epoch494.pt
+[Epoch 495] lr=7.09e-04  val_recon=0.002472  val_cls=4.966658  val_center=1.068668  val_perc=0.000456
+Saved checkpoint_epoch495.pt
+[Epoch 496] lr=7.06e-04  val_recon=0.001448  val_cls=4.885831  val_center=0.970727  val_perc=0.000331
+Saved checkpoint_epoch496.pt
+[Epoch 497] lr=7.02e-04  val_recon=0.001570  val_cls=5.110282  val_center=1.179982  val_perc=0.000370
+Saved checkpoint_epoch497.pt
+[Epoch 498] lr=6.99e-04  val_recon=0.002128  val_cls=5.037107  val_center=1.109475  val_perc=0.000495
+Saved checkpoint_epoch498.pt
+[Epoch 499] lr=6.95e-04  val_recon=0.001892  val_cls=5.009402  val_center=1.073727  val_perc=0.000485
+Saved checkpoint_epoch499.pt
+[Epoch 500] lr=6.91e-04  val_recon=0.006432  val_cls=5.087244  val_center=1.058235  val_perc=0.001060
+Saved checkpoint_epoch500.pt
+[Epoch 501] lr=6.88e-04  val_recon=0.002532  val_cls=4.873085  val_center=0.946230  val_perc=0.000614
+Saved checkpoint_epoch501.pt
+[Epoch 502] lr=6.84e-04  val_recon=0.004204  val_cls=4.846711  val_center=0.901926  val_perc=0.000852
+Saved checkpoint_epoch502.pt
+[Epoch 503] lr=6.80e-04  val_recon=0.002289  val_cls=5.051703  val_center=1.122697  val_perc=0.000461
+Saved checkpoint_epoch503.pt
+[Epoch 504] lr=6.77e-04  val_recon=0.003484  val_cls=5.050141  val_center=1.152535  val_perc=0.000636
+Saved checkpoint_epoch504.pt
+[Epoch 505] lr=6.73e-04  val_recon=0.003268  val_cls=4.813524  val_center=0.902424  val_perc=0.000744
+Saved checkpoint_epoch505.pt
+[Epoch 506] lr=6.69e-04  val_recon=0.001274  val_cls=4.822707  val_center=0.874888  val_perc=0.000316
+Saved checkpoint_epoch506.pt
+[Epoch 507] lr=6.66e-04  val_recon=0.005423  val_cls=5.105363  val_center=1.101519  val_perc=0.001065
+Saved checkpoint_epoch507.pt
+[Epoch 508] lr=6.62e-04  val_recon=0.003081  val_cls=4.967480  val_center=0.963927  val_perc=0.000600
+Saved checkpoint_epoch508.pt
+[Epoch 509] lr=6.58e-04  val_recon=0.008960  val_cls=4.931975  val_center=1.008223  val_perc=0.001335
+Saved checkpoint_epoch509.pt
+[Epoch 510] lr=6.55e-04  val_recon=0.004804  val_cls=4.975470  val_center=1.074651  val_perc=0.000924
+Saved checkpoint_epoch510.pt
+[Epoch 511] lr=6.51e-04  val_recon=0.001611  val_cls=5.204757  val_center=1.239441  val_perc=0.000362
+Saved checkpoint_epoch511.pt
+[Epoch 512] lr=6.47e-04  val_recon=0.003072  val_cls=4.893695  val_center=0.960367  val_perc=0.000627
+Saved checkpoint_epoch512.pt
+[Epoch 513] lr=6.43e-04  val_recon=0.003384  val_cls=5.253946  val_center=1.225526  val_perc=0.000671
+Saved checkpoint_epoch513.pt
+[Epoch 514] lr=6.39e-04  val_recon=0.002082  val_cls=4.934852  val_center=0.932322  val_perc=0.000470
+Saved checkpoint_epoch514.pt
+[Epoch 515] lr=6.36e-04  val_recon=0.003760  val_cls=5.003848  val_center=1.004548  val_perc=0.000766
+Saved checkpoint_epoch515.pt
+[Epoch 516] lr=6.32e-04  val_recon=0.002425  val_cls=5.026300  val_center=0.989969  val_perc=0.000536
+Saved checkpoint_epoch516.pt
+[Epoch 517] lr=6.28e-04  val_recon=0.009408  val_cls=5.036793  val_center=1.073974  val_perc=0.001343
+Saved checkpoint_epoch517.pt
+[Epoch 518] lr=6.24e-04  val_recon=0.003415  val_cls=4.863614  val_center=0.847105  val_perc=0.000680
+Saved checkpoint_epoch518.pt
+[Epoch 519] lr=6.21e-04  val_recon=0.003581  val_cls=4.939303  val_center=0.999796  val_perc=0.000755
+Saved checkpoint_epoch519.pt
+[Epoch 520] lr=6.17e-04  val_recon=0.001473  val_cls=4.941637  val_center=0.948733  val_perc=0.000333
+Saved checkpoint_epoch520.pt
+[Epoch 521] lr=6.13e-04  val_recon=0.001425  val_cls=4.962464  val_center=0.941232  val_perc=0.000343
+Saved checkpoint_epoch521.pt
+[Epoch 522] lr=6.09e-04  val_recon=0.003871  val_cls=5.082816  val_center=0.986566  val_perc=0.000718
+Saved checkpoint_epoch522.pt
+[Epoch 523] lr=6.05e-04  val_recon=0.001464  val_cls=4.983997  val_center=0.967811  val_perc=0.000354
+Saved checkpoint_epoch523.pt
+[Epoch 524] lr=6.01e-04  val_recon=0.005758  val_cls=5.021494  val_center=1.018294  val_perc=0.001078
+Saved checkpoint_epoch524.pt
+[Epoch 525] lr=5.98e-04  val_recon=0.001617  val_cls=4.919537  val_center=0.926448  val_perc=0.000411
+Saved checkpoint_epoch525.pt
+[Epoch 526] lr=5.94e-04  val_recon=0.002065  val_cls=5.196195  val_center=1.118619  val_perc=0.000543
+Saved checkpoint_epoch526.pt
+[Epoch 527] lr=5.90e-04  val_recon=0.001976  val_cls=5.065012  val_center=1.080876  val_perc=0.000421
+Saved checkpoint_epoch527.pt
+[Epoch 528] lr=5.86e-04  val_recon=0.003689  val_cls=4.987966  val_center=1.010297  val_perc=0.000756
+Saved checkpoint_epoch528.pt
+[Epoch 529] lr=5.82e-04  val_recon=0.001985  val_cls=5.129567  val_center=1.037280  val_perc=0.000441
+Saved checkpoint_epoch529.pt
+[Epoch 530] lr=5.78e-04  val_recon=0.003223  val_cls=4.962421  val_center=0.926634  val_perc=0.000717
+Saved checkpoint_epoch530.pt
+[Epoch 531] lr=5.74e-04  val_recon=0.004070  val_cls=5.103539  val_center=0.969522  val_perc=0.000723
+Saved checkpoint_epoch531.pt
+[Epoch 532] lr=5.70e-04  val_recon=0.002449  val_cls=4.975740  val_center=0.848347  val_perc=0.000477
+Saved checkpoint_epoch532.pt
+[Epoch 533] lr=5.67e-04  val_recon=0.007238  val_cls=5.382563  val_center=1.290884  val_perc=0.001154
+Saved checkpoint_epoch533.pt
+[Epoch 534] lr=5.63e-04  val_recon=0.004200  val_cls=5.226916  val_center=1.129508  val_perc=0.000893
+Saved checkpoint_epoch534.pt
+[Epoch 535] lr=5.59e-04  val_recon=0.006451  val_cls=4.934706  val_center=0.840866  val_perc=0.001048
+Saved checkpoint_epoch535.pt
+[Epoch 536] lr=5.55e-04  val_recon=0.002520  val_cls=4.922890  val_center=0.921482  val_perc=0.000549
+Saved checkpoint_epoch536.pt
+[Epoch 537] lr=5.51e-04  val_recon=0.003357  val_cls=5.108338  val_center=1.019622  val_perc=0.000693
+Saved checkpoint_epoch537.pt
+[Epoch 538] lr=5.47e-04  val_recon=0.003944  val_cls=5.095751  val_center=1.059651  val_perc=0.000744
+Saved checkpoint_epoch538.pt
+[Epoch 539] lr=5.43e-04  val_recon=0.008591  val_cls=5.094230  val_center=1.007500  val_perc=0.001240
+Saved checkpoint_epoch539.pt
+[Epoch 540] lr=5.39e-04  val_recon=0.002400  val_cls=4.966096  val_center=0.923938  val_perc=0.000497
+Saved checkpoint_epoch540.pt
+[Epoch 541] lr=5.35e-04  val_recon=0.001770  val_cls=5.099083  val_center=1.012862  val_perc=0.000432
+Saved checkpoint_epoch541.pt
+[Epoch 542] lr=5.31e-04  val_recon=0.001712  val_cls=4.983248  val_center=0.970721  val_perc=0.000432
+Saved checkpoint_epoch542.pt
+[Epoch 543] lr=5.27e-04  val_recon=0.001562  val_cls=4.960170  val_center=0.909715  val_perc=0.000358
+Saved checkpoint_epoch543.pt
+[Epoch 544] lr=5.24e-04  val_recon=0.008745  val_cls=4.848938  val_center=0.780555  val_perc=0.001358
+Saved checkpoint_epoch544.pt
+[Epoch 545] lr=5.20e-04  val_recon=0.003549  val_cls=4.893505  val_center=0.857104  val_perc=0.000734
+Saved checkpoint_epoch545.pt
+[Epoch 546] lr=5.16e-04  val_recon=0.001847  val_cls=4.971389  val_center=0.934957  val_perc=0.000400
+Saved checkpoint_epoch546.pt
+[Epoch 547] lr=5.12e-04  val_recon=0.004901  val_cls=5.193457  val_center=1.058157  val_perc=0.000920
+Saved checkpoint_epoch547.pt
+[Epoch 548] lr=5.08e-04  val_recon=0.007993  val_cls=5.298829  val_center=1.159224  val_perc=0.001276
+Saved checkpoint_epoch548.pt
+[Epoch 549] lr=5.04e-04  val_recon=0.002024  val_cls=5.043847  val_center=0.936339  val_perc=0.000493
+Saved checkpoint_epoch549.pt
+[Epoch 550] lr=5.00e-04  val_recon=0.001781  val_cls=4.983583  val_center=0.861740  val_perc=0.000382
+Saved checkpoint_epoch550.pt
+[Epoch 551] lr=4.96e-04  val_recon=0.003181  val_cls=4.937038  val_center=0.937178  val_perc=0.000726
+Saved checkpoint_epoch551.pt
+[Epoch 552] lr=4.92e-04  val_recon=0.001616  val_cls=4.982468  val_center=0.889934  val_perc=0.000342
+Saved checkpoint_epoch552.pt
+[Epoch 553] lr=4.88e-04  val_recon=0.001398  val_cls=5.200147  val_center=1.046221  val_perc=0.000366
+Saved checkpoint_epoch553.pt
+[Epoch 554] lr=4.84e-04  val_recon=0.007208  val_cls=5.029316  val_center=0.970853  val_perc=0.001155
+Saved checkpoint_epoch554.pt
+[Epoch 555] lr=4.80e-04  val_recon=0.004745  val_cls=4.994262  val_center=0.920719  val_perc=0.000826
+Saved checkpoint_epoch555.pt
+[Epoch 556] lr=4.76e-04  val_recon=0.001321  val_cls=4.996639  val_center=0.889660  val_perc=0.000321
+Saved checkpoint_epoch556.pt
+[Epoch 557] lr=4.73e-04  val_recon=0.015092  val_cls=4.978755  val_center=0.862946  val_perc=0.002035
+Saved checkpoint_epoch557.pt
+[Epoch 558] lr=4.69e-04  val_recon=0.002464  val_cls=4.942842  val_center=0.865119  val_perc=0.000513
+Saved checkpoint_epoch558.pt
+[Epoch 559] lr=4.65e-04  val_recon=0.001378  val_cls=5.060553  val_center=0.930839  val_perc=0.000351
+Saved checkpoint_epoch559.pt
+[Epoch 560] lr=4.61e-04  val_recon=0.001682  val_cls=4.913801  val_center=0.844743  val_perc=0.000425
+Saved checkpoint_epoch560.pt
+[Epoch 561] lr=4.57e-04  val_recon=0.003694  val_cls=4.925181  val_center=0.863039  val_perc=0.000874
+Saved checkpoint_epoch561.pt
+[Epoch 562] lr=4.53e-04  val_recon=0.002093  val_cls=4.972493  val_center=0.864339  val_perc=0.000457
+Saved checkpoint_epoch562.pt
+[Epoch 563] lr=4.49e-04  val_recon=0.002996  val_cls=4.934290  val_center=0.810785  val_perc=0.000646
+Saved checkpoint_epoch563.pt
+[Epoch 564] lr=4.45e-04  val_recon=0.003883  val_cls=4.991152  val_center=0.909533  val_perc=0.000773
+Saved checkpoint_epoch564.pt
+[Epoch 565] lr=4.41e-04  val_recon=0.002635  val_cls=4.899855  val_center=0.798906  val_perc=0.000587
+Saved checkpoint_epoch565.pt
+[Epoch 566] lr=4.37e-04  val_recon=0.001595  val_cls=5.022877  val_center=0.859413  val_perc=0.000360
+Saved checkpoint_epoch566.pt
+[Epoch 567] lr=4.33e-04  val_recon=0.001354  val_cls=4.906081  val_center=0.838486  val_perc=0.000313
+Saved checkpoint_epoch567.pt
+[Epoch 568] lr=4.30e-04  val_recon=0.002980  val_cls=5.045260  val_center=0.902886  val_perc=0.000597
+Saved checkpoint_epoch568.pt
+[Epoch 569] lr=4.26e-04  val_recon=0.002752  val_cls=4.907275  val_center=0.773695  val_perc=0.000524
+Saved checkpoint_epoch569.pt
+[Epoch 570] lr=4.22e-04  val_recon=0.002021  val_cls=5.054095  val_center=0.910715  val_perc=0.000444
+Saved checkpoint_epoch570.pt
+[Epoch 571] lr=4.18e-04  val_recon=0.002111  val_cls=5.065264  val_center=0.933580  val_perc=0.000469
+Saved checkpoint_epoch571.pt
+[Epoch 572] lr=4.14e-04  val_recon=0.002477  val_cls=4.981381  val_center=0.890672  val_perc=0.000546
+Saved checkpoint_epoch572.pt
+[Epoch 573] lr=4.10e-04  val_recon=0.003381  val_cls=5.034262  val_center=0.857488  val_perc=0.000730
+Saved checkpoint_epoch573.pt
+[Epoch 574] lr=4.06e-04  val_recon=0.004280  val_cls=4.867334  val_center=0.750304  val_perc=0.000818
+Saved checkpoint_epoch574.pt
+[Epoch 575] lr=4.02e-04  val_recon=0.004231  val_cls=5.010340  val_center=0.915490  val_perc=0.000796
+Saved checkpoint_epoch575.pt
+[Epoch 576] lr=3.99e-04  val_recon=0.002715  val_cls=4.921628  val_center=0.790403  val_perc=0.000613
+Saved checkpoint_epoch576.pt
+[Epoch 577] lr=3.95e-04  val_recon=0.002240  val_cls=5.147402  val_center=1.002940  val_perc=0.000519
+Saved checkpoint_epoch577.pt
+[Epoch 578] lr=3.91e-04  val_recon=0.006548  val_cls=4.995994  val_center=0.867122  val_perc=0.001187
+Saved checkpoint_epoch578.pt
+[Epoch 579] lr=3.87e-04  val_recon=0.002392  val_cls=4.911351  val_center=0.812066  val_perc=0.000556
+Saved checkpoint_epoch579.pt
+[Epoch 580] lr=3.83e-04  val_recon=0.006017  val_cls=5.004469  val_center=0.880745  val_perc=0.001004
+Saved checkpoint_epoch580.pt
+[Epoch 581] lr=3.79e-04  val_recon=0.003129  val_cls=5.043483  val_center=0.918533  val_perc=0.000689
+Saved checkpoint_epoch581.pt
+[Epoch 582] lr=3.76e-04  val_recon=0.003857  val_cls=5.106734  val_center=0.984388  val_perc=0.000847
+Saved checkpoint_epoch582.pt
+[Epoch 583] lr=3.72e-04  val_recon=0.002127  val_cls=4.916438  val_center=0.801040  val_perc=0.000541
+Saved checkpoint_epoch583.pt
+[Epoch 584] lr=3.68e-04  val_recon=0.005933  val_cls=4.944238  val_center=0.753576  val_perc=0.001036
+Saved checkpoint_epoch584.pt
+[Epoch 585] lr=3.64e-04  val_recon=0.003193  val_cls=5.022396  val_center=0.890620  val_perc=0.000756
+Saved checkpoint_epoch585.pt
+[Epoch 586] lr=3.61e-04  val_recon=0.002579  val_cls=4.902144  val_center=0.765337  val_perc=0.000537
+Saved checkpoint_epoch586.pt
+[Epoch 587] lr=3.57e-04  val_recon=0.010345  val_cls=4.948681  val_center=0.811179  val_perc=0.001701
+Saved checkpoint_epoch587.pt
+[Epoch 588] lr=3.53e-04  val_recon=0.001985  val_cls=4.976304  val_center=0.810294  val_perc=0.000456
+Saved checkpoint_epoch588.pt
+[Epoch 589] lr=3.49e-04  val_recon=0.003013  val_cls=4.915140  val_center=0.778240  val_perc=0.000651
+Saved checkpoint_epoch589.pt
+[Epoch 590] lr=3.45e-04  val_recon=0.001979  val_cls=4.974259  val_center=0.832693  val_perc=0.000478
+Saved checkpoint_epoch590.pt
+[Epoch 591] lr=3.42e-04  val_recon=0.005629  val_cls=4.920162  val_center=0.753621  val_perc=0.000993
+Saved checkpoint_epoch591.pt
+[Epoch 592] lr=3.38e-04  val_recon=0.002194  val_cls=5.012660  val_center=0.792672  val_perc=0.000509
+Saved checkpoint_epoch592.pt
+[Epoch 593] lr=3.34e-04  val_recon=0.004668  val_cls=4.905767  val_center=0.781093  val_perc=0.000869
+Saved checkpoint_epoch593.pt
+[Epoch 594] lr=3.31e-04  val_recon=0.003186  val_cls=4.914235  val_center=0.755424  val_perc=0.000703
+Saved checkpoint_epoch594.pt
+[Epoch 595] lr=3.27e-04  val_recon=0.003693  val_cls=4.906348  val_center=0.756410  val_perc=0.000743
+Saved checkpoint_epoch595.pt
+[Epoch 596] lr=3.23e-04  val_recon=0.003531  val_cls=4.953354  val_center=0.806406  val_perc=0.000739
+Saved checkpoint_epoch596.pt
+[Epoch 597] lr=3.20e-04  val_recon=0.004232  val_cls=4.890887  val_center=0.751555  val_perc=0.000813
+Saved checkpoint_epoch597.pt
+[Epoch 598] lr=3.16e-04  val_recon=0.007196  val_cls=4.944452  val_center=0.801973  val_perc=0.001246
+Saved checkpoint_epoch598.pt
+[Epoch 599] lr=3.12e-04  val_recon=0.004788  val_cls=5.060191  val_center=0.850093  val_perc=0.000958
+Saved checkpoint_epoch599.pt
+[Epoch 600] lr=3.09e-04  val_recon=0.004048  val_cls=5.111430  val_center=0.868188  val_perc=0.000800
+Saved checkpoint_epoch600.pt
+[Epoch 601] lr=3.05e-04  val_recon=0.006447  val_cls=4.925782  val_center=0.764440  val_perc=0.001162
+Saved checkpoint_epoch601.pt
+[Epoch 602] lr=3.01e-04  val_recon=0.006870  val_cls=4.880017  val_center=0.765133  val_perc=0.001261
+Saved checkpoint_epoch602.pt
+[Epoch 603] lr=2.98e-04  val_recon=0.002031  val_cls=5.046534  val_center=0.833144  val_perc=0.000462
+Saved checkpoint_epoch603.pt
+[Epoch 604] lr=2.94e-04  val_recon=0.003253  val_cls=4.970795  val_center=0.810644  val_perc=0.000722
+Saved checkpoint_epoch604.pt
+[Epoch 605] lr=2.91e-04  val_recon=0.003194  val_cls=5.119107  val_center=0.917375  val_perc=0.000676
+Saved checkpoint_epoch605.pt
+[Epoch 606] lr=2.87e-04  val_recon=0.004967  val_cls=4.896526  val_center=0.741895  val_perc=0.000902
+Saved checkpoint_epoch606.pt
+[Epoch 607] lr=2.84e-04  val_recon=0.002102  val_cls=4.928475  val_center=0.764703  val_perc=0.000527
+Saved checkpoint_epoch607.pt
+[Epoch 608] lr=2.80e-04  val_recon=0.003850  val_cls=4.927425  val_center=0.760353  val_perc=0.000775
+Saved checkpoint_epoch608.pt
+[Epoch 609] lr=2.77e-04  val_recon=0.002420  val_cls=4.970472  val_center=0.793533  val_perc=0.000578
+Saved checkpoint_epoch609.pt
+[Epoch 610] lr=2.73e-04  val_recon=0.003828  val_cls=4.999495  val_center=0.823753  val_perc=0.000884
+Saved checkpoint_epoch610.pt
+[Epoch 611] lr=2.70e-04  val_recon=0.001980  val_cls=4.913971  val_center=0.777849  val_perc=0.000504
+Saved checkpoint_epoch611.pt
+[Epoch 612] lr=2.66e-04  val_recon=0.003405  val_cls=4.926526  val_center=0.725574  val_perc=0.000818
+Saved checkpoint_epoch612.pt
+[Epoch 613] lr=2.63e-04  val_recon=0.004501  val_cls=5.055965  val_center=0.846295  val_perc=0.000868
+Saved checkpoint_epoch613.pt
+[Epoch 614] lr=2.59e-04  val_recon=0.003024  val_cls=4.961265  val_center=0.796566  val_perc=0.000686
+Saved checkpoint_epoch614.pt
+[Epoch 615] lr=2.56e-04  val_recon=0.002350  val_cls=4.950045  val_center=0.754723  val_perc=0.000572
+Saved checkpoint_epoch615.pt
+[Epoch 616] lr=2.52e-04  val_recon=0.003500  val_cls=4.920433  val_center=0.753002  val_perc=0.000658
+Saved checkpoint_epoch616.pt
+[Epoch 617] lr=2.49e-04  val_recon=0.001771  val_cls=4.877403  val_center=0.733534  val_perc=0.000425
+Saved checkpoint_epoch617.pt
+[Epoch 618] lr=2.45e-04  val_recon=0.003710  val_cls=4.929918  val_center=0.752630  val_perc=0.000798
+Saved checkpoint_epoch618.pt
+[Epoch 619] lr=2.42e-04  val_recon=0.004616  val_cls=4.987398  val_center=0.793981  val_perc=0.000959
+Saved checkpoint_epoch619.pt
+[Epoch 620] lr=2.39e-04  val_recon=0.003791  val_cls=4.862104  val_center=0.690853  val_perc=0.000730
+Saved checkpoint_epoch620.pt
+[Epoch 621] lr=2.35e-04  val_recon=0.004044  val_cls=4.899732  val_center=0.727343  val_perc=0.000817
+Saved checkpoint_epoch621.pt
+[Epoch 622] lr=2.32e-04  val_recon=0.007596  val_cls=4.920433  val_center=0.752554  val_perc=0.001259
+Saved checkpoint_epoch622.pt
+[Epoch 623] lr=2.29e-04  val_recon=0.003969  val_cls=4.925984  val_center=0.759079  val_perc=0.000820
+Saved checkpoint_epoch623.pt
+[Epoch 624] lr=2.25e-04  val_recon=0.002764  val_cls=4.936465  val_center=0.739521  val_perc=0.000599
+Saved checkpoint_epoch624.pt
+[Epoch 625] lr=2.22e-04  val_recon=0.002838  val_cls=4.912489  val_center=0.739152  val_perc=0.000718
+Saved checkpoint_epoch625.pt
+[Epoch 626] lr=2.19e-04  val_recon=0.004398  val_cls=4.922020  val_center=0.744755  val_perc=0.000899
+Saved checkpoint_epoch626.pt
+[Epoch 627] lr=2.16e-04  val_recon=0.003990  val_cls=4.933578  val_center=0.758657  val_perc=0.000849
+Saved checkpoint_epoch627.pt
+[Epoch 628] lr=2.13e-04  val_recon=0.002599  val_cls=4.897464  val_center=0.724591  val_perc=0.000631
+Saved checkpoint_epoch628.pt
+[Epoch 629] lr=2.09e-04  val_recon=0.003135  val_cls=5.015109  val_center=0.777681  val_perc=0.000692
+Saved checkpoint_epoch629.pt
+[Epoch 630] lr=2.06e-04  val_recon=0.006342  val_cls=4.998692  val_center=0.757883  val_perc=0.001068
+Saved checkpoint_epoch630.pt
+[Epoch 631] lr=2.03e-04  val_recon=0.003833  val_cls=4.882922  val_center=0.689338  val_perc=0.000797
+Saved checkpoint_epoch631.pt
+[Epoch 632] lr=2.00e-04  val_recon=0.003094  val_cls=4.883981  val_center=0.713756  val_perc=0.000650
+Saved checkpoint_epoch632.pt
+[Epoch 633] lr=1.97e-04  val_recon=0.003817  val_cls=4.926574  val_center=0.719456  val_perc=0.000808
+Saved checkpoint_epoch633.pt
+[Epoch 634] lr=1.94e-04  val_recon=0.002821  val_cls=4.963535  val_center=0.762823  val_perc=0.000627
+Saved checkpoint_epoch634.pt
+[Epoch 635] lr=1.90e-04  val_recon=0.002995  val_cls=4.858554  val_center=0.672019  val_perc=0.000679
+Saved checkpoint_epoch635.pt
+[Epoch 636] lr=1.87e-04  val_recon=0.002513  val_cls=4.915689  val_center=0.726754  val_perc=0.000548
+Saved checkpoint_epoch636.pt
+[Epoch 637] lr=1.84e-04  val_recon=0.003142  val_cls=4.867455  val_center=0.694191  val_perc=0.000669
+Saved checkpoint_epoch637.pt
+[Epoch 638] lr=1.81e-04  val_recon=0.003774  val_cls=4.857390  val_center=0.693402  val_perc=0.000769
+Saved checkpoint_epoch638.pt
+[Epoch 639] lr=1.78e-04  val_recon=0.004016  val_cls=4.898099  val_center=0.734897  val_perc=0.000879
+Saved checkpoint_epoch639.pt
+[Epoch 640] lr=1.75e-04  val_recon=0.004564  val_cls=4.910756  val_center=0.723005  val_perc=0.000925
+Saved checkpoint_epoch640.pt
+[Epoch 641] lr=1.72e-04  val_recon=0.003574  val_cls=4.938069  val_center=0.737535  val_perc=0.000785
+Saved checkpoint_epoch641.pt
+[Epoch 642] lr=1.69e-04  val_recon=0.005959  val_cls=4.900290  val_center=0.714785  val_perc=0.001148
+Saved checkpoint_epoch642.pt
+[Epoch 643] lr=1.66e-04  val_recon=0.004235  val_cls=5.045990  val_center=0.806815  val_perc=0.000868
+Saved checkpoint_epoch643.pt
+[Epoch 644] lr=1.64e-04  val_recon=0.002793  val_cls=4.863410  val_center=0.680713  val_perc=0.000702
+Saved checkpoint_epoch644.pt
+[Epoch 645] lr=1.61e-04  val_recon=0.002981  val_cls=4.878356  val_center=0.687579  val_perc=0.000649
+Saved checkpoint_epoch645.pt
+[Epoch 646] lr=1.58e-04  val_recon=0.002915  val_cls=4.890645  val_center=0.712050  val_perc=0.000676
+Saved checkpoint_epoch646.pt
+[Epoch 647] lr=1.55e-04  val_recon=0.002732  val_cls=4.861466  val_center=0.685948  val_perc=0.000610
+Saved checkpoint_epoch647.pt
+[Epoch 648] lr=1.52e-04  val_recon=0.003298  val_cls=5.055227  val_center=0.844537  val_perc=0.000734
+Saved checkpoint_epoch648.pt
+[Epoch 649] lr=1.49e-04  val_recon=0.001819  val_cls=4.925600  val_center=0.724510  val_perc=0.000443
+Saved checkpoint_epoch649.pt
+[Epoch 650] lr=1.46e-04  val_recon=0.002430  val_cls=4.905587  val_center=0.715611  val_perc=0.000600
+Saved checkpoint_epoch650.pt
+[Epoch 651] lr=1.44e-04  val_recon=0.004512  val_cls=4.932911  val_center=0.731986  val_perc=0.000886
+Saved checkpoint_epoch651.pt
+[Epoch 652] lr=1.41e-04  val_recon=0.003348  val_cls=4.870427  val_center=0.685485  val_perc=0.000666
+Saved checkpoint_epoch652.pt
+[Epoch 653] lr=1.38e-04  val_recon=0.003045  val_cls=4.880376  val_center=0.687219  val_perc=0.000661
+Saved checkpoint_epoch653.pt
+[Epoch 654] lr=1.36e-04  val_recon=0.004240  val_cls=4.888176  val_center=0.704125  val_perc=0.000850
+Saved checkpoint_epoch654.pt
+[Epoch 655] lr=1.33e-04  val_recon=0.004363  val_cls=4.909615  val_center=0.711748  val_perc=0.000860
+Saved checkpoint_epoch655.pt
+[Epoch 656] lr=1.30e-04  val_recon=0.004241  val_cls=4.889049  val_center=0.662654  val_perc=0.000783
+Saved checkpoint_epoch656.pt
+[Epoch 657] lr=1.28e-04  val_recon=0.002024  val_cls=4.939855  val_center=0.719670  val_perc=0.000527
+Saved checkpoint_epoch657.pt
+[Epoch 658] lr=1.25e-04  val_recon=0.003310  val_cls=4.870185  val_center=0.678581  val_perc=0.000790
+Saved checkpoint_epoch658.pt
+[Epoch 659] lr=1.22e-04  val_recon=0.003226  val_cls=5.005332  val_center=0.773084  val_perc=0.000700
+Saved checkpoint_epoch659.pt
+[Epoch 660] lr=1.20e-04  val_recon=0.004067  val_cls=4.878083  val_center=0.693918  val_perc=0.000862
+Saved checkpoint_epoch660.pt
+[Epoch 661] lr=1.17e-04  val_recon=0.005499  val_cls=4.874287  val_center=0.679988  val_perc=0.001081
+Saved checkpoint_epoch661.pt
+[Epoch 662] lr=1.15e-04  val_recon=0.002815  val_cls=4.869366  val_center=0.667638  val_perc=0.000660
+Saved checkpoint_epoch662.pt
+[Epoch 663] lr=1.12e-04  val_recon=0.004599  val_cls=4.895675  val_center=0.695776  val_perc=0.000948
+Saved checkpoint_epoch663.pt
+[Epoch 664] lr=1.10e-04  val_recon=0.003461  val_cls=4.884161  val_center=0.686202  val_perc=0.000741
+Saved checkpoint_epoch664.pt
+[Epoch 665] lr=1.07e-04  val_recon=0.003884  val_cls=4.878532  val_center=0.687470  val_perc=0.000873
+Saved checkpoint_epoch665.pt
+[Epoch 666] lr=1.05e-04  val_recon=0.005716  val_cls=4.889996  val_center=0.696510  val_perc=0.001097
+Saved checkpoint_epoch666.pt
+[Epoch 667] lr=1.03e-04  val_recon=0.003694  val_cls=4.896209  val_center=0.701429  val_perc=0.000887
+Saved checkpoint_epoch667.pt
+[Epoch 668] lr=1.00e-04  val_recon=0.001786  val_cls=4.898595  val_center=0.693998  val_perc=0.000433
+Saved checkpoint_epoch668.pt
+[Epoch 669] lr=9.78e-05  val_recon=0.002798  val_cls=4.909599  val_center=0.703502  val_perc=0.000605
+Saved checkpoint_epoch669.pt
+[Epoch 670] lr=9.55e-05  val_recon=0.003372  val_cls=4.907697  val_center=0.706703  val_perc=0.000756
+Saved checkpoint_epoch670.pt
+[Epoch 671] lr=9.32e-05  val_recon=0.002567  val_cls=4.882397  val_center=0.683034  val_perc=0.000606
+Saved checkpoint_epoch671.pt
+[Epoch 672] lr=9.09e-05  val_recon=0.006175  val_cls=4.948921  val_center=0.722605  val_perc=0.001163
+Saved checkpoint_epoch672.pt
+[Epoch 673] lr=8.87e-05  val_recon=0.002170  val_cls=4.853755  val_center=0.665881  val_perc=0.000528
+Saved checkpoint_epoch673.pt
+[Epoch 674] lr=8.65e-05  val_recon=0.004434  val_cls=4.901355  val_center=0.693730  val_perc=0.000950
+Saved checkpoint_epoch674.pt
+[Epoch 675] lr=8.43e-05  val_recon=0.003128  val_cls=4.875332  val_center=0.683642  val_perc=0.000665
+Saved checkpoint_epoch675.pt
+[Epoch 676] lr=8.21e-05  val_recon=0.006046  val_cls=4.906875  val_center=0.691428  val_perc=0.001079
+Saved checkpoint_epoch676.pt
+[Epoch 677] lr=8.00e-05  val_recon=0.003540  val_cls=4.876206  val_center=0.684867  val_perc=0.000763
+Saved checkpoint_epoch677.pt
+[Epoch 678] lr=7.78e-05  val_recon=0.002574  val_cls=4.908703  val_center=0.702751  val_perc=0.000602
+Saved checkpoint_epoch678.pt
+[Epoch 679] lr=7.58e-05  val_recon=0.003377  val_cls=4.873545  val_center=0.678021  val_perc=0.000731
+Saved checkpoint_epoch679.pt
+[Epoch 680] lr=7.37e-05  val_recon=0.002271  val_cls=4.884679  val_center=0.678238  val_perc=0.000540
+Saved checkpoint_epoch680.pt
+[Epoch 681] lr=7.17e-05  val_recon=0.002459  val_cls=4.886263  val_center=0.691915  val_perc=0.000610
+Saved checkpoint_epoch681.pt
+[Epoch 682] lr=6.96e-05  val_recon=0.003379  val_cls=4.905558  val_center=0.685411  val_perc=0.000692
+Saved checkpoint_epoch682.pt
+[Epoch 683] lr=6.77e-05  val_recon=0.004173  val_cls=4.889415  val_center=0.675630  val_perc=0.000843
+Saved checkpoint_epoch683.pt
+[Epoch 684] lr=6.57e-05  val_recon=0.003025  val_cls=4.888447  val_center=0.686464  val_perc=0.000680
+Saved checkpoint_epoch684.pt
+[Epoch 685] lr=6.38e-05  val_recon=0.003563  val_cls=4.898270  val_center=0.700174  val_perc=0.000792
+Saved checkpoint_epoch685.pt
+[Epoch 686] lr=6.19e-05  val_recon=0.002493  val_cls=4.898490  val_center=0.695327  val_perc=0.000579
+Saved checkpoint_epoch686.pt
+[Epoch 687] lr=6.00e-05  val_recon=0.003718  val_cls=4.895713  val_center=0.694384  val_perc=0.000796
+Saved checkpoint_epoch687.pt
+[Epoch 688] lr=5.81e-05  val_recon=0.003011  val_cls=4.867208  val_center=0.669758  val_perc=0.000672
+Saved checkpoint_epoch688.pt
+[Epoch 689] lr=5.63e-05  val_recon=0.003466  val_cls=4.911828  val_center=0.695112  val_perc=0.000757
+Saved checkpoint_epoch689.pt
+[Epoch 690] lr=5.45e-05  val_recon=0.002823  val_cls=4.877782  val_center=0.673942  val_perc=0.000644
+Saved checkpoint_epoch690.pt
+[Epoch 691] lr=5.27e-05  val_recon=0.002979  val_cls=4.881228  val_center=0.679691  val_perc=0.000676
+Saved checkpoint_epoch691.pt
+[Epoch 692] lr=5.10e-05  val_recon=0.004361  val_cls=4.875147  val_center=0.677441  val_perc=0.000916
+Saved checkpoint_epoch692.pt
+[Epoch 693] lr=4.93e-05  val_recon=0.003597  val_cls=4.887351  val_center=0.689311  val_perc=0.000808
+Saved checkpoint_epoch693.pt
+[Epoch 694] lr=4.76e-05  val_recon=0.003364  val_cls=4.882212  val_center=0.670396  val_perc=0.000726
+Saved checkpoint_epoch694.pt
+[Epoch 695] lr=4.59e-05  val_recon=0.002899  val_cls=4.885074  val_center=0.681066  val_perc=0.000633
+Saved checkpoint_epoch695.pt
+[Epoch 696] lr=4.43e-05  val_recon=0.002990  val_cls=4.856105  val_center=0.656634  val_perc=0.000682
+Saved checkpoint_epoch696.pt
+[Epoch 697] lr=4.27e-05  val_recon=0.003299  val_cls=4.893538  val_center=0.692234  val_perc=0.000736
+Saved checkpoint_epoch697.pt
+[Epoch 698] lr=4.11e-05  val_recon=0.003530  val_cls=4.886314  val_center=0.685530  val_perc=0.000775
+Saved checkpoint_epoch698.pt
+[Epoch 699] lr=3.96e-05  val_recon=0.002490  val_cls=4.897312  val_center=0.691354  val_perc=0.000587
+Saved checkpoint_epoch699.pt
+[Epoch 700] lr=3.81e-05  val_recon=0.003189  val_cls=4.871614  val_center=0.666541  val_perc=0.000713
+Saved checkpoint_epoch700.pt
+[Epoch 701] lr=3.66e-05  val_recon=0.004102  val_cls=4.876101  val_center=0.670925  val_perc=0.000840
+Saved checkpoint_epoch701.pt
+[Epoch 702] lr=3.51e-05  val_recon=0.003721  val_cls=4.897531  val_center=0.675699  val_perc=0.000792
+Saved checkpoint_epoch702.pt
+[Epoch 703] lr=3.37e-05  val_recon=0.003320  val_cls=4.866600  val_center=0.670072  val_perc=0.000745
+Saved checkpoint_epoch703.pt
+[Epoch 704] lr=3.23e-05  val_recon=0.003584  val_cls=4.882104  val_center=0.680665  val_perc=0.000810
+Saved checkpoint_epoch704.pt
+[Epoch 705] lr=3.09e-05  val_recon=0.004612  val_cls=4.883345  val_center=0.667947  val_perc=0.000916
+Saved checkpoint_epoch705.pt
+[Epoch 706] lr=2.96e-05  val_recon=0.002830  val_cls=4.869526  val_center=0.670355  val_perc=0.000637
+Saved checkpoint_epoch706.pt
+[Epoch 707] lr=2.83e-05  val_recon=0.003084  val_cls=4.876415  val_center=0.677542  val_perc=0.000701
+Saved checkpoint_epoch707.pt
+[Epoch 708] lr=2.70e-05  val_recon=0.003158  val_cls=4.869877  val_center=0.663348  val_perc=0.000713
+Saved checkpoint_epoch708.pt
+[Epoch 709] lr=2.57e-05  val_recon=0.003986  val_cls=4.866686  val_center=0.662844  val_perc=0.000829
+Saved checkpoint_epoch709.pt
+[Epoch 710] lr=2.45e-05  val_recon=0.003325  val_cls=4.873537  val_center=0.668203  val_perc=0.000744
+Saved checkpoint_epoch710.pt
+[Epoch 711] lr=2.33e-05  val_recon=0.004660  val_cls=4.875165  val_center=0.672876  val_perc=0.000964
+Saved checkpoint_epoch711.pt
+[Epoch 712] lr=2.21e-05  val_recon=0.002952  val_cls=4.879228  val_center=0.676783  val_perc=0.000685
+Saved checkpoint_epoch712.pt
+[Epoch 713] lr=2.10e-05  val_recon=0.003113  val_cls=4.867895  val_center=0.670224  val_perc=0.000730
+Saved checkpoint_epoch713.pt
+[Epoch 714] lr=1.99e-05  val_recon=0.003638  val_cls=4.867193  val_center=0.668279  val_perc=0.000773
+Saved checkpoint_epoch714.pt
+[Epoch 715] lr=1.88e-05  val_recon=0.003469  val_cls=4.873625  val_center=0.670566  val_perc=0.000775
+Saved checkpoint_epoch715.pt
+[Epoch 716] lr=1.77e-05  val_recon=0.003229  val_cls=4.873266  val_center=0.668500  val_perc=0.000721
+Saved checkpoint_epoch716.pt
+[Epoch 717] lr=1.67e-05  val_recon=0.003632  val_cls=4.884278  val_center=0.676224  val_perc=0.000808
+Saved checkpoint_epoch717.pt
+[Epoch 718] lr=1.57e-05  val_recon=0.003775  val_cls=4.888370  val_center=0.672185  val_perc=0.000808
+Saved checkpoint_epoch718.pt
+[Epoch 719] lr=1.48e-05  val_recon=0.004118  val_cls=4.872455  val_center=0.673368  val_perc=0.000871
+Saved checkpoint_epoch719.pt
+[Epoch 720] lr=1.38e-05  val_recon=0.003099  val_cls=4.869154  val_center=0.666447  val_perc=0.000700
+Saved checkpoint_epoch720.pt
+[Epoch 721] lr=1.29e-05  val_recon=0.004112  val_cls=4.875996  val_center=0.670652  val_perc=0.000845
+Saved checkpoint_epoch721.pt
+[Epoch 722] lr=1.21e-05  val_recon=0.003372  val_cls=4.876942  val_center=0.671038  val_perc=0.000758
+Saved checkpoint_epoch722.pt
+[Epoch 723] lr=1.12e-05  val_recon=0.003684  val_cls=4.881950  val_center=0.672638  val_perc=0.000802
+Saved checkpoint_epoch723.pt
+[Epoch 724] lr=1.04e-05  val_recon=0.003237  val_cls=4.869196  val_center=0.666425  val_perc=0.000711
+Saved checkpoint_epoch724.pt
+[Epoch 725] lr=9.62e-06  val_recon=0.003664  val_cls=4.871484  val_center=0.665465  val_perc=0.000783
+Saved checkpoint_epoch725.pt
+[Epoch 726] lr=8.87e-06  val_recon=0.003642  val_cls=4.872308  val_center=0.669092  val_perc=0.000786
+Saved checkpoint_epoch726.pt
+[Epoch 727] lr=8.15e-06  val_recon=0.003486  val_cls=4.860536  val_center=0.657540  val_perc=0.000759
+Saved checkpoint_epoch727.pt
+[Epoch 728] lr=7.46e-06  val_recon=0.003488  val_cls=4.873164  val_center=0.671198  val_perc=0.000770
+Saved checkpoint_epoch728.pt
+[Epoch 729] lr=6.80e-06  val_recon=0.003560  val_cls=4.874841  val_center=0.670476  val_perc=0.000792
+Saved checkpoint_epoch729.pt
+[Epoch 730] lr=6.17e-06  val_recon=0.003690  val_cls=4.872506  val_center=0.668202  val_perc=0.000790
+Saved checkpoint_epoch730.pt
+[Epoch 731] lr=5.57e-06  val_recon=0.003546  val_cls=4.869537  val_center=0.668463  val_perc=0.000783
+Saved checkpoint_epoch731.pt
+[Epoch 732] lr=5.00e-06  val_recon=0.003609  val_cls=4.868623  val_center=0.668146  val_perc=0.000798
+Saved checkpoint_epoch732.pt
+[Epoch 733] lr=4.46e-06  val_recon=0.003536  val_cls=4.868505  val_center=0.666855  val_perc=0.000789
+Saved checkpoint_epoch733.pt
+[Epoch 734] lr=3.95e-06  val_recon=0.003134  val_cls=4.871242  val_center=0.666362  val_perc=0.000701
+Saved checkpoint_epoch734.pt
+[Epoch 735] lr=3.48e-06  val_recon=0.003385  val_cls=4.873625  val_center=0.666812  val_perc=0.000745
+Saved checkpoint_epoch735.pt
+[Epoch 736] lr=3.03e-06  val_recon=0.003394  val_cls=4.871679  val_center=0.668654  val_perc=0.000748
+Saved checkpoint_epoch736.pt
+[Epoch 737] lr=2.61e-06  val_recon=0.003338  val_cls=4.868759  val_center=0.668823  val_perc=0.000753
+Saved checkpoint_epoch737.pt
+[Epoch 738] lr=2.23e-06  val_recon=0.003604  val_cls=4.871262  val_center=0.669756  val_perc=0.000787
+Saved checkpoint_epoch738.pt
+[Epoch 739] lr=1.87e-06  val_recon=0.003386  val_cls=4.866076  val_center=0.665346  val_perc=0.000750
+Saved checkpoint_epoch739.pt
+[Epoch 740] lr=1.55e-06  val_recon=0.003297  val_cls=4.866019  val_center=0.664683  val_perc=0.000733
+Saved checkpoint_epoch740.pt
+[Epoch 741] lr=1.26e-06  val_recon=0.003524  val_cls=4.864162  val_center=0.665910  val_perc=0.000772
+Saved checkpoint_epoch741.pt
+[Epoch 742] lr=9.97e-07  val_recon=0.003414  val_cls=4.872730  val_center=0.669931  val_perc=0.000753
+Saved checkpoint_epoch742.pt
+[Epoch 743] lr=7.65e-07  val_recon=0.003461  val_cls=4.867259  val_center=0.666814  val_perc=0.000760
+Saved checkpoint_epoch743.pt
+[Epoch 744] lr=5.65e-07  val_recon=0.003465  val_cls=4.866112  val_center=0.663529  val_perc=0.000765
+Saved checkpoint_epoch744.pt
+[Epoch 745] lr=3.95e-07  val_recon=0.003422  val_cls=4.864843  val_center=0.663921  val_perc=0.000761
+Saved checkpoint_epoch745.pt
+[Epoch 746] lr=2.57e-07  val_recon=0.003498  val_cls=4.869817  val_center=0.668381  val_perc=0.000771
+Saved checkpoint_epoch746.pt
+[Epoch 747] lr=1.49e-07  val_recon=0.003438  val_cls=4.863211  val_center=0.660777  val_perc=0.000755
+Saved checkpoint_epoch747.pt
+[Epoch 748] lr=7.17e-08  val_recon=0.003488  val_cls=4.866862  val_center=0.666872  val_perc=0.000766
+Saved checkpoint_epoch748.pt
+[Epoch 749] lr=2.54e-08  val_recon=0.003466  val_cls=4.866354  val_center=0.664212  val_perc=0.000761
+Saved checkpoint_epoch749.pt
+[Epoch 750] lr=1.00e-03  val_recon=0.003445  val_cls=4.867548  val_center=0.666044  val_perc=0.000764
+Saved checkpoint_epoch750.pt

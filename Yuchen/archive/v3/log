@@ -1,0 +1,17 @@
+V1.0
+Add beta-annealing algorithm and classifier
+
+V1.1
+Add training-validation splitting
+
+V2
+New architechture: 16*16 downsample; 32 latent channels
+
+V2.1
+Use Leaky RELU and BatchNorm
+
+V2.1.2
+Add data augmentation
+
+V3_alpha
+Add Center Loss

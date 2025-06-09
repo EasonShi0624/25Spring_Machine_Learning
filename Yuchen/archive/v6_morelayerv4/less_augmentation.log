@@ -1,0 +1,776 @@
+[Epoch 1] val_recon = 0.032907
+Saved checkpoint_epoch1.pt
+[Epoch 2] val_recon = 0.007388
+Saved checkpoint_epoch2.pt
+[Epoch 3] val_recon = 0.005772
+Saved checkpoint_epoch3.pt
+[Epoch 4] val_recon = 0.005113
+Saved checkpoint_epoch4.pt
+[Epoch 5] val_recon = 0.004475
+Saved checkpoint_epoch5.pt
+[Epoch 6] val_recon = 0.005501
+Saved checkpoint_epoch6.pt
+[Epoch 7] val_recon = 0.005005
+Saved checkpoint_epoch7.pt
+[Epoch 8] val_recon = 0.003437
+Saved checkpoint_epoch8.pt
+[Epoch 9] val_recon = 0.003188
+Saved checkpoint_epoch9.pt
+[Epoch 10] val_recon = 0.003023
+Saved checkpoint_epoch10.pt
+[Epoch 11] val_recon = 0.003248
+Saved checkpoint_epoch11.pt
+[Epoch 12] val_recon = 0.003477
+Saved checkpoint_epoch12.pt
+[Epoch 13] val_recon = 0.003303
+Saved checkpoint_epoch13.pt
+[Epoch 14] val_recon = 0.002668
+Saved checkpoint_epoch14.pt
+[Epoch 15] val_recon = 0.002472
+Saved checkpoint_epoch15.pt
+[Epoch 16] val_recon = 0.002311
+Saved checkpoint_epoch16.pt
+[Epoch 17] val_recon = 0.002541
+Saved checkpoint_epoch17.pt
+[Epoch 18] val_recon = 0.002210
+Saved checkpoint_epoch18.pt
+[Epoch 19] val_recon = 0.002316
+Saved checkpoint_epoch19.pt
+[Epoch 20] val_recon = 0.001648
+Saved checkpoint_epoch20.pt
+[Epoch 21] val_recon = 0.002304
+Saved checkpoint_epoch21.pt
+[Epoch 22] val_recon = 0.001511
+Saved checkpoint_epoch22.pt
+[Epoch 23] val_recon = 0.001604
+Saved checkpoint_epoch23.pt
+[Epoch 24] val_recon = 0.001550
+Saved checkpoint_epoch24.pt
+[Epoch 25] val_recon = 0.001339
+Saved checkpoint_epoch25.pt
+[Epoch 26] val_recon = 0.001142
+Saved checkpoint_epoch26.pt
+[Epoch 27] val_recon = 0.001336
+Saved checkpoint_epoch27.pt
+[Epoch 28] val_recon = 0.001421
+Saved checkpoint_epoch28.pt
+[Epoch 29] val_recon = 0.001132
+Saved checkpoint_epoch29.pt
+[Epoch 30] val_recon = 0.001054
+Saved checkpoint_epoch30.pt
+[Epoch 31] val_recon = 0.001125
+Saved checkpoint_epoch31.pt
+[Epoch 32] val_recon = 0.001126
+Saved checkpoint_epoch32.pt
+[Epoch 33] val_recon = 0.000939
+Saved checkpoint_epoch33.pt
+[Epoch 34] val_recon = 0.001266
+Saved checkpoint_epoch34.pt
+[Epoch 35] val_recon = 0.001148
+Saved checkpoint_epoch35.pt
+[Epoch 36] val_recon = 0.001871
+Saved checkpoint_epoch36.pt
+[Epoch 37] val_recon = 0.000905
+Saved checkpoint_epoch37.pt
+[Epoch 38] val_recon = 0.000844
+Saved checkpoint_epoch38.pt
+[Epoch 39] val_recon = 0.000873
+Saved checkpoint_epoch39.pt
+[Epoch 40] val_recon = 0.050125
+Saved checkpoint_epoch40.pt
+[Epoch 41] val_recon = 0.001075
+Saved checkpoint_epoch41.pt
+[Epoch 42] val_recon = 0.000995
+Saved checkpoint_epoch42.pt
+[Epoch 43] val_recon = 0.000879
+Saved checkpoint_epoch43.pt
+[Epoch 44] val_recon = 0.001074
+Saved checkpoint_epoch44.pt
+[Epoch 45] val_recon = 0.000869
+Saved checkpoint_epoch45.pt
+[Epoch 46] val_recon = 0.001079
+Saved checkpoint_epoch46.pt
+[Epoch 47] val_recon = 0.000769
+Saved checkpoint_epoch47.pt
+[Epoch 48] val_recon = 0.000749
+Saved checkpoint_epoch48.pt
+[Epoch 49] val_recon = 0.000820
+Saved checkpoint_epoch49.pt
+[Epoch 50] val_recon = 0.001035
+Saved checkpoint_epoch50.pt
+[Epoch 51] val_recon = 0.000979
+Saved checkpoint_epoch51.pt
+[Epoch 52] val_recon = 0.000834
+Saved checkpoint_epoch52.pt
+[Epoch 53] val_recon = 0.001075
+Saved checkpoint_epoch53.pt
+[Epoch 54] val_recon = 0.001058
+Saved checkpoint_epoch54.pt
+[Epoch 55] val_recon = 0.000863
+Saved checkpoint_epoch55.pt
+[Epoch 56] val_recon = 0.000792
+Saved checkpoint_epoch56.pt
+[Epoch 57] val_recon = 0.000772
+Saved checkpoint_epoch57.pt
+[Epoch 58] val_recon = 0.000860
+Saved checkpoint_epoch58.pt
+[Epoch 59] val_recon = 0.000798
+Saved checkpoint_epoch59.pt
+[Epoch 60] val_recon = 0.000874
+Saved checkpoint_epoch60.pt
+[Epoch 61] val_recon = 0.000807
+Saved checkpoint_epoch61.pt
+[Epoch 62] val_recon = 0.000951
+Saved checkpoint_epoch62.pt
+[Epoch 63] val_recon = 0.000780
+Saved checkpoint_epoch63.pt
+[Epoch 64] val_recon = 0.001154
+Saved checkpoint_epoch64.pt
+[Epoch 65] val_recon = 0.000793
+Saved checkpoint_epoch65.pt
+[Epoch 66] val_recon = 0.000718
+Saved checkpoint_epoch66.pt
+[Epoch 67] val_recon = 0.000812
+Saved checkpoint_epoch67.pt
+[Epoch 68] val_recon = 0.000781
+Saved checkpoint_epoch68.pt
+[Epoch 69] val_recon = 0.000848
+Saved checkpoint_epoch69.pt
+[Epoch 70] val_recon = 0.000860
+Saved checkpoint_epoch70.pt
+[Epoch 71] val_recon = 0.000768
+Saved checkpoint_epoch71.pt
+[Epoch 72] val_recon = 0.000771
+Saved checkpoint_epoch72.pt
+[Epoch 73] val_recon = 0.000722
+Saved checkpoint_epoch73.pt
+[Epoch 74] val_recon = 0.000731
+Saved checkpoint_epoch74.pt
+[Epoch 75] val_recon = 0.000740
+Saved checkpoint_epoch75.pt
+[Epoch 76] val_recon = 0.000890
+Saved checkpoint_epoch76.pt
+[Epoch 77] val_recon = 0.000794
+Saved checkpoint_epoch77.pt
+[Epoch 78] val_recon = 0.000783
+Saved checkpoint_epoch78.pt
+[Epoch 79] val_recon = 0.000779
+Saved checkpoint_epoch79.pt
+[Epoch 80] val_recon = 0.000747
+Saved checkpoint_epoch80.pt
+[Epoch 81] val_recon = 0.000687
+Saved checkpoint_epoch81.pt
+[Epoch 82] val_recon = 0.000976
+Saved checkpoint_epoch82.pt
+[Epoch 83] val_recon = 0.000856
+Saved checkpoint_epoch83.pt
+[Epoch 84] val_recon = 0.000773
+Saved checkpoint_epoch84.pt
+[Epoch 85] val_recon = 0.000743
+Saved checkpoint_epoch85.pt
+[Epoch 86] val_recon = 0.000758
+Saved checkpoint_epoch86.pt
+[Epoch 87] val_recon = 0.000795
+Saved checkpoint_epoch87.pt
+[Epoch 88] val_recon = 0.000793
+Saved checkpoint_epoch88.pt
+[Epoch 89] val_recon = 0.000674
+Saved checkpoint_epoch89.pt
+[Epoch 90] val_recon = 0.000687
+Saved checkpoint_epoch90.pt
+[Epoch 91] val_recon = 0.000822
+Saved checkpoint_epoch91.pt
+[Epoch 92] val_recon = 0.000766
+Saved checkpoint_epoch92.pt
+[Epoch 93] val_recon = 0.000820
+Saved checkpoint_epoch93.pt
+[Epoch 94] val_recon = 0.000905
+Saved checkpoint_epoch94.pt
+[Epoch 95] val_recon = 0.000824
+Saved checkpoint_epoch95.pt
+[Epoch 96] val_recon = 0.000798
+Saved checkpoint_epoch96.pt
+[Epoch 97] val_recon = 0.000766
+Saved checkpoint_epoch97.pt
+[Epoch 98] val_recon = 0.000814
+Saved checkpoint_epoch98.pt
+[Epoch 99] val_recon = 0.000820
+Saved checkpoint_epoch99.pt
+[Epoch 100] val_recon = 0.000789
+Saved checkpoint_epoch100.pt
+[Epoch 101] val_recon = 0.000845
+Saved checkpoint_epoch101.pt
+[Epoch 102] val_recon = 0.000773
+Saved checkpoint_epoch102.pt
+[Epoch 103] val_recon = 0.000826
+Saved checkpoint_epoch103.pt
+[Epoch 104] val_recon = 0.000770
+Saved checkpoint_epoch104.pt
+[Epoch 105] val_recon = 0.000759
+Saved checkpoint_epoch105.pt
+[Epoch 106] val_recon = 0.000718
+Saved checkpoint_epoch106.pt
+[Epoch 107] val_recon = 0.000785
+Saved checkpoint_epoch107.pt
+[Epoch 108] val_recon = 0.000737
+Saved checkpoint_epoch108.pt
+[Epoch 109] val_recon = 0.000771
+Saved checkpoint_epoch109.pt
+[Epoch 110] val_recon = 0.000766
+Saved checkpoint_epoch110.pt
+[Epoch 111] val_recon = 0.000719
+Saved checkpoint_epoch111.pt
+[Epoch 112] val_recon = 0.000717
+Saved checkpoint_epoch112.pt
+[Epoch 113] val_recon = 0.000805
+Saved checkpoint_epoch113.pt
+[Epoch 114] val_recon = 0.000746
+Saved checkpoint_epoch114.pt
+[Epoch 115] val_recon = 0.000787
+Saved checkpoint_epoch115.pt
+[Epoch 116] val_recon = 0.000808
+Saved checkpoint_epoch116.pt
+[Epoch 117] val_recon = 0.000784
+Saved checkpoint_epoch117.pt
+[Epoch 118] val_recon = 0.000769
+Saved checkpoint_epoch118.pt
+[Epoch 119] val_recon = 0.000728
+Saved checkpoint_epoch119.pt
+[Epoch 120] val_recon = 0.000752
+Saved checkpoint_epoch120.pt
+[Epoch 121] val_recon = 0.000790
+Saved checkpoint_epoch121.pt
+[Epoch 122] val_recon = 0.000743
+Saved checkpoint_epoch122.pt
+[Epoch 123] val_recon = 0.000783
+Saved checkpoint_epoch123.pt
+[Epoch 124] val_recon = 0.000742
+Saved checkpoint_epoch124.pt
+[Epoch 125] val_recon = 0.000791
+Saved checkpoint_epoch125.pt
+[Epoch 126] val_recon = 0.000756
+Saved checkpoint_epoch126.pt
+[Epoch 127] val_recon = 0.000761
+Saved checkpoint_epoch127.pt
+[Epoch 128] val_recon = 0.000743
+Saved checkpoint_epoch128.pt
+[Epoch 129] val_recon = 0.000770
+Saved checkpoint_epoch129.pt
+[Epoch 130] val_recon = 0.000800
+Saved checkpoint_epoch130.pt
+[Epoch 131] val_recon = 0.000796
+Saved checkpoint_epoch131.pt
+[Epoch 132] val_recon = 0.000761
+Saved checkpoint_epoch132.pt
+[Epoch 133] val_recon = 0.000745
+Saved checkpoint_epoch133.pt
+[Epoch 134] val_recon = 0.000800
+Saved checkpoint_epoch134.pt
+[Epoch 135] val_recon = 0.000740
+Saved checkpoint_epoch135.pt
+[Epoch 136] val_recon = 0.000746
+Saved checkpoint_epoch136.pt
+[Epoch 137] val_recon = 0.000761
+Saved checkpoint_epoch137.pt
+[Epoch 138] val_recon = 0.000748
+Saved checkpoint_epoch138.pt
+[Epoch 139] val_recon = 0.000754
+Saved checkpoint_epoch139.pt
+[Epoch 140] val_recon = 0.000782
+Saved checkpoint_epoch140.pt
+[Epoch 141] val_recon = 0.000765
+Saved checkpoint_epoch141.pt
+[Epoch 142] val_recon = 0.000757
+Saved checkpoint_epoch142.pt
+[Epoch 143] val_recon = 0.000773
+Saved checkpoint_epoch143.pt
+[Epoch 144] val_recon = 0.000751
+Saved checkpoint_epoch144.pt
+[Epoch 145] val_recon = 0.000761
+Saved checkpoint_epoch145.pt
+[Epoch 146] val_recon = 0.000789
+Saved checkpoint_epoch146.pt
+[Epoch 147] val_recon = 0.000766
+Saved checkpoint_epoch147.pt
+[Epoch 148] val_recon = 0.000755
+Saved checkpoint_epoch148.pt
+[Epoch 149] val_recon = 0.000772
+Saved checkpoint_epoch149.pt
+[Epoch 150] val_recon = 0.000763
+Saved checkpoint_epoch150.pt
+[Epoch 151] val_recon = 0.000766
+Saved checkpoint_epoch151.pt
+[Epoch 152] val_recon = 0.000768
+Saved checkpoint_epoch152.pt
+[Epoch 153] val_recon = 0.000752
+Saved checkpoint_epoch153.pt
+[Epoch 154] val_recon = 0.000770
+Saved checkpoint_epoch154.pt
+[Epoch 155] val_recon = 0.000758
+Saved checkpoint_epoch155.pt
+[Epoch 156] val_recon = 0.000772
+Saved checkpoint_epoch156.pt
+[Epoch 157] val_recon = 0.000765
+Saved checkpoint_epoch157.pt
+[Epoch 158] val_recon = 0.000771
+Saved checkpoint_epoch158.pt
+[Epoch 159] val_recon = 0.000773
+Saved checkpoint_epoch159.pt
+[Epoch 160] val_recon = 0.000765
+Saved checkpoint_epoch160.pt
+[Epoch 161] val_recon = 0.000777
+Saved checkpoint_epoch161.pt
+[Epoch 162] val_recon = 0.000769
+Saved checkpoint_epoch162.pt
+[Epoch 163] val_recon = 0.000775
+Saved checkpoint_epoch163.pt
+[Epoch 164] val_recon = 0.000777
+Saved checkpoint_epoch164.pt
+[Epoch 165] val_recon = 0.000778
+Saved checkpoint_epoch165.pt
+[Epoch 166] val_recon = 0.000751
+Saved checkpoint_epoch166.pt
+[Epoch 167] val_recon = 0.000779
+Saved checkpoint_epoch167.pt
+[Epoch 168] val_recon = 0.000775
+Saved checkpoint_epoch168.pt
+[Epoch 169] val_recon = 0.000771
+Saved checkpoint_epoch169.pt
+[Epoch 170] val_recon = 0.000768
+Saved checkpoint_epoch170.pt
+[Epoch 171] val_recon = 0.000772
+Saved checkpoint_epoch171.pt
+[Epoch 172] val_recon = 0.000766
+Saved checkpoint_epoch172.pt
+[Epoch 173] val_recon = 0.000763
+Saved checkpoint_epoch173.pt
+[Epoch 174] val_recon = 0.000761
+Saved checkpoint_epoch174.pt
+[Epoch 175] val_recon = 0.000767
+Saved checkpoint_epoch175.pt
+[Epoch 176] val_recon = 0.000770
+Saved checkpoint_epoch176.pt
+[Epoch 177] val_recon = 0.000767
+Saved checkpoint_epoch177.pt
+[Epoch 178] val_recon = 0.000776
+Saved checkpoint_epoch178.pt
+[Epoch 179] val_recon = 0.000760
+Saved checkpoint_epoch179.pt
+[Epoch 180] val_recon = 0.000754
+Saved checkpoint_epoch180.pt
+[Epoch 181] val_recon = 0.000759
+Saved checkpoint_epoch181.pt
+[Epoch 182] val_recon = 0.000761
+Saved checkpoint_epoch182.pt
+[Epoch 183] val_recon = 0.000769
+Saved checkpoint_epoch183.pt
+[Epoch 184] val_recon = 0.000776
+Saved checkpoint_epoch184.pt
+[Epoch 185] val_recon = 0.000760
+Saved checkpoint_epoch185.pt
+[Epoch 186] val_recon = 0.000764
+Saved checkpoint_epoch186.pt
+[Epoch 187] val_recon = 0.000760
+Saved checkpoint_epoch187.pt
+[Epoch 188] val_recon = 0.000762
+Saved checkpoint_epoch188.pt
+[Epoch 189] val_recon = 0.000778
+Saved checkpoint_epoch189.pt
+[Epoch 190] val_recon = 0.000781
+Saved checkpoint_epoch190.pt
+[Epoch 191] val_recon = 0.000767
+Saved checkpoint_epoch191.pt
+[Epoch 192] val_recon = 0.000777
+Saved checkpoint_epoch192.pt
+[Epoch 193] val_recon = 0.000762
+Saved checkpoint_epoch193.pt
+[Epoch 194] val_recon = 0.000775
+Saved checkpoint_epoch194.pt
+[Epoch 195] val_recon = 0.000757
+Saved checkpoint_epoch195.pt
+[Epoch 196] val_recon = 0.000770
+Saved checkpoint_epoch196.pt
+[Epoch 197] val_recon = 0.000756
+Saved checkpoint_epoch197.pt
+[Epoch 198] val_recon = 0.000761
+Saved checkpoint_epoch198.pt
+[Epoch 199] val_recon = 0.000765
+Saved checkpoint_epoch199.pt
+[Epoch 200] val_recon = 0.000767
+Saved checkpoint_epoch200.pt
+[Epoch 201] val_recon = 0.000769
+Saved checkpoint_epoch201.pt
+[Epoch 202] val_recon = 0.000759
+Saved checkpoint_epoch202.pt
+[Epoch 203] val_recon = 0.000782
+Saved checkpoint_epoch203.pt
+[Epoch 204] val_recon = 0.000763
+Saved checkpoint_epoch204.pt
+[Epoch 205] val_recon = 0.000779
+Saved checkpoint_epoch205.pt
+[Epoch 206] val_recon = 0.000754
+Saved checkpoint_epoch206.pt
+[Epoch 207] val_recon = 0.000747
+Saved checkpoint_epoch207.pt
+[Epoch 208] val_recon = 0.000758
+Saved checkpoint_epoch208.pt
+[Epoch 209] val_recon = 0.000764
+Saved checkpoint_epoch209.pt
+[Epoch 210] val_recon = 0.000759
+Saved checkpoint_epoch210.pt
+[Epoch 211] val_recon = 0.000766
+Saved checkpoint_epoch211.pt
+[Epoch 212] val_recon = 0.000762
+Saved checkpoint_epoch212.pt
+[Epoch 213] val_recon = 0.000767
+Saved checkpoint_epoch213.pt
+[Epoch 214] val_recon = 0.000765
+Saved checkpoint_epoch214.pt
+[Epoch 215] val_recon = 0.000776
+Saved checkpoint_epoch215.pt
+[Epoch 216] val_recon = 0.000772
+Saved checkpoint_epoch216.pt
+[Epoch 217] val_recon = 0.000752
+Saved checkpoint_epoch217.pt
+[Epoch 218] val_recon = 0.000773
+Saved checkpoint_epoch218.pt
+[Epoch 219] val_recon = 0.000775
+Saved checkpoint_epoch219.pt
+[Epoch 220] val_recon = 0.000754
+Saved checkpoint_epoch220.pt
+[Epoch 221] val_recon = 0.000759
+Saved checkpoint_epoch221.pt
+[Epoch 222] val_recon = 0.000763
+Saved checkpoint_epoch222.pt
+[Epoch 223] val_recon = 0.000763
+Saved checkpoint_epoch223.pt
+[Epoch 224] val_recon = 0.000778
+Saved checkpoint_epoch224.pt
+[Epoch 225] val_recon = 0.000757
+Saved checkpoint_epoch225.pt
+[Epoch 226] val_recon = 0.000767
+Saved checkpoint_epoch226.pt
+[Epoch 227] val_recon = 0.000775
+Saved checkpoint_epoch227.pt
+[Epoch 228] val_recon = 0.000759
+Saved checkpoint_epoch228.pt
+[Epoch 229] val_recon = 0.000779
+Saved checkpoint_epoch229.pt
+[Epoch 230] val_recon = 0.000758
+Saved checkpoint_epoch230.pt
+[Epoch 231] val_recon = 0.000770
+Saved checkpoint_epoch231.pt
+[Epoch 232] val_recon = 0.000755
+Saved checkpoint_epoch232.pt
+[Epoch 233] val_recon = 0.000759
+Saved checkpoint_epoch233.pt
+[Epoch 234] val_recon = 0.000783
+Saved checkpoint_epoch234.pt
+[Epoch 235] val_recon = 0.000768
+Saved checkpoint_epoch235.pt
+[Epoch 236] val_recon = 0.000768
+Saved checkpoint_epoch236.pt
+[Epoch 237] val_recon = 0.000760
+Saved checkpoint_epoch237.pt
+[Epoch 238] val_recon = 0.000775
+Saved checkpoint_epoch238.pt
+[Epoch 239] val_recon = 0.000751
+Saved checkpoint_epoch239.pt
+[Epoch 240] val_recon = 0.000768
+Saved checkpoint_epoch240.pt
+[Epoch 241] val_recon = 0.000774
+Saved checkpoint_epoch241.pt
+[Epoch 242] val_recon = 0.000768
+Saved checkpoint_epoch242.pt
+[Epoch 243] val_recon = 0.000761
+Saved checkpoint_epoch243.pt
+[Epoch 244] val_recon = 0.000781
+Saved checkpoint_epoch244.pt
+[Epoch 245] val_recon = 0.000763
+Saved checkpoint_epoch245.pt
+[Epoch 246] val_recon = 0.000762
+Saved checkpoint_epoch246.pt
+[Epoch 247] val_recon = 0.000768
+Saved checkpoint_epoch247.pt
+[Epoch 248] val_recon = 0.000769
+Saved checkpoint_epoch248.pt
+[Epoch 249] val_recon = 0.000762
+Saved checkpoint_epoch249.pt
+[Epoch 250] val_recon = 0.000766
+Saved checkpoint_epoch250.pt
+[Epoch 251] val_recon = 0.000764
+Saved checkpoint_epoch251.pt
+[Epoch 252] val_recon = 0.000771
+Saved checkpoint_epoch252.pt
+[Epoch 253] val_recon = 0.000765
+Saved checkpoint_epoch253.pt
+[Epoch 254] val_recon = 0.000767
+Saved checkpoint_epoch254.pt
+[Epoch 255] val_recon = 0.000765
+Saved checkpoint_epoch255.pt
+[Epoch 256] val_recon = 0.000768
+Saved checkpoint_epoch256.pt
+[Epoch 257] val_recon = 0.000775
+Saved checkpoint_epoch257.pt
+[Epoch 258] val_recon = 0.000757
+Saved checkpoint_epoch258.pt
+[Epoch 259] val_recon = 0.000765
+Saved checkpoint_epoch259.pt
+[Epoch 260] val_recon = 0.000766
+Saved checkpoint_epoch260.pt
+[Epoch 261] val_recon = 0.000764
+Saved checkpoint_epoch261.pt
+[Epoch 262] val_recon = 0.000769
+Saved checkpoint_epoch262.pt
+[Epoch 263] val_recon = 0.000766
+Saved checkpoint_epoch263.pt
+[Epoch 264] val_recon = 0.000764
+Saved checkpoint_epoch264.pt
+[Epoch 265] val_recon = 0.000760
+Saved checkpoint_epoch265.pt
+[Epoch 266] val_recon = 0.000778
+Saved checkpoint_epoch266.pt
+[Epoch 267] val_recon = 0.000777
+Saved checkpoint_epoch267.pt
+[Epoch 268] val_recon = 0.000762
+Saved checkpoint_epoch268.pt
+[Epoch 269] val_recon = 0.000757
+Saved checkpoint_epoch269.pt
+[Epoch 270] val_recon = 0.000763
+Saved checkpoint_epoch270.pt
+[Epoch 271] val_recon = 0.000764
+Saved checkpoint_epoch271.pt
+[Epoch 272] val_recon = 0.000766
+Saved checkpoint_epoch272.pt
+[Epoch 273] val_recon = 0.000770
+Saved checkpoint_epoch273.pt
+[Epoch 274] val_recon = 0.000770
+Saved checkpoint_epoch274.pt
+[Epoch 275] val_recon = 0.000762
+Saved checkpoint_epoch275.pt
+[Epoch 276] val_recon = 0.000781
+Saved checkpoint_epoch276.pt
+[Epoch 277] val_recon = 0.000775
+Saved checkpoint_epoch277.pt
+[Epoch 278] val_recon = 0.000778
+Saved checkpoint_epoch278.pt
+[Epoch 279] val_recon = 0.000762
+Saved checkpoint_epoch279.pt
+[Epoch 280] val_recon = 0.000766
+Saved checkpoint_epoch280.pt
+[Epoch 281] val_recon = 0.000774
+Saved checkpoint_epoch281.pt
+[Epoch 282] val_recon = 0.000778
+Saved checkpoint_epoch282.pt
+[Epoch 283] val_recon = 0.000768
+Saved checkpoint_epoch283.pt
+[Epoch 284] val_recon = 0.000768
+Saved checkpoint_epoch284.pt
+[Epoch 285] val_recon = 0.000772
+Saved checkpoint_epoch285.pt
+[Epoch 286] val_recon = 0.000765
+Saved checkpoint_epoch286.pt
+[Epoch 287] val_recon = 0.000758
+Saved checkpoint_epoch287.pt
+[Epoch 288] val_recon = 0.000762
+Saved checkpoint_epoch288.pt
+[Epoch 289] val_recon = 0.000770
+Saved checkpoint_epoch289.pt
+[Epoch 290] val_recon = 0.000776
+Saved checkpoint_epoch290.pt
+[Epoch 291] val_recon = 0.000783
+Saved checkpoint_epoch291.pt
+[Epoch 292] val_recon = 0.000771
+Saved checkpoint_epoch292.pt
+[Epoch 293] val_recon = 0.000758
+Saved checkpoint_epoch293.pt
+[Epoch 294] val_recon = 0.000748
+Saved checkpoint_epoch294.pt
+[Epoch 295] val_recon = 0.000753
+Saved checkpoint_epoch295.pt
+[Epoch 296] val_recon = 0.000760
+Saved checkpoint_epoch296.pt
+[Epoch 297] val_recon = 0.000755
+Saved checkpoint_epoch297.pt
+[Epoch 298] val_recon = 0.000762
+Saved checkpoint_epoch298.pt
+[Epoch 299] val_recon = 0.000768
+Saved checkpoint_epoch299.pt
+[Epoch 300] val_recon = 0.000767
+Saved checkpoint_epoch300.pt
+[Epoch 301] val_recon = 0.000766
+Saved checkpoint_epoch301.pt
+[Epoch 302] val_recon = 0.000762
+Saved checkpoint_epoch302.pt
+[Epoch 303] val_recon = 0.000773
+Saved checkpoint_epoch303.pt
+[Epoch 304] val_recon = 0.000758
+Saved checkpoint_epoch304.pt
+[Epoch 305] val_recon = 0.000773
+Saved checkpoint_epoch305.pt
+[Epoch 306] val_recon = 0.000773
+Saved checkpoint_epoch306.pt
+[Epoch 307] val_recon = 0.000772
+Saved checkpoint_epoch307.pt
+[Epoch 308] val_recon = 0.000771
+Saved checkpoint_epoch308.pt
+[Epoch 309] val_recon = 0.000762
+Saved checkpoint_epoch309.pt
+[Epoch 310] val_recon = 0.000771
+Saved checkpoint_epoch310.pt
+[Epoch 311] val_recon = 0.000778
+Saved checkpoint_epoch311.pt
+[Epoch 312] val_recon = 0.000766
+Saved checkpoint_epoch312.pt
+[Epoch 313] val_recon = 0.000757
+Saved checkpoint_epoch313.pt
+[Epoch 314] val_recon = 0.000753
+Saved checkpoint_epoch314.pt
+[Epoch 315] val_recon = 0.000771
+Saved checkpoint_epoch315.pt
+[Epoch 316] val_recon = 0.000761
+Saved checkpoint_epoch316.pt
+[Epoch 317] val_recon = 0.000776
+Saved checkpoint_epoch317.pt
+[Epoch 318] val_recon = 0.000762
+Saved checkpoint_epoch318.pt
+[Epoch 319] val_recon = 0.000773
+Saved checkpoint_epoch319.pt
+[Epoch 320] val_recon = 0.000776
+Saved checkpoint_epoch320.pt
+[Epoch 321] val_recon = 0.000753
+Saved checkpoint_epoch321.pt
+[Epoch 322] val_recon = 0.000762
+Saved checkpoint_epoch322.pt
+[Epoch 323] val_recon = 0.000764
+Saved checkpoint_epoch323.pt
+[Epoch 324] val_recon = 0.000760
+Saved checkpoint_epoch324.pt
+[Epoch 325] val_recon = 0.000780
+Saved checkpoint_epoch325.pt
+[Epoch 326] val_recon = 0.000766
+Saved checkpoint_epoch326.pt
+[Epoch 327] val_recon = 0.000770
+Saved checkpoint_epoch327.pt
+[Epoch 328] val_recon = 0.000760
+Saved checkpoint_epoch328.pt
+[Epoch 329] val_recon = 0.000769
+Saved checkpoint_epoch329.pt
+[Epoch 330] val_recon = 0.000776
+Saved checkpoint_epoch330.pt
+[Epoch 331] val_recon = 0.000765
+Saved checkpoint_epoch331.pt
+[Epoch 332] val_recon = 0.000765
+Saved checkpoint_epoch332.pt
+[Epoch 333] val_recon = 0.000766
+Saved checkpoint_epoch333.pt
+[Epoch 334] val_recon = 0.000782
+Saved checkpoint_epoch334.pt
+[Epoch 335] val_recon = 0.000771
+Saved checkpoint_epoch335.pt
+[Epoch 336] val_recon = 0.000759
+Saved checkpoint_epoch336.pt
+[Epoch 337] val_recon = 0.000770
+Saved checkpoint_epoch337.pt
+[Epoch 338] val_recon = 0.000767
+Saved checkpoint_epoch338.pt
+[Epoch 339] val_recon = 0.000755
+Saved checkpoint_epoch339.pt
+[Epoch 340] val_recon = 0.000761
+Saved checkpoint_epoch340.pt
+[Epoch 341] val_recon = 0.000748
+Saved checkpoint_epoch341.pt
+[Epoch 342] val_recon = 0.000769
+Saved checkpoint_epoch342.pt
+[Epoch 343] val_recon = 0.000761
+Saved checkpoint_epoch343.pt
+[Epoch 344] val_recon = 0.000760
+Saved checkpoint_epoch344.pt
+[Epoch 345] val_recon = 0.000771
+Saved checkpoint_epoch345.pt
+[Epoch 346] val_recon = 0.000765
+Saved checkpoint_epoch346.pt
+[Epoch 347] val_recon = 0.000768
+Saved checkpoint_epoch347.pt
+[Epoch 348] val_recon = 0.000775
+Saved checkpoint_epoch348.pt
+[Epoch 349] val_recon = 0.000778
+Saved checkpoint_epoch349.pt
+[Epoch 350] val_recon = 0.000771
+Saved checkpoint_epoch350.pt
+[Epoch 351] val_recon = 0.000748
+Saved checkpoint_epoch351.pt
+[Epoch 352] val_recon = 0.000751
+Saved checkpoint_epoch352.pt
+[Epoch 353] val_recon = 0.000770
+Saved checkpoint_epoch353.pt
+[Epoch 354] val_recon = 0.000767
+Saved checkpoint_epoch354.pt
+[Epoch 355] val_recon = 0.000770
+Saved checkpoint_epoch355.pt
+[Epoch 356] val_recon = 0.000757
+Saved checkpoint_epoch356.pt
+[Epoch 357] val_recon = 0.000756
+Saved checkpoint_epoch357.pt
+[Epoch 358] val_recon = 0.000783
+Saved checkpoint_epoch358.pt
+[Epoch 359] val_recon = 0.000757
+Saved checkpoint_epoch359.pt
+[Epoch 360] val_recon = 0.000768
+Saved checkpoint_epoch360.pt
+[Epoch 361] val_recon = 0.000771
+Saved checkpoint_epoch361.pt
+[Epoch 362] val_recon = 0.000779
+Saved checkpoint_epoch362.pt
+[Epoch 363] val_recon = 0.000772
+Saved checkpoint_epoch363.pt
+[Epoch 364] val_recon = 0.000767
+Saved checkpoint_epoch364.pt
+[Epoch 365] val_recon = 0.000781
+Saved checkpoint_epoch365.pt
+[Epoch 366] val_recon = 0.000771
+Saved checkpoint_epoch366.pt
+[Epoch 367] val_recon = 0.000777
+Saved checkpoint_epoch367.pt
+[Epoch 368] val_recon = 0.000759
+Saved checkpoint_epoch368.pt
+[Epoch 369] val_recon = 0.000752
+Saved checkpoint_epoch369.pt
+[Epoch 370] val_recon = 0.000767
+Saved checkpoint_epoch370.pt
+[Epoch 371] val_recon = 0.000768
+Saved checkpoint_epoch371.pt
+[Epoch 372] val_recon = 0.000778
+Saved checkpoint_epoch372.pt
+[Epoch 373] val_recon = 0.000756
+Saved checkpoint_epoch373.pt
+[Epoch 374] val_recon = 0.000785
+Saved checkpoint_epoch374.pt
+[Epoch 375] val_recon = 0.000766
+Saved checkpoint_epoch375.pt
+[Epoch 376] val_recon = 0.000772
+Saved checkpoint_epoch376.pt
+[Epoch 377] val_recon = 0.000764
+Saved checkpoint_epoch377.pt
+[Epoch 378] val_recon = 0.000751
+Saved checkpoint_epoch378.pt
+[Epoch 379] val_recon = 0.000767
+Saved checkpoint_epoch379.pt
+[Epoch 380] val_recon = 0.000763
+Saved checkpoint_epoch380.pt
+[Epoch 381] val_recon = 0.000764
+Saved checkpoint_epoch381.pt
+[Epoch 382] val_recon = 0.000754
+Saved checkpoint_epoch382.pt
+[Epoch 383] val_recon = 0.000751
+Saved checkpoint_epoch383.pt
+[Epoch 384] val_recon = 0.000773
+Saved checkpoint_epoch384.pt
+[Epoch 385] val_recon = 0.000762
+Saved checkpoint_epoch385.pt
+[Epoch 386] val_recon = 0.000762
+Saved checkpoint_epoch386.pt
+[Epoch 387] val_recon = 0.000769
+Saved checkpoint_epoch387.pt
+[Epoch 388] val_recon = 0.000769
+Saved checkpoint_epoch388.pt

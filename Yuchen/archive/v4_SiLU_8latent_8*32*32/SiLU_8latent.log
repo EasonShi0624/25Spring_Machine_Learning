@@ -1,0 +1,594 @@
+[Epoch 1] val_recon=0.015581  val_cls=4.961337  val_center=3604.452652  val_perc=0.003006
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch1.pt
+[Epoch 2] val_recon=0.009420  val_cls=4.925025  val_center=3135.869447  val_perc=0.001905
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch2.pt
+[Epoch 3] val_recon=0.013074  val_cls=4.904020  val_center=2727.492544  val_perc=0.002244
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch3.pt
+[Epoch 4] val_recon=0.008102  val_cls=4.900711  val_center=2370.908683  val_perc=0.001558
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch4.pt
+[Epoch 5] val_recon=0.013659  val_cls=4.846616  val_center=2068.648301  val_perc=0.002055
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch5.pt
+[Epoch 6] val_recon=0.006685  val_cls=4.842139  val_center=1794.787327  val_perc=0.001411
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch6.pt
+[Epoch 7] val_recon=0.015439  val_cls=4.841624  val_center=1563.180836  val_perc=0.001879
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch7.pt
+[Epoch 8] val_recon=0.019818  val_cls=4.845340  val_center=1361.030465  val_perc=0.002125
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch8.pt
+[Epoch 9] val_recon=0.009875  val_cls=4.806667  val_center=1183.391705  val_perc=0.001463
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch9.pt
+[Epoch 10] val_recon=0.005986  val_cls=4.790769  val_center=1028.406372  val_perc=0.001060
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch10.pt
+[Epoch 11] val_recon=0.031496  val_cls=4.783731  val_center=896.780634  val_perc=0.002669
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch11.pt
+[Epoch 12] val_recon=0.009973  val_cls=4.745273  val_center=777.405187  val_perc=0.001573
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch12.pt
+[Epoch 13] val_recon=0.006112  val_cls=4.752217  val_center=674.759283  val_perc=0.000908
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch13.pt
+[Epoch 14] val_recon=0.006791  val_cls=4.750583  val_center=585.429109  val_perc=0.000888
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch14.pt
+[Epoch 15] val_recon=0.023336  val_cls=4.978724  val_center=519.055204  val_perc=0.002355
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch15.pt
+[Epoch 16] val_recon=0.004626  val_cls=4.693260  val_center=440.159864  val_perc=0.000785
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch16.pt
+[Epoch 17] val_recon=0.003380  val_cls=4.705302  val_center=380.807390  val_perc=0.000561
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch17.pt
+[Epoch 18] val_recon=0.004176  val_cls=4.674419  val_center=329.297658  val_perc=0.000676
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch18.pt
+[Epoch 19] val_recon=0.007388  val_cls=4.669402  val_center=285.092460  val_perc=0.001097
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch19.pt
+[Epoch 20] val_recon=0.009273  val_cls=4.685035  val_center=245.943912  val_perc=0.001290
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch20.pt
+[Epoch 21] val_recon=0.004624  val_cls=4.723679  val_center=212.008962  val_perc=0.000774
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch21.pt
+[Epoch 22] val_recon=0.003076  val_cls=4.656716  val_center=182.661139  val_perc=0.000522
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch22.pt
+[Epoch 23] val_recon=0.013876  val_cls=4.620793  val_center=161.955570  val_perc=0.001611
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch23.pt
+[Epoch 24] val_recon=0.003664  val_cls=4.650601  val_center=135.309103  val_perc=0.000627
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch24.pt
+[Epoch 25] val_recon=0.003206  val_cls=4.656004  val_center=116.315470  val_perc=0.000616
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch25.pt
+[Epoch 26] val_recon=0.003279  val_cls=4.656260  val_center=99.597226  val_perc=0.000542
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch26.pt
+[Epoch 27] val_recon=0.002467  val_cls=4.608608  val_center=85.224709  val_perc=0.000482
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch27.pt
+[Epoch 28] val_recon=0.001977  val_cls=4.592562  val_center=73.008697  val_perc=0.000415
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch28.pt
+[Epoch 29] val_recon=0.024774  val_cls=5.423558  val_center=81.477115  val_perc=0.002492
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch29.pt
+[Epoch 30] val_recon=0.003179  val_cls=4.616456  val_center=54.007799  val_perc=0.000660
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch30.pt
+[Epoch 31] val_recon=0.002597  val_cls=4.627612  val_center=45.912023  val_perc=0.000467
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch31.pt
+[Epoch 32] val_recon=0.002398  val_cls=4.608094  val_center=39.192327  val_perc=0.000478
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch32.pt
+[Epoch 33] val_recon=0.002769  val_cls=4.589346  val_center=33.600947  val_perc=0.000475
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch33.pt
+[Epoch 34] val_recon=0.002496  val_cls=4.542243  val_center=28.830569  val_perc=0.000569
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch34.pt
+[Epoch 35] val_recon=0.002338  val_cls=4.591459  val_center=24.699353  val_perc=0.000446
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch35.pt
+[Epoch 36] val_recon=0.002050  val_cls=4.535391  val_center=21.321814  val_perc=0.000451
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch36.pt
+[Epoch 37] val_recon=0.002443  val_cls=4.552134  val_center=18.608039  val_perc=0.000619
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch37.pt
+[Epoch 38] val_recon=0.022547  val_cls=48.667251  val_center=1869.705627  val_perc=0.002087
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch38.pt
+[Epoch 39] val_recon=0.003484  val_cls=4.594549  val_center=13.834597  val_perc=0.000671
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch39.pt
+[Epoch 40] val_recon=0.002376  val_cls=4.550153  val_center=12.082345  val_perc=0.000452
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch40.pt
+[Epoch 41] val_recon=0.002815  val_cls=4.520342  val_center=10.386558  val_perc=0.000506
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch41.pt
+[Epoch 42] val_recon=0.002162  val_cls=4.539816  val_center=9.201808  val_perc=0.000431
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch42.pt
+[Epoch 43] val_recon=0.002189  val_cls=4.573826  val_center=8.033934  val_perc=0.000469
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch43.pt
+[Epoch 44] val_recon=0.002353  val_cls=4.571692  val_center=7.024790  val_perc=0.000422
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch44.pt
+[Epoch 45] val_recon=0.001891  val_cls=4.520235  val_center=6.307005  val_perc=0.000378
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch45.pt
+[Epoch 46] val_recon=0.022589  val_cls=5.540100  val_center=14.580230  val_perc=0.002057
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch46.pt
+[Epoch 47] val_recon=0.002237  val_cls=4.545174  val_center=5.349303  val_perc=0.000452
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch47.pt
+[Epoch 48] val_recon=0.002361  val_cls=4.549853  val_center=4.864172  val_perc=0.000445
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch48.pt
+[Epoch 49] val_recon=0.003433  val_cls=4.528928  val_center=4.354863  val_perc=0.000579
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch49.pt
+[Epoch 50] val_recon=0.005693  val_cls=4.606526  val_center=4.657560  val_perc=0.000912
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch50.pt
+[Epoch 51] val_recon=0.001970  val_cls=4.530650  val_center=3.967858  val_perc=0.000374
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch51.pt
+[Epoch 52] val_recon=0.002453  val_cls=4.582170  val_center=3.920262  val_perc=0.000459
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch52.pt
+[Epoch 53] val_recon=0.002121  val_cls=4.543688  val_center=3.606955  val_perc=0.000480
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch53.pt
+[Epoch 54] val_recon=0.002250  val_cls=4.558244  val_center=3.081035  val_perc=0.000412
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch54.pt
+[Epoch 55] val_recon=0.001963  val_cls=4.550929  val_center=3.194158  val_perc=0.000414
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch55.pt
+[Epoch 56] val_recon=0.002177  val_cls=4.542245  val_center=2.892881  val_perc=0.000419
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch56.pt
+[Epoch 57] val_recon=0.003226  val_cls=4.561486  val_center=3.050779  val_perc=0.000533
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch57.pt
+[Epoch 58] val_recon=0.002653  val_cls=4.556671  val_center=2.758939  val_perc=0.000465
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch58.pt
+[Epoch 59] val_recon=0.003572  val_cls=4.583935  val_center=2.743219  val_perc=0.000648
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch59.pt
+[Epoch 60] val_recon=0.007789  val_cls=4.915134  val_center=6.047732  val_perc=0.001318
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch60.pt
+[Epoch 61] val_recon=0.002115  val_cls=4.624178  val_center=2.784994  val_perc=0.000398
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch61.pt
+[Epoch 62] val_recon=0.001747  val_cls=4.552106  val_center=2.507715  val_perc=0.000352
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch62.pt
+[Epoch 63] val_recon=0.003220  val_cls=4.648780  val_center=3.415548  val_perc=0.000621
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch63.pt
+[Epoch 64] val_recon=0.002813  val_cls=4.602986  val_center=2.521168  val_perc=0.000509
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch64.pt
+[Epoch 65] val_recon=0.001878  val_cls=4.583416  val_center=2.541596  val_perc=0.000390
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch65.pt
+[Epoch 66] val_recon=0.001820  val_cls=4.560690  val_center=2.403777  val_perc=0.000373
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch66.pt
+[Epoch 67] val_recon=0.002134  val_cls=4.617048  val_center=2.513454  val_perc=0.000421
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch67.pt
+[Epoch 68] val_recon=0.001631  val_cls=4.608538  val_center=2.503051  val_perc=0.000341
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch68.pt
+[Epoch 69] val_recon=0.001748  val_cls=4.583578  val_center=2.415843  val_perc=0.000366
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch69.pt
+[Epoch 70] val_recon=0.002544  val_cls=4.617630  val_center=2.336512  val_perc=0.000482
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch70.pt
+[Epoch 71] val_recon=0.001900  val_cls=4.573103  val_center=2.493059  val_perc=0.000395
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch71.pt
+[Epoch 72] val_recon=0.002014  val_cls=4.585828  val_center=2.519231  val_perc=0.000420
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch72.pt
+[Epoch 73] val_recon=0.001491  val_cls=4.595942  val_center=2.438488  val_perc=0.000318
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch73.pt
+[Epoch 74] val_recon=0.002131  val_cls=4.605665  val_center=2.424753  val_perc=0.000407
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch74.pt
+[Epoch 75] val_recon=0.001729  val_cls=4.603625  val_center=2.429097  val_perc=0.000387
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch75.pt
+[Epoch 76] val_recon=0.001479  val_cls=4.601597  val_center=2.425211  val_perc=0.000336
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch76.pt
+[Epoch 77] val_recon=0.004671  val_cls=4.732017  val_center=2.947221  val_perc=0.000797
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch77.pt
+[Epoch 78] val_recon=0.001937  val_cls=4.639309  val_center=2.306096  val_perc=0.000409
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch78.pt
+[Epoch 79] val_recon=0.002064  val_cls=4.649352  val_center=2.387845  val_perc=0.000442
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch79.pt
+[Epoch 80] val_recon=0.001860  val_cls=4.647862  val_center=2.228913  val_perc=0.000401
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch80.pt
+[Epoch 81] val_recon=0.002655  val_cls=4.663677  val_center=2.678723  val_perc=0.000497
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch81.pt
+[Epoch 82] val_recon=0.002337  val_cls=4.653139  val_center=2.400081  val_perc=0.000510
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch82.pt
+[Epoch 83] val_recon=0.001554  val_cls=4.659286  val_center=2.235771  val_perc=0.000315
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch83.pt
+[Epoch 84] val_recon=0.001737  val_cls=4.648203  val_center=2.260105  val_perc=0.000383
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch84.pt
+[Epoch 85] val_recon=0.001708  val_cls=4.635459  val_center=2.237202  val_perc=0.000368
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch85.pt
+[Epoch 86] val_recon=0.001659  val_cls=4.658633  val_center=2.293316  val_perc=0.000381
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch86.pt
+[Epoch 87] val_recon=0.002140  val_cls=4.697456  val_center=2.299544  val_perc=0.000397
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch87.pt
+[Epoch 88] val_recon=0.002289  val_cls=4.713537  val_center=2.365490  val_perc=0.000426
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch88.pt
+[Epoch 89] val_recon=0.001507  val_cls=4.648417  val_center=2.154463  val_perc=0.000311
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch89.pt
+[Epoch 90] val_recon=0.002291  val_cls=4.659633  val_center=2.240082  val_perc=0.000457
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch90.pt
+[Epoch 91] val_recon=0.001780  val_cls=4.681614  val_center=2.290827  val_perc=0.000373
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch91.pt
+[Epoch 92] val_recon=0.002086  val_cls=4.710255  val_center=2.699443  val_perc=0.000413
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch92.pt
+[Epoch 93] val_recon=0.001942  val_cls=4.664646  val_center=2.171818  val_perc=0.000385
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch93.pt
+[Epoch 94] val_recon=0.001714  val_cls=4.665805  val_center=2.253392  val_perc=0.000380
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch94.pt
+[Epoch 95] val_recon=0.001320  val_cls=4.689806  val_center=2.327309  val_perc=0.000293
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch95.pt
+[Epoch 96] val_recon=0.002385  val_cls=4.690735  val_center=2.161840  val_perc=0.000439
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch96.pt
+[Epoch 97] val_recon=0.001806  val_cls=4.689797  val_center=2.094238  val_perc=0.000376
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch97.pt
+[Epoch 98] val_recon=0.001789  val_cls=4.721318  val_center=2.403839  val_perc=0.000349
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch98.pt
+[Epoch 99] val_recon=0.002318  val_cls=4.709567  val_center=2.291323  val_perc=0.000460
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch99.pt
+[Epoch 100] val_recon=0.002783  val_cls=4.740759  val_center=2.255316  val_perc=0.000583
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch100.pt
+[Epoch 101] val_recon=0.002074  val_cls=4.715268  val_center=2.177701  val_perc=0.000373
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch101.pt
+[Epoch 102] val_recon=0.007485  val_cls=4.977157  val_center=3.704503  val_perc=0.001068
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch102.pt
+[Epoch 103] val_recon=0.001687  val_cls=4.738682  val_center=2.159811  val_perc=0.000336
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch103.pt
+[Epoch 104] val_recon=0.002106  val_cls=4.703240  val_center=2.319787  val_perc=0.000406
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch104.pt
+[Epoch 105] val_recon=0.001867  val_cls=4.702738  val_center=2.228970  val_perc=0.000409
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch105.pt
+[Epoch 106] val_recon=0.001627  val_cls=4.703620  val_center=2.123591  val_perc=0.000341
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch106.pt
+[Epoch 107] val_recon=0.001576  val_cls=4.717171  val_center=2.128653  val_perc=0.000345
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch107.pt
+[Epoch 108] val_recon=0.002593  val_cls=4.777402  val_center=2.167212  val_perc=0.000499
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch108.pt
+[Epoch 109] val_recon=0.003358  val_cls=4.711443  val_center=2.161373  val_perc=0.000586
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch109.pt
+[Epoch 110] val_recon=0.024436  val_cls=7.713660  val_center=15.679429  val_perc=0.002942
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch110.pt
+[Epoch 111] val_recon=0.001596  val_cls=4.711684  val_center=2.086336  val_perc=0.000327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch111.pt
+[Epoch 112] val_recon=0.001819  val_cls=4.774080  val_center=2.381428  val_perc=0.000395
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch112.pt
+[Epoch 113] val_recon=0.001693  val_cls=4.740260  val_center=2.089960  val_perc=0.000329
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch113.pt
+[Epoch 114] val_recon=0.003136  val_cls=4.841376  val_center=2.353995  val_perc=0.000585
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch114.pt
+[Epoch 115] val_recon=0.001374  val_cls=4.742772  val_center=2.100188  val_perc=0.000313
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch115.pt
+[Epoch 116] val_recon=0.001541  val_cls=4.733038  val_center=2.135506  val_perc=0.000329
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch116.pt
+[Epoch 117] val_recon=0.001608  val_cls=4.751699  val_center=2.066751  val_perc=0.000324
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch117.pt
+[Epoch 118] val_recon=0.001837  val_cls=4.742084  val_center=2.044927  val_perc=0.000410
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch118.pt
+[Epoch 119] val_recon=0.001402  val_cls=4.742069  val_center=2.018419  val_perc=0.000307
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch119.pt
+[Epoch 120] val_recon=0.003211  val_cls=4.774985  val_center=2.116006  val_perc=0.000635
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch120.pt
+[Epoch 121] val_recon=0.002547  val_cls=4.764586  val_center=2.172636  val_perc=0.000461
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch121.pt
+[Epoch 122] val_recon=0.001774  val_cls=4.744427  val_center=2.071417  val_perc=0.000349
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch122.pt
+[Epoch 123] val_recon=0.001239  val_cls=4.828077  val_center=2.085257  val_perc=0.000275
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch123.pt
+[Epoch 124] val_recon=0.001722  val_cls=4.785478  val_center=2.014672  val_perc=0.000365
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch124.pt
+[Epoch 125] val_recon=0.001687  val_cls=4.807833  val_center=2.035213  val_perc=0.000334
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch125.pt
+[Epoch 126] val_recon=0.001500  val_cls=4.792128  val_center=2.064512  val_perc=0.000323
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch126.pt
+[Epoch 127] val_recon=0.002091  val_cls=4.797752  val_center=2.085949  val_perc=0.000435
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch127.pt
+[Epoch 128] val_recon=0.002073  val_cls=4.864504  val_center=2.029549  val_perc=0.000366
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch128.pt
+[Epoch 129] val_recon=0.002139  val_cls=4.844588  val_center=2.349893  val_perc=0.000397
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch129.pt
+[Epoch 130] val_recon=0.002276  val_cls=4.842636  val_center=1.969978  val_perc=0.000419
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch130.pt
+[Epoch 131] val_recon=0.001518  val_cls=4.774135  val_center=1.932227  val_perc=0.000345
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch131.pt
+[Epoch 132] val_recon=0.001446  val_cls=4.795695  val_center=2.074779  val_perc=0.000307
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch132.pt
+[Epoch 133] val_recon=0.001811  val_cls=4.818441  val_center=2.157086  val_perc=0.000352
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch133.pt
+[Epoch 134] val_recon=0.001716  val_cls=4.814191  val_center=2.160808  val_perc=0.000339
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch134.pt
+[Epoch 135] val_recon=0.001547  val_cls=4.818664  val_center=1.939362  val_perc=0.000342
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch135.pt
+[Epoch 136] val_recon=0.001374  val_cls=4.801947  val_center=1.988200  val_perc=0.000292
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch136.pt
+[Epoch 137] val_recon=0.002915  val_cls=4.930941  val_center=2.356310  val_perc=0.000546
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch137.pt
+[Epoch 138] val_recon=0.001424  val_cls=4.824872  val_center=1.965557  val_perc=0.000322
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch138.pt
+[Epoch 139] val_recon=0.001602  val_cls=4.842818  val_center=1.947143  val_perc=0.000323
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch139.pt
+[Epoch 140] val_recon=0.001298  val_cls=4.813752  val_center=1.889983  val_perc=0.000296
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch140.pt
+[Epoch 141] val_recon=0.001557  val_cls=4.842044  val_center=1.906196  val_perc=0.000307
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch141.pt
+[Epoch 142] val_recon=0.001965  val_cls=4.853048  val_center=2.001728  val_perc=0.000391
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch142.pt
+[Epoch 143] val_recon=0.001196  val_cls=4.839919  val_center=1.876943  val_perc=0.000263
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch143.pt
+[Epoch 144] val_recon=0.001510  val_cls=4.836466  val_center=1.939582  val_perc=0.000368
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch144.pt
+[Epoch 145] val_recon=0.016960  val_cls=10.455516  val_center=19.773579  val_perc=0.001531
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch145.pt
+[Epoch 146] val_recon=0.002051  val_cls=4.880551  val_center=1.917572  val_perc=0.000460
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch146.pt
+[Epoch 147] val_recon=0.001341  val_cls=4.849124  val_center=1.805023  val_perc=0.000311
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch147.pt
+[Epoch 148] val_recon=0.001533  val_cls=4.891277  val_center=1.988226  val_perc=0.000369
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch148.pt
+[Epoch 149] val_recon=0.001307  val_cls=4.844192  val_center=1.859813  val_perc=0.000323
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch149.pt
+[Epoch 150] val_recon=0.001262  val_cls=4.884025  val_center=1.926989  val_perc=0.000295
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch150.pt
+[Epoch 151] val_recon=0.001458  val_cls=4.861236  val_center=1.813252  val_perc=0.000325
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch151.pt
+[Epoch 152] val_recon=0.002073  val_cls=4.879635  val_center=1.868919  val_perc=0.000423
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch152.pt
+[Epoch 153] val_recon=0.001388  val_cls=4.895443  val_center=1.848244  val_perc=0.000282
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch153.pt
+[Epoch 154] val_recon=0.003211  val_cls=5.331080  val_center=3.448162  val_perc=0.000543
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch154.pt
+[Epoch 155] val_recon=0.001719  val_cls=4.884612  val_center=1.851216  val_perc=0.000341
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch155.pt
+[Epoch 156] val_recon=0.001557  val_cls=4.886003  val_center=1.843600  val_perc=0.000329
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch156.pt
+[Epoch 157] val_recon=0.001232  val_cls=4.891154  val_center=1.854861  val_perc=0.000271
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch157.pt
+[Epoch 158] val_recon=0.001297  val_cls=4.870383  val_center=1.782901  val_perc=0.000288
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch158.pt
+[Epoch 159] val_recon=0.002137  val_cls=4.946582  val_center=1.990943  val_perc=0.000475
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch159.pt
+[Epoch 160] val_recon=0.001550  val_cls=4.898751  val_center=1.823637  val_perc=0.000354
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch160.pt
+[Epoch 161] val_recon=0.001380  val_cls=4.888272  val_center=1.901007  val_perc=0.000318
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch161.pt
+[Epoch 162] val_recon=0.001188  val_cls=4.903209  val_center=1.801362  val_perc=0.000264
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch162.pt
+[Epoch 163] val_recon=0.001597  val_cls=4.891154  val_center=1.828849  val_perc=0.000319
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch163.pt
+[Epoch 164] val_recon=0.001367  val_cls=4.874911  val_center=1.791431  val_perc=0.000309
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch164.pt
+[Epoch 165] val_recon=0.001468  val_cls=4.889504  val_center=1.798359  val_perc=0.000304
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch165.pt
+[Epoch 166] val_recon=0.001748  val_cls=4.893257  val_center=1.733859  val_perc=0.000335
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch166.pt
+[Epoch 167] val_recon=0.001360  val_cls=4.871377  val_center=1.828250  val_perc=0.000336
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch167.pt
+[Epoch 168] val_recon=0.002749  val_cls=4.910086  val_center=1.822551  val_perc=0.000568
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch168.pt
+[Epoch 169] val_recon=0.001807  val_cls=4.926075  val_center=1.874955  val_perc=0.000388
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch169.pt
+[Epoch 170] val_recon=0.001563  val_cls=4.916678  val_center=1.819827  val_perc=0.000322
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch170.pt
+[Epoch 171] val_recon=0.003357  val_cls=5.575917  val_center=3.835579  val_perc=0.000618
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch171.pt
+[Epoch 172] val_recon=0.001281  val_cls=4.914254  val_center=1.758008  val_perc=0.000299
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch172.pt
+[Epoch 173] val_recon=0.001211  val_cls=4.928037  val_center=1.689302  val_perc=0.000276
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch173.pt
+[Epoch 174] val_recon=0.001398  val_cls=4.914263  val_center=1.750984  val_perc=0.000298
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch174.pt
+[Epoch 175] val_recon=0.001191  val_cls=4.894112  val_center=1.684974  val_perc=0.000274
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch175.pt
+[Epoch 176] val_recon=0.001216  val_cls=4.956883  val_center=1.764943  val_perc=0.000269
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch176.pt
+[Epoch 177] val_recon=0.001397  val_cls=4.939913  val_center=1.829638  val_perc=0.000300
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch177.pt
+[Epoch 178] val_recon=0.001590  val_cls=4.983911  val_center=1.808514  val_perc=0.000316
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch178.pt
+[Epoch 179] val_recon=0.001624  val_cls=4.941568  val_center=1.786831  val_perc=0.000333
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch179.pt
+[Epoch 180] val_recon=0.001550  val_cls=4.943488  val_center=1.777330  val_perc=0.000328
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch180.pt
+[Epoch 181] val_recon=0.001620  val_cls=4.945987  val_center=1.757464  val_perc=0.000382
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch181.pt
+[Epoch 182] val_recon=0.002186  val_cls=4.987655  val_center=1.828950  val_perc=0.000428
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch182.pt
+[Epoch 183] val_recon=0.001781  val_cls=4.911569  val_center=1.793893  val_perc=0.000347
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch183.pt
+[Epoch 184] val_recon=0.001435  val_cls=4.938447  val_center=1.721512  val_perc=0.000308
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch184.pt
+[Epoch 185] val_recon=0.001653  val_cls=4.941723  val_center=1.736022  val_perc=0.000354
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch185.pt
+[Epoch 186] val_recon=0.007782  val_cls=5.422421  val_center=2.486525  val_perc=0.001109
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch186.pt
+[Epoch 187] val_recon=0.001279  val_cls=4.974048  val_center=1.699648  val_perc=0.000293
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch187.pt
+[Epoch 188] val_recon=0.001336  val_cls=4.931870  val_center=1.684438  val_perc=0.000279
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch188.pt
+[Epoch 189] val_recon=0.001244  val_cls=4.968308  val_center=1.682569  val_perc=0.000272
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch189.pt
+[Epoch 190] val_recon=0.001410  val_cls=4.965565  val_center=1.648762  val_perc=0.000302
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch190.pt
+[Epoch 191] val_recon=0.001382  val_cls=4.980670  val_center=1.704114  val_perc=0.000296
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch191.pt
+[Epoch 192] val_recon=0.001844  val_cls=5.068031  val_center=1.729752  val_perc=0.000355
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch192.pt
+[Epoch 193] val_recon=0.001405  val_cls=5.023127  val_center=1.756721  val_perc=0.000295
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch193.pt
+[Epoch 194] val_recon=0.001573  val_cls=4.920633  val_center=1.630880  val_perc=0.000313
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch194.pt
+[Epoch 195] val_recon=0.002057  val_cls=5.027717  val_center=1.818355  val_perc=0.000456
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch195.pt
+[Epoch 196] val_recon=0.001291  val_cls=5.015398  val_center=1.714073  val_perc=0.000320
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch196.pt
+[Epoch 197] val_recon=0.001355  val_cls=5.024437  val_center=1.674892  val_perc=0.000307
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch197.pt
+[Epoch 198] val_recon=0.001860  val_cls=4.987061  val_center=1.623486  val_perc=0.000355
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch198.pt
+[Epoch 199] val_recon=0.001374  val_cls=5.011568  val_center=1.669267  val_perc=0.000300
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch199.pt
+[Epoch 200] val_recon=0.001493  val_cls=5.030606  val_center=1.672002  val_perc=0.000307
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch200.pt
+[Epoch 201] val_recon=0.001260  val_cls=5.005832  val_center=1.675659  val_perc=0.000282
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch201.pt
+[Epoch 202] val_recon=0.001753  val_cls=5.022241  val_center=1.636616  val_perc=0.000340
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch202.pt
+[Epoch 203] val_recon=0.001447  val_cls=4.997418  val_center=1.657240  val_perc=0.000318
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch203.pt
+[Epoch 204] val_recon=0.005008  val_cls=5.316630  val_center=2.292976  val_perc=0.000830
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch204.pt
+[Epoch 205] val_recon=0.001184  val_cls=5.042740  val_center=1.652504  val_perc=0.000258
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch205.pt
+[Epoch 206] val_recon=0.001325  val_cls=5.028153  val_center=1.820046  val_perc=0.000293
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch206.pt
+[Epoch 207] val_recon=0.001710  val_cls=5.089687  val_center=1.679337  val_perc=0.000362
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch207.pt
+[Epoch 208] val_recon=0.001517  val_cls=5.040766  val_center=1.671768  val_perc=0.000306
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch208.pt
+[Epoch 209] val_recon=0.001485  val_cls=5.018909  val_center=1.651193  val_perc=0.000324
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch209.pt
+[Epoch 210] val_recon=0.001231  val_cls=5.106408  val_center=1.707526  val_perc=0.000266
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch210.pt
+[Epoch 211] val_recon=0.001334  val_cls=5.014730  val_center=1.600870  val_perc=0.000287
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch211.pt
+[Epoch 212] val_recon=0.001302  val_cls=4.995899  val_center=1.598598  val_perc=0.000311
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch212.pt
+[Epoch 213] val_recon=0.001740  val_cls=5.058208  val_center=1.714834  val_perc=0.000358
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch213.pt
+[Epoch 214] val_recon=0.001916  val_cls=5.137831  val_center=1.851757  val_perc=0.000382
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch214.pt
+[Epoch 215] val_recon=0.001404  val_cls=5.017940  val_center=1.617342  val_perc=0.000310
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch215.pt
+[Epoch 216] val_recon=0.001528  val_cls=5.072753  val_center=1.690529  val_perc=0.000322
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch216.pt
+[Epoch 217] val_recon=0.001341  val_cls=5.096413  val_center=1.725062  val_perc=0.000280
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch217.pt
+[Epoch 218] val_recon=0.001595  val_cls=5.034145  val_center=1.609079  val_perc=0.000317
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch218.pt
+[Epoch 219] val_recon=0.002529  val_cls=5.123468  val_center=1.738495  val_perc=0.000424
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch219.pt
+[Epoch 220] val_recon=0.001153  val_cls=5.019784  val_center=1.564667  val_perc=0.000261
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch220.pt
+[Epoch 221] val_recon=0.001455  val_cls=5.071064  val_center=1.643238  val_perc=0.000326
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch221.pt
+[Epoch 222] val_recon=0.002538  val_cls=5.155565  val_center=1.808428  val_perc=0.000433
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch222.pt
+[Epoch 223] val_recon=0.001597  val_cls=5.038543  val_center=1.574434  val_perc=0.000310
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch223.pt
+[Epoch 224] val_recon=0.001414  val_cls=5.086780  val_center=1.683056  val_perc=0.000331
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch224.pt
+[Epoch 225] val_recon=0.001193  val_cls=5.040735  val_center=1.557189  val_perc=0.000259
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch225.pt
+[Epoch 226] val_recon=0.002579  val_cls=5.086616  val_center=1.655346  val_perc=0.000436
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch226.pt
+[Epoch 227] val_recon=0.001328  val_cls=5.057720  val_center=1.551619  val_perc=0.000275
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch227.pt
+[Epoch 228] val_recon=0.002377  val_cls=5.206549  val_center=1.711443  val_perc=0.000410
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch228.pt
+[Epoch 229] val_recon=0.001546  val_cls=5.136876  val_center=1.605334  val_perc=0.000333
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch229.pt
+[Epoch 230] val_recon=0.001349  val_cls=5.088216  val_center=1.597317  val_perc=0.000294
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch230.pt
+[Epoch 231] val_recon=0.002028  val_cls=5.298384  val_center=1.879027  val_perc=0.000422
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch231.pt
+[Epoch 232] val_recon=0.001541  val_cls=5.121286  val_center=1.587416  val_perc=0.000320
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch232.pt
+[Epoch 233] val_recon=0.001412  val_cls=5.088184  val_center=1.572171  val_perc=0.000307
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch233.pt
+[Epoch 234] val_recon=0.001475  val_cls=5.089716  val_center=1.507105  val_perc=0.000352
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch234.pt
+[Epoch 235] val_recon=0.001133  val_cls=5.125609  val_center=1.556655  val_perc=0.000265
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch235.pt
+[Epoch 236] val_recon=0.001088  val_cls=5.059736  val_center=1.486114  val_perc=0.000248
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch236.pt
+[Epoch 237] val_recon=0.001430  val_cls=5.117693  val_center=1.578845  val_perc=0.000322
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch237.pt
+[Epoch 238] val_recon=0.001143  val_cls=5.101717  val_center=1.590885  val_perc=0.000267
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch238.pt
+[Epoch 239] val_recon=0.001412  val_cls=5.085562  val_center=1.549104  val_perc=0.000280
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch239.pt
+[Epoch 240] val_recon=0.001634  val_cls=5.065389  val_center=1.503217  val_perc=0.000353
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch240.pt
+[Epoch 241] val_recon=0.001627  val_cls=5.131431  val_center=1.548794  val_perc=0.000312
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch241.pt
+[Epoch 242] val_recon=0.001405  val_cls=5.164876  val_center=1.551282  val_perc=0.000315
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch242.pt
+[Epoch 243] val_recon=0.001830  val_cls=5.160400  val_center=1.561818  val_perc=0.000370
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch243.pt
+[Epoch 244] val_recon=0.001610  val_cls=5.139339  val_center=1.575192  val_perc=0.000334
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch244.pt
+[Epoch 245] val_recon=0.001303  val_cls=5.163682  val_center=1.535508  val_perc=0.000284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch245.pt
+[Epoch 246] val_recon=0.001599  val_cls=5.095441  val_center=1.525260  val_perc=0.000349
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch246.pt
+[Epoch 247] val_recon=0.001281  val_cls=5.125101  val_center=1.537073  val_perc=0.000295
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch247.pt
+[Epoch 248] val_recon=0.002095  val_cls=5.223305  val_center=1.750281  val_perc=0.000402
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch248.pt
+[Epoch 249] val_recon=0.001124  val_cls=5.103306  val_center=1.513082  val_perc=0.000263
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch249.pt
+[Epoch 250] val_recon=0.001172  val_cls=5.134491  val_center=1.510267  val_perc=0.000262
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch250.pt
+[Epoch 251] val_recon=0.001131  val_cls=5.132806  val_center=1.502542  val_perc=0.000267
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch251.pt
+[Epoch 252] val_recon=0.001349  val_cls=5.200980  val_center=1.523229  val_perc=0.000277
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch252.pt
+[Epoch 253] val_recon=0.001159  val_cls=5.163008  val_center=1.593564  val_perc=0.000266
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch253.pt
+[Epoch 254] val_recon=0.001819  val_cls=5.103101  val_center=1.501798  val_perc=0.000350
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch254.pt
+[Epoch 255] val_recon=0.001218  val_cls=5.136757  val_center=1.540643  val_perc=0.000294
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch255.pt
+[Epoch 256] val_recon=0.002381  val_cls=5.283525  val_center=1.594168  val_perc=0.000437
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch256.pt
+[Epoch 257] val_recon=0.004842  val_cls=8.488971  val_center=6.902977  val_perc=0.000860
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch257.pt
+[Epoch 258] val_recon=0.001283  val_cls=5.180802  val_center=1.554810  val_perc=0.000303
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch258.pt
+[Epoch 259] val_recon=0.002087  val_cls=5.243562  val_center=1.520479  val_perc=0.000419
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch259.pt
+[Epoch 260] val_recon=0.001187  val_cls=5.133543  val_center=1.459598  val_perc=0.000275
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch260.pt
+[Epoch 261] val_recon=0.001370  val_cls=5.184212  val_center=1.510966  val_perc=0.000309
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch261.pt
+[Epoch 262] val_recon=0.001099  val_cls=5.148684  val_center=1.466950  val_perc=0.000257
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch262.pt
+[Epoch 263] val_recon=0.001395  val_cls=5.188275  val_center=1.510798  val_perc=0.000323
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch263.pt
+[Epoch 264] val_recon=0.001457  val_cls=5.282691  val_center=1.495990  val_perc=0.000326
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch264.pt
+[Epoch 265] val_recon=0.002076  val_cls=5.293034  val_center=1.621950  val_perc=0.000428
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch265.pt
+[Epoch 266] val_recon=0.001536  val_cls=5.193044  val_center=1.517219  val_perc=0.000310
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch266.pt
+[Epoch 267] val_recon=0.001363  val_cls=5.163276  val_center=1.496352  val_perc=0.000313
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch267.pt
+[Epoch 268] val_recon=0.001149  val_cls=5.217447  val_center=1.478740  val_perc=0.000267
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch268.pt
+[Epoch 269] val_recon=0.001242  val_cls=5.166730  val_center=1.452702  val_perc=0.000284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch269.pt
+[Epoch 270] val_recon=0.001407  val_cls=5.211669  val_center=1.527443  val_perc=0.000303
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch270.pt
+[Epoch 271] val_recon=0.001273  val_cls=5.172290  val_center=1.436690  val_perc=0.000293
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch271.pt
+[Epoch 272] val_recon=0.001707  val_cls=5.246451  val_center=1.495182  val_perc=0.000354
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch272.pt
+[Epoch 273] val_recon=0.001919  val_cls=5.267561  val_center=1.569071  val_perc=0.000354
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch273.pt
+[Epoch 274] val_recon=0.001187  val_cls=5.145467  val_center=1.405409  val_perc=0.000280
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch274.pt
+[Epoch 275] val_recon=0.007586  val_cls=7.742726  val_center=7.307579  val_perc=0.001064
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch275.pt
+[Epoch 276] val_recon=0.001735  val_cls=5.365183  val_center=1.608564  val_perc=0.000336
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch276.pt
+[Epoch 277] val_recon=0.001440  val_cls=5.210567  val_center=1.473145  val_perc=0.000315
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch277.pt
+[Epoch 278] val_recon=0.002151  val_cls=5.279539  val_center=1.521279  val_perc=0.000465
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch278.pt
+[Epoch 279] val_recon=0.001364  val_cls=5.277944  val_center=1.503475  val_perc=0.000277
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch279.pt
+[Epoch 280] val_recon=0.001494  val_cls=5.212738  val_center=1.422350  val_perc=0.000294
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch280.pt
+[Epoch 281] val_recon=0.001459  val_cls=5.231621  val_center=1.518885  val_perc=0.000347
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch281.pt
+[Epoch 282] val_recon=0.001421  val_cls=5.219451  val_center=1.426695  val_perc=0.000293
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch282.pt
+[Epoch 283] val_recon=0.001298  val_cls=5.234481  val_center=1.463516  val_perc=0.000277
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch283.pt
+[Epoch 284] val_recon=0.001101  val_cls=5.234554  val_center=1.433675  val_perc=0.000258
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch284.pt
+[Epoch 285] val_recon=0.001277  val_cls=5.277188  val_center=1.468169  val_perc=0.000297
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch285.pt
+[Epoch 286] val_recon=0.001643  val_cls=5.254590  val_center=1.515457  val_perc=0.000316
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch286.pt
+[Epoch 287] val_recon=0.001094  val_cls=5.186058  val_center=1.432848  val_perc=0.000264
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch287.pt
+[Epoch 288] val_recon=0.024405  val_cls=9.958743  val_center=11.155298  val_perc=0.002327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch288.pt
+[Epoch 289] val_recon=0.001241  val_cls=5.239798  val_center=1.385545  val_perc=0.000284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch289.pt
+[Epoch 290] val_recon=0.001392  val_cls=5.193674  val_center=1.393550  val_perc=0.000318
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch290.pt
+[Epoch 291] val_recon=0.001232  val_cls=5.294441  val_center=1.414918  val_perc=0.000278
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch291.pt
+[Epoch 292] val_recon=0.001170  val_cls=5.234584  val_center=1.389964  val_perc=0.000271
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch292.pt
+[Epoch 293] val_recon=0.001403  val_cls=5.234727  val_center=1.488286  val_perc=0.000325
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch293.pt
+[Epoch 294] val_recon=0.001329  val_cls=5.238286  val_center=1.356088  val_perc=0.000273
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch294.pt
+[Epoch 295] val_recon=0.001223  val_cls=5.274378  val_center=1.402540  val_perc=0.000263
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch295.pt
+[Epoch 296] val_recon=0.001253  val_cls=5.190856  val_center=1.369553  val_perc=0.000290
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch296.pt
+[Epoch 297] val_recon=0.001285  val_cls=5.259520  val_center=1.417630  val_perc=0.000291
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_8×32×32/checkpoint/8*32*32_checkpoint_SiLU_epoch297.pt

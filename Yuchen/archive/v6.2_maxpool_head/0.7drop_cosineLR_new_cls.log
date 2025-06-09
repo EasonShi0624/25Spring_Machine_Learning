@@ -1,0 +1,278 @@
+[Epoch 1] val_recon=0.015520, val_class=4.938043, val_loss=6.434976
+Saved checkpoint_epoch1.pt
+[Epoch 2] val_recon=0.007127, val_class=4.868578, val_loss=6.336279
+Saved checkpoint_epoch2.pt
+[Epoch 3] val_recon=0.006589, val_class=4.926798, val_loss=6.411427
+Saved checkpoint_epoch3.pt
+[Epoch 4] val_recon=0.005368, val_class=4.742337, val_loss=6.170406
+Saved checkpoint_epoch4.pt
+[Epoch 5] val_recon=0.004534, val_class=4.724296, val_loss=6.146119
+Saved checkpoint_epoch5.pt
+[Epoch 6] val_recon=0.004283, val_class=4.665506, val_loss=6.069441
+Saved checkpoint_epoch6.pt
+[Epoch 7] val_recon=0.029409, val_class=5.161924, val_loss=6.739910
+Saved checkpoint_epoch7.pt
+[Epoch 8] val_recon=0.004033, val_class=4.654989, val_loss=6.055519
+Saved checkpoint_epoch8.pt
+[Epoch 9] val_recon=0.003434, val_class=4.704920, val_loss=6.119830
+Saved checkpoint_epoch9.pt
+[Epoch 10] val_recon=0.003329, val_class=4.595574, val_loss=5.977576
+Saved checkpoint_epoch10.pt
+[Epoch 11] val_recon=0.003554, val_class=4.582457, val_loss=5.960748
+Saved checkpoint_epoch11.pt
+[Epoch 12] val_recon=0.003012, val_class=4.549615, val_loss=5.917511
+Saved checkpoint_epoch12.pt
+[Epoch 13] val_recon=0.003188, val_class=4.590539, val_loss=5.970889
+Saved checkpoint_epoch13.pt
+[Epoch 14] val_recon=0.002594, val_class=4.490210, val_loss=5.839867
+Saved checkpoint_epoch14.pt
+[Epoch 15] val_recon=0.002390, val_class=4.473364, val_loss=5.817763
+Saved checkpoint_epoch15.pt
+[Epoch 16] val_recon=0.002260, val_class=4.555736, val_loss=5.924717
+Saved checkpoint_epoch16.pt
+[Epoch 17] val_recon=0.002220, val_class=4.458052, val_loss=5.797688
+Saved checkpoint_epoch17.pt
+[Epoch 18] val_recon=0.001864, val_class=4.445942, val_loss=5.781589
+Saved checkpoint_epoch18.pt
+[Epoch 19] val_recon=0.002136, val_class=4.457235, val_loss=5.796543
+Saved checkpoint_epoch19.pt
+[Epoch 20] val_recon=0.002004, val_class=4.419536, val_loss=5.747401
+Saved checkpoint_epoch20.pt
+[Epoch 21] val_recon=0.001641, val_class=4.384179, val_loss=5.701073
+Saved checkpoint_epoch21.pt
+[Epoch 22] val_recon=0.001584, val_class=4.482071, val_loss=5.828277
+Saved checkpoint_epoch22.pt
+[Epoch 23] val_recon=0.001314, val_class=4.388815, val_loss=5.706773
+Saved checkpoint_epoch23.pt
+[Epoch 24] val_recon=0.001586, val_class=4.360470, val_loss=5.670196
+Saved checkpoint_epoch24.pt
+[Epoch 25] val_recon=0.001371, val_class=4.448104, val_loss=5.783906
+Saved checkpoint_epoch25.pt
+[Epoch 26] val_recon=0.001481, val_class=6.360669, val_loss=8.270351
+Saved checkpoint_epoch26.pt
+[Epoch 27] val_recon=0.001269, val_class=4.371117, val_loss=5.683721
+Saved checkpoint_epoch27.pt
+[Epoch 28] val_recon=0.001297, val_class=4.407658, val_loss=5.731253
+Saved checkpoint_epoch28.pt
+[Epoch 29] val_recon=0.000983, val_class=4.384719, val_loss=5.701117
+Saved checkpoint_epoch29.pt
+[Epoch 30] val_recon=0.001064, val_class=4.853324, val_loss=6.310386
+Saved checkpoint_epoch30.pt
+[Epoch 31] val_recon=0.001393, val_class=4.557380, val_loss=5.925987
+Saved checkpoint_epoch31.pt
+[Epoch 32] val_recon=0.001253, val_class=4.399807, val_loss=5.721002
+Saved checkpoint_epoch32.pt
+[Epoch 33] val_recon=0.001651, val_class=4.509389, val_loss=5.863857
+Saved checkpoint_epoch33.pt
+[Epoch 34] val_recon=0.001160, val_class=4.341152, val_loss=5.644657
+Saved checkpoint_epoch34.pt
+[Epoch 35] val_recon=0.001105, val_class=4.382861, val_loss=5.698824
+Saved checkpoint_epoch35.pt
+[Epoch 36] val_recon=0.001256, val_class=4.802972, val_loss=6.245120
+Saved checkpoint_epoch36.pt
+[Epoch 37] val_recon=0.001116, val_class=4.301092, val_loss=5.592536
+Saved checkpoint_epoch37.pt
+[Epoch 38] val_recon=0.000886, val_class=4.407827, val_loss=5.731062
+Saved checkpoint_epoch38.pt
+[Epoch 39] val_recon=0.001028, val_class=7.964709, val_loss=10.355149
+Saved checkpoint_epoch39.pt
+[Epoch 40] val_recon=0.000894, val_class=5.022172, val_loss=6.529718
+Saved checkpoint_epoch40.pt
+[Epoch 41] val_recon=0.001000, val_class=4.445964, val_loss=5.780754
+Saved checkpoint_epoch41.pt
+[Epoch 42] val_recon=0.000925, val_class=5.951522, val_loss=7.737903
+Saved checkpoint_epoch42.pt
+[Epoch 43] val_recon=0.000943, val_class=4.420735, val_loss=5.747899
+Saved checkpoint_epoch43.pt
+[Epoch 44] val_recon=0.001147, val_class=4.942785, val_loss=6.426767
+Saved checkpoint_epoch44.pt
+[Epoch 45] val_recon=0.000884, val_class=4.507768, val_loss=5.860983
+Saved checkpoint_epoch45.pt
+[Epoch 46] val_recon=0.000878, val_class=4.852422, val_loss=6.309027
+Saved checkpoint_epoch46.pt
+[Epoch 47] val_recon=0.000936, val_class=4.973868, val_loss=6.466965
+Saved checkpoint_epoch47.pt
+[Epoch 48] val_recon=0.000941, val_class=5.120078, val_loss=6.657042
+Saved checkpoint_epoch48.pt
+[Epoch 49] val_recon=0.000970, val_class=4.543562, val_loss=5.907601
+Saved checkpoint_epoch49.pt
+[Epoch 50] val_recon=0.000750, val_class=5.333693, val_loss=6.934552
+Saved checkpoint_epoch50.pt
+[Epoch 51] val_recon=0.000934, val_class=4.557037, val_loss=5.925082
+Saved checkpoint_epoch51.pt
+[Epoch 52] val_recon=0.000767, val_class=4.720008, val_loss=6.136777
+Saved checkpoint_epoch52.pt
+[Epoch 53] val_recon=0.000988, val_class=4.658495, val_loss=6.057031
+Saved checkpoint_epoch53.pt
+[Epoch 54] val_recon=0.000926, val_class=4.688376, val_loss=6.095816
+Saved checkpoint_epoch54.pt
+[Epoch 55] val_recon=0.000825, val_class=5.289001, val_loss=6.876526
+Saved checkpoint_epoch55.pt
+[Epoch 56] val_recon=0.001156, val_class=5.165808, val_loss=6.716706
+Saved checkpoint_epoch56.pt
+[Epoch 57] val_recon=0.000928, val_class=5.523507, val_loss=7.181487
+Saved checkpoint_epoch57.pt
+[Epoch 58] val_recon=0.000781, val_class=6.607069, val_loss=8.589970
+Saved checkpoint_epoch58.pt
+[Epoch 59] val_recon=0.001203, val_class=4.994494, val_loss=6.494046
+Saved checkpoint_epoch59.pt
+[Epoch 60] val_recon=0.000990, val_class=5.153103, val_loss=6.700024
+Saved checkpoint_epoch60.pt
+[Epoch 61] val_recon=0.001221, val_class=8.939941, val_loss=11.623144
+Saved checkpoint_epoch61.pt
+[Epoch 62] val_recon=0.001061, val_class=10.605180, val_loss=13.787795
+Saved checkpoint_epoch62.pt
+[Epoch 63] val_recon=0.001082, val_class=6.051679, val_loss=7.868264
+Saved checkpoint_epoch63.pt
+[Epoch 64] val_recon=0.000951, val_class=7.754333, val_loss=10.081584
+Saved checkpoint_epoch64.pt
+[Epoch 65] val_recon=0.000951, val_class=6.852361, val_loss=8.909020
+Saved checkpoint_epoch65.pt
+[Epoch 66] val_recon=0.000913, val_class=6.676799, val_loss=8.680751
+Saved checkpoint_epoch66.pt
+[Epoch 67] val_recon=0.000915, val_class=6.329374, val_loss=8.229101
+Saved checkpoint_epoch67.pt
+[Epoch 68] val_recon=0.000959, val_class=6.936721, val_loss=9.018696
+Saved checkpoint_epoch68.pt
+[Epoch 69] val_recon=0.000917, val_class=14.958266, val_loss=19.446663
+Saved checkpoint_epoch69.pt
+[Epoch 70] val_recon=0.001125, val_class=15.050382, val_loss=19.566622
+Saved checkpoint_epoch70.pt
+[Epoch 71] val_recon=0.001029, val_class=7.025532, val_loss=9.134220
+Saved checkpoint_epoch71.pt
+[Epoch 72] val_recon=0.000981, val_class=7.159251, val_loss=9.308008
+Saved checkpoint_epoch72.pt
+[Epoch 73] val_recon=0.001206, val_class=7.032476, val_loss=9.143424
+Saved checkpoint_epoch73.pt
+[Epoch 74] val_recon=0.001114, val_class=6.895194, val_loss=8.964866
+Saved checkpoint_epoch74.pt
+[Epoch 75] val_recon=0.000845, val_class=8.917614, val_loss=11.593744
+Saved checkpoint_epoch75.pt
+[Epoch 76] val_recon=0.001011, val_class=6.397651, val_loss=8.317957
+Saved checkpoint_epoch76.pt
+[Epoch 77] val_recon=0.000867, val_class=8.075341, val_loss=10.498811
+Saved checkpoint_epoch77.pt
+[Epoch 78] val_recon=0.000962, val_class=8.171047, val_loss=10.623324
+Saved checkpoint_epoch78.pt
+[Epoch 79] val_recon=0.001225, val_class=10.382819, val_loss=13.498890
+Saved checkpoint_epoch79.pt
+[Epoch 80] val_recon=0.000993, val_class=8.277840, val_loss=10.762185
+Saved checkpoint_epoch80.pt
+[Epoch 81] val_recon=0.000690, val_class=8.408141, val_loss=10.931273
+Saved checkpoint_epoch81.pt
+[Epoch 82] val_recon=0.001255, val_class=7.720773, val_loss=10.038260
+Saved checkpoint_epoch82.pt
+[Epoch 83] val_recon=0.000762, val_class=8.531878, val_loss=11.092204
+Saved checkpoint_epoch83.pt
+[Epoch 84] val_recon=0.000820, val_class=9.265908, val_loss=12.046501
+Saved checkpoint_epoch84.pt
+[Epoch 85] val_recon=0.000852, val_class=9.379472, val_loss=12.194165
+Saved checkpoint_epoch85.pt
+[Epoch 86] val_recon=0.001103, val_class=8.645205, val_loss=11.239870
+Saved checkpoint_epoch86.pt
+[Epoch 87] val_recon=0.000957, val_class=8.947212, val_loss=11.632333
+Saved checkpoint_epoch87.pt
+[Epoch 88] val_recon=0.000772, val_class=9.056231, val_loss=11.773872
+Saved checkpoint_epoch88.pt
+[Epoch 89] val_recon=0.001026, val_class=11.053581, val_loss=14.370682
+Saved checkpoint_epoch89.pt
+[Epoch 90] val_recon=0.001185, val_class=10.099627, val_loss=13.130700
+Saved checkpoint_epoch90.pt
+[Epoch 91] val_recon=0.000914, val_class=10.103722, val_loss=13.135753
+Saved checkpoint_epoch91.pt
+[Epoch 92] val_recon=0.000902, val_class=7.594789, val_loss=9.874127
+Saved checkpoint_epoch92.pt
+[Epoch 93] val_recon=0.000901, val_class=11.077119, val_loss=14.401155
+Saved checkpoint_epoch93.pt
+[Epoch 94] val_recon=0.001008, val_class=12.278693, val_loss=15.963308
+Saved checkpoint_epoch94.pt
+[Epoch 95] val_recon=0.001215, val_class=8.759054, val_loss=11.387985
+Saved checkpoint_epoch95.pt
+[Epoch 96] val_recon=0.000870, val_class=11.643208, val_loss=15.137041
+Saved checkpoint_epoch96.pt
+[Epoch 97] val_recon=0.000953, val_class=11.088721, val_loss=14.416290
+Saved checkpoint_epoch97.pt
+[Epoch 98] val_recon=0.000847, val_class=10.340330, val_loss=13.443277
+Saved checkpoint_epoch98.pt
+[Epoch 99] val_recon=0.001266, val_class=10.031498, val_loss=13.042213
+Saved checkpoint_epoch99.pt
+[Epoch 100] val_recon=0.001094, val_class=14.056462, val_loss=18.274494
+Saved checkpoint_epoch100.pt
+[Epoch 101] val_recon=0.000611, val_class=11.923034, val_loss=15.500555
+Saved checkpoint_epoch101.pt
+[Epoch 102] val_recon=0.000968, val_class=11.738940, val_loss=15.261591
+Saved checkpoint_epoch102.pt
+[Epoch 103] val_recon=0.000829, val_class=11.722371, val_loss=15.239911
+Saved checkpoint_epoch103.pt
+[Epoch 104] val_recon=0.001173, val_class=11.294219, val_loss=14.683658
+Saved checkpoint_epoch104.pt
+[Epoch 105] val_recon=0.000924, val_class=12.048793, val_loss=15.664355
+Saved checkpoint_epoch105.pt
+[Epoch 106] val_recon=0.000693, val_class=10.372449, val_loss=13.484878
+Saved checkpoint_epoch106.pt
+[Epoch 107] val_recon=0.001091, val_class=11.441366, val_loss=14.874866
+Saved checkpoint_epoch107.pt
+[Epoch 108] val_recon=0.001052, val_class=12.386787, val_loss=16.103875
+Saved checkpoint_epoch108.pt
+[Epoch 109] val_recon=0.000925, val_class=10.974659, val_loss=14.267982
+Saved checkpoint_epoch109.pt
+[Epoch 110] val_recon=0.000915, val_class=14.391809, val_loss=18.710267
+Saved checkpoint_epoch110.pt
+[Epoch 111] val_recon=0.000716, val_class=12.504757, val_loss=16.256900
+Saved checkpoint_epoch111.pt
+[Epoch 112] val_recon=0.001072, val_class=13.027826, val_loss=16.937246
+Saved checkpoint_epoch112.pt
+[Epoch 113] val_recon=0.000895, val_class=12.429811, val_loss=16.159649
+Saved checkpoint_epoch113.pt
+[Epoch 114] val_recon=0.000930, val_class=12.663892, val_loss=16.463989
+Saved checkpoint_epoch114.pt
+[Epoch 115] val_recon=0.000807, val_class=12.990270, val_loss=16.888159
+Saved checkpoint_epoch115.pt
+[Epoch 116] val_recon=0.000828, val_class=13.042408, val_loss=16.955958
+Saved checkpoint_epoch116.pt
+[Epoch 117] val_recon=0.000926, val_class=15.381699, val_loss=19.997135
+Saved checkpoint_epoch117.pt
+[Epoch 118] val_recon=0.000786, val_class=12.977497, val_loss=16.871533
+Saved checkpoint_epoch118.pt
+[Epoch 119] val_recon=0.000935, val_class=11.819026, val_loss=15.365670
+Saved checkpoint_epoch119.pt
+[Epoch 120] val_recon=0.001086, val_class=17.639190, val_loss=22.932033
+Saved checkpoint_epoch120.pt
+[Epoch 121] val_recon=0.000818, val_class=13.484390, val_loss=17.530524
+Saved checkpoint_epoch121.pt
+[Epoch 122] val_recon=0.000846, val_class=14.123480, val_loss=18.361371
+Saved checkpoint_epoch122.pt
+[Epoch 123] val_recon=0.000901, val_class=14.190079, val_loss=18.448004
+Saved checkpoint_epoch123.pt
+[Epoch 124] val_recon=0.000789, val_class=13.411538, val_loss=17.435790
+Saved checkpoint_epoch124.pt
+[Epoch 125] val_recon=0.000839, val_class=14.277516, val_loss=18.561610
+Saved checkpoint_epoch125.pt
+[Epoch 126] val_recon=0.000735, val_class=12.918290, val_loss=16.794512
+Saved checkpoint_epoch126.pt
+[Epoch 127] val_recon=0.000931, val_class=14.481798, val_loss=18.827268
+Saved checkpoint_epoch127.pt
+[Epoch 128] val_recon=0.000867, val_class=14.616423, val_loss=19.002217
+Saved checkpoint_epoch128.pt
+[Epoch 129] val_recon=0.001055, val_class=13.901545, val_loss=18.073063
+Saved checkpoint_epoch129.pt
+[Epoch 130] val_recon=0.000853, val_class=13.821645, val_loss=17.968991
+Saved checkpoint_epoch130.pt
+[Epoch 131] val_recon=0.000783, val_class=13.299351, val_loss=17.289939
+Saved checkpoint_epoch131.pt
+[Epoch 132] val_recon=0.001027, val_class=14.330792, val_loss=18.631057
+Saved checkpoint_epoch132.pt
+[Epoch 133] val_recon=0.000832, val_class=15.312817, val_loss=19.907494
+Saved checkpoint_epoch133.pt
+[Epoch 134] val_recon=0.001005, val_class=15.393064, val_loss=20.011988
+Saved checkpoint_epoch134.pt
+[Epoch 135] val_recon=0.000989, val_class=14.872535, val_loss=19.335284
+Saved checkpoint_epoch135.pt
+[Epoch 136] val_recon=0.000828, val_class=16.167167, val_loss=21.018145
+Saved checkpoint_epoch136.pt
+[Epoch 137] val_recon=0.000993, val_class=14.821387, val_loss=19.268796
+Saved checkpoint_epoch137.pt
+[Epoch 138] val_recon=0.000851, val_class=15.810273, val_loss=20.554205
+Saved checkpoint_epoch138.pt
+[Epoch 139] val_recon=0.000937, val_class=14.770988, val_loss=19.203221
+Saved checkpoint_epoch139.pt

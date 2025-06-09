@@ -1,0 +1,892 @@
+Epoch 01:
+  Train → Total=125.88191085, Recon=0.02991595, Cls=4.94293474,Acc=0.0225
+  Val   → Total=123.11027163, Recon=0.00726574, Cls=4.79052092, Acc=0.0303
+Saved checkpoint_epoch1.pt
+Epoch 02:
+  Train → Total=124.60235774, Recon=0.00496398, Cls=4.75461810,Acc=0.0320
+  Val   → Total=122.41770320, Recon=0.00376484, Cls=4.66100089, Acc=0.0387
+Saved checkpoint_epoch2.pt
+Epoch 03:
+  Train → Total=124.45108119, Recon=0.00443383, Cls=4.64798756,Acc=0.0410
+  Val   → Total=122.50339052, Recon=0.00399009, Cls=4.76165091, Acc=0.0332
+Saved checkpoint_epoch3.pt
+Epoch 04:
+  Train → Total=124.10227156, Recon=0.00316408, Cls=4.55040132,Acc=0.0483
+  Val   → Total=122.25111241, Recon=0.00294990, Cls=4.94724493, Acc=0.0294
+Saved checkpoint_epoch4.pt
+Epoch 05:
+  Train → Total=123.94858477, Recon=0.00277144, Cls=4.49097195,Acc=0.0492
+  Val   → Total=121.84284582, Recon=0.00224616, Cls=4.45613263, Acc=0.0503
+Saved checkpoint_epoch5.pt
+Epoch 06:
+  Train → Total=123.73561394, Recon=0.00228852, Cls=4.43118392,Acc=0.0568
+  Val   → Total=122.06645409, Recon=0.00278026, Cls=4.49156062, Acc=0.0557
+Saved checkpoint_epoch6.pt
+Epoch 07:
+  Train → Total=123.60832709, Recon=0.00203318, Cls=4.38504390,Acc=0.0593
+  Val   → Total=122.13803646, Recon=0.00251841, Cls=5.12172747, Acc=0.0246
+Saved checkpoint_epoch7.pt
+Epoch 08:
+  Train → Total=123.43849689, Recon=0.00173248, Cls=4.33872238,Acc=0.0604
+  Val   → Total=121.37760779, Recon=0.00143701, Cls=4.39300400, Acc=0.0599
+Saved checkpoint_epoch8.pt
+Epoch 09:
+  Train → Total=123.30125256, Recon=0.00152829, Cls=4.29336949,Acc=0.0651
+  Val   → Total=121.46229674, Recon=0.00157746, Cls=4.36458209, Acc=0.0598
+Saved checkpoint_epoch9.pt
+Epoch 10:
+  Train → Total=123.23715204, Recon=0.00145339, Cls=4.25373392,Acc=0.0719
+  Val   → Total=121.38013865, Recon=0.00139605, Cls=4.50035330, Acc=0.0516
+Saved checkpoint_epoch10.pt
+Epoch 11:
+  Train → Total=123.17777698, Recon=0.00138672, Cls=4.21035147,Acc=0.0738
+  Val   → Total=121.24100202, Recon=0.00127606, Cls=4.33369325, Acc=0.0698
+Saved checkpoint_epoch11.pt
+Epoch 12:
+  Train → Total=123.13064367, Recon=0.00133770, Cls=4.17473022,Acc=0.0765
+  Val   → Total=121.77684046, Recon=0.00164460, Cls=5.38665152, Acc=0.0318
+Saved checkpoint_epoch12.pt
+Epoch 13:
+  Train → Total=123.05633860, Recon=0.00125596, Cls=4.13907043,Acc=0.0813
+  Val   → Total=121.11032483, Recon=0.00113778, Cls=4.28108050, Acc=0.0760
+Saved checkpoint_epoch13.pt
+Epoch 14:
+  Train → Total=122.99132278, Recon=0.00118938, Cls=4.10163408,Acc=0.0835
+  Val   → Total=121.17929401, Recon=0.00123451, Cls=4.23940086, Acc=0.0759
+Saved checkpoint_epoch14.pt
+Epoch 15:
+  Train → Total=122.94883995, Recon=0.00115419, Cls=4.06718725,Acc=0.0870
+  Val   → Total=121.45638237, Recon=0.00125955, Cls=5.16936754, Acc=0.0351
+Saved checkpoint_epoch15.pt
+Epoch 16:
+  Train → Total=122.88029896, Recon=0.00108770, Cls=4.03557486,Acc=0.0879
+  Val   → Total=121.10396652, Recon=0.00114297, Cls=4.24541038, Acc=0.0721
+Saved checkpoint_epoch16.pt
+Epoch 17:
+  Train → Total=122.84447275, Recon=0.00105628, Cls=4.01438823,Acc=0.0916
+  Val   → Total=120.95452515, Recon=0.00099607, Cls=4.20725692, Acc=0.0810
+Saved checkpoint_epoch17.pt
+Epoch 18:
+  Train → Total=122.82018644, Recon=0.00104640, Cls=3.97213990,Acc=0.0957
+  Val   → Total=120.99535332, Recon=0.00104485, Cls=4.18478136, Acc=0.0782
+Saved checkpoint_epoch18.pt
+Epoch 19:
+  Train → Total=122.77211765, Recon=0.00100784, Cls=3.94262696,Acc=0.0992
+  Val   → Total=120.90894019, Recon=0.00093651, Cls=4.25987317, Acc=0.0651
+Saved checkpoint_epoch19.pt
+Epoch 20:
+  Train → Total=122.68484982, Recon=0.00093300, Cls=3.90611667,Acc=0.1038
+  Val   → Total=120.88897753, Recon=0.00092474, Cls=4.23638544, Acc=0.0673
+Saved checkpoint_epoch20.pt
+Epoch 21:
+  Train → Total=122.65600369, Recon=0.00091390, Cls=3.88530559,Acc=0.1064
+  Val   → Total=120.85409168, Recon=0.00088685, Cls=4.25904535, Acc=0.0690
+Saved checkpoint_epoch21.pt
+Epoch 22:
+  Train → Total=122.64301125, Recon=0.00091074, Cls=3.86078773,Acc=0.1069
+  Val   → Total=120.88270079, Recon=0.00088289, Cls=4.36936858, Acc=0.0629
+Saved checkpoint_epoch22.pt
+Epoch 23:
+  Train → Total=122.58733090, Recon=0.00087102, Cls=3.82111514,Acc=0.1088
+  Val   → Total=120.68741557, Recon=0.00077707, Cls=4.14855747, Acc=0.0867
+Saved checkpoint_epoch23.pt
+Epoch 24:
+  Train → Total=122.57242115, Recon=0.00086337, Cls=3.80538801,Acc=0.1132
+  Val   → Total=120.91838268, Recon=0.00077084, Cls=4.98897940, Acc=0.0502
+Saved checkpoint_epoch24.pt
+Epoch 25:
+  Train → Total=122.52779613, Recon=0.00083092, Cls=3.78768236,Acc=0.1146
+  Val   → Total=120.73505370, Recon=0.00081077, Cls=4.16489690, Acc=0.0734
+Saved checkpoint_epoch25.pt
+Epoch 26:
+  Train → Total=122.49266901, Recon=0.00081228, Cls=3.75101100,Acc=0.1206
+  Val   → Total=120.72974310, Recon=0.00079923, Cls=4.19432475, Acc=0.0674
+Saved checkpoint_epoch26.pt
+Epoch 27:
+  Train → Total=122.46604955, Recon=0.00079843, Cls=3.72115296,Acc=0.1211
+  Val   → Total=120.61867437, Recon=0.00072891, Cls=4.13346338, Acc=0.0768
+Saved checkpoint_epoch27.pt
+Epoch 28:
+  Train → Total=122.42385686, Recon=0.00077324, Cls=3.69626321,Acc=0.1222
+  Val   → Total=120.60854375, Recon=0.00072857, Cls=4.10261057, Acc=0.0813
+Saved checkpoint_epoch28.pt
+Epoch 29:
+  Train → Total=122.40460090, Recon=0.00076335, Cls=3.67640975,Acc=0.1272
+  Val   → Total=120.61439695, Recon=0.00072565, Cls=4.13451093, Acc=0.0713
+Saved checkpoint_epoch29.pt
+Epoch 30:
+  Train → Total=122.38990535, Recon=0.00076095, Cls=3.64579133,Acc=0.1316
+  Val   → Total=120.68835443, Recon=0.00077644, Cls=4.15447655, Acc=0.0690
+Saved checkpoint_epoch30.pt
+Epoch 31:
+  Train → Total=122.36063527, Recon=0.00074520, Cls=3.62327757,Acc=0.1341
+  Val   → Total=120.66052341, Recon=0.00075723, Cls=4.14510651, Acc=0.0818
+Saved checkpoint_epoch31.pt
+Epoch 32:
+  Train → Total=122.30553319, Recon=0.00071265, Cls=3.59425799,Acc=0.1380
+  Val   → Total=120.55206210, Recon=0.00069601, Cls=4.06887363, Acc=0.0863
+Saved checkpoint_epoch32.pt
+Epoch 33:
+  Train → Total=122.31315756, Recon=0.00072405, Cls=3.56933370,Acc=0.1426
+  Val   → Total=120.65045439, Recon=0.00076162, Cls=4.09478450, Acc=0.0884
+Saved checkpoint_epoch33.pt
+Epoch 34:
+  Train → Total=122.27751614, Recon=0.00070251, Cls=3.55725550,Acc=0.1459
+  Val   → Total=120.70409762, Recon=0.00066786, Cls=4.72292643, Acc=0.0547
+Saved checkpoint_epoch34.pt
+Epoch 35:
+  Train → Total=122.25970218, Recon=0.00069503, Cls=3.53560174,Acc=0.1478
+  Val   → Total=120.84111207, Recon=0.00081689, Cls=4.49409768, Acc=0.0590
+Saved checkpoint_epoch35.pt
+Epoch 36:
+  Train → Total=122.24394099, Recon=0.00068690, Cls=3.52608884,Acc=0.1445
+  Val   → Total=120.98220882, Recon=0.00076817, Cls=5.25378224, Acc=0.0551
+Saved checkpoint_epoch36.pt
+Epoch 37:
+  Train → Total=122.24594696, Recon=0.00069355, Cls=3.50654671,Acc=0.1485
+  Val   → Total=120.71082735, Recon=0.00080070, Cls=4.12769341, Acc=0.0746
+Saved checkpoint_epoch37.pt
+Epoch 38:
+  Train → Total=122.23755590, Recon=0.00069459, Cls=3.47727763,Acc=0.1552
+  Val   → Total=120.94841715, Recon=0.00068005, Cls=5.62284549, Acc=0.0402
+Saved checkpoint_epoch38.pt
+Epoch 39:
+  Train → Total=122.08197141, Recon=0.00062041, Cls=3.36438542,Acc=0.1750
+  Val   → Total=120.36533222, Recon=0.00056924, Cls=4.11598945, Acc=0.0892
+Saved checkpoint_epoch39.pt
+Epoch 40:
+  Train → Total=122.03340566, Recon=0.00060087, Cls=3.32258947,Acc=0.1790
+  Val   → Total=120.76396548, Recon=0.00056524, Cls=5.62805077, Acc=0.0541
+Saved checkpoint_epoch40.pt
+Epoch 41:
+  Train → Total=122.04446343, Recon=0.00060576, Cls=3.32708307,Acc=0.1777
+  Val   → Total=120.34491523, Recon=0.00056441, Cls=4.07930972, Acc=0.0886
+Saved checkpoint_epoch41.pt
+Epoch 42:
+  Train → Total=122.02049013, Recon=0.00059909, Cls=3.29559391,Acc=0.1873
+  Val   → Total=120.47774038, Recon=0.00059659, Cls=4.32865890, Acc=0.0736
+Saved checkpoint_epoch42.pt
+Epoch 43:
+  Train → Total=121.99110147, Recon=0.00058509, Cls=3.28108776,Acc=0.1859
+  Val   → Total=120.38127117, Recon=0.00056087, Cls=4.21540066, Acc=0.0781
+Saved checkpoint_epoch43.pt
+Epoch 44:
+  Train → Total=121.97155021, Recon=0.00058047, Cls=3.24975302,Acc=0.1876
+  Val   → Total=120.34639047, Recon=0.00055301, Cls=4.14801976, Acc=0.0759
+Saved checkpoint_epoch44.pt
+Epoch 45:
+  Train → Total=121.96706366, Recon=0.00058360, Cls=3.22800390,Acc=0.1926
+  Val   → Total=120.38379567, Recon=0.00055506, Cls=4.25829903, Acc=0.0748
+Saved checkpoint_epoch45.pt
+Epoch 46:
+  Train → Total=121.94546294, Recon=0.00057429, Cls=3.21351866,Acc=0.1971
+  Val   → Total=120.41350266, Recon=0.00059956, Cls=4.10418377, Acc=0.0897
+Saved checkpoint_epoch46.pt
+Epoch 47:
+  Train → Total=121.94587454, Recon=0.00057719, Cls=3.20156233,Acc=0.1948
+  Val   → Total=120.52976227, Recon=0.00066417, Cls=4.14692760, Acc=0.0835
+Saved checkpoint_epoch47.pt
+Epoch 48:
+  Train → Total=121.86876033, Recon=0.00055360, Cls=3.11725550,Acc=0.2145
+  Val   → Total=120.47860537, Recon=0.00055242, Cls=4.59663461, Acc=0.0603
+Saved checkpoint_epoch48.pt
+Epoch 49:
+  Train → Total=121.82879432, Recon=0.00054055, Cls=3.07784396,Acc=0.2209
+  Val   → Total=120.67922529, Recon=0.00052540, Cls=5.57936128, Acc=0.0608
+Saved checkpoint_epoch49.pt
+Epoch 50:
+  Train → Total=121.81213774, Recon=0.00053869, Cls=3.04767456,Acc=0.2276
+  Val   → Total=120.24453780, Recon=0.00050679, Cls=4.10262739, Acc=0.0943
+Saved checkpoint_epoch50.pt
+Epoch 51:
+  Train → Total=121.80439928, Recon=0.00053826, Cls=3.03125586,Acc=0.2287
+  Val   → Total=120.28277575, Recon=0.00051139, Cls=4.19667897, Acc=0.0793
+Saved checkpoint_epoch51.pt
+Epoch 52:
+  Train → Total=121.79799608, Recon=0.00053754, Cls=3.02110917,Acc=0.2336
+  Val   → Total=120.43651279, Recon=0.00052141, Cls=4.65240669, Acc=0.0780
+Saved checkpoint_epoch52.pt
+Epoch 53:
+  Train → Total=121.78044860, Recon=0.00053216, Cls=3.00227864,Acc=0.2317
+  Val   → Total=120.38199472, Recon=0.00050224, Cls=4.59222933, Acc=0.0786
+Saved checkpoint_epoch53.pt
+Epoch 54:
+  Train → Total=121.76344906, Recon=0.00053001, Cls=2.97305851,Acc=0.2394
+  Val   → Total=120.26770328, Recon=0.00050065, Cls=4.21676257, Acc=0.0771
+Saved checkpoint_epoch54.pt
+Epoch 55:
+  Train → Total=121.76611266, Recon=0.00053243, Cls=2.96722514,Acc=0.2437
+  Val   → Total=120.29505345, Recon=0.00050595, Cls=4.27153997, Acc=0.0754
+Saved checkpoint_epoch55.pt
+Epoch 56:
+  Train → Total=121.72749604, Recon=0.00051959, Cls=2.93544085,Acc=0.2497
+  Val   → Total=120.26412045, Recon=0.00050031, Cls=4.20651237, Acc=0.0942
+Saved checkpoint_epoch56.pt
+Epoch 57:
+  Train → Total=121.68876804, Recon=0.00051188, Cls=2.88191380,Acc=0.2542
+  Val   → Total=120.34426142, Recon=0.00048905, Cls=4.55261145, Acc=0.0820
+Saved checkpoint_epoch57.pt
+Epoch 58:
+  Train → Total=121.66957532, Recon=0.00050870, Cls=2.85419739,Acc=0.2620
+  Val   → Total=120.24365234, Recon=0.00048709, Cls=4.22818009, Acc=0.0859
+Saved checkpoint_epoch58.pt
+Epoch 59:
+  Train → Total=121.65572786, Recon=0.00050918, Cls=2.82272272,Acc=0.2708
+  Val   → Total=120.73403400, Recon=0.00049321, Cls=6.11659524, Acc=0.0563
+Saved checkpoint_epoch59.pt
+Epoch 60:
+  Train → Total=121.64611041, Recon=0.00050641, Cls=2.81230221,Acc=0.2742
+  Val   → Total=120.32089065, Recon=0.00048909, Cls=4.47159084, Acc=0.0903
+Saved checkpoint_epoch60.pt
+Epoch 61:
+  Train → Total=121.63751576, Recon=0.00050606, Cls=2.79468375,Acc=0.2748
+  Val   → Total=120.26754201, Recon=0.00049602, Cls=4.24482641, Acc=0.0915
+Saved checkpoint_epoch61.pt
+Epoch 62:
+  Train → Total=121.62785218, Recon=0.00050313, Cls=2.78680351,Acc=0.2786
+  Val   → Total=120.24254745, Recon=0.00048369, Cls=4.24685542, Acc=0.0915
+Saved checkpoint_epoch62.pt
+Epoch 63:
+  Train → Total=121.59571824, Recon=0.00049712, Cls=2.74393265,Acc=0.2894
+  Val   → Total=120.42720836, Recon=0.00047776, Cls=4.94189959, Acc=0.0709
+Saved checkpoint_epoch63.pt
+Epoch 64:
+  Train → Total=121.59270357, Recon=0.00049815, Cls=2.73515576,Acc=0.2860
+  Val   → Total=120.38309380, Recon=0.00047757, Cls=4.77811022, Acc=0.0825
+Saved checkpoint_epoch64.pt
+Epoch 65:
+  Train → Total=121.57992193, Recon=0.00049634, Cls=2.71383276,Acc=0.2958
+  Val   → Total=120.26257359, Recon=0.00047510, Cls=4.37261403, Acc=0.0909
+Saved checkpoint_epoch65.pt
+Epoch 66:
+  Train → Total=121.58141723, Recon=0.00049547, Cls=2.72076136,Acc=0.2908
+  Val   → Total=120.26895685, Recon=0.00047669, Cls=4.38300947, Acc=0.0948
+Saved checkpoint_epoch66.pt
+Epoch 67:
+  Train → Total=121.56469718, Recon=0.00049466, Cls=2.69143921,Acc=0.3004
+  Val   → Total=120.38122784, Recon=0.00047414, Cls=4.79790258, Acc=0.0881
+Saved checkpoint_epoch67.pt
+Epoch 68:
+  Train → Total=121.56279740, Recon=0.00049317, Cls=2.69146128,Acc=0.2967
+  Val   → Total=120.41268997, Recon=0.00047643, Cls=4.89759970, Acc=0.0786
+Saved checkpoint_epoch68.pt
+Epoch 69:
+  Train → Total=121.54641179, Recon=0.00049252, Cls=2.66384092,Acc=0.3042
+  Val   → Total=120.25097214, Recon=0.00047113, Cls=4.36235177, Acc=0.0942
+Saved checkpoint_epoch69.pt
+Epoch 70:
+  Train → Total=121.54085082, Recon=0.00049150, Cls=2.65502810,Acc=0.3065
+  Val   → Total=120.26398408, Recon=0.00047155, Cls=4.40309795, Acc=0.1003
+Saved checkpoint_epoch70.pt
+Epoch 71:
+  Train → Total=121.53472910, Recon=0.00049088, Cls=2.64600512,Acc=0.3125
+  Val   → Total=120.29994014, Recon=0.00046923, Cls=4.54344819, Acc=0.0975
+Saved checkpoint_epoch71.pt
+Epoch 72:
+  Train → Total=121.53584871, Recon=0.00048998, Cls=2.65240483,Acc=0.3083
+  Val   → Total=120.28262291, Recon=0.00046972, Cls=4.47978980, Acc=0.0937
+Saved checkpoint_epoch72.pt
+Epoch 73:
+  Train → Total=121.52726707, Recon=0.00048968, Cls=2.63550927,Acc=0.3129
+  Val   → Total=120.32384907, Recon=0.00046929, Cls=4.62734934, Acc=0.0903
+Saved checkpoint_epoch73.pt
+Epoch 74:
+  Train → Total=121.52553889, Recon=0.00048926, Cls=2.63283966,Acc=0.3164
+  Val   → Total=120.27868106, Recon=0.00046904, Cls=4.47154169, Acc=0.0953
+Saved checkpoint_epoch74.pt
+Epoch 75:
+  Train → Total=121.51875687, Recon=0.00048774, Cls=2.62489839,Acc=0.3138
+  Val   → Total=120.29598325, Recon=0.00046859, Cls=4.53441966, Acc=0.0953
+Saved checkpoint_epoch75.pt
+Epoch 76:
+  Train → Total=121.51620353, Recon=0.00048722, Cls=2.62240743,Acc=0.3157
+  Val   → Total=120.31240924, Recon=0.00046851, Cls=4.59274782, Acc=0.0948
+Saved checkpoint_epoch76.pt
+Epoch 77:
+  Train → Total=121.51390830, Recon=0.00048773, Cls=2.61561006,Acc=0.3215
+  Val   → Total=120.28442310, Recon=0.00046873, Cls=4.49416027, Acc=0.0987
+Saved checkpoint_epoch77.pt
+Epoch 78:
+  Train → Total=121.51755338, Recon=0.00048723, Cls=2.62402603,Acc=0.3183
+  Val   → Total=120.30119858, Recon=0.00046824, Cls=4.55536915, Acc=0.0970
+Saved checkpoint_epoch78.pt
+Epoch 79:
+  Train → Total=121.51071078, Recon=0.00048855, Cls=2.60600079,Acc=0.3210
+  Val   → Total=120.28662589, Recon=0.00046726, Cls=4.51204379, Acc=0.1003
+Saved checkpoint_epoch79.pt
+Epoch 80:
+  Train → Total=121.51104833, Recon=0.00048743, Cls=2.61201854,Acc=0.3202
+  Val   → Total=120.29285189, Recon=0.00046760, Cls=4.53104385, Acc=0.0937
+Saved checkpoint_epoch80.pt
+Epoch 81:
+  Train → Total=121.50730374, Recon=0.00048635, Cls=2.60740984,Acc=0.3176
+  Val   → Total=120.29417108, Recon=0.00046720, Cls=4.53888709, Acc=0.0998
+Saved checkpoint_epoch81.pt
+Epoch 82:
+  Train → Total=121.49631577, Recon=0.00048534, Cls=2.58973588,Acc=0.3196
+  Val   → Total=120.28279438, Recon=0.00046664, Cls=4.50372683, Acc=0.0964
+Saved checkpoint_epoch82.pt
+Epoch 83:
+  Train → Total=121.49203345, Recon=0.00048494, Cls=2.58492032,Acc=0.3268
+  Val   → Total=120.28587675, Recon=0.00046731, Cls=4.50935882, Acc=0.0992
+Saved checkpoint_epoch83.pt
+Epoch 84:
+  Train → Total=121.50672600, Recon=0.00048704, Cls=2.60439480,Acc=0.3171
+  Val   → Total=120.28264920, Recon=0.00046673, Cls=4.50259794, Acc=0.0998
+Saved checkpoint_epoch84.pt
+Epoch 85:
+  Train → Total=121.49919743, Recon=0.00048610, Cls=2.59386619,Acc=0.3209
+  Val   → Total=120.29635633, Recon=0.00046669, Cls=4.55050087, Acc=0.0986
+Saved checkpoint_epoch85.pt
+Epoch 86:
+  Train → Total=121.49802682, Recon=0.00048512, Cls=2.59433856,Acc=0.3224
+  Val   → Total=120.28848235, Recon=0.00046672, Cls=4.52296273, Acc=0.0959
+Saved checkpoint_epoch86.pt
+Epoch 87:
+  Train → Total=121.49242661, Recon=0.00048457, Cls=2.58634516,Acc=0.3217
+  Val   → Total=120.29074163, Recon=0.00046657, Cls=4.53158458, Acc=0.0981
+Saved checkpoint_epoch87.pt
+Epoch 88:
+  Train → Total=121.49535198, Recon=0.00048550, Cls=2.58660101,Acc=0.3238
+  Val   → Total=120.29519466, Recon=0.00046650, Cls=4.54776030, Acc=0.0986
+Saved checkpoint_epoch88.pt
+Epoch 89:
+  Train → Total=121.49372548, Recon=0.00048454, Cls=2.58980418,Acc=0.3214
+  Val   → Total=120.29283320, Recon=0.00046627, Cls=4.54124619, Acc=0.0981
+Saved checkpoint_epoch89.pt
+Epoch 90:
+  Train → Total=121.49729486, Recon=0.00048428, Cls=2.59629641,Acc=0.3173
+  Val   → Total=120.30080458, Recon=0.00046623, Cls=4.56921962, Acc=0.0964
+Saved checkpoint_epoch90.pt
+Epoch 91:
+  Train → Total=121.49908327, Recon=0.00048585, Cls=2.59498969,Acc=0.3210
+  Val   → Total=120.29553973, Recon=0.00046595, Cls=4.55308886, Acc=0.0986
+Saved checkpoint_epoch91.pt
+Epoch 92:
+  Train → Total=121.49137012, Recon=0.00048496, Cls=2.58287787,Acc=0.3210
+  Val   → Total=120.29516786, Recon=0.00046611, Cls=4.55051044, Acc=0.1014
+Saved checkpoint_epoch92.pt
+Epoch 93:
+  Train → Total=121.49468977, Recon=0.00048465, Cls=2.58826098,Acc=0.3211
+  Val   → Total=120.29159972, Recon=0.00046742, Cls=4.52826687, Acc=0.0998
+Saved checkpoint_epoch93.pt
+Epoch 94:
+  Train → Total=121.48936125, Recon=0.00048344, Cls=2.58451478,Acc=0.3266
+  Val   → Total=120.29632705, Recon=0.00046605, Cls=4.55493180, Acc=0.0981
+Saved checkpoint_epoch94.pt
+Epoch 95:
+  Train → Total=121.49207609, Recon=0.00048415, Cls=2.58712757,Acc=0.3237
+  Val   → Total=120.29705493, Recon=0.00046606, Cls=4.55749807, Acc=0.0998
+Saved checkpoint_epoch95.pt
+Epoch 96:
+  Train → Total=121.49273690, Recon=0.00048439, Cls=2.58845346,Acc=0.3232
+  Val   → Total=120.29316785, Recon=0.00046629, Cls=4.54226535, Acc=0.0964
+Saved checkpoint_epoch96.pt
+Epoch 97:
+  Train → Total=121.49908281, Recon=0.00048493, Cls=2.59859489,Acc=0.3178
+  Val   → Total=120.29712811, Recon=0.00046695, Cls=4.55129404, Acc=0.0981
+Saved checkpoint_epoch97.pt
+Epoch 98:
+  Train → Total=121.49192077, Recon=0.00048455, Cls=2.58697314,Acc=0.3261
+  Val   → Total=120.30150067, Recon=0.00046636, Cls=4.57087599, Acc=0.0992
+Saved checkpoint_epoch98.pt
+Epoch 99:
+  Train → Total=121.48385106, Recon=0.00048295, Cls=2.57537086,Acc=0.3253
+  Val   → Total=120.29828440, Recon=0.00046629, Cls=4.56003253, Acc=0.0975
+Saved checkpoint_epoch99.pt
+Epoch 100:
+  Train → Total=121.49497174, Recon=0.00048458, Cls=2.59270432,Acc=0.3203
+  Val   → Total=120.29440161, Recon=0.00046592, Cls=4.54936110, Acc=0.0964
+Saved checkpoint_epoch100.pt
+Epoch 101:
+  Train → Total=121.48820040, Recon=0.00048381, Cls=2.58049374,Acc=0.3249
+  Val   → Total=120.29670626, Recon=0.00046596, Cls=4.55714547, Acc=0.0964
+Saved checkpoint_epoch101.pt
+Epoch 102:
+  Train → Total=121.48677968, Recon=0.00048403, Cls=2.57545434,Acc=0.3241
+  Val   → Total=120.29297711, Recon=0.00046579, Cls=4.54544179, Acc=0.0959
+Saved checkpoint_epoch102.pt
+Epoch 103:
+  Train → Total=121.48829474, Recon=0.00048440, Cls=2.57796211,Acc=0.3261
+  Val   → Total=120.29486195, Recon=0.00046623, Cls=4.54855620, Acc=0.0981
+Saved checkpoint_epoch103.pt
+Epoch 104:
+  Train → Total=121.48820575, Recon=0.00048393, Cls=2.58100820,Acc=0.3216
+  Val   → Total=120.29781685, Recon=0.00046592, Cls=4.56127078, Acc=0.0992
+Saved checkpoint_epoch104.pt
+Epoch 105:
+  Train → Total=121.49007091, Recon=0.00048475, Cls=2.58146755,Acc=0.3264
+  Val   → Total=120.29531310, Recon=0.00046652, Cls=4.54786237, Acc=0.0992
+Saved checkpoint_epoch105.pt
+Epoch 106:
+  Train → Total=121.48860257, Recon=0.00048455, Cls=2.57680267,Acc=0.3279
+  Val   → Total=120.29714562, Recon=0.00046579, Cls=4.55980412, Acc=0.0986
+Saved checkpoint_epoch106.pt
+Epoch 107:
+  Train → Total=121.48870637, Recon=0.00048401, Cls=2.58099642,Acc=0.3236
+  Val   → Total=120.29638615, Recon=0.00046608, Cls=4.55508871, Acc=0.0953
+Saved checkpoint_epoch107.pt
+Epoch 108:
+  Train → Total=121.49018017, Recon=0.00048457, Cls=2.58112872,Acc=0.3195
+  Val   → Total=120.29846446, Recon=0.00046603, Cls=4.56267700, Acc=0.0975
+Saved checkpoint_epoch108.pt
+Epoch 109:
+  Train → Total=121.48648426, Recon=0.00048336, Cls=2.57984621,Acc=0.3270
+  Val   → Total=120.29637518, Recon=0.00046614, Cls=4.55454381, Acc=0.0992
+Saved checkpoint_epoch109.pt
+Epoch 110:
+  Train → Total=121.48780858, Recon=0.00048495, Cls=2.57732310,Acc=0.3236
+  Val   → Total=120.29349836, Recon=0.00046614, Cls=4.54445318, Acc=0.0975
+Saved checkpoint_epoch110.pt
+Epoch 111:
+  Train → Total=121.49350601, Recon=0.00048372, Cls=2.59193765,Acc=0.3248
+  Val   → Total=120.29848270, Recon=0.00046618, Cls=4.56171395, Acc=0.0975
+Saved checkpoint_epoch111.pt
+Epoch 112:
+  Train → Total=121.48435870, Recon=0.00048296, Cls=2.57529510,Acc=0.3234
+  Val   → Total=120.29486745, Recon=0.00046619, Cls=4.54905284, Acc=0.0953
+Saved checkpoint_epoch112.pt
+Epoch 113:
+  Train → Total=121.48230227, Recon=0.00048255, Cls=2.57344012,Acc=0.3289
+  Val   → Total=120.29804913, Recon=0.00046613, Cls=4.56049983, Acc=0.0986
+Saved checkpoint_epoch113.pt
+Epoch 114:
+  Train → Total=121.49253261, Recon=0.00048386, Cls=2.59042342,Acc=0.3243
+  Val   → Total=120.29529699, Recon=0.00046563, Cls=4.55470683, Acc=0.0981
+Saved checkpoint_epoch114.pt
+Epoch 115:
+  Train → Total=121.49264357, Recon=0.00048458, Cls=2.58743038,Acc=0.3238
+  Val   → Total=120.29445384, Recon=0.00046581, Cls=4.55047855, Acc=0.0975
+Saved checkpoint_epoch115.pt
+Epoch 116:
+  Train → Total=121.48966470, Recon=0.00048397, Cls=2.58121463,Acc=0.3201
+  Val   → Total=120.29637321, Recon=0.00046640, Cls=4.55247517, Acc=0.1009
+Saved checkpoint_epoch116.pt
+Epoch 117:
+  Train → Total=121.48968900, Recon=0.00048395, Cls=2.58213108,Acc=0.3250
+  Val   → Total=120.30067730, Recon=0.00046584, Cls=4.57184006, Acc=0.0953
+Saved checkpoint_epoch117.pt
+Epoch 118:
+  Train → Total=121.49183545, Recon=0.00048393, Cls=2.58784080,Acc=0.3215
+  Val   → Total=120.29401013, Recon=0.00046592, Cls=4.54799856, Acc=0.0986
+Saved checkpoint_epoch118.pt
+Epoch 119:
+  Train → Total=121.48412814, Recon=0.00048362, Cls=2.57380593,Acc=0.3290
+  Val   → Total=120.29456466, Recon=0.00046606, Cls=4.54886134, Acc=0.0964
+Saved checkpoint_epoch119.pt
+Epoch 120:
+  Train → Total=121.48735482, Recon=0.00048347, Cls=2.57854447,Acc=0.3241
+  Val   → Total=120.29323816, Recon=0.00046574, Cls=4.54669069, Acc=0.0959
+Saved checkpoint_epoch120.pt
+Epoch 121:
+  Train → Total=121.49008481, Recon=0.00048316, Cls=2.58643690,Acc=0.3212
+  Val   → Total=120.29728950, Recon=0.00046575, Cls=4.56063884, Acc=0.1003
+Saved checkpoint_epoch121.pt
+Epoch 122:
+  Train → Total=121.48742589, Recon=0.00048349, Cls=2.58039600,Acc=0.3237
+  Val   → Total=120.29653804, Recon=0.00046574, Cls=4.55811192, Acc=0.0981
+Saved checkpoint_epoch122.pt
+Epoch 123:
+  Train → Total=121.49409486, Recon=0.00048422, Cls=2.58969408,Acc=0.3262
+  Val   → Total=120.29778732, Recon=0.00046605, Cls=4.56006041, Acc=0.1003
+Saved checkpoint_epoch123.pt
+Epoch 124:
+  Train → Total=121.49179623, Recon=0.00048347, Cls=2.58912807,Acc=0.3221
+  Val   → Total=120.29815207, Recon=0.00046613, Cls=4.56081734, Acc=0.0975
+Saved checkpoint_epoch124.pt
+Epoch 125:
+  Train → Total=121.48822173, Recon=0.00048362, Cls=2.58023503,Acc=0.3203
+  Val   → Total=120.29392770, Recon=0.00046575, Cls=4.54892778, Acc=0.0992
+Saved checkpoint_epoch125.pt
+Epoch 126:
+  Train → Total=121.49978002, Recon=0.00048472, Cls=2.60131126,Acc=0.3206
+  Val   → Total=120.29349117, Recon=0.00046567, Cls=4.54801375, Acc=0.0986
+Saved checkpoint_epoch126.pt
+Epoch 127:
+  Train → Total=121.48728879, Recon=0.00048362, Cls=2.57959739,Acc=0.3228
+  Val   → Total=120.29731331, Recon=0.00046592, Cls=4.55960226, Acc=0.0975
+Saved checkpoint_epoch127.pt
+Epoch 128:
+  Train → Total=121.48808772, Recon=0.00048298, Cls=2.58420465,Acc=0.3223
+  Val   → Total=120.29640385, Recon=0.00046607, Cls=4.55534414, Acc=0.0970
+Saved checkpoint_epoch128.pt
+Epoch 129:
+  Train → Total=121.48224825, Recon=0.00048477, Cls=2.56587098,Acc=0.3296
+  Val   → Total=120.29407918, Recon=0.00046602, Cls=4.54767901, Acc=0.0975
+Saved checkpoint_epoch129.pt
+Epoch 130:
+  Train → Total=121.48491350, Recon=0.00048412, Cls=2.57515436,Acc=0.3241
+  Val   → Total=120.29871613, Recon=0.00046616, Cls=4.56254390, Acc=0.0964
+Saved checkpoint_epoch130.pt
+Epoch 131:
+  Train → Total=121.49837828, Recon=0.00048554, Cls=2.59387078,Acc=0.3219
+  Val   → Total=120.29498018, Recon=0.00046588, Cls=4.55169207, Acc=0.0964
+Saved checkpoint_epoch131.pt
+Epoch 132:
+  Train → Total=121.48395024, Recon=0.00048365, Cls=2.57343026,Acc=0.3269
+  Val   → Total=120.29360758, Recon=0.00046584, Cls=4.54711539, Acc=0.1003
+Saved checkpoint_epoch132.pt
+Epoch 133:
+  Train → Total=121.49335178, Recon=0.00048365, Cls=2.59089042,Acc=0.3199
+  Val   → Total=120.29313100, Recon=0.00046626, Cls=4.54237521, Acc=0.0981
+Saved checkpoint_epoch133.pt
+Epoch 134:
+  Train → Total=121.49174704, Recon=0.00048414, Cls=2.58723501,Acc=0.3248
+  Val   → Total=120.29485916, Recon=0.00046618, Cls=4.54919389, Acc=0.0964
+Saved checkpoint_epoch134.pt
+Epoch 135:
+  Train → Total=121.48371317, Recon=0.00048512, Cls=2.56609751,Acc=0.3304
+  Val   → Total=120.29892613, Recon=0.00046633, Cls=4.56213233, Acc=0.0970
+Saved checkpoint_epoch135.pt
+Epoch 136:
+  Train → Total=121.48884486, Recon=0.00048360, Cls=2.58199184,Acc=0.3185
+  Val   → Total=120.29620094, Recon=0.00046592, Cls=4.55558163, Acc=0.0981
+Saved checkpoint_epoch136.pt
+Epoch 137:
+  Train → Total=121.49103160, Recon=0.00048445, Cls=2.58406872,Acc=0.3250
+  Val   → Total=120.29290489, Recon=0.00046588, Cls=4.54445060, Acc=0.0975
+Saved checkpoint_epoch137.pt
+Epoch 138:
+  Train → Total=121.49232663, Recon=0.00048420, Cls=2.58985271,Acc=0.3237
+  Val   → Total=120.29661862, Recon=0.00046578, Cls=4.55821095, Acc=0.0959
+Saved checkpoint_epoch138.pt
+Epoch 139:
+  Train → Total=121.48874273, Recon=0.00048420, Cls=2.57978687,Acc=0.3257
+  Val   → Total=120.29277321, Recon=0.00046559, Cls=4.54607242, Acc=0.1003
+Saved checkpoint_epoch139.pt
+Epoch 140:
+  Train → Total=121.48672615, Recon=0.00048277, Cls=2.58152644,Acc=0.3233
+  Val   → Total=120.29413277, Recon=0.00046595, Cls=4.54821927, Acc=0.0981
+Saved checkpoint_epoch140.pt
+Epoch 141:
+  Train → Total=121.49223488, Recon=0.00048458, Cls=2.58460205,Acc=0.3252
+  Val   → Total=120.29491952, Recon=0.00046582, Cls=4.55190471, Acc=0.0981
+Saved checkpoint_epoch141.pt
+Epoch 142:
+  Train → Total=121.48759452, Recon=0.00048323, Cls=2.58213027,Acc=0.3191
+  Val   → Total=120.29879516, Recon=0.00046592, Cls=4.56454531, Acc=0.0992
+Saved checkpoint_epoch142.pt
+Epoch 143:
+  Train → Total=121.48465404, Recon=0.00048363, Cls=2.57575390,Acc=0.3231
+  Val   → Total=120.29413554, Recon=0.00046575, Cls=4.54971434, Acc=0.0964
+Saved checkpoint_epoch143.pt
+Epoch 144:
+  Train → Total=121.48334960, Recon=0.00048438, Cls=2.57000211,Acc=0.3262
+  Val   → Total=120.29519850, Recon=0.00046609, Cls=4.55092573, Acc=0.0959
+Saved checkpoint_epoch144.pt
+Epoch 145:
+  Train → Total=121.49013111, Recon=0.00048484, Cls=2.58121594,Acc=0.3216
+  Val   → Total=120.29576429, Recon=0.00046609, Cls=4.55294189, Acc=0.0970
+Saved checkpoint_epoch145.pt
+Epoch 146:
+  Train → Total=121.48747269, Recon=0.00048327, Cls=2.58233648,Acc=0.3232
+  Val   → Total=120.29699141, Recon=0.00046675, Cls=4.55216576, Acc=0.0959
+Saved checkpoint_epoch146.pt
+Epoch 147:
+  Train → Total=121.49329432, Recon=0.00048356, Cls=2.59004899,Acc=0.3214
+  Val   → Total=120.29356413, Recon=0.00046612, Cls=4.54486380, Acc=0.0975
+Saved checkpoint_epoch147.pt
+Epoch 148:
+  Train → Total=121.49247988, Recon=0.00048389, Cls=2.58745658,Acc=0.3240
+  Val   → Total=120.29715560, Recon=0.00046623, Cls=4.55653044, Acc=0.0992
+Saved checkpoint_epoch148.pt
+Epoch 149:
+  Train → Total=121.48755011, Recon=0.00048383, Cls=2.57795465,Acc=0.3245
+  Val   → Total=120.29683148, Recon=0.00046576, Cls=4.55903842, Acc=0.0986
+Saved checkpoint_epoch149.pt
+Epoch 150:
+  Train → Total=121.48597930, Recon=0.00048446, Cls=2.57466215,Acc=0.3215
+  Val   → Total=120.29383539, Recon=0.00046646, Cls=4.54342086, Acc=0.0986
+Saved checkpoint_epoch150.pt
+Epoch 151:
+  Train → Total=121.49137222, Recon=0.00048399, Cls=2.58614864,Acc=0.3244
+  Val   → Total=120.30058839, Recon=0.00046686, Cls=4.56400197, Acc=0.0981
+Saved checkpoint_epoch151.pt
+Epoch 152:
+  Train → Total=121.48498052, Recon=0.00048383, Cls=2.57476994,Acc=0.3288
+  Val   → Total=120.29592028, Recon=0.00046581, Cls=4.55548906, Acc=0.0975
+Saved checkpoint_epoch152.pt
+Epoch 153:
+  Train → Total=121.48062683, Recon=0.00048353, Cls=2.56615728,Acc=0.3281
+  Val   → Total=120.29771531, Recon=0.00046593, Cls=4.56076724, Acc=0.0981
+Saved checkpoint_epoch153.pt
+Epoch 154:
+  Train → Total=121.49501463, Recon=0.00048415, Cls=2.59318901,Acc=0.3191
+  Val   → Total=120.29604158, Recon=0.00046589, Cls=4.55537952, Acc=0.0959
+Saved checkpoint_epoch154.pt
+Epoch 155:
+  Train → Total=121.47977960, Recon=0.00048321, Cls=2.56630420,Acc=0.3268
+  Val   → Total=120.29227098, Recon=0.00046564, Cls=4.54417238, Acc=0.0981
+Saved checkpoint_epoch155.pt
+Epoch 156:
+  Train → Total=121.48289620, Recon=0.00048355, Cls=2.57143847,Acc=0.3261
+  Val   → Total=120.29602222, Recon=0.00046615, Cls=4.55322231, Acc=0.0992
+Saved checkpoint_epoch156.pt
+Epoch 157:
+  Train → Total=121.48457248, Recon=0.00048310, Cls=2.57696017,Acc=0.3231
+  Val   → Total=120.29731779, Recon=0.00046616, Cls=4.55778608, Acc=0.0975
+Saved checkpoint_epoch157.pt
+Epoch 158:
+  Train → Total=121.48365908, Recon=0.00048411, Cls=2.57167873,Acc=0.3258
+  Val   → Total=120.29869258, Recon=0.00046616, Cls=4.56255550, Acc=0.0986
+Saved checkpoint_epoch158.pt
+Epoch 159:
+  Train → Total=121.48345022, Recon=0.00048353, Cls=2.57236526,Acc=0.3242
+  Val   → Total=120.29782499, Recon=0.00046617, Cls=4.55942154, Acc=0.0981
+Saved checkpoint_epoch159.pt
+Epoch 160:
+  Train → Total=121.49207322, Recon=0.00048415, Cls=2.58738613,Acc=0.3223
+  Val   → Total=120.29736605, Recon=0.00046598, Cls=4.55937974, Acc=0.0975
+Saved checkpoint_epoch160.pt
+Epoch 161:
+  Train → Total=121.47385135, Recon=0.00048333, Cls=2.55452307,Acc=0.3262
+  Val   → Total=120.29821075, Recon=0.00046575, Cls=4.56388248, Acc=0.0986
+Saved checkpoint_epoch161.pt
+Epoch 162:
+  Train → Total=121.48737621, Recon=0.00048328, Cls=2.58004073,Acc=0.3219
+  Val   → Total=120.29112275, Recon=0.00046617, Cls=4.53618250, Acc=0.0953
+Saved checkpoint_epoch162.pt
+Epoch 163:
+  Train → Total=121.48903732, Recon=0.00048435, Cls=2.57832770,Acc=0.3240
+  Val   → Total=120.29431114, Recon=0.00046573, Cls=4.55052582, Acc=0.0964
+Saved checkpoint_epoch163.pt
+Epoch 164:
+  Train → Total=121.49347330, Recon=0.00048439, Cls=2.58759927,Acc=0.3207
+  Val   → Total=120.29439443, Recon=0.00046590, Cls=4.54947939, Acc=0.0998
+Saved checkpoint_epoch164.pt
+Epoch 165:
+  Train → Total=121.48267594, Recon=0.00048427, Cls=2.56804965,Acc=0.3261
+  Val   → Total=120.30045592, Recon=0.00046614, Cls=4.56876195, Acc=0.0992
+Saved checkpoint_epoch165.pt
+Epoch 166:
+  Train → Total=121.48725660, Recon=0.00048411, Cls=2.57845113,Acc=0.3268
+  Val   → Total=120.29279804, Recon=0.00046563, Cls=4.54592686, Acc=0.0986
+Saved checkpoint_epoch166.pt
+Epoch 167:
+  Train → Total=121.48592906, Recon=0.00048417, Cls=2.57616525,Acc=0.3244
+  Val   → Total=120.29324433, Recon=0.00046569, Cls=4.54700848, Acc=0.0998
+Saved checkpoint_epoch167.pt
+Epoch 168:
+  Train → Total=121.49061883, Recon=0.00048357, Cls=2.58494646,Acc=0.3256
+  Val   → Total=120.29420369, Recon=0.00046648, Cls=4.54439303, Acc=0.0959
+Saved checkpoint_epoch168.pt
+Epoch 169:
+  Train → Total=121.48606816, Recon=0.00048385, Cls=2.57700291,Acc=0.3249
+  Val   → Total=120.29409027, Recon=0.00046624, Cls=4.54594256, Acc=0.0964
+Saved checkpoint_epoch169.pt
+Epoch 170:
+  Train → Total=121.49346492, Recon=0.00048419, Cls=2.58917546,Acc=0.3243
+  Val   → Total=120.29598878, Recon=0.00046635, Cls=4.55179914, Acc=0.0953
+Saved checkpoint_epoch170.pt
+Epoch 171:
+  Train → Total=121.49066213, Recon=0.00048259, Cls=2.59036209,Acc=0.3234
+  Val   → Total=120.29633884, Recon=0.00046596, Cls=4.55595900, Acc=0.0959
+Saved checkpoint_epoch171.pt
+Epoch 172:
+  Train → Total=121.48451184, Recon=0.00048290, Cls=2.57688536,Acc=0.3288
+  Val   → Total=120.30045077, Recon=0.00046663, Cls=4.56492631, Acc=0.0975
+Saved checkpoint_epoch172.pt
+Epoch 173:
+  Train → Total=121.49674446, Recon=0.00048457, Cls=2.59524789,Acc=0.3229
+  Val   → Total=120.29883518, Recon=0.00046603, Cls=4.56397765, Acc=0.0986
+Saved checkpoint_epoch173.pt
+Epoch 174:
+  Train → Total=121.48560406, Recon=0.00048488, Cls=2.57331722,Acc=0.3259
+  Val   → Total=120.29869464, Recon=0.00046606, Cls=4.56312943, Acc=0.0970
+Saved checkpoint_epoch174.pt
+Epoch 175:
+  Train → Total=121.48180969, Recon=0.00048305, Cls=2.57166056,Acc=0.3264
+  Val   → Total=120.29502939, Recon=0.00046597, Cls=4.55111284, Acc=0.0981
+Saved checkpoint_epoch175.pt
+Epoch 176:
+  Train → Total=121.47804463, Recon=0.00048429, Cls=2.55946516,Acc=0.3264
+  Val   → Total=120.29714289, Recon=0.00046601, Cls=4.55826527, Acc=0.0981
+Saved checkpoint_epoch176.pt
+Epoch 177:
+  Train → Total=121.48981844, Recon=0.00048426, Cls=2.58134661,Acc=0.3232
+  Val   → Total=120.29298134, Recon=0.00046601, Cls=4.54382960, Acc=0.0970
+Saved checkpoint_epoch177.pt
+Epoch 178:
+  Train → Total=121.49287531, Recon=0.00048491, Cls=2.58555981,Acc=0.3291
+  Val   → Total=120.29684865, Recon=0.00046620, Cls=4.55581481, Acc=0.0998
+Saved checkpoint_epoch178.pt
+Epoch 179:
+  Train → Total=121.48867483, Recon=0.00048288, Cls=2.58416544,Acc=0.3208
+  Val   → Total=120.29809291, Recon=0.00046638, Cls=4.55878064, Acc=0.0986
+Saved checkpoint_epoch179.pt
+Epoch 180:
+  Train → Total=121.49022160, Recon=0.00048322, Cls=2.58635407,Acc=0.3199
+  Val   → Total=120.29347013, Recon=0.00046600, Cls=4.54562826, Acc=0.0975
+Saved checkpoint_epoch180.pt
+Epoch 181:
+  Train → Total=121.48594261, Recon=0.00048395, Cls=2.57564382,Acc=0.3223
+  Val   → Total=120.29701808, Recon=0.00046636, Cls=4.55515200, Acc=0.0964
+Saved checkpoint_epoch181.pt
+Epoch 182:
+  Train → Total=121.48462482, Recon=0.00048370, Cls=2.57313624,Acc=0.3268
+  Val   → Total=120.29989541, Recon=0.00046579, Cls=4.56934608, Acc=0.0975
+Saved checkpoint_epoch182.pt
+Epoch 183:
+  Train → Total=121.48540305, Recon=0.00048377, Cls=2.57640399,Acc=0.3254
+  Val   → Total=120.29588470, Recon=0.00046621, Cls=4.55245635, Acc=0.0981
+Saved checkpoint_epoch183.pt
+Epoch 184:
+  Train → Total=121.48842910, Recon=0.00048414, Cls=2.57940861,Acc=0.3245
+  Val   → Total=120.29252774, Recon=0.00046566, Cls=4.54481990, Acc=0.0975
+Saved checkpoint_epoch184.pt
+Epoch 185:
+  Train → Total=121.48895120, Recon=0.00048360, Cls=2.58208864,Acc=0.3237
+  Val   → Total=120.29603459, Recon=0.00046596, Cls=4.55466423, Acc=0.0975
+Saved checkpoint_epoch185.pt
+Epoch 186:
+  Train → Total=121.49450349, Recon=0.00048412, Cls=2.59187732,Acc=0.3242
+  Val   → Total=120.29623496, Recon=0.00046620, Cls=4.55372988, Acc=0.0953
+Saved checkpoint_epoch186.pt
+Epoch 187:
+  Train → Total=121.49107713, Recon=0.00048401, Cls=2.58615050,Acc=0.3220
+  Val   → Total=120.30171779, Recon=0.00046800, Cls=4.55935837, Acc=0.0970
+Saved checkpoint_epoch187.pt
+Epoch 188:
+  Train → Total=121.48238775, Recon=0.00048325, Cls=2.57118700,Acc=0.3272
+  Val   → Total=120.29840066, Recon=0.00046599, Cls=4.56281102, Acc=0.0981
+Saved checkpoint_epoch188.pt
+Epoch 189:
+  Train → Total=121.48624412, Recon=0.00048430, Cls=2.57568599,Acc=0.3245
+  Val   → Total=120.29406230, Recon=0.00046596, Cls=4.54790007, Acc=0.0970
+Saved checkpoint_epoch189.pt
+Epoch 190:
+  Train → Total=121.48901288, Recon=0.00048394, Cls=2.58231771,Acc=0.3254
+  Val   → Total=120.29938679, Recon=0.00046668, Cls=4.56124048, Acc=0.0986
+Saved checkpoint_epoch190.pt
+Epoch 191:
+  Train → Total=121.47924884, Recon=0.00048425, Cls=2.56176857,Acc=0.3259
+  Val   → Total=120.30645135, Recon=0.00046638, Cls=4.58787162, Acc=0.0986
+Saved checkpoint_epoch191.pt
+Epoch 192:
+  Train → Total=121.48961530, Recon=0.00048484, Cls=2.57849919,Acc=0.3247
+  Val   → Total=120.29664777, Recon=0.00046604, Cls=4.55628541, Acc=0.0998
+Saved checkpoint_epoch192.pt
+Epoch 193:
+  Train → Total=121.48917561, Recon=0.00048436, Cls=2.58004958,Acc=0.3216
+  Val   → Total=120.29611546, Recon=0.00046629, Cls=4.55260019, Acc=0.0986
+Saved checkpoint_epoch193.pt
+Epoch 194:
+  Train → Total=121.48673832, Recon=0.00048378, Cls=2.58006738,Acc=0.3244
+  Val   → Total=120.29575771, Recon=0.00046584, Cls=4.55465968, Acc=0.0986
+Saved checkpoint_epoch194.pt
+Epoch 195:
+  Train → Total=121.49196989, Recon=0.00048433, Cls=2.58504289,Acc=0.3261
+  Val   → Total=120.29654630, Recon=0.00046674, Cls=4.55061747, Acc=0.0981
+Saved checkpoint_epoch195.pt
+Epoch 196:
+  Train → Total=121.48621125, Recon=0.00048377, Cls=2.57822362,Acc=0.3221
+  Val   → Total=120.29393934, Recon=0.00046558, Cls=4.55020796, Acc=0.0981
+Saved checkpoint_epoch196.pt
+Epoch 197:
+  Train → Total=121.48910252, Recon=0.00048345, Cls=2.58470738,Acc=0.3256
+  Val   → Total=120.29835523, Recon=0.00046593, Cls=4.56309341, Acc=0.0959
+Saved checkpoint_epoch197.pt
+Epoch 198:
+  Train → Total=121.48704624, Recon=0.00048369, Cls=2.57898808,Acc=0.3255
+  Val   → Total=120.29879802, Recon=0.00046604, Cls=4.56398916, Acc=0.0970
+Saved checkpoint_epoch198.pt
+Epoch 199:
+  Train → Total=121.48353381, Recon=0.00048356, Cls=2.57343003,Acc=0.3244
+  Val   → Total=120.29622752, Recon=0.00046604, Cls=4.55491374, Acc=0.0953
+Saved checkpoint_epoch199.pt
+Epoch 200:
+  Train → Total=121.48453361, Recon=0.00048367, Cls=2.57487057,Acc=0.3249
+  Val   → Total=120.29614477, Recon=0.00046588, Cls=4.55563628, Acc=0.0992
+Saved checkpoint_epoch200.pt
+Epoch 201:
+  Train → Total=121.49085674, Recon=0.00048409, Cls=2.58356192,Acc=0.3206
+  Val   → Total=120.29554132, Recon=0.00046607, Cls=4.55228341, Acc=0.0981
+Saved checkpoint_epoch201.pt
+Epoch 202:
+  Train → Total=121.48615881, Recon=0.00048372, Cls=2.57801878,Acc=0.3262
+  Val   → Total=120.29393196, Recon=0.00046575, Cls=4.54913155, Acc=0.0986
+Saved checkpoint_epoch202.pt
+Epoch 203:
+  Train → Total=121.49029117, Recon=0.00048358, Cls=2.58486532,Acc=0.3271
+  Val   → Total=120.29336850, Recon=0.00046608, Cls=4.54478741, Acc=0.0986
+Saved checkpoint_epoch203.pt
+Epoch 204:
+  Train → Total=121.48906302, Recon=0.00048427, Cls=2.58166319,Acc=0.3213
+  Val   → Total=120.29409208, Recon=0.00046620, Cls=4.54636240, Acc=0.0942
+Saved checkpoint_epoch204.pt
+Epoch 205:
+  Train → Total=121.48836501, Recon=0.00048483, Cls=2.57641371,Acc=0.3233
+  Val   → Total=120.29431086, Recon=0.00046592, Cls=4.54908276, Acc=0.0981
+Saved checkpoint_epoch205.pt
+Epoch 206:
+  Train → Total=121.48422079, Recon=0.00048389, Cls=2.57185662,Acc=0.3252
+  Val   → Total=120.29605335, Recon=0.00046598, Cls=4.55465066, Acc=0.0981
+Saved checkpoint_epoch206.pt
+Epoch 207:
+  Train → Total=121.48454143, Recon=0.00048303, Cls=2.57641325,Acc=0.3243
+  Val   → Total=120.29759677, Recon=0.00046605, Cls=4.55952368, Acc=0.0981
+Saved checkpoint_epoch207.pt
+Epoch 208:
+  Train → Total=121.48998149, Recon=0.00048457, Cls=2.58290465,Acc=0.3223
+  Val   → Total=120.29490821, Recon=0.00046578, Cls=4.55221252, Acc=0.0964
+Saved checkpoint_epoch208.pt
+Epoch 209:
+  Train → Total=121.48173375, Recon=0.00048321, Cls=2.57108852,Acc=0.3269
+  Val   → Total=120.29560862, Recon=0.00046559, Cls=4.55609465, Acc=0.0953
+Saved checkpoint_epoch209.pt
+Epoch 210:
+  Train → Total=121.49485720, Recon=0.00048438, Cls=2.59333796,Acc=0.3198
+  Val   → Total=120.29754012, Recon=0.00046618, Cls=4.55827297, Acc=0.0992
+Saved checkpoint_epoch210.pt
+Epoch 211:
+  Train → Total=121.49110272, Recon=0.00048409, Cls=2.58548421,Acc=0.3174
+  Val   → Total=120.29634841, Recon=0.00046586, Cls=4.55651731, Acc=0.1003
+Saved checkpoint_epoch211.pt
+Epoch 212:
+  Train → Total=121.48756010, Recon=0.00048418, Cls=2.57790678,Acc=0.3226
+  Val   → Total=120.29561790, Recon=0.00046563, Cls=4.55572697, Acc=0.0992
+Saved checkpoint_epoch212.pt
+Epoch 213:
+  Train → Total=121.48337644, Recon=0.00048362, Cls=2.57139954,Acc=0.3281
+  Val   → Total=120.30129658, Recon=0.00046611, Cls=4.57200670, Acc=0.0986
+Saved checkpoint_epoch213.pt
+Epoch 214:
+  Train → Total=121.48604757, Recon=0.00048466, Cls=2.57391926,Acc=0.3231
+  Val   → Total=120.29704231, Recon=0.00046600, Cls=4.55798232, Acc=0.0975
+Saved checkpoint_epoch214.pt
+Epoch 215:
+  Train → Total=121.48929636, Recon=0.00048412, Cls=2.58132936,Acc=0.3247
+  Val   → Total=120.29413392, Recon=0.00046573, Cls=4.54970210, Acc=0.1003
+Saved checkpoint_epoch215.pt
+Epoch 216:
+  Train → Total=121.49145515, Recon=0.00048405, Cls=2.58556186,Acc=0.3248
+  Val   → Total=120.29682849, Recon=0.00046589, Cls=4.55791960, Acc=0.0964
+Saved checkpoint_epoch216.pt
+Epoch 217:
+  Train → Total=121.48851480, Recon=0.00048328, Cls=2.58193794,Acc=0.3222
+  Val   → Total=120.29676148, Recon=0.00046620, Cls=4.55539347, Acc=0.0992
+Saved checkpoint_epoch217.pt
+Epoch 218:
+  Train → Total=121.48745606, Recon=0.00048402, Cls=2.57865044,Acc=0.3266
+  Val   → Total=120.29268239, Recon=0.00046639, Cls=4.53993715, Acc=0.0981
+Saved checkpoint_epoch218.pt
+Epoch 219:
+  Train → Total=121.48669628, Recon=0.00048467, Cls=2.57403925,Acc=0.3239
+  Val   → Total=120.29987564, Recon=0.00046633, Cls=4.56527618, Acc=0.0964
+Saved checkpoint_epoch219.pt
+Epoch 220:
+  Train → Total=121.49260225, Recon=0.00048475, Cls=2.58632526,Acc=0.3216
+  Val   → Total=120.29658012, Recon=0.00046591, Cls=4.55698557, Acc=0.0981
+Saved checkpoint_epoch220.pt
+Epoch 221:
+  Train → Total=121.48454732, Recon=0.00048376, Cls=2.57325472,Acc=0.3258
+  Val   → Total=120.29717115, Recon=0.00046610, Cls=4.55760482, Acc=0.0975
+Saved checkpoint_epoch221.pt
+Epoch 222:
+  Train → Total=121.48419464, Recon=0.00048412, Cls=2.57085035,Acc=0.3227
+  Val   → Total=120.29397863, Recon=0.00046572, Cls=4.54943873, Acc=0.0975
+Saved checkpoint_epoch222.pt
+Epoch 223:
+  Train → Total=121.48859869, Recon=0.00048410, Cls=2.58064113,Acc=0.3283
+  Val   → Total=120.30245361, Recon=0.00046650, Cls=4.57312237, Acc=0.0992
+Saved checkpoint_epoch223.pt

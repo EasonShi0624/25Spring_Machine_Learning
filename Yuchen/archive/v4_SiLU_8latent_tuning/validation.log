@@ -1,0 +1,1128 @@
+[Epoch 1] lr=9.99e-04  val_recon=0.022967  val_cls=4.990981  val_center=3597.982108  val_perc=0.003541
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch1.pt
+[Epoch 2] lr=9.96e-04  val_recon=0.011902  val_cls=4.917001  val_center=3133.585961  val_perc=0.002931
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch2.pt
+[Epoch 3] lr=9.91e-04  val_recon=0.026767  val_cls=4.917986  val_center=2726.933729  val_perc=0.003058
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch3.pt
+[Epoch 4] lr=9.84e-04  val_recon=0.008268  val_cls=4.862019  val_center=2374.882771  val_perc=0.001734
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch4.pt
+[Epoch 5] lr=9.76e-04  val_recon=0.006069  val_cls=4.865158  val_center=2069.935179  val_perc=0.001503
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch5.pt
+[Epoch 6] lr=9.65e-04  val_recon=0.024298  val_cls=4.844771  val_center=1809.597293  val_perc=0.002810
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch6.pt
+[Epoch 7] lr=9.52e-04  val_recon=0.005748  val_cls=4.819899  val_center=1579.883768  val_perc=0.001328
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch7.pt
+[Epoch 8] lr=9.38e-04  val_recon=0.012803  val_cls=4.835300  val_center=1384.673047  val_perc=0.001771
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch8.pt
+[Epoch 9] lr=9.22e-04  val_recon=0.015969  val_cls=5.096826  val_center=1225.325379  val_perc=0.002134
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch9.pt
+[Epoch 10] lr=9.05e-04  val_recon=0.005370  val_cls=4.794692  val_center=1066.132365  val_perc=0.000972
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch10.pt
+[Epoch 11] lr=8.85e-04  val_recon=0.005200  val_cls=4.788234  val_center=938.629251  val_perc=0.001028
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch11.pt
+[Epoch 12] lr=8.65e-04  val_recon=0.003983  val_cls=4.764060  val_center=827.951490  val_perc=0.000947
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch12.pt
+[Epoch 13] lr=8.42e-04  val_recon=0.006830  val_cls=4.729349  val_center=734.344841  val_perc=0.001341
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch13.pt
+[Epoch 14] lr=8.19e-04  val_recon=0.003852  val_cls=4.743229  val_center=648.502629  val_perc=0.000740
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch14.pt
+[Epoch 15] lr=7.94e-04  val_recon=0.005362  val_cls=4.743251  val_center=576.086951  val_perc=0.000982
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch15.pt
+[Epoch 16] lr=7.68e-04  val_recon=0.004559  val_cls=4.749415  val_center=513.025529  val_perc=0.000943
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch16.pt
+[Epoch 17] lr=7.41e-04  val_recon=0.003623  val_cls=4.711283  val_center=458.225446  val_perc=0.000861
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch17.pt
+[Epoch 18] lr=7.13e-04  val_recon=0.003113  val_cls=4.687734  val_center=410.106569  val_perc=0.000701
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch18.pt
+[Epoch 19] lr=6.84e-04  val_recon=0.004148  val_cls=4.677986  val_center=368.321230  val_perc=0.000766
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch19.pt
+[Epoch 20] lr=6.55e-04  val_recon=0.007118  val_cls=4.743021  val_center=332.410722  val_perc=0.001361
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch20.pt
+[Epoch 21] lr=6.25e-04  val_recon=0.004088  val_cls=4.680034  val_center=300.317455  val_perc=0.000813
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch21.pt
+[Epoch 22] lr=5.94e-04  val_recon=0.003305  val_cls=4.673250  val_center=272.263106  val_perc=0.000693
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch22.pt
+[Epoch 23] lr=5.63e-04  val_recon=0.002963  val_cls=4.643906  val_center=248.044913  val_perc=0.000602
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch23.pt
+[Epoch 24] lr=5.32e-04  val_recon=0.002030  val_cls=4.625535  val_center=226.379409  val_perc=0.000515
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch24.pt
+[Epoch 25] lr=5.01e-04  val_recon=0.003474  val_cls=4.631158  val_center=207.754050  val_perc=0.000800
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch25.pt
+[Epoch 26] lr=4.69e-04  val_recon=0.002701  val_cls=4.623716  val_center=191.333295  val_perc=0.000606
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch26.pt
+[Epoch 27] lr=4.38e-04  val_recon=0.003134  val_cls=4.611914  val_center=176.895838  val_perc=0.000746
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch27.pt
+[Epoch 28] lr=4.07e-04  val_recon=0.002472  val_cls=4.628595  val_center=164.442383  val_perc=0.000533
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch28.pt
+[Epoch 29] lr=3.76e-04  val_recon=0.002072  val_cls=4.580937  val_center=153.281082  val_perc=0.000594
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch29.pt
+[Epoch 30] lr=3.46e-04  val_recon=0.005754  val_cls=4.668914  val_center=143.477665  val_perc=0.000987
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch30.pt
+[Epoch 31] lr=3.17e-04  val_recon=0.002420  val_cls=4.582264  val_center=134.852067  val_perc=0.000636
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch31.pt
+[Epoch 32] lr=2.88e-04  val_recon=0.003729  val_cls=4.610777  val_center=127.646967  val_perc=0.000717
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch32.pt
+[Epoch 33] lr=2.60e-04  val_recon=0.002507  val_cls=4.607133  val_center=120.769860  val_perc=0.000500
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch33.pt
+[Epoch 34] lr=2.33e-04  val_recon=0.003484  val_cls=4.610658  val_center=115.068992  val_perc=0.000756
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch34.pt
+[Epoch 35] lr=2.07e-04  val_recon=0.001698  val_cls=4.576912  val_center=110.031897  val_perc=0.000459
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch35.pt
+[Epoch 36] lr=1.82e-04  val_recon=0.002049  val_cls=4.567393  val_center=105.714084  val_perc=0.000485
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch36.pt
+[Epoch 37] lr=1.59e-04  val_recon=0.001837  val_cls=4.556837  val_center=101.951997  val_perc=0.000443
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch37.pt
+[Epoch 38] lr=1.36e-04  val_recon=0.001748  val_cls=4.559544  val_center=98.745522  val_perc=0.000400
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch38.pt
+[Epoch 39] lr=1.16e-04  val_recon=0.001742  val_cls=4.551167  val_center=96.002097  val_perc=0.000448
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch39.pt
+[Epoch 40] lr=9.64e-05  val_recon=0.001746  val_cls=4.549378  val_center=93.691298  val_perc=0.000414
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch40.pt
+[Epoch 41] lr=7.88e-05  val_recon=0.001944  val_cls=4.555915  val_center=91.768603  val_perc=0.000514
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch41.pt
+[Epoch 42] lr=6.28e-05  val_recon=0.001495  val_cls=4.546511  val_center=90.197431  val_perc=0.000354
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch42.pt
+[Epoch 43] lr=4.85e-05  val_recon=0.001491  val_cls=4.537930  val_center=88.940474  val_perc=0.000376
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch43.pt
+[Epoch 44] lr=3.61e-05  val_recon=0.001572  val_cls=4.548654  val_center=87.999481  val_perc=0.000412
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch44.pt
+[Epoch 45] lr=2.54e-05  val_recon=0.001489  val_cls=4.535632  val_center=87.252008  val_perc=0.000391
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch45.pt
+[Epoch 46] lr=1.67e-05  val_recon=0.001477  val_cls=4.538013  val_center=86.732877  val_perc=0.000378
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch46.pt
+[Epoch 47] lr=9.85e-06  val_recon=0.001450  val_cls=4.536506  val_center=86.388253  val_perc=0.000358
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch47.pt
+[Epoch 48] lr=4.94e-06  val_recon=0.001453  val_cls=4.537012  val_center=86.141360  val_perc=0.000370
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch48.pt
+[Epoch 49] lr=1.99e-06  val_recon=0.001424  val_cls=4.536735  val_center=86.039886  val_perc=0.000361
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch49.pt
+[Epoch 50] lr=1.00e-03  val_recon=0.001426  val_cls=4.535939  val_center=86.010337  val_perc=0.000359
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch50.pt
+[Epoch 51] lr=1.00e-03  val_recon=0.039491  val_cls=4.761153  val_center=68.429875  val_perc=0.003733
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch51.pt
+[Epoch 52] lr=9.99e-04  val_recon=0.010104  val_cls=4.737929  val_center=55.065940  val_perc=0.001834
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch52.pt
+[Epoch 53] lr=9.98e-04  val_recon=0.023783  val_cls=4.848171  val_center=49.459269  val_perc=0.002678
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch53.pt
+[Epoch 54] lr=9.96e-04  val_recon=0.004559  val_cls=4.635295  val_center=37.333528  val_perc=0.000979
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch54.pt
+[Epoch 55] lr=9.94e-04  val_recon=0.003120  val_cls=4.574609  val_center=31.259178  val_perc=0.000756
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch55.pt
+[Epoch 56] lr=9.91e-04  val_recon=0.003024  val_cls=4.588024  val_center=26.494039  val_perc=0.000744
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch56.pt
+[Epoch 57] lr=9.88e-04  val_recon=0.005981  val_cls=4.660869  val_center=22.554177  val_perc=0.001208
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch57.pt
+[Epoch 58] lr=9.84e-04  val_recon=0.002969  val_cls=4.581928  val_center=19.570548  val_perc=0.000839
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch58.pt
+[Epoch 59] lr=9.80e-04  val_recon=0.002783  val_cls=4.575898  val_center=16.499656  val_perc=0.000807
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch59.pt
+[Epoch 60] lr=9.76e-04  val_recon=0.002291  val_cls=4.559003  val_center=14.364610  val_perc=0.000673
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch60.pt
+[Epoch 61] lr=9.70e-04  val_recon=0.002007  val_cls=4.563293  val_center=12.382960  val_perc=0.000561
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch61.pt
+[Epoch 62] lr=9.65e-04  val_recon=0.009664  val_cls=4.742523  val_center=14.057280  val_perc=0.001403
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch62.pt
+[Epoch 63] lr=9.59e-04  val_recon=0.002309  val_cls=4.555096  val_center=9.784983  val_perc=0.000520
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch63.pt
+[Epoch 64] lr=9.52e-04  val_recon=0.002037  val_cls=4.540699  val_center=8.576941  val_perc=0.000480
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch64.pt
+[Epoch 65] lr=9.46e-04  val_recon=0.003866  val_cls=4.653854  val_center=8.120412  val_perc=0.001201
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch65.pt
+[Epoch 66] lr=9.38e-04  val_recon=0.002219  val_cls=4.568097  val_center=6.950791  val_perc=0.000503
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch66.pt
+[Epoch 67] lr=9.30e-04  val_recon=0.002680  val_cls=4.538678  val_center=6.258899  val_perc=0.000589
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch67.pt
+[Epoch 68] lr=9.22e-04  val_recon=0.002671  val_cls=4.686433  val_center=5.869352  val_perc=0.000706
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch68.pt
+[Epoch 69] lr=9.14e-04  val_recon=0.002773  val_cls=4.553059  val_center=5.771396  val_perc=0.000692
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch69.pt
+[Epoch 70] lr=9.05e-04  val_recon=0.001832  val_cls=4.508922  val_center=4.613490  val_perc=0.000420
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch70.pt
+[Epoch 71] lr=8.95e-04  val_recon=0.002141  val_cls=4.531842  val_center=4.473723  val_perc=0.000508
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch71.pt
+[Epoch 72] lr=8.85e-04  val_recon=0.005149  val_cls=4.634119  val_center=4.327356  val_perc=0.001192
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch72.pt
+[Epoch 73] lr=8.75e-04  val_recon=0.002414  val_cls=4.549016  val_center=3.946487  val_perc=0.000573
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch73.pt
+[Epoch 74] lr=8.65e-04  val_recon=0.001883  val_cls=4.548884  val_center=3.835272  val_perc=0.000512
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch74.pt
+[Epoch 75] lr=8.54e-04  val_recon=0.001584  val_cls=4.519155  val_center=3.495295  val_perc=0.000402
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch75.pt
+[Epoch 76] lr=8.42e-04  val_recon=0.001882  val_cls=4.542771  val_center=3.500796  val_perc=0.000450
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch76.pt
+[Epoch 77] lr=8.31e-04  val_recon=0.003365  val_cls=4.527057  val_center=3.381166  val_perc=0.000712
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch77.pt
+[Epoch 78] lr=8.19e-04  val_recon=0.001775  val_cls=4.527694  val_center=3.104319  val_perc=0.000398
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch78.pt
+[Epoch 79] lr=8.07e-04  val_recon=0.002373  val_cls=4.594638  val_center=2.952940  val_perc=0.000486
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch79.pt
+[Epoch 80] lr=7.94e-04  val_recon=0.004157  val_cls=4.723292  val_center=4.232592  val_perc=0.000769
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch80.pt
+[Epoch 81] lr=7.81e-04  val_recon=0.001956  val_cls=4.539874  val_center=2.839995  val_perc=0.000462
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch81.pt
+[Epoch 82] lr=7.68e-04  val_recon=0.001489  val_cls=4.514387  val_center=2.781753  val_perc=0.000368
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch82.pt
+[Epoch 83] lr=7.55e-04  val_recon=0.003057  val_cls=4.547636  val_center=2.690320  val_perc=0.000792
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch83.pt
+[Epoch 84] lr=7.41e-04  val_recon=0.001562  val_cls=4.546224  val_center=2.701315  val_perc=0.000347
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch84.pt
+[Epoch 85] lr=7.27e-04  val_recon=0.002275  val_cls=4.605854  val_center=2.776374  val_perc=0.000647
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch85.pt
+[Epoch 86] lr=7.13e-04  val_recon=0.002083  val_cls=4.545291  val_center=2.667087  val_perc=0.000517
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch86.pt
+[Epoch 87] lr=6.99e-04  val_recon=0.001717  val_cls=4.531889  val_center=2.490740  val_perc=0.000406
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch87.pt
+[Epoch 88] lr=6.84e-04  val_recon=0.001581  val_cls=4.549630  val_center=2.629005  val_perc=0.000382
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch88.pt
+[Epoch 89] lr=6.70e-04  val_recon=0.001836  val_cls=4.569099  val_center=2.674066  val_perc=0.000439
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch89.pt
+[Epoch 90] lr=6.55e-04  val_recon=0.001489  val_cls=4.525646  val_center=2.499743  val_perc=0.000401
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch90.pt
+[Epoch 91] lr=6.40e-04  val_recon=0.001787  val_cls=4.537505  val_center=2.372897  val_perc=0.000405
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch91.pt
+[Epoch 92] lr=6.25e-04  val_recon=0.001859  val_cls=4.565398  val_center=2.464806  val_perc=0.000419
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch92.pt
+[Epoch 93] lr=6.09e-04  val_recon=0.002751  val_cls=4.625962  val_center=3.117924  val_perc=0.000689
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch93.pt
+[Epoch 94] lr=5.94e-04  val_recon=0.001552  val_cls=4.539526  val_center=2.374436  val_perc=0.000410
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch94.pt
+[Epoch 95] lr=5.79e-04  val_recon=0.001489  val_cls=4.538708  val_center=2.349448  val_perc=0.000355
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch95.pt
+[Epoch 96] lr=5.63e-04  val_recon=0.001505  val_cls=4.537523  val_center=2.388066  val_perc=0.000367
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch96.pt
+[Epoch 97] lr=5.48e-04  val_recon=0.001836  val_cls=4.568998  val_center=2.336335  val_perc=0.000464
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch97.pt
+[Epoch 98] lr=5.32e-04  val_recon=0.001542  val_cls=4.544082  val_center=2.406294  val_perc=0.000405
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch98.pt
+[Epoch 99] lr=5.16e-04  val_recon=0.001366  val_cls=4.563727  val_center=2.326144  val_perc=0.000360
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch99.pt
+[Epoch 100] lr=5.01e-04  val_recon=0.001625  val_cls=4.528883  val_center=2.351197  val_perc=0.000401
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch100.pt
+[Epoch 101] lr=4.85e-04  val_recon=0.001407  val_cls=4.544794  val_center=2.345557  val_perc=0.000315
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch101.pt
+[Epoch 102] lr=4.69e-04  val_recon=0.001393  val_cls=4.549362  val_center=2.395684  val_perc=0.000393
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch102.pt
+[Epoch 103] lr=4.53e-04  val_recon=0.001574  val_cls=4.546479  val_center=2.371154  val_perc=0.000417
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch103.pt
+[Epoch 104] lr=4.38e-04  val_recon=0.001385  val_cls=4.554136  val_center=2.467348  val_perc=0.000341
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch104.pt
+[Epoch 105] lr=4.22e-04  val_recon=0.001976  val_cls=4.562921  val_center=2.271327  val_perc=0.000445
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch105.pt
+[Epoch 106] lr=4.07e-04  val_recon=0.001639  val_cls=4.543020  val_center=2.279472  val_perc=0.000382
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch106.pt
+[Epoch 107] lr=3.92e-04  val_recon=0.001400  val_cls=4.546480  val_center=2.301011  val_perc=0.000360
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch107.pt
+[Epoch 108] lr=3.76e-04  val_recon=0.001817  val_cls=4.632773  val_center=2.335590  val_perc=0.000534
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch108.pt
+[Epoch 109] lr=3.61e-04  val_recon=0.001320  val_cls=4.547324  val_center=2.232390  val_perc=0.000330
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch109.pt
+[Epoch 110] lr=3.46e-04  val_recon=0.001761  val_cls=4.594941  val_center=2.308597  val_perc=0.000395
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch110.pt
+[Epoch 111] lr=3.31e-04  val_recon=0.001525  val_cls=4.541111  val_center=2.262704  val_perc=0.000337
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch111.pt
+[Epoch 112] lr=3.17e-04  val_recon=0.001489  val_cls=4.531196  val_center=2.248526  val_perc=0.000356
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch112.pt
+[Epoch 113] lr=3.02e-04  val_recon=0.001670  val_cls=4.568614  val_center=2.260871  val_perc=0.000404
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch113.pt
+[Epoch 114] lr=2.88e-04  val_recon=0.001645  val_cls=4.573732  val_center=2.286963  val_perc=0.000445
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch114.pt
+[Epoch 115] lr=2.74e-04  val_recon=0.001266  val_cls=4.538755  val_center=2.230101  val_perc=0.000293
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch115.pt
+[Epoch 116] lr=2.60e-04  val_recon=0.001353  val_cls=4.582176  val_center=2.221841  val_perc=0.000317
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch116.pt
+[Epoch 117] lr=2.46e-04  val_recon=0.001414  val_cls=4.535076  val_center=2.166719  val_perc=0.000352
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch117.pt
+[Epoch 118] lr=2.33e-04  val_recon=0.001204  val_cls=4.537056  val_center=2.218320  val_perc=0.000329
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch118.pt
+[Epoch 119] lr=2.20e-04  val_recon=0.001401  val_cls=4.562070  val_center=2.219255  val_perc=0.000337
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch119.pt
+[Epoch 120] lr=2.07e-04  val_recon=0.001417  val_cls=4.541758  val_center=2.189774  val_perc=0.000343
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch120.pt
+[Epoch 121] lr=1.94e-04  val_recon=0.001320  val_cls=4.547069  val_center=2.231519  val_perc=0.000328
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch121.pt
+[Epoch 122] lr=1.82e-04  val_recon=0.001386  val_cls=4.536583  val_center=2.192990  val_perc=0.000314
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch122.pt
+[Epoch 123] lr=1.70e-04  val_recon=0.001864  val_cls=4.549671  val_center=2.234737  val_perc=0.000448
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch123.pt
+[Epoch 124] lr=1.59e-04  val_recon=0.001194  val_cls=4.531289  val_center=2.164330  val_perc=0.000290
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch124.pt
+[Epoch 125] lr=1.47e-04  val_recon=0.001218  val_cls=4.531806  val_center=2.113092  val_perc=0.000293
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch125.pt
+[Epoch 126] lr=1.36e-04  val_recon=0.001294  val_cls=4.541766  val_center=2.118993  val_perc=0.000323
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch126.pt
+[Epoch 127] lr=1.26e-04  val_recon=0.001174  val_cls=4.535983  val_center=2.159869  val_perc=0.000287
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch127.pt
+[Epoch 128] lr=1.16e-04  val_recon=0.001448  val_cls=4.541520  val_center=2.209143  val_perc=0.000367
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch128.pt
+[Epoch 129] lr=1.06e-04  val_recon=0.001400  val_cls=4.534216  val_center=2.146327  val_perc=0.000337
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch129.pt
+[Epoch 130] lr=9.64e-05  val_recon=0.001325  val_cls=4.536561  val_center=2.172493  val_perc=0.000321
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch130.pt
+[Epoch 131] lr=8.74e-05  val_recon=0.001206  val_cls=4.532900  val_center=2.149967  val_perc=0.000303
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch131.pt
+[Epoch 132] lr=7.88e-05  val_recon=0.001124  val_cls=4.528199  val_center=2.159024  val_perc=0.000291
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch132.pt
+[Epoch 133] lr=7.06e-05  val_recon=0.001131  val_cls=4.525202  val_center=2.108869  val_perc=0.000289
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch133.pt
+[Epoch 134] lr=6.28e-05  val_recon=0.001180  val_cls=4.531876  val_center=2.136850  val_perc=0.000294
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch134.pt
+[Epoch 135] lr=5.54e-05  val_recon=0.001151  val_cls=4.529042  val_center=2.133838  val_perc=0.000283
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch135.pt
+[Epoch 136] lr=4.85e-05  val_recon=0.001130  val_cls=4.537071  val_center=2.088993  val_perc=0.000275
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch136.pt
+[Epoch 137] lr=4.21e-05  val_recon=0.001163  val_cls=4.527902  val_center=2.158288  val_perc=0.000286
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch137.pt
+[Epoch 138] lr=3.61e-05  val_recon=0.001118  val_cls=4.527830  val_center=2.123613  val_perc=0.000284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch138.pt
+[Epoch 139] lr=3.05e-05  val_recon=0.001126  val_cls=4.530105  val_center=2.114071  val_perc=0.000282
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch139.pt
+[Epoch 140] lr=2.54e-05  val_recon=0.001118  val_cls=4.522367  val_center=2.117321  val_perc=0.000284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch140.pt
+[Epoch 141] lr=2.08e-05  val_recon=0.001121  val_cls=4.535843  val_center=2.194563  val_perc=0.000286
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch141.pt
+[Epoch 142] lr=1.67e-05  val_recon=0.001110  val_cls=4.529782  val_center=2.126561  val_perc=0.000278
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch142.pt
+[Epoch 143] lr=1.30e-05  val_recon=0.001109  val_cls=4.521794  val_center=2.099757  val_perc=0.000283
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch143.pt
+[Epoch 144] lr=9.85e-06  val_recon=0.001150  val_cls=4.523575  val_center=2.090098  val_perc=0.000283
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch144.pt
+[Epoch 145] lr=7.15e-06  val_recon=0.001121  val_cls=4.526115  val_center=2.099543  val_perc=0.000284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch145.pt
+[Epoch 146] lr=4.94e-06  val_recon=0.001112  val_cls=4.521416  val_center=2.088936  val_perc=0.000281
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch146.pt
+[Epoch 147] lr=3.22e-06  val_recon=0.001113  val_cls=4.522302  val_center=2.079690  val_perc=0.000279
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch147.pt
+[Epoch 148] lr=1.99e-06  val_recon=0.001108  val_cls=4.522158  val_center=2.085852  val_perc=0.000282
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch148.pt
+[Epoch 149] lr=1.25e-06  val_recon=0.001104  val_cls=4.524400  val_center=2.104597  val_perc=0.000280
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch149.pt
+[Epoch 150] lr=1.00e-03  val_recon=0.001107  val_cls=4.524018  val_center=2.124585  val_perc=0.000276
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch150.pt
+[Epoch 151] lr=1.00e-03  val_recon=0.006777  val_cls=4.712290  val_center=2.238099  val_perc=0.001370
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch151.pt
+[Epoch 152] lr=1.00e-03  val_recon=0.002803  val_cls=4.627036  val_center=2.169057  val_perc=0.000622
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch152.pt
+[Epoch 153] lr=9.99e-04  val_recon=0.002418  val_cls=4.713160  val_center=2.523169  val_perc=0.000501
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch153.pt
+[Epoch 154] lr=9.99e-04  val_recon=0.002046  val_cls=4.640837  val_center=2.212405  val_perc=0.000502
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch154.pt
+[Epoch 155] lr=9.98e-04  val_recon=0.001860  val_cls=4.651007  val_center=2.203830  val_perc=0.000443
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch155.pt
+[Epoch 156] lr=9.98e-04  val_recon=0.001536  val_cls=4.625439  val_center=2.184516  val_perc=0.000388
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch156.pt
+[Epoch 157] lr=9.97e-04  val_recon=0.001931  val_cls=4.663937  val_center=2.306168  val_perc=0.000449
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch157.pt
+[Epoch 158] lr=9.96e-04  val_recon=0.003060  val_cls=4.632949  val_center=2.232987  val_perc=0.000704
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch158.pt
+[Epoch 159] lr=9.95e-04  val_recon=0.001537  val_cls=4.637205  val_center=2.131092  val_perc=0.000394
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch159.pt
+[Epoch 160] lr=9.94e-04  val_recon=0.001731  val_cls=4.655861  val_center=2.443752  val_perc=0.000399
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch160.pt
+[Epoch 161] lr=9.93e-04  val_recon=0.001431  val_cls=4.638236  val_center=2.216267  val_perc=0.000340
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch161.pt
+[Epoch 162] lr=9.91e-04  val_recon=0.001593  val_cls=4.621762  val_center=2.073537  val_perc=0.000383
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch162.pt
+[Epoch 163] lr=9.90e-04  val_recon=0.001615  val_cls=4.641584  val_center=2.228276  val_perc=0.000449
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch163.pt
+[Epoch 164] lr=9.88e-04  val_recon=0.002821  val_cls=4.714922  val_center=2.438422  val_perc=0.000709
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch164.pt
+[Epoch 165] lr=9.86e-04  val_recon=0.002753  val_cls=4.676915  val_center=2.204818  val_perc=0.000722
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch165.pt
+[Epoch 166] lr=9.84e-04  val_recon=0.002106  val_cls=4.684870  val_center=2.248837  val_perc=0.000599
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch166.pt
+[Epoch 167] lr=9.82e-04  val_recon=0.001702  val_cls=4.677843  val_center=2.181715  val_perc=0.000436
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch167.pt
+[Epoch 168] lr=9.80e-04  val_recon=0.002889  val_cls=4.734060  val_center=2.360563  val_perc=0.000609
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch168.pt
+[Epoch 169] lr=9.78e-04  val_recon=0.002502  val_cls=4.692990  val_center=2.374633  val_perc=0.000565
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch169.pt
+[Epoch 170] lr=9.76e-04  val_recon=0.003113  val_cls=4.914879  val_center=3.044298  val_perc=0.000802
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch170.pt
+[Epoch 171] lr=9.73e-04  val_recon=0.001961  val_cls=4.730287  val_center=2.218618  val_perc=0.000473
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch171.pt
+[Epoch 172] lr=9.70e-04  val_recon=0.001755  val_cls=4.680875  val_center=2.314867  val_perc=0.000424
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch172.pt
+[Epoch 173] lr=9.68e-04  val_recon=0.002515  val_cls=4.719483  val_center=2.199132  val_perc=0.000644
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch173.pt
+[Epoch 174] lr=9.65e-04  val_recon=0.001598  val_cls=4.723583  val_center=2.230577  val_perc=0.000363
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch174.pt
+[Epoch 175] lr=9.62e-04  val_recon=0.001395  val_cls=4.701012  val_center=2.156929  val_perc=0.000358
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch175.pt
+[Epoch 176] lr=9.59e-04  val_recon=0.001537  val_cls=4.724990  val_center=2.145794  val_perc=0.000371
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch176.pt
+[Epoch 177] lr=9.56e-04  val_recon=0.001373  val_cls=4.694609  val_center=2.165007  val_perc=0.000334
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch177.pt
+[Epoch 178] lr=9.52e-04  val_recon=0.001649  val_cls=4.711688  val_center=2.111109  val_perc=0.000405
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch178.pt
+[Epoch 179] lr=9.49e-04  val_recon=0.001672  val_cls=4.696371  val_center=2.119057  val_perc=0.000420
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch179.pt
+[Epoch 180] lr=9.46e-04  val_recon=0.003064  val_cls=4.788028  val_center=2.558927  val_perc=0.000690
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch180.pt
+[Epoch 181] lr=9.42e-04  val_recon=0.001414  val_cls=4.712209  val_center=2.075645  val_perc=0.000351
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch181.pt
+[Epoch 182] lr=9.38e-04  val_recon=0.001507  val_cls=4.714941  val_center=2.187459  val_perc=0.000394
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch182.pt
+[Epoch 183] lr=9.34e-04  val_recon=0.002207  val_cls=4.711960  val_center=2.150268  val_perc=0.000501
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch183.pt
+[Epoch 184] lr=9.30e-04  val_recon=0.002193  val_cls=4.761202  val_center=2.087252  val_perc=0.000475
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch184.pt
+[Epoch 185] lr=9.26e-04  val_recon=0.019629  val_cls=6.929942  val_center=16.150007  val_perc=0.002576
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch185.pt
+[Epoch 186] lr=9.22e-04  val_recon=0.002116  val_cls=4.703752  val_center=1.997269  val_perc=0.000561
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch186.pt
+[Epoch 187] lr=9.18e-04  val_recon=0.001429  val_cls=4.748149  val_center=2.060507  val_perc=0.000377
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch187.pt
+[Epoch 188] lr=9.14e-04  val_recon=0.002384  val_cls=4.797039  val_center=2.113078  val_perc=0.000574
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch188.pt
+[Epoch 189] lr=9.09e-04  val_recon=0.001964  val_cls=4.731977  val_center=2.096597  val_perc=0.000445
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch189.pt
+[Epoch 190] lr=9.05e-04  val_recon=0.001557  val_cls=4.759749  val_center=2.100591  val_perc=0.000362
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch190.pt
+[Epoch 191] lr=9.00e-04  val_recon=0.002639  val_cls=4.740288  val_center=2.110141  val_perc=0.000635
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch191.pt
+[Epoch 192] lr=8.95e-04  val_recon=0.001948  val_cls=4.739055  val_center=2.014871  val_perc=0.000448
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch192.pt
+[Epoch 193] lr=8.90e-04  val_recon=0.001419  val_cls=4.763011  val_center=2.175874  val_perc=0.000326
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch193.pt
+[Epoch 194] lr=8.85e-04  val_recon=0.002289  val_cls=4.756921  val_center=2.114455  val_perc=0.000557
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch194.pt
+[Epoch 195] lr=8.80e-04  val_recon=0.002108  val_cls=4.775589  val_center=2.104914  val_perc=0.000582
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch195.pt
+[Epoch 196] lr=8.75e-04  val_recon=0.016510  val_cls=6.835983  val_center=15.541959  val_perc=0.002080
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch196.pt
+[Epoch 197] lr=8.70e-04  val_recon=0.001960  val_cls=4.779317  val_center=2.060640  val_perc=0.000548
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch197.pt
+[Epoch 198] lr=8.65e-04  val_recon=0.001405  val_cls=4.770279  val_center=1.980967  val_perc=0.000337
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch198.pt
+[Epoch 199] lr=8.59e-04  val_recon=0.001823  val_cls=4.790108  val_center=2.046320  val_perc=0.000411
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch199.pt
+[Epoch 200] lr=8.54e-04  val_recon=0.001694  val_cls=4.816745  val_center=2.219159  val_perc=0.000404
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch200.pt
+[Epoch 201] lr=8.48e-04  val_recon=0.001713  val_cls=4.770996  val_center=1.989711  val_perc=0.000443
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch201.pt
+[Epoch 202] lr=8.42e-04  val_recon=0.001513  val_cls=4.776761  val_center=1.958756  val_perc=0.000357
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch202.pt
+[Epoch 203] lr=8.37e-04  val_recon=0.001269  val_cls=4.787171  val_center=2.070979  val_perc=0.000323
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch203.pt
+[Epoch 204] lr=8.31e-04  val_recon=0.001470  val_cls=4.777590  val_center=1.976019  val_perc=0.000374
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch204.pt
+[Epoch 205] lr=8.25e-04  val_recon=0.001715  val_cls=4.790540  val_center=1.961271  val_perc=0.000461
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch205.pt
+[Epoch 206] lr=8.19e-04  val_recon=0.001429  val_cls=4.780493  val_center=2.014767  val_perc=0.000327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch206.pt
+[Epoch 207] lr=8.13e-04  val_recon=0.001542  val_cls=4.801211  val_center=1.976431  val_perc=0.000414
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch207.pt
+[Epoch 208] lr=8.07e-04  val_recon=0.001273  val_cls=4.827763  val_center=2.012245  val_perc=0.000325
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch208.pt
+[Epoch 209] lr=8.00e-04  val_recon=0.001558  val_cls=4.796900  val_center=1.905142  val_perc=0.000364
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch209.pt
+[Epoch 210] lr=7.94e-04  val_recon=0.001430  val_cls=4.796751  val_center=1.921640  val_perc=0.000337
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch210.pt
+[Epoch 211] lr=7.88e-04  val_recon=0.001585  val_cls=4.791132  val_center=1.987213  val_perc=0.000435
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch211.pt
+[Epoch 212] lr=7.81e-04  val_recon=0.002185  val_cls=4.839486  val_center=2.030948  val_perc=0.000581
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch212.pt
+[Epoch 213] lr=7.75e-04  val_recon=0.001250  val_cls=4.800560  val_center=1.961108  val_perc=0.000307
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch213.pt
+[Epoch 214] lr=7.68e-04  val_recon=0.001328  val_cls=4.824426  val_center=1.994161  val_perc=0.000343
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch214.pt
+[Epoch 215] lr=7.61e-04  val_recon=0.001719  val_cls=4.804864  val_center=1.921198  val_perc=0.000410
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch215.pt
+[Epoch 216] lr=7.55e-04  val_recon=0.001245  val_cls=4.785886  val_center=1.959353  val_perc=0.000333
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch216.pt
+[Epoch 217] lr=7.48e-04  val_recon=0.003956  val_cls=5.567521  val_center=4.350500  val_perc=0.000776
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch217.pt
+[Epoch 218] lr=7.41e-04  val_recon=0.001199  val_cls=4.797833  val_center=1.944382  val_perc=0.000311
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch218.pt
+[Epoch 219] lr=7.34e-04  val_recon=0.001836  val_cls=4.794411  val_center=1.832770  val_perc=0.000417
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch219.pt
+[Epoch 220] lr=7.27e-04  val_recon=0.001280  val_cls=4.793553  val_center=1.954371  val_perc=0.000332
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch220.pt
+[Epoch 221] lr=7.20e-04  val_recon=0.001294  val_cls=4.812394  val_center=1.946965  val_perc=0.000331
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch221.pt
+[Epoch 222] lr=7.13e-04  val_recon=0.001762  val_cls=4.822969  val_center=1.930480  val_perc=0.000440
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch222.pt
+[Epoch 223] lr=7.06e-04  val_recon=0.001314  val_cls=4.797226  val_center=1.927561  val_perc=0.000356
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch223.pt
+[Epoch 224] lr=6.99e-04  val_recon=0.001332  val_cls=4.808161  val_center=1.867143  val_perc=0.000308
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch224.pt
+[Epoch 225] lr=6.92e-04  val_recon=0.001572  val_cls=4.834764  val_center=2.003203  val_perc=0.000386
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch225.pt
+[Epoch 226] lr=6.84e-04  val_recon=0.004439  val_cls=4.866681  val_center=2.016139  val_perc=0.000841
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch226.pt
+[Epoch 227] lr=6.77e-04  val_recon=0.002384  val_cls=4.838413  val_center=2.012844  val_perc=0.000588
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch227.pt
+[Epoch 228] lr=6.70e-04  val_recon=0.001184  val_cls=4.816393  val_center=1.876693  val_perc=0.000287
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch228.pt
+[Epoch 229] lr=6.62e-04  val_recon=0.001422  val_cls=4.825804  val_center=1.872205  val_perc=0.000327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch229.pt
+[Epoch 230] lr=6.55e-04  val_recon=0.001796  val_cls=4.896708  val_center=1.928593  val_perc=0.000371
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch230.pt
+[Epoch 231] lr=6.47e-04  val_recon=0.001537  val_cls=4.831519  val_center=1.794831  val_perc=0.000351
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch231.pt
+[Epoch 232] lr=6.40e-04  val_recon=0.001640  val_cls=4.852139  val_center=1.875443  val_perc=0.000368
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch232.pt
+[Epoch 233] lr=6.32e-04  val_recon=0.001220  val_cls=4.856976  val_center=1.937209  val_perc=0.000330
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch233.pt
+[Epoch 234] lr=6.25e-04  val_recon=0.001780  val_cls=4.846922  val_center=1.897593  val_perc=0.000486
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch234.pt
+[Epoch 235] lr=6.17e-04  val_recon=0.001503  val_cls=4.869870  val_center=1.911716  val_perc=0.000348
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch235.pt
+[Epoch 236] lr=6.09e-04  val_recon=0.002066  val_cls=4.858909  val_center=1.938681  val_perc=0.000574
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch236.pt
+[Epoch 237] lr=6.02e-04  val_recon=0.005604  val_cls=5.544054  val_center=5.845856  val_perc=0.001517
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch237.pt
+[Epoch 238] lr=5.94e-04  val_recon=0.001545  val_cls=4.834769  val_center=1.871658  val_perc=0.000443
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch238.pt
+[Epoch 239] lr=5.86e-04  val_recon=0.001195  val_cls=4.830539  val_center=1.795461  val_perc=0.000314
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch239.pt
+[Epoch 240] lr=5.79e-04  val_recon=0.001197  val_cls=4.850920  val_center=1.784784  val_perc=0.000305
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch240.pt
+[Epoch 241] lr=5.71e-04  val_recon=0.001320  val_cls=4.841251  val_center=1.792370  val_perc=0.000306
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch241.pt
+[Epoch 242] lr=5.63e-04  val_recon=0.001207  val_cls=4.815551  val_center=1.768426  val_perc=0.000299
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch242.pt
+[Epoch 243] lr=5.55e-04  val_recon=0.001602  val_cls=4.896193  val_center=1.837690  val_perc=0.000370
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch243.pt
+[Epoch 244] lr=5.48e-04  val_recon=0.001474  val_cls=4.907469  val_center=1.798469  val_perc=0.000356
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch244.pt
+[Epoch 245] lr=5.40e-04  val_recon=0.001686  val_cls=4.873521  val_center=1.796364  val_perc=0.000393
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch245.pt
+[Epoch 246] lr=5.32e-04  val_recon=0.001273  val_cls=4.817509  val_center=1.716136  val_perc=0.000314
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch246.pt
+[Epoch 247] lr=5.24e-04  val_recon=0.001157  val_cls=4.869152  val_center=1.769845  val_perc=0.000297
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch247.pt
+[Epoch 248] lr=5.16e-04  val_recon=0.001547  val_cls=4.861273  val_center=1.816331  val_perc=0.000390
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch248.pt
+[Epoch 249] lr=5.08e-04  val_recon=0.001205  val_cls=4.822392  val_center=1.781799  val_perc=0.000340
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch249.pt
+[Epoch 250] lr=5.01e-04  val_recon=0.001083  val_cls=4.859032  val_center=1.749651  val_perc=0.000271
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch250.pt
+[Epoch 251] lr=4.93e-04  val_recon=0.002895  val_cls=4.913889  val_center=1.816763  val_perc=0.000617
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch251.pt
+[Epoch 252] lr=4.85e-04  val_recon=0.001283  val_cls=4.844385  val_center=1.727100  val_perc=0.000300
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch252.pt
+[Epoch 253] lr=4.77e-04  val_recon=0.001179  val_cls=4.917032  val_center=1.801402  val_perc=0.000278
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch253.pt
+[Epoch 254] lr=4.69e-04  val_recon=0.001956  val_cls=4.899013  val_center=1.773630  val_perc=0.000484
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch254.pt
+[Epoch 255] lr=4.61e-04  val_recon=0.001682  val_cls=4.856082  val_center=1.772487  val_perc=0.000401
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch255.pt
+[Epoch 256] lr=4.53e-04  val_recon=0.001940  val_cls=4.883110  val_center=1.745328  val_perc=0.000425
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch256.pt
+[Epoch 257] lr=4.46e-04  val_recon=0.001438  val_cls=4.929902  val_center=1.776123  val_perc=0.000333
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch257.pt
+[Epoch 258] lr=4.38e-04  val_recon=0.001247  val_cls=4.881185  val_center=1.783754  val_perc=0.000309
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch258.pt
+[Epoch 259] lr=4.30e-04  val_recon=0.001565  val_cls=4.858257  val_center=1.759904  val_perc=0.000372
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch259.pt
+[Epoch 260] lr=4.22e-04  val_recon=0.001497  val_cls=4.874999  val_center=1.720728  val_perc=0.000331
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch260.pt
+[Epoch 261] lr=4.15e-04  val_recon=0.001324  val_cls=4.878657  val_center=1.716120  val_perc=0.000322
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch261.pt
+[Epoch 262] lr=4.07e-04  val_recon=0.002013  val_cls=5.006954  val_center=1.959926  val_perc=0.000519
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch262.pt
+[Epoch 263] lr=3.99e-04  val_recon=0.001497  val_cls=4.888203  val_center=1.725224  val_perc=0.000401
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch263.pt
+[Epoch 264] lr=3.92e-04  val_recon=0.001079  val_cls=4.837963  val_center=1.678766  val_perc=0.000283
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch264.pt
+[Epoch 265] lr=3.84e-04  val_recon=0.001298  val_cls=4.870460  val_center=1.687631  val_perc=0.000307
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch265.pt
+[Epoch 266] lr=3.76e-04  val_recon=0.001332  val_cls=4.857839  val_center=1.734079  val_perc=0.000364
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch266.pt
+[Epoch 267] lr=3.69e-04  val_recon=0.001104  val_cls=4.855982  val_center=1.671956  val_perc=0.000296
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch267.pt
+[Epoch 268] lr=3.61e-04  val_recon=0.002129  val_cls=4.894458  val_center=1.791402  val_perc=0.000547
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch268.pt
+[Epoch 269] lr=3.54e-04  val_recon=0.001048  val_cls=4.861275  val_center=1.672243  val_perc=0.000280
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch269.pt
+[Epoch 270] lr=3.46e-04  val_recon=0.004688  val_cls=5.275146  val_center=2.608783  val_perc=0.001242
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch270.pt
+[Epoch 271] lr=3.39e-04  val_recon=0.001199  val_cls=4.854920  val_center=1.666369  val_perc=0.000328
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch271.pt
+[Epoch 272] lr=3.31e-04  val_recon=0.001191  val_cls=4.850263  val_center=1.650305  val_perc=0.000327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch272.pt
+[Epoch 273] lr=3.24e-04  val_recon=0.001469  val_cls=4.872890  val_center=1.642899  val_perc=0.000364
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch273.pt
+[Epoch 274] lr=3.17e-04  val_recon=0.001293  val_cls=4.905597  val_center=1.692043  val_perc=0.000330
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch274.pt
+[Epoch 275] lr=3.09e-04  val_recon=0.001175  val_cls=4.871206  val_center=1.631622  val_perc=0.000309
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch275.pt
+[Epoch 276] lr=3.02e-04  val_recon=0.001201  val_cls=4.861013  val_center=1.660903  val_perc=0.000302
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch276.pt
+[Epoch 277] lr=2.95e-04  val_recon=0.001270  val_cls=4.865835  val_center=1.621846  val_perc=0.000327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch277.pt
+[Epoch 278] lr=2.88e-04  val_recon=0.001280  val_cls=4.885735  val_center=1.665893  val_perc=0.000304
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch278.pt
+[Epoch 279] lr=2.81e-04  val_recon=0.001245  val_cls=4.871662  val_center=1.668304  val_perc=0.000328
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch279.pt
+[Epoch 280] lr=2.74e-04  val_recon=0.001174  val_cls=4.872831  val_center=1.658390  val_perc=0.000310
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch280.pt
+[Epoch 281] lr=2.67e-04  val_recon=0.001161  val_cls=4.878114  val_center=1.667933  val_perc=0.000299
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch281.pt
+[Epoch 282] lr=2.60e-04  val_recon=0.001084  val_cls=4.919451  val_center=1.670519  val_perc=0.000260
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch282.pt
+[Epoch 283] lr=2.53e-04  val_recon=0.001072  val_cls=4.880062  val_center=1.640424  val_perc=0.000271
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch283.pt
+[Epoch 284] lr=2.46e-04  val_recon=0.001114  val_cls=4.893172  val_center=1.624239  val_perc=0.000306
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch284.pt
+[Epoch 285] lr=2.40e-04  val_recon=0.001021  val_cls=4.863771  val_center=1.621479  val_perc=0.000269
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch285.pt
+[Epoch 286] lr=2.33e-04  val_recon=0.001146  val_cls=4.901982  val_center=1.652086  val_perc=0.000294
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch286.pt
+[Epoch 287] lr=2.26e-04  val_recon=0.001201  val_cls=4.876392  val_center=1.628182  val_perc=0.000327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch287.pt
+[Epoch 288] lr=2.20e-04  val_recon=0.001156  val_cls=4.869386  val_center=1.632520  val_perc=0.000314
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch288.pt
+[Epoch 289] lr=2.13e-04  val_recon=0.001140  val_cls=4.885566  val_center=1.635294  val_perc=0.000281
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch289.pt
+[Epoch 290] lr=2.07e-04  val_recon=0.001187  val_cls=4.882350  val_center=1.626474  val_perc=0.000323
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch290.pt
+[Epoch 291] lr=2.01e-04  val_recon=0.001172  val_cls=4.933207  val_center=1.648139  val_perc=0.000288
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch291.pt
+[Epoch 292] lr=1.94e-04  val_recon=0.001305  val_cls=4.884926  val_center=1.607706  val_perc=0.000313
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch292.pt
+[Epoch 293] lr=1.88e-04  val_recon=0.001345  val_cls=4.888466  val_center=1.630131  val_perc=0.000350
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch293.pt
+[Epoch 294] lr=1.82e-04  val_recon=0.001181  val_cls=4.887435  val_center=1.620346  val_perc=0.000338
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch294.pt
+[Epoch 295] lr=1.76e-04  val_recon=0.001162  val_cls=4.896261  val_center=1.601167  val_perc=0.000286
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch295.pt
+[Epoch 296] lr=1.70e-04  val_recon=0.001121  val_cls=4.890393  val_center=1.658836  val_perc=0.000304
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch296.pt
+[Epoch 297] lr=1.64e-04  val_recon=0.001099  val_cls=4.881366  val_center=1.618969  val_perc=0.000273
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch297.pt
+[Epoch 298] lr=1.59e-04  val_recon=0.001108  val_cls=4.904682  val_center=1.634546  val_perc=0.000289
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch298.pt
+[Epoch 299] lr=1.53e-04  val_recon=0.001317  val_cls=4.888336  val_center=1.639297  val_perc=0.000310
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch299.pt
+[Epoch 300] lr=1.47e-04  val_recon=0.001266  val_cls=4.894543  val_center=1.628150  val_perc=0.000316
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch300.pt
+[Epoch 301] lr=1.42e-04  val_recon=0.001079  val_cls=4.875833  val_center=1.608403  val_perc=0.000296
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch301.pt
+[Epoch 302] lr=1.36e-04  val_recon=0.001048  val_cls=4.888966  val_center=1.609565  val_perc=0.000264
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch302.pt
+[Epoch 303] lr=1.31e-04  val_recon=0.001226  val_cls=4.878152  val_center=1.620452  val_perc=0.000296
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch303.pt
+[Epoch 304] lr=1.26e-04  val_recon=0.001100  val_cls=4.887053  val_center=1.607224  val_perc=0.000281
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch304.pt
+[Epoch 305] lr=1.21e-04  val_recon=0.001091  val_cls=4.887329  val_center=1.623465  val_perc=0.000273
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch305.pt
+[Epoch 306] lr=1.16e-04  val_recon=0.001043  val_cls=4.886241  val_center=1.596845  val_perc=0.000267
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch306.pt
+[Epoch 307] lr=1.11e-04  val_recon=0.001043  val_cls=4.867707  val_center=1.594234  val_perc=0.000262
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch307.pt
+[Epoch 308] lr=1.06e-04  val_recon=0.001214  val_cls=4.881895  val_center=1.602434  val_perc=0.000291
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch308.pt
+[Epoch 309] lr=1.01e-04  val_recon=0.001062  val_cls=4.863376  val_center=1.614356  val_perc=0.000277
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch309.pt
+[Epoch 310] lr=9.64e-05  val_recon=0.001037  val_cls=4.877484  val_center=1.607849  val_perc=0.000264
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch310.pt
+[Epoch 311] lr=9.18e-05  val_recon=0.001076  val_cls=4.904351  val_center=1.609146  val_perc=0.000279
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch311.pt
+[Epoch 312] lr=8.74e-05  val_recon=0.001005  val_cls=4.865760  val_center=1.559628  val_perc=0.000260
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch312.pt
+[Epoch 313] lr=8.30e-05  val_recon=0.001128  val_cls=4.878551  val_center=1.606381  val_perc=0.000294
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch313.pt
+[Epoch 314] lr=7.88e-05  val_recon=0.001166  val_cls=4.915105  val_center=1.624839  val_perc=0.000268
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch314.pt
+[Epoch 315] lr=7.46e-05  val_recon=0.001027  val_cls=4.881770  val_center=1.566789  val_perc=0.000252
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch315.pt
+[Epoch 316] lr=7.06e-05  val_recon=0.001023  val_cls=4.873804  val_center=1.584166  val_perc=0.000257
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch316.pt
+[Epoch 317] lr=6.66e-05  val_recon=0.001027  val_cls=4.871624  val_center=1.580211  val_perc=0.000256
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch317.pt
+[Epoch 318] lr=6.28e-05  val_recon=0.001056  val_cls=4.876723  val_center=1.571693  val_perc=0.000270
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch318.pt
+[Epoch 319] lr=5.91e-05  val_recon=0.001016  val_cls=4.859142  val_center=1.572459  val_perc=0.000263
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch319.pt
+[Epoch 320] lr=5.54e-05  val_recon=0.001105  val_cls=4.865567  val_center=1.585627  val_perc=0.000302
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch320.pt
+[Epoch 321] lr=5.19e-05  val_recon=0.001041  val_cls=4.880787  val_center=1.577201  val_perc=0.000273
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch321.pt
+[Epoch 322] lr=4.85e-05  val_recon=0.001017  val_cls=4.862811  val_center=1.561015  val_perc=0.000272
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch322.pt
+[Epoch 323] lr=4.53e-05  val_recon=0.001008  val_cls=4.869758  val_center=1.575273  val_perc=0.000254
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch323.pt
+[Epoch 324] lr=4.21e-05  val_recon=0.001039  val_cls=4.867184  val_center=1.571946  val_perc=0.000265
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch324.pt
+[Epoch 325] lr=3.90e-05  val_recon=0.001057  val_cls=4.872108  val_center=1.572516  val_perc=0.000281
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch325.pt
+[Epoch 326] lr=3.61e-05  val_recon=0.001047  val_cls=4.861075  val_center=1.537863  val_perc=0.000264
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch326.pt
+[Epoch 327] lr=3.32e-05  val_recon=0.000999  val_cls=4.882194  val_center=1.574894  val_perc=0.000260
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch327.pt
+[Epoch 328] lr=3.05e-05  val_recon=0.001024  val_cls=4.849784  val_center=1.546681  val_perc=0.000260
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch328.pt
+[Epoch 329] lr=2.79e-05  val_recon=0.001007  val_cls=4.857997  val_center=1.553683  val_perc=0.000270
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch329.pt
+[Epoch 330] lr=2.54e-05  val_recon=0.000998  val_cls=4.867018  val_center=1.574200  val_perc=0.000268
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch330.pt
+[Epoch 331] lr=2.31e-05  val_recon=0.000998  val_cls=4.865868  val_center=1.550958  val_perc=0.000263
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch331.pt
+[Epoch 332] lr=2.08e-05  val_recon=0.001012  val_cls=4.864323  val_center=1.562601  val_perc=0.000276
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch332.pt
+[Epoch 333] lr=1.87e-05  val_recon=0.000998  val_cls=4.869799  val_center=1.564543  val_perc=0.000259
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch333.pt
+[Epoch 334] lr=1.67e-05  val_recon=0.001025  val_cls=4.867879  val_center=1.545631  val_perc=0.000259
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch334.pt
+[Epoch 335] lr=1.48e-05  val_recon=0.001004  val_cls=4.865593  val_center=1.542081  val_perc=0.000263
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch335.pt
+[Epoch 336] lr=1.30e-05  val_recon=0.000995  val_cls=4.860803  val_center=1.542483  val_perc=0.000256
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch336.pt
+[Epoch 337] lr=1.14e-05  val_recon=0.001014  val_cls=4.871174  val_center=1.563701  val_perc=0.000260
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch337.pt
+[Epoch 338] lr=9.85e-06  val_recon=0.000997  val_cls=4.876974  val_center=1.570998  val_perc=0.000253
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch338.pt
+[Epoch 339] lr=8.44e-06  val_recon=0.000988  val_cls=4.877406  val_center=1.573633  val_perc=0.000257
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch339.pt
+[Epoch 340] lr=7.15e-06  val_recon=0.000996  val_cls=4.881381  val_center=1.583294  val_perc=0.000256
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch340.pt
+[Epoch 341] lr=5.98e-06  val_recon=0.000989  val_cls=4.863675  val_center=1.539669  val_perc=0.000254
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch341.pt
+[Epoch 342] lr=4.94e-06  val_recon=0.000987  val_cls=4.871654  val_center=1.565200  val_perc=0.000258
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch342.pt
+[Epoch 343] lr=4.02e-06  val_recon=0.000988  val_cls=4.868641  val_center=1.558073  val_perc=0.000258
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch343.pt
+[Epoch 344] lr=3.22e-06  val_recon=0.000990  val_cls=4.858848  val_center=1.524493  val_perc=0.000257
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch344.pt
+[Epoch 345] lr=2.54e-06  val_recon=0.000989  val_cls=4.870614  val_center=1.562085  val_perc=0.000253
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch345.pt
+[Epoch 346] lr=1.99e-06  val_recon=0.000985  val_cls=4.869276  val_center=1.560977  val_perc=0.000255
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch346.pt
+[Epoch 347] lr=1.55e-06  val_recon=0.000986  val_cls=4.870199  val_center=1.560285  val_perc=0.000253
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch347.pt
+[Epoch 348] lr=1.25e-06  val_recon=0.000985  val_cls=4.874338  val_center=1.565386  val_perc=0.000255
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch348.pt
+[Epoch 349] lr=1.06e-06  val_recon=0.000990  val_cls=4.860742  val_center=1.534710  val_perc=0.000258
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch349.pt
+[Epoch 350] lr=1.00e-03  val_recon=0.000984  val_cls=4.873737  val_center=1.574796  val_perc=0.000252
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch350.pt
+[Epoch 351] lr=1.00e-03  val_recon=0.002287  val_cls=5.067501  val_center=1.918997  val_perc=0.000555
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch351.pt
+[Epoch 352] lr=1.00e-03  val_recon=0.001805  val_cls=5.004227  val_center=1.794592  val_perc=0.000497
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch352.pt
+[Epoch 353] lr=1.00e-03  val_recon=0.001613  val_cls=4.984908  val_center=1.725516  val_perc=0.000460
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch353.pt
+[Epoch 354] lr=1.00e-03  val_recon=0.001495  val_cls=5.023929  val_center=1.755393  val_perc=0.000361
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch354.pt
+[Epoch 355] lr=1.00e-03  val_recon=0.001830  val_cls=5.002461  val_center=1.712594  val_perc=0.000437
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch355.pt
+[Epoch 356] lr=9.99e-04  val_recon=0.001879  val_cls=4.996212  val_center=1.769306  val_perc=0.000485
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch356.pt
+[Epoch 357] lr=9.99e-04  val_recon=0.001351  val_cls=4.993035  val_center=1.694418  val_perc=0.000400
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch357.pt
+[Epoch 358] lr=9.99e-04  val_recon=0.001362  val_cls=4.999872  val_center=1.715692  val_perc=0.000372
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch358.pt
+[Epoch 359] lr=9.99e-04  val_recon=0.001711  val_cls=5.043558  val_center=1.727288  val_perc=0.000397
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch359.pt
+[Epoch 360] lr=9.98e-04  val_recon=0.001838  val_cls=5.025143  val_center=1.874370  val_perc=0.000459
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch360.pt
+[Epoch 361] lr=9.98e-04  val_recon=0.001225  val_cls=4.976419  val_center=1.651050  val_perc=0.000328
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch361.pt
+[Epoch 362] lr=9.98e-04  val_recon=0.001233  val_cls=4.979889  val_center=1.745151  val_perc=0.000326
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch362.pt
+[Epoch 363] lr=9.97e-04  val_recon=0.016144  val_cls=10.098582  val_center=10.873424  val_perc=0.003087
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch363.pt
+[Epoch 364] lr=9.97e-04  val_recon=0.001359  val_cls=4.964396  val_center=1.639021  val_perc=0.000423
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch364.pt
+[Epoch 365] lr=9.97e-04  val_recon=0.001411  val_cls=4.997454  val_center=1.619155  val_perc=0.000354
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch365.pt
+[Epoch 366] lr=9.96e-04  val_recon=0.001203  val_cls=4.984411  val_center=1.685751  val_perc=0.000338
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch366.pt
+[Epoch 367] lr=9.96e-04  val_recon=0.001509  val_cls=5.026244  val_center=1.689155  val_perc=0.000353
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch367.pt
+[Epoch 368] lr=9.95e-04  val_recon=0.002341  val_cls=5.069061  val_center=1.836956  val_perc=0.000579
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch368.pt
+[Epoch 369] lr=9.94e-04  val_recon=0.001207  val_cls=5.018269  val_center=1.641930  val_perc=0.000312
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch369.pt
+[Epoch 370] lr=9.94e-04  val_recon=0.001385  val_cls=5.035573  val_center=1.701166  val_perc=0.000328
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch370.pt
+[Epoch 371] lr=9.93e-04  val_recon=0.001559  val_cls=5.145936  val_center=1.739641  val_perc=0.000366
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch371.pt
+[Epoch 372] lr=9.93e-04  val_recon=0.001234  val_cls=5.007529  val_center=1.705323  val_perc=0.000341
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch372.pt
+[Epoch 373] lr=9.92e-04  val_recon=0.002671  val_cls=5.040861  val_center=1.768477  val_perc=0.000713
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch373.pt
+[Epoch 374] lr=9.91e-04  val_recon=0.001177  val_cls=4.999577  val_center=1.633176  val_perc=0.000292
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch374.pt
+[Epoch 375] lr=9.90e-04  val_recon=0.002170  val_cls=5.112813  val_center=1.952630  val_perc=0.000491
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch375.pt
+[Epoch 376] lr=9.90e-04  val_recon=0.001269  val_cls=5.024681  val_center=1.675338  val_perc=0.000342
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch376.pt
+[Epoch 377] lr=9.89e-04  val_recon=0.001186  val_cls=5.009476  val_center=1.629675  val_perc=0.000308
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch377.pt
+[Epoch 378] lr=9.88e-04  val_recon=0.001252  val_cls=5.018171  val_center=1.647050  val_perc=0.000353
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch378.pt
+[Epoch 379] lr=9.87e-04  val_recon=0.002073  val_cls=5.004574  val_center=1.643630  val_perc=0.000480
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch379.pt
+[Epoch 380] lr=9.86e-04  val_recon=0.002159  val_cls=5.008269  val_center=1.628483  val_perc=0.000638
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch380.pt
+[Epoch 381] lr=9.85e-04  val_recon=0.004834  val_cls=5.380931  val_center=2.371004  val_perc=0.001017
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch381.pt
+[Epoch 382] lr=9.84e-04  val_recon=0.001627  val_cls=5.003375  val_center=1.579178  val_perc=0.000373
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch382.pt
+[Epoch 383] lr=9.83e-04  val_recon=0.001418  val_cls=5.068169  val_center=1.699573  val_perc=0.000349
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch383.pt
+[Epoch 384] lr=9.82e-04  val_recon=0.001261  val_cls=5.009863  val_center=1.699536  val_perc=0.000381
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch384.pt
+[Epoch 385] lr=9.81e-04  val_recon=0.002471  val_cls=5.113237  val_center=1.755364  val_perc=0.000534
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch385.pt
+[Epoch 386] lr=9.80e-04  val_recon=0.001865  val_cls=5.132249  val_center=1.859570  val_perc=0.000519
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch386.pt
+[Epoch 387] lr=9.79e-04  val_recon=0.001524  val_cls=5.085134  val_center=1.644199  val_perc=0.000394
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch387.pt
+[Epoch 388] lr=9.78e-04  val_recon=0.001543  val_cls=5.104407  val_center=1.667661  val_perc=0.000423
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch388.pt
+[Epoch 389] lr=9.77e-04  val_recon=0.001647  val_cls=5.073621  val_center=1.606304  val_perc=0.000406
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch389.pt
+[Epoch 390] lr=9.76e-04  val_recon=0.001293  val_cls=5.041167  val_center=1.589333  val_perc=0.000328
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch390.pt
+[Epoch 391] lr=9.74e-04  val_recon=0.001621  val_cls=5.037906  val_center=1.579839  val_perc=0.000446
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch391.pt
+[Epoch 392] lr=9.73e-04  val_recon=0.001352  val_cls=5.154181  val_center=1.726900  val_perc=0.000316
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch392.pt
+[Epoch 393] lr=9.72e-04  val_recon=0.001185  val_cls=5.108162  val_center=1.627702  val_perc=0.000284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch393.pt
+[Epoch 394] lr=9.70e-04  val_recon=0.002136  val_cls=5.105993  val_center=1.685759  val_perc=0.000483
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch394.pt
+[Epoch 395] lr=9.69e-04  val_recon=0.001560  val_cls=5.075682  val_center=1.655086  val_perc=0.000357
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch395.pt
+[Epoch 396] lr=9.68e-04  val_recon=0.002303  val_cls=5.126975  val_center=1.573406  val_perc=0.000518
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch396.pt
+[Epoch 397] lr=9.66e-04  val_recon=0.001283  val_cls=5.067912  val_center=1.598192  val_perc=0.000313
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch397.pt
+[Epoch 398] lr=9.65e-04  val_recon=0.001380  val_cls=5.085110  val_center=1.602990  val_perc=0.000317
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch398.pt
+[Epoch 399] lr=9.63e-04  val_recon=0.001327  val_cls=5.069731  val_center=1.601523  val_perc=0.000332
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch399.pt
+[Epoch 400] lr=9.62e-04  val_recon=0.002601  val_cls=5.150483  val_center=1.682732  val_perc=0.000580
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch400.pt
+[Epoch 401] lr=9.60e-04  val_recon=0.001938  val_cls=5.112978  val_center=1.661100  val_perc=0.000428
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch401.pt
+[Epoch 402] lr=9.59e-04  val_recon=0.001611  val_cls=5.130766  val_center=1.640508  val_perc=0.000461
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch402.pt
+[Epoch 403] lr=9.57e-04  val_recon=0.001177  val_cls=5.080685  val_center=1.515137  val_perc=0.000303
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch403.pt
+[Epoch 404] lr=9.56e-04  val_recon=0.001295  val_cls=5.110747  val_center=1.579478  val_perc=0.000315
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch404.pt
+[Epoch 405] lr=9.54e-04  val_recon=0.001271  val_cls=5.084229  val_center=1.592535  val_perc=0.000331
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch405.pt
+[Epoch 406] lr=9.52e-04  val_recon=0.001125  val_cls=5.067835  val_center=1.503735  val_perc=0.000287
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch406.pt
+[Epoch 407] lr=9.51e-04  val_recon=0.001277  val_cls=5.120177  val_center=1.609530  val_perc=0.000319
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch407.pt
+[Epoch 408] lr=9.49e-04  val_recon=0.001537  val_cls=5.114132  val_center=1.546526  val_perc=0.000403
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch408.pt
+[Epoch 409] lr=9.47e-04  val_recon=0.001372  val_cls=5.174420  val_center=1.556260  val_perc=0.000311
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch409.pt
+[Epoch 410] lr=9.46e-04  val_recon=0.001627  val_cls=5.095850  val_center=1.553907  val_perc=0.000390
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch410.pt
+[Epoch 411] lr=9.44e-04  val_recon=0.001499  val_cls=5.147134  val_center=1.586900  val_perc=0.000373
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch411.pt
+[Epoch 412] lr=9.42e-04  val_recon=0.001345  val_cls=5.128382  val_center=1.554718  val_perc=0.000327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch412.pt
+[Epoch 413] lr=9.40e-04  val_recon=0.001361  val_cls=5.110767  val_center=1.547096  val_perc=0.000355
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch413.pt
+[Epoch 414] lr=9.38e-04  val_recon=0.001148  val_cls=5.140188  val_center=1.565595  val_perc=0.000319
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch414.pt
+[Epoch 415] lr=9.36e-04  val_recon=0.001174  val_cls=5.077118  val_center=1.544671  val_perc=0.000290
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch415.pt
+[Epoch 416] lr=9.34e-04  val_recon=0.001300  val_cls=5.106728  val_center=1.546508  val_perc=0.000363
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch416.pt
+[Epoch 417] lr=9.32e-04  val_recon=0.001215  val_cls=5.121927  val_center=1.537887  val_perc=0.000354
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch417.pt
+[Epoch 418] lr=9.30e-04  val_recon=0.001118  val_cls=5.153823  val_center=1.515845  val_perc=0.000288
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch418.pt
+[Epoch 419] lr=9.28e-04  val_recon=0.001252  val_cls=5.087703  val_center=1.548372  val_perc=0.000360
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch419.pt
+[Epoch 420] lr=9.26e-04  val_recon=0.001470  val_cls=5.090842  val_center=1.546075  val_perc=0.000343
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch420.pt
+[Epoch 421] lr=9.24e-04  val_recon=0.024300  val_cls=8.054917  val_center=9.224768  val_perc=0.003303
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch421.pt
+[Epoch 422] lr=9.22e-04  val_recon=0.001467  val_cls=5.135736  val_center=1.533553  val_perc=0.000373
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch422.pt
+[Epoch 423] lr=9.20e-04  val_recon=0.001267  val_cls=5.115759  val_center=1.529772  val_perc=0.000326
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch423.pt
+[Epoch 424] lr=9.18e-04  val_recon=0.001305  val_cls=5.192270  val_center=1.589589  val_perc=0.000316
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch424.pt
+[Epoch 425] lr=9.16e-04  val_recon=0.001426  val_cls=5.148684  val_center=1.572692  val_perc=0.000369
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch425.pt
+[Epoch 426] lr=9.14e-04  val_recon=0.001358  val_cls=5.128167  val_center=1.495165  val_perc=0.000346
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch426.pt
+[Epoch 427] lr=9.11e-04  val_recon=0.001300  val_cls=5.098316  val_center=1.501119  val_perc=0.000306
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch427.pt
+[Epoch 428] lr=9.09e-04  val_recon=0.001386  val_cls=5.217428  val_center=1.555328  val_perc=0.000344
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch428.pt
+[Epoch 429] lr=9.07e-04  val_recon=0.001645  val_cls=5.125792  val_center=1.542727  val_perc=0.000410
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch429.pt
+[Epoch 430] lr=9.05e-04  val_recon=0.001489  val_cls=5.090723  val_center=1.507341  val_perc=0.000479
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch430.pt
+[Epoch 431] lr=9.02e-04  val_recon=0.001452  val_cls=5.136394  val_center=1.477639  val_perc=0.000349
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch431.pt
+[Epoch 432] lr=9.00e-04  val_recon=0.001463  val_cls=5.232118  val_center=1.527266  val_perc=0.000338
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch432.pt
+[Epoch 433] lr=8.98e-04  val_recon=0.001370  val_cls=5.145369  val_center=1.480750  val_perc=0.000308
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch433.pt
+[Epoch 434] lr=8.95e-04  val_recon=0.001260  val_cls=5.189407  val_center=1.578734  val_perc=0.000339
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch434.pt
+[Epoch 435] lr=8.93e-04  val_recon=0.001638  val_cls=5.237517  val_center=1.651640  val_perc=0.000488
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch435.pt
+[Epoch 436] lr=8.90e-04  val_recon=0.001636  val_cls=5.254919  val_center=1.551513  val_perc=0.000419
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch436.pt
+[Epoch 437] lr=8.88e-04  val_recon=0.001132  val_cls=5.111741  val_center=1.533933  val_perc=0.000311
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch437.pt
+[Epoch 438] lr=8.85e-04  val_recon=0.002562  val_cls=5.659744  val_center=2.728408  val_perc=0.000566
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch438.pt
+[Epoch 439] lr=8.83e-04  val_recon=0.002402  val_cls=5.213069  val_center=1.556117  val_perc=0.000521
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch439.pt
+[Epoch 440] lr=8.80e-04  val_recon=0.001288  val_cls=5.167206  val_center=1.568852  val_perc=0.000311
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch440.pt
+[Epoch 441] lr=8.78e-04  val_recon=0.001266  val_cls=5.121496  val_center=1.464242  val_perc=0.000316
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch441.pt
+[Epoch 442] lr=8.75e-04  val_recon=0.002071  val_cls=5.183063  val_center=1.476550  val_perc=0.000490
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch442.pt
+[Epoch 443] lr=8.73e-04  val_recon=0.001086  val_cls=5.229706  val_center=1.471449  val_perc=0.000294
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch443.pt
+[Epoch 444] lr=8.70e-04  val_recon=0.001494  val_cls=5.158093  val_center=1.522024  val_perc=0.000410
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch444.pt
+[Epoch 445] lr=8.67e-04  val_recon=0.001728  val_cls=5.107044  val_center=1.413161  val_perc=0.000438
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch445.pt
+[Epoch 446] lr=8.65e-04  val_recon=0.001354  val_cls=5.149184  val_center=1.464397  val_perc=0.000347
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch446.pt
+[Epoch 447] lr=8.62e-04  val_recon=0.001164  val_cls=5.192186  val_center=1.458711  val_perc=0.000306
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch447.pt
+[Epoch 448] lr=8.59e-04  val_recon=0.001696  val_cls=5.160179  val_center=1.477158  val_perc=0.000390
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch448.pt
+[Epoch 449] lr=8.56e-04  val_recon=0.002080  val_cls=5.167117  val_center=1.578792  val_perc=0.000484
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch449.pt
+[Epoch 450] lr=8.54e-04  val_recon=0.001240  val_cls=5.244329  val_center=1.539520  val_perc=0.000302
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch450.pt
+[Epoch 451] lr=8.51e-04  val_recon=0.001412  val_cls=5.195820  val_center=1.532273  val_perc=0.000385
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch451.pt
+[Epoch 452] lr=8.48e-04  val_recon=0.001109  val_cls=5.150785  val_center=1.449202  val_perc=0.000299
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch452.pt
+[Epoch 453] lr=8.45e-04  val_recon=0.001949  val_cls=5.516604  val_center=1.952579  val_perc=0.000471
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch453.pt
+[Epoch 454] lr=8.42e-04  val_recon=0.001157  val_cls=5.213880  val_center=1.434400  val_perc=0.000287
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch454.pt
+[Epoch 455] lr=8.40e-04  val_recon=0.001208  val_cls=5.151518  val_center=1.466175  val_perc=0.000326
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch455.pt
+[Epoch 456] lr=8.37e-04  val_recon=0.001267  val_cls=5.214302  val_center=1.413731  val_perc=0.000334
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch456.pt
+[Epoch 457] lr=8.34e-04  val_recon=0.001111  val_cls=5.188127  val_center=1.459357  val_perc=0.000326
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch457.pt
+[Epoch 458] lr=8.31e-04  val_recon=0.001335  val_cls=5.200761  val_center=1.466017  val_perc=0.000359
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch458.pt
+[Epoch 459] lr=8.28e-04  val_recon=0.001310  val_cls=5.279827  val_center=1.493913  val_perc=0.000320
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch459.pt
+[Epoch 460] lr=8.25e-04  val_recon=0.001266  val_cls=5.196984  val_center=1.411383  val_perc=0.000309
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch460.pt
+[Epoch 461] lr=8.22e-04  val_recon=0.002341  val_cls=5.242459  val_center=1.646854  val_perc=0.000607
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch461.pt
+[Epoch 462] lr=8.19e-04  val_recon=0.001383  val_cls=5.229057  val_center=1.503551  val_perc=0.000393
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch462.pt
+[Epoch 463] lr=8.16e-04  val_recon=0.001402  val_cls=5.152913  val_center=1.416734  val_perc=0.000342
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch463.pt
+[Epoch 464] lr=8.13e-04  val_recon=0.001957  val_cls=5.249065  val_center=1.506890  val_perc=0.000477
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch464.pt
+[Epoch 465] lr=8.10e-04  val_recon=0.002767  val_cls=5.529098  val_center=1.815387  val_perc=0.000611
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch465.pt
+[Epoch 466] lr=8.07e-04  val_recon=0.001660  val_cls=5.169557  val_center=1.395825  val_perc=0.000371
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch466.pt
+[Epoch 467] lr=8.04e-04  val_recon=0.001074  val_cls=5.185092  val_center=1.389387  val_perc=0.000266
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch467.pt
+[Epoch 468] lr=8.00e-04  val_recon=0.001158  val_cls=5.248480  val_center=1.458269  val_perc=0.000301
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch468.pt
+[Epoch 469] lr=7.97e-04  val_recon=0.001204  val_cls=5.172691  val_center=1.390490  val_perc=0.000357
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch469.pt
+[Epoch 470] lr=7.94e-04  val_recon=0.001128  val_cls=5.190489  val_center=1.348409  val_perc=0.000272
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch470.pt
+[Epoch 471] lr=7.91e-04  val_recon=0.001141  val_cls=5.197128  val_center=1.389776  val_perc=0.000281
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch471.pt
+[Epoch 472] lr=7.88e-04  val_recon=0.001187  val_cls=5.229922  val_center=1.436052  val_perc=0.000321
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch472.pt
+[Epoch 473] lr=7.84e-04  val_recon=0.001695  val_cls=5.185038  val_center=1.412599  val_perc=0.000413
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch473.pt
+[Epoch 474] lr=7.81e-04  val_recon=0.001322  val_cls=5.218372  val_center=1.419893  val_perc=0.000350
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch474.pt
+[Epoch 475] lr=7.78e-04  val_recon=0.001465  val_cls=5.233132  val_center=1.404366  val_perc=0.000335
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch475.pt
+[Epoch 476] lr=7.75e-04  val_recon=0.001420  val_cls=5.225587  val_center=1.408226  val_perc=0.000322
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch476.pt
+[Epoch 477] lr=7.71e-04  val_recon=0.001075  val_cls=5.174608  val_center=1.406397  val_perc=0.000270
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch477.pt
+[Epoch 478] lr=7.68e-04  val_recon=0.001111  val_cls=5.205537  val_center=1.391262  val_perc=0.000266
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch478.pt
+[Epoch 479] lr=7.65e-04  val_recon=0.001130  val_cls=5.273910  val_center=1.409826  val_perc=0.000267
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch479.pt
+[Epoch 480] lr=7.61e-04  val_recon=0.001355  val_cls=5.198183  val_center=1.379240  val_perc=0.000321
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch480.pt
+[Epoch 481] lr=7.58e-04  val_recon=0.001121  val_cls=5.298548  val_center=1.400901  val_perc=0.000284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch481.pt
+[Epoch 482] lr=7.55e-04  val_recon=0.001248  val_cls=5.239430  val_center=1.431388  val_perc=0.000337
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch482.pt
+[Epoch 483] lr=7.51e-04  val_recon=0.001068  val_cls=5.227577  val_center=1.370879  val_perc=0.000255
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch483.pt
+[Epoch 484] lr=7.48e-04  val_recon=0.001136  val_cls=5.251296  val_center=1.405506  val_perc=0.000266
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch484.pt
+[Epoch 485] lr=7.45e-04  val_recon=0.001152  val_cls=5.210490  val_center=1.355318  val_perc=0.000314
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch485.pt
+[Epoch 486] lr=7.41e-04  val_recon=0.002802  val_cls=5.479701  val_center=1.920733  val_perc=0.000587
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch486.pt
+[Epoch 487] lr=7.38e-04  val_recon=0.001237  val_cls=5.219490  val_center=1.362966  val_perc=0.000296
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch487.pt
+[Epoch 488] lr=7.34e-04  val_recon=0.001128  val_cls=5.242669  val_center=1.418273  val_perc=0.000325
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch488.pt
+[Epoch 489] lr=7.31e-04  val_recon=0.001466  val_cls=5.282328  val_center=1.439428  val_perc=0.000423
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch489.pt
+[Epoch 490] lr=7.27e-04  val_recon=0.001606  val_cls=5.339012  val_center=1.497534  val_perc=0.000390
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch490.pt
+[Epoch 491] lr=7.24e-04  val_recon=0.001139  val_cls=5.218699  val_center=1.377676  val_perc=0.000297
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch491.pt
+[Epoch 492] lr=7.20e-04  val_recon=0.001896  val_cls=5.244368  val_center=1.409863  val_perc=0.000429
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch492.pt
+[Epoch 493] lr=7.17e-04  val_recon=0.001043  val_cls=5.297322  val_center=1.399075  val_perc=0.000271
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch493.pt
+[Epoch 494] lr=7.13e-04  val_recon=0.001712  val_cls=5.273051  val_center=1.379534  val_perc=0.000521
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch494.pt
+[Epoch 495] lr=7.10e-04  val_recon=0.001234  val_cls=5.231608  val_center=1.333332  val_perc=0.000365
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch495.pt
+[Epoch 496] lr=7.06e-04  val_recon=0.002368  val_cls=5.224492  val_center=1.413301  val_perc=0.000549
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch496.pt
+[Epoch 497] lr=7.02e-04  val_recon=0.001721  val_cls=5.331217  val_center=1.482169  val_perc=0.000412
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch497.pt
+[Epoch 498] lr=6.99e-04  val_recon=0.001178  val_cls=5.281145  val_center=1.387548  val_perc=0.000325
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch498.pt
+[Epoch 499] lr=6.95e-04  val_recon=0.001227  val_cls=5.258995  val_center=1.375824  val_perc=0.000315
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch499.pt
+[Epoch 500] lr=6.92e-04  val_recon=0.001284  val_cls=5.279219  val_center=1.360321  val_perc=0.000336
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch500.pt
+[Epoch 501] lr=6.88e-04  val_recon=0.001307  val_cls=5.292781  val_center=1.353259  val_perc=0.000326
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch501.pt
+[Epoch 502] lr=6.84e-04  val_recon=0.001065  val_cls=5.266796  val_center=1.339182  val_perc=0.000295
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch502.pt
+[Epoch 503] lr=6.81e-04  val_recon=0.001295  val_cls=5.259845  val_center=1.374551  val_perc=0.000405
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch503.pt
+[Epoch 504] lr=6.77e-04  val_recon=0.001042  val_cls=5.224258  val_center=1.338411  val_perc=0.000282
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch504.pt
+[Epoch 505] lr=6.73e-04  val_recon=0.001216  val_cls=5.275636  val_center=1.362365  val_perc=0.000289
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch505.pt
+[Epoch 506] lr=6.70e-04  val_recon=0.001039  val_cls=5.248268  val_center=1.351167  val_perc=0.000266
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch506.pt
+[Epoch 507] lr=6.66e-04  val_recon=0.001621  val_cls=5.272346  val_center=1.334971  val_perc=0.000387
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch507.pt
+[Epoch 508] lr=6.62e-04  val_recon=0.001171  val_cls=5.252712  val_center=1.341196  val_perc=0.000334
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch508.pt
+[Epoch 509] lr=6.59e-04  val_recon=0.001309  val_cls=5.219369  val_center=1.340578  val_perc=0.000346
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch509.pt
+[Epoch 510] lr=6.55e-04  val_recon=0.001062  val_cls=5.230728  val_center=1.348234  val_perc=0.000296
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch510.pt
+[Epoch 511] lr=6.51e-04  val_recon=0.001251  val_cls=5.280315  val_center=1.348217  val_perc=0.000297
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch511.pt
+[Epoch 512] lr=6.47e-04  val_recon=0.001232  val_cls=5.279727  val_center=1.340788  val_perc=0.000286
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch512.pt
+[Epoch 513] lr=6.44e-04  val_recon=0.001206  val_cls=5.242184  val_center=1.326799  val_perc=0.000338
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch513.pt
+[Epoch 514] lr=6.40e-04  val_recon=0.001207  val_cls=5.262529  val_center=1.349883  val_perc=0.000306
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch514.pt
+[Epoch 515] lr=6.36e-04  val_recon=0.001040  val_cls=5.282598  val_center=1.350708  val_perc=0.000265
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch515.pt
+[Epoch 516] lr=6.32e-04  val_recon=0.001327  val_cls=5.294557  val_center=1.348128  val_perc=0.000353
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch516.pt
+[Epoch 517] lr=6.29e-04  val_recon=0.001284  val_cls=5.288772  val_center=1.359547  val_perc=0.000328
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch517.pt
+[Epoch 518] lr=6.25e-04  val_recon=0.001236  val_cls=5.262794  val_center=1.345858  val_perc=0.000330
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch518.pt
+[Epoch 519] lr=6.21e-04  val_recon=0.001119  val_cls=5.328450  val_center=1.342686  val_perc=0.000285
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch519.pt
+[Epoch 520] lr=6.17e-04  val_recon=0.001224  val_cls=5.281068  val_center=1.309641  val_perc=0.000295
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch520.pt
+[Epoch 521] lr=6.13e-04  val_recon=0.001183  val_cls=5.278181  val_center=1.335436  val_perc=0.000284
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch521.pt
+[Epoch 522] lr=6.09e-04  val_recon=0.001120  val_cls=5.249142  val_center=1.336443  val_perc=0.000308
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch522.pt
+[Epoch 523] lr=6.06e-04  val_recon=0.001266  val_cls=5.292213  val_center=1.317842  val_perc=0.000361
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch523.pt
+[Epoch 524] lr=6.02e-04  val_recon=0.001066  val_cls=5.289615  val_center=1.356328  val_perc=0.000263
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch524.pt
+[Epoch 525] lr=5.98e-04  val_recon=0.001185  val_cls=5.262552  val_center=1.341311  val_perc=0.000349
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch525.pt
+[Epoch 526] lr=5.94e-04  val_recon=0.001112  val_cls=5.366635  val_center=1.341697  val_perc=0.000273
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch526.pt
+[Epoch 527] lr=5.90e-04  val_recon=0.001059  val_cls=5.337201  val_center=1.327468  val_perc=0.000264
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch527.pt
+[Epoch 528] lr=5.86e-04  val_recon=0.001287  val_cls=5.382653  val_center=1.371179  val_perc=0.000324
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch528.pt
+[Epoch 529] lr=5.83e-04  val_recon=0.001050  val_cls=5.266583  val_center=1.327769  val_perc=0.000278
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch529.pt
+[Epoch 530] lr=5.79e-04  val_recon=0.001575  val_cls=5.350428  val_center=1.434348  val_perc=0.000363
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch530.pt
+[Epoch 531] lr=5.75e-04  val_recon=0.001093  val_cls=5.255968  val_center=1.299190  val_perc=0.000297
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch531.pt
+[Epoch 532] lr=5.71e-04  val_recon=0.001279  val_cls=5.298117  val_center=1.323904  val_perc=0.000310
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch532.pt
+[Epoch 533] lr=5.67e-04  val_recon=0.001061  val_cls=5.311266  val_center=1.309790  val_perc=0.000268
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch533.pt
+[Epoch 534] lr=5.63e-04  val_recon=0.001166  val_cls=5.262724  val_center=1.296195  val_perc=0.000312
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch534.pt
+[Epoch 535] lr=5.59e-04  val_recon=0.001141  val_cls=5.297285  val_center=1.300941  val_perc=0.000285
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch535.pt
+[Epoch 536] lr=5.55e-04  val_recon=0.001047  val_cls=5.297060  val_center=1.347412  val_perc=0.000266
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch536.pt
+[Epoch 537] lr=5.51e-04  val_recon=0.001294  val_cls=5.320404  val_center=1.292274  val_perc=0.000330
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch537.pt
+[Epoch 538] lr=5.48e-04  val_recon=0.001144  val_cls=5.280384  val_center=1.310196  val_perc=0.000300
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch538.pt
+[Epoch 539] lr=5.44e-04  val_recon=0.001063  val_cls=5.370004  val_center=1.302200  val_perc=0.000274
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch539.pt
+[Epoch 540] lr=5.40e-04  val_recon=0.001098  val_cls=5.269811  val_center=1.275615  val_perc=0.000291
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch540.pt
+[Epoch 541] lr=5.36e-04  val_recon=0.001067  val_cls=5.231382  val_center=1.290718  val_perc=0.000269
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch541.pt
+[Epoch 542] lr=5.32e-04  val_recon=0.000990  val_cls=5.251941  val_center=1.292071  val_perc=0.000273
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch542.pt
+[Epoch 543] lr=5.28e-04  val_recon=0.001070  val_cls=5.254612  val_center=1.267833  val_perc=0.000318
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch543.pt
+[Epoch 544] lr=5.24e-04  val_recon=0.001083  val_cls=5.355146  val_center=1.292360  val_perc=0.000290
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch544.pt
+[Epoch 545] lr=5.20e-04  val_recon=0.001064  val_cls=5.339440  val_center=1.306320  val_perc=0.000260
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch545.pt
+[Epoch 546] lr=5.16e-04  val_recon=0.001328  val_cls=5.231954  val_center=1.272563  val_perc=0.000342
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch546.pt
+[Epoch 547] lr=5.12e-04  val_recon=0.001010  val_cls=5.307584  val_center=1.284504  val_perc=0.000267
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch547.pt
+[Epoch 548] lr=5.08e-04  val_recon=0.001076  val_cls=5.292795  val_center=1.312424  val_perc=0.000283
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch548.pt
+[Epoch 549] lr=5.04e-04  val_recon=0.001216  val_cls=5.310290  val_center=1.293812  val_perc=0.000330
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch549.pt
+[Epoch 550] lr=5.01e-04  val_recon=0.001059  val_cls=5.280954  val_center=1.293701  val_perc=0.000267
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch550.pt
+[Epoch 551] lr=4.97e-04  val_recon=0.001290  val_cls=5.254498  val_center=1.280491  val_perc=0.000378
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch551.pt
+[Epoch 552] lr=4.93e-04  val_recon=0.001053  val_cls=5.323185  val_center=1.320008  val_perc=0.000281
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch552.pt
+[Epoch 553] lr=4.89e-04  val_recon=0.001038  val_cls=5.300018  val_center=1.277179  val_perc=0.000298
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch553.pt
+[Epoch 554] lr=4.85e-04  val_recon=0.001263  val_cls=5.284178  val_center=1.284081  val_perc=0.000327
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch554.pt
+[Epoch 555] lr=4.81e-04  val_recon=0.001247  val_cls=5.318198  val_center=1.297729  val_perc=0.000333
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch555.pt
+[Epoch 556] lr=4.77e-04  val_recon=0.001430  val_cls=5.320764  val_center=1.320735  val_perc=0.000408
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch556.pt
+[Epoch 557] lr=4.73e-04  val_recon=0.001164  val_cls=5.241640  val_center=1.284588  val_perc=0.000344
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch557.pt
+[Epoch 558] lr=4.69e-04  val_recon=0.001275  val_cls=5.282218  val_center=1.268627  val_perc=0.000324
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch558.pt
+[Epoch 559] lr=4.65e-04  val_recon=0.001200  val_cls=5.285289  val_center=1.275624  val_perc=0.000346
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch559.pt
+[Epoch 560] lr=4.61e-04  val_recon=0.001312  val_cls=5.338877  val_center=1.288007  val_perc=0.000361
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch560.pt
+[Epoch 561] lr=4.57e-04  val_recon=0.001217  val_cls=5.307327  val_center=1.274760  val_perc=0.000307
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch561.pt
+[Epoch 562] lr=4.53e-04  val_recon=0.001005  val_cls=5.320000  val_center=1.256817  val_perc=0.000288
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch562.pt
+[Epoch 563] lr=4.50e-04  val_recon=0.001360  val_cls=5.305484  val_center=1.336760  val_perc=0.000399
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch563.pt
+[Epoch 564] lr=4.46e-04  val_recon=0.001082  val_cls=5.322346  val_center=1.242082  val_perc=0.000271
+Saved /gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4_SiLU_8latent_tuning/checkpoint/checkpoint_epoch564.pt

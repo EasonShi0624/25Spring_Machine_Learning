@@ -1,0 +1,704 @@
+Loading checkpoint '/gpfsnyu/scratch/ys6132/25spring_machine_learning/Yuchen/v4.1.1SiLU_continue_continue/checkpoint/secondround_checkpoint_epoch50.pt' …
+Training resumed successfully
+Train ep1: recon=0.0030 kl=4.4992 cls=0.6002 center=3820.2790 perc=0.0004 tot=11.4678
+[Epoch 1] val_recon=0.001735 val_cls=5.424190 val_center=3548.400057 val_perc=0.000343
+Saved checkpoint_epoch1.pt
+Train ep2: recon=0.0021 kl=4.5000 cls=0.4149 center=3311.3232 perc=0.0004 tot=9.9393
+[Epoch 2] val_recon=0.002160 val_cls=5.718545 val_center=3078.868380 val_perc=0.000386
+Saved checkpoint_epoch2.pt
+Train ep3: recon=0.0022 kl=4.5001 cls=0.4078 center=2875.1596 perc=0.0004 tot=8.6311
+[Epoch 3] val_recon=0.001810 val_cls=5.472934 val_center=2674.824820 val_perc=0.000331
+Saved checkpoint_epoch3.pt
+Train ep4: recon=0.0022 kl=4.5001 cls=0.4118 center=2499.4381 perc=0.0004 tot=7.5042
+[Epoch 4] val_recon=0.004297 val_cls=5.836325 val_center=2326.442142 val_perc=0.000526
+Saved checkpoint_epoch4.pt
+Train ep5: recon=0.0022 kl=4.5001 cls=0.4166 center=2174.5876 perc=0.0004 tot=6.5299
+[Epoch 5] val_recon=0.001444 val_cls=5.496542 val_center=2024.350438 val_perc=0.000286
+Saved checkpoint_epoch5.pt
+Train ep6: recon=0.0022 kl=4.5001 cls=0.4198 center=1893.1257 perc=0.0004 tot=5.6858
+[Epoch 6] val_recon=0.001555 val_cls=5.565164 val_center=1762.517688 val_perc=0.000314
+Saved checkpoint_epoch6.pt
+Train ep7: recon=0.0022 kl=4.5001 cls=0.4179 center=1648.5276 perc=0.0004 tot=4.9522
+[Epoch 7] val_recon=0.003766 val_cls=5.942780 val_center=1535.048675 val_perc=0.000559
+Saved checkpoint_epoch7.pt
+Train ep8: recon=0.0022 kl=4.5002 cls=0.3969 center=1435.6008 perc=0.0004 tot=4.3136
+[Epoch 8] val_recon=0.001912 val_cls=5.621884 val_center=1336.307194 val_perc=0.000352
+Saved checkpoint_epoch8.pt
+Train ep9: recon=0.0022 kl=4.5001 cls=0.4170 center=1250.0522 perc=0.0004 tot=3.7573
+[Epoch 9] val_recon=0.001662 val_cls=5.551005 val_center=1163.340939 val_perc=0.000302
+Saved checkpoint_epoch9.pt
+Train ep10: recon=0.0022 kl=4.5002 cls=0.4181 center=1088.2389 perc=0.0004 tot=3.2720
+[Epoch 10] val_recon=0.001936 val_cls=5.699629 val_center=1012.398510 val_perc=0.000333
+Saved checkpoint_epoch10.pt
+Train ep11: recon=0.0022 kl=4.5001 cls=0.4182 center=946.9138 perc=0.0004 tot=2.8483
+[Epoch 11] val_recon=0.001670 val_cls=5.563740 val_center=880.527318 val_perc=0.000307
+Saved checkpoint_epoch11.pt
+Train ep12: recon=0.0022 kl=4.5001 cls=0.4102 center=834.6335 perc=0.0004 tot=2.5116
+[Epoch 12] val_recon=0.001322 val_cls=5.411153 val_center=786.992331 val_perc=0.000260
+Saved checkpoint_epoch12.pt
+Train ep13: recon=0.0022 kl=4.5001 cls=0.4098 center=745.6503 perc=0.0004 tot=2.2448
+[Epoch 13] val_recon=0.002170 val_cls=5.697314 val_center=702.727101 val_perc=0.000364
+Saved checkpoint_epoch13.pt
+Train ep14: recon=0.0022 kl=4.5001 cls=0.4167 center=665.4007 perc=0.0004 tot=2.0044
+[Epoch 14] val_recon=0.001566 val_cls=5.355352 val_center=626.421367 val_perc=0.000302
+Saved checkpoint_epoch14.pt
+Train ep15: recon=0.0022 kl=4.5001 cls=0.4093 center=593.0499 perc=0.0004 tot=1.7875
+[Epoch 15] val_recon=0.074060 val_cls=6.063845 val_center=558.404224 val_perc=0.012450
+Saved checkpoint_epoch15.pt
+Train ep16: recon=0.0022 kl=4.5001 cls=0.4229 center=528.0212 perc=0.0004 tot=1.5927
+[Epoch 16] val_recon=0.002011 val_cls=5.486421 val_center=496.405483 val_perc=0.000383
+Saved checkpoint_epoch16.pt
+Train ep17: recon=0.0022 kl=4.5001 cls=0.4235 center=469.6531 perc=0.0004 tot=1.4178
+[Epoch 17] val_recon=0.002478 val_cls=5.585636 val_center=441.235193 val_perc=0.000374
+Saved checkpoint_epoch17.pt
+Train ep18: recon=0.0022 kl=4.5001 cls=0.4156 center=417.3143 perc=0.0004 tot=1.2610
+[Epoch 18] val_recon=0.001439 val_cls=5.444786 val_center=391.730065 val_perc=0.000268
+Saved checkpoint_epoch18.pt
+Train ep19: recon=0.0022 kl=4.5001 cls=0.4262 center=374.6764 perc=0.0004 tot=1.1333
+[Epoch 19] val_recon=0.001253 val_cls=5.497926 val_center=355.876632 val_perc=0.000251
+Saved checkpoint_epoch19.pt
+Train ep20: recon=0.0021 kl=4.5001 cls=0.4142 center=340.1817 perc=0.0004 tot=1.0300
+[Epoch 20] val_recon=0.001546 val_cls=5.331696 val_center=322.793565 val_perc=0.000309
+Saved checkpoint_epoch20.pt
+Train ep21: recon=0.0021 kl=4.5001 cls=0.4110 center=308.4506 perc=0.0004 tot=0.9348
+[Epoch 21] val_recon=0.001754 val_cls=5.470954 val_center=292.430339 val_perc=0.000353
+Saved checkpoint_epoch21.pt
+Train ep22: recon=0.0021 kl=4.5001 cls=0.4134 center=279.2944 perc=0.0004 tot=0.8473
+[Epoch 22] val_recon=0.088051 val_cls=5.914117 val_center=264.998637 val_perc=0.012174
+Saved checkpoint_epoch22.pt
+Train ep23: recon=0.0021 kl=4.5001 cls=0.4174 center=252.6241 perc=0.0004 tot=0.7673
+[Epoch 23] val_recon=0.001668 val_cls=5.368181 val_center=239.072039 val_perc=0.000311
+Saved checkpoint_epoch23.pt
+Train ep24: recon=0.0021 kl=4.5001 cls=0.4188 center=228.2408 perc=0.0004 tot=0.6942
+[Epoch 24] val_recon=0.005492 val_cls=5.688442 val_center=215.990538 val_perc=0.000890
+Saved checkpoint_epoch24.pt
+Train ep25: recon=0.0021 kl=4.5001 cls=0.4351 center=205.9901 perc=0.0004 tot=0.6274
+[Epoch 25] val_recon=0.001632 val_cls=5.380224 val_center=194.614993 val_perc=0.000307
+Saved checkpoint_epoch25.pt
+Train ep26: recon=0.0021 kl=4.5001 cls=0.4298 center=187.5849 perc=0.0004 tot=0.5722
+[Epoch 26] val_recon=0.001314 val_cls=5.361310 val_center=178.970112 val_perc=0.000258
+Saved checkpoint_epoch26.pt
+Train ep27: recon=0.0021 kl=4.5001 cls=0.4186 center=172.4424 perc=0.0004 tot=0.5267
+[Epoch 27] val_recon=0.001214 val_cls=5.340431 val_center=164.369334 val_perc=0.000246
+Saved checkpoint_epoch27.pt
+Train ep28: recon=0.0021 kl=4.5001 cls=0.4319 center=158.3759 perc=0.0004 tot=0.4846
+[Epoch 28] val_recon=0.001376 val_cls=5.405846 val_center=150.837116 val_perc=0.000319
+Saved checkpoint_epoch28.pt
+Train ep29: recon=0.0021 kl=4.5001 cls=0.4341 center=145.2655 perc=0.0004 tot=0.4453
+[Epoch 29] val_recon=0.001386 val_cls=5.415927 val_center=138.270935 val_perc=0.000259
+Saved checkpoint_epoch29.pt
+Train ep30: recon=0.0021 kl=4.5001 cls=0.4383 center=133.1008 perc=0.0004 tot=0.4088
+[Epoch 30] val_recon=0.002058 val_cls=5.589119 val_center=126.575741 val_perc=0.000357
+Saved checkpoint_epoch30.pt
+Train ep31: recon=0.0021 kl=4.5001 cls=0.4357 center=121.8421 perc=0.0004 tot=0.3750
+[Epoch 31] val_recon=0.002010 val_cls=5.351564 val_center=115.744850 val_perc=0.000352
+Saved checkpoint_epoch31.pt
+Train ep32: recon=0.0021 kl=4.5001 cls=0.4365 center=111.4413 perc=0.0004 tot=0.3438
+[Epoch 32] val_recon=0.001416 val_cls=5.304916 val_center=105.768192 val_perc=0.000293
+Saved checkpoint_epoch32.pt
+Train ep33: recon=0.0021 kl=4.5001 cls=0.4530 center=101.8437 perc=0.0004 tot=0.3151
+[Epoch 33] val_recon=0.001469 val_cls=5.320025 val_center=96.550029 val_perc=0.000307
+Saved checkpoint_epoch33.pt
+Train ep34: recon=0.0021 kl=4.5001 cls=0.4513 center=93.7872 perc=0.0004 tot=0.2909
+[Epoch 34] val_recon=0.001303 val_cls=5.337492 val_center=89.699598 val_perc=0.000252
+Saved checkpoint_epoch34.pt
+Train ep35: recon=0.0021 kl=4.5001 cls=0.4342 center=87.1318 perc=0.0004 tot=0.2708
+[Epoch 35] val_recon=0.001270 val_cls=5.501585 val_center=83.331903 val_perc=0.000286
+Saved checkpoint_epoch35.pt
+Train ep36: recon=0.0021 kl=4.5001 cls=0.4358 center=80.8737 perc=0.0004 tot=0.2521
+[Epoch 36] val_recon=0.001441 val_cls=5.404065 val_center=77.193681 val_perc=0.000264
+Saved checkpoint_epoch36.pt
+Train ep37: recon=0.0021 kl=4.5001 cls=0.4508 center=74.9766 perc=0.0004 tot=0.2344
+[Epoch 37] val_recon=0.001398 val_cls=5.279980 val_center=71.499228 val_perc=0.000288
+Saved checkpoint_epoch37.pt
+Train ep38: recon=0.0021 kl=4.5001 cls=0.4497 center=69.4705 perc=0.0004 tot=0.2179
+[Epoch 38] val_recon=0.001446 val_cls=5.440767 val_center=66.232613 val_perc=0.000263
+Saved checkpoint_epoch38.pt
+Train ep39: recon=0.0021 kl=4.5001 cls=0.4543 center=64.3339 perc=0.0004 tot=0.2025
+[Epoch 39] val_recon=0.001265 val_cls=5.282673 val_center=61.232811 val_perc=0.000264
+Saved checkpoint_epoch39.pt
+Train ep40: recon=0.0021 kl=4.5001 cls=0.4442 center=59.9693 perc=0.0004 tot=0.1894
+[Epoch 40] val_recon=0.001420 val_cls=5.373395 val_center=57.560153 val_perc=0.000278
+Saved checkpoint_epoch40.pt
+Train ep41: recon=0.0021 kl=4.5001 cls=0.4520 center=56.3185 perc=0.0004 tot=0.1785
+[Epoch 41] val_recon=0.001321 val_cls=5.490868 val_center=54.027917 val_perc=0.000280
+Saved checkpoint_epoch41.pt
+Train ep42: recon=0.0021 kl=4.5001 cls=0.4510 center=52.8498 perc=0.0004 tot=0.1680
+[Epoch 42] val_recon=0.001179 val_cls=5.323069 val_center=50.621055 val_perc=0.000255
+Saved checkpoint_epoch42.pt
+Train ep43: recon=0.0021 kl=4.5001 cls=0.4367 center=49.5744 perc=0.0004 tot=0.1582
+[Epoch 43] val_recon=0.001158 val_cls=5.451852 val_center=47.478055 val_perc=0.000246
+Saved checkpoint_epoch43.pt
+Train ep44: recon=0.0021 kl=4.5001 cls=0.4547 center=46.4598 perc=0.0004 tot=0.1489
+[Epoch 44] val_recon=0.001238 val_cls=5.305633 val_center=44.385359 val_perc=0.000267
+Saved checkpoint_epoch44.pt
+Train ep45: recon=0.0021 kl=4.5001 cls=0.4683 center=43.5258 perc=0.0004 tot=0.1401
+[Epoch 45] val_recon=0.001282 val_cls=5.425432 val_center=41.599107 val_perc=0.000267
+Saved checkpoint_epoch45.pt
+Train ep46: recon=0.0021 kl=4.5001 cls=0.4534 center=40.7607 perc=0.0004 tot=0.1318
+[Epoch 46] val_recon=0.001252 val_cls=5.355235 val_center=38.904081 val_perc=0.000288
+Saved checkpoint_epoch46.pt
+Train ep47: recon=0.0021 kl=4.5001 cls=0.4591 center=38.1520 perc=0.0004 tot=0.1240
+[Epoch 47] val_recon=0.001261 val_cls=5.215000 val_center=36.331584 val_perc=0.000282
+Saved checkpoint_epoch47.pt
+Train ep48: recon=0.0021 kl=4.5001 cls=0.4471 center=35.7118 perc=0.0004 tot=0.1166
+[Epoch 48] val_recon=0.001256 val_cls=5.310366 val_center=33.996164 val_perc=0.000246
+Saved checkpoint_epoch48.pt
+Train ep49: recon=0.0021 kl=4.5001 cls=0.4538 center=33.3986 perc=0.0004 tot=0.1097
+[Epoch 49] val_recon=0.001503 val_cls=5.332543 val_center=31.793845 val_perc=0.000295
+Saved checkpoint_epoch49.pt
+Train ep50: recon=0.0021 kl=4.5001 cls=0.4479 center=31.4392 perc=0.0004 tot=0.1038
+[Epoch 50] val_recon=0.001672 val_cls=5.456109 val_center=30.151050 val_perc=0.000325
+Saved checkpoint_epoch50.pt
+Train ep51: recon=0.0021 kl=4.5001 cls=0.4533 center=29.7858 perc=0.0004 tot=0.0988
+[Epoch 51] val_recon=0.001143 val_cls=5.288764 val_center=28.475963 val_perc=0.000238
+Saved checkpoint_epoch51.pt
+Train ep52: recon=0.0021 kl=4.5001 cls=0.4516 center=28.2133 perc=0.0004 tot=0.0941
+[Epoch 52] val_recon=0.001237 val_cls=5.233625 val_center=26.943069 val_perc=0.000278
+Saved checkpoint_epoch52.pt
+Train ep53: recon=0.0021 kl=4.5001 cls=0.4469 center=26.7216 perc=0.0004 tot=0.0896
+[Epoch 53] val_recon=0.001299 val_cls=5.251602 val_center=25.480998 val_perc=0.000290
+Saved checkpoint_epoch53.pt
+Train ep54: recon=0.0021 kl=4.5001 cls=0.4307 center=25.3071 perc=0.0004 tot=0.0853
+[Epoch 54] val_recon=0.001450 val_cls=5.339122 val_center=24.167691 val_perc=0.000270
+Saved checkpoint_epoch54.pt
+Train ep55: recon=0.0021 kl=4.5001 cls=0.4491 center=23.9570 perc=0.0004 tot=0.0813
+[Epoch 55] val_recon=0.001222 val_cls=5.281449 val_center=22.828482 val_perc=0.000252
+Saved checkpoint_epoch55.pt
+Train ep56: recon=0.0021 kl=4.5001 cls=0.4509 center=22.6663 perc=0.0004 tot=0.0775
+[Epoch 56] val_recon=0.001175 val_cls=5.281168 val_center=21.575164 val_perc=0.000239
+Saved checkpoint_epoch56.pt
+Train ep57: recon=0.0021 kl=4.5001 cls=0.4437 center=21.4551 perc=0.0004 tot=0.0738
+[Epoch 57] val_recon=0.001192 val_cls=5.270296 val_center=20.393301 val_perc=0.000257
+Saved checkpoint_epoch57.pt
+Train ep58: recon=0.0021 kl=4.5001 cls=0.4377 center=20.4023 perc=0.0004 tot=0.0706
+[Epoch 58] val_recon=0.001368 val_cls=5.303303 val_center=19.515766 val_perc=0.000284
+Saved checkpoint_epoch58.pt
+Train ep59: recon=0.0021 kl=4.5001 cls=0.4422 center=19.5218 perc=0.0004 tot=0.0680
+[Epoch 59] val_recon=0.001203 val_cls=5.266363 val_center=18.633775 val_perc=0.000268
+Saved checkpoint_epoch59.pt
+Train ep60: recon=0.0021 kl=4.5001 cls=0.4445 center=18.6750 perc=0.0004 tot=0.0654
+[Epoch 60] val_recon=0.001309 val_cls=5.670295 val_center=17.971236 val_perc=0.000251
+Saved checkpoint_epoch60.pt
+Train ep61: recon=0.0021 kl=4.5001 cls=0.4409 center=17.8624 perc=0.0004 tot=0.0630
+[Epoch 61] val_recon=0.001236 val_cls=5.331814 val_center=17.021863 val_perc=0.000291
+Saved checkpoint_epoch61.pt
+Train ep62: recon=0.0021 kl=4.5001 cls=0.4360 center=17.0682 perc=0.0004 tot=0.0606
+[Epoch 62] val_recon=0.001175 val_cls=5.265786 val_center=16.260434 val_perc=0.000273
+Saved checkpoint_epoch62.pt
+Train ep63: recon=0.0021 kl=4.5001 cls=0.4462 center=16.3320 perc=0.0004 tot=0.0584
+[Epoch 63] val_recon=0.001467 val_cls=5.283671 val_center=15.541820 val_perc=0.000316
+Saved checkpoint_epoch63.pt
+Train ep64: recon=0.0021 kl=4.5001 cls=0.4425 center=15.6806 perc=0.0004 tot=0.0565
+[Epoch 64] val_recon=0.001155 val_cls=5.220359 val_center=14.955075 val_perc=0.000251
+Saved checkpoint_epoch64.pt
+Train ep65: recon=0.0021 kl=4.5001 cls=0.4330 center=15.1249 perc=0.0004 tot=0.0547
+[Epoch 65] val_recon=0.001265 val_cls=5.261304 val_center=14.410169 val_perc=0.000251
+Saved checkpoint_epoch65.pt
+Train ep66: recon=0.0021 kl=4.5001 cls=0.4315 center=14.5894 perc=0.0004 tot=0.0531
+[Epoch 66] val_recon=0.001159 val_cls=5.233156 val_center=13.880006 val_perc=0.000260
+Saved checkpoint_epoch66.pt
+Train ep67: recon=0.0021 kl=4.5001 cls=0.4411 center=14.0644 perc=0.0004 tot=0.0516
+[Epoch 67] val_recon=0.001293 val_cls=5.274373 val_center=13.383068 val_perc=0.000250
+Saved checkpoint_epoch67.pt
+Train ep68: recon=0.0021 kl=4.5001 cls=0.4363 center=13.5637 perc=0.0004 tot=0.0501
+[Epoch 68] val_recon=0.001142 val_cls=5.229462 val_center=12.886528 val_perc=0.000261
+Saved checkpoint_epoch68.pt
+Train ep69: recon=0.0021 kl=4.5001 cls=0.4410 center=13.0812 perc=0.0004 tot=0.0486
+[Epoch 69] val_recon=0.001203 val_cls=5.251749 val_center=12.423722 val_perc=0.000259
+Saved checkpoint_epoch69.pt
+Train ep70: recon=0.0021 kl=4.5001 cls=0.4293 center=12.6174 perc=0.0004 tot=0.0472
+[Epoch 70] val_recon=0.001221 val_cls=5.212768 val_center=11.943509 val_perc=0.000259
+Saved checkpoint_epoch70.pt
+Train ep71: recon=0.0021 kl=4.5001 cls=0.4275 center=12.1699 perc=0.0004 tot=0.0459
+[Epoch 71] val_recon=0.001381 val_cls=5.252718 val_center=11.531884 val_perc=0.000252
+Saved checkpoint_epoch71.pt
+Train ep72: recon=0.0021 kl=4.5001 cls=0.4388 center=11.7403 perc=0.0004 tot=0.0446
+[Epoch 72] val_recon=0.001180 val_cls=5.310100 val_center=11.124280 val_perc=0.000249
+Saved checkpoint_epoch72.pt
+Train ep73: recon=0.0021 kl=4.5001 cls=0.4182 center=11.3182 perc=0.0004 tot=0.0433
+[Epoch 73] val_recon=0.001114 val_cls=5.221793 val_center=10.695609 val_perc=0.000259
+Saved checkpoint_epoch73.pt
+Train ep74: recon=0.0020 kl=4.5001 cls=0.4241 center=10.9175 perc=0.0004 tot=0.0421
+[Epoch 74] val_recon=0.001163 val_cls=5.260556 val_center=10.334036 val_perc=0.000242
+Saved checkpoint_epoch74.pt
+Train ep75: recon=0.0021 kl=4.5001 cls=0.4295 center=10.5340 perc=0.0004 tot=0.0410
+[Epoch 75] val_recon=0.001256 val_cls=5.203403 val_center=9.940738 val_perc=0.000269
+Saved checkpoint_epoch75.pt
+Train ep76: recon=0.0021 kl=4.5001 cls=0.4283 center=10.1688 perc=0.0004 tot=0.0399
+[Epoch 76] val_recon=0.001155 val_cls=5.232050 val_center=9.592205 val_perc=0.000246
+Saved checkpoint_epoch76.pt
+Train ep77: recon=0.0021 kl=4.5001 cls=0.4327 center=9.8115 perc=0.0004 tot=0.0388
+[Epoch 77] val_recon=0.001165 val_cls=5.251592 val_center=9.241734 val_perc=0.000252
+Saved checkpoint_epoch77.pt
+Train ep78: recon=0.0021 kl=4.5001 cls=0.4245 center=9.4742 perc=0.0004 tot=0.0378
+[Epoch 78] val_recon=0.001273 val_cls=5.271685 val_center=8.935246 val_perc=0.000278
+Saved checkpoint_epoch78.pt
+Train ep79: recon=0.0020 kl=4.5001 cls=0.4134 center=9.1502 perc=0.0004 tot=0.0367
+[Epoch 79] val_recon=0.001127 val_cls=5.237536 val_center=8.585690 val_perc=0.000244
+Saved checkpoint_epoch79.pt
+Train ep80: recon=0.0020 kl=4.5001 cls=0.4258 center=8.8634 perc=0.0004 tot=0.0359
+[Epoch 80] val_recon=0.001383 val_cls=5.250839 val_center=8.363866 val_perc=0.000286
+Saved checkpoint_epoch80.pt
+Train ep81: recon=0.0020 kl=4.5001 cls=0.4244 center=8.6248 perc=0.0004 tot=0.0352
+[Epoch 81] val_recon=0.001085 val_cls=5.235889 val_center=8.121003 val_perc=0.000241
+Saved checkpoint_epoch81.pt
+Train ep82: recon=0.0020 kl=4.5001 cls=0.4222 center=8.3887 perc=0.0004 tot=0.0345
+[Epoch 82] val_recon=0.001180 val_cls=5.290379 val_center=7.916096 val_perc=0.000264
+Saved checkpoint_epoch82.pt
+Train ep83: recon=0.0020 kl=4.5001 cls=0.4239 center=8.1578 perc=0.0004 tot=0.0338
+[Epoch 83] val_recon=0.001147 val_cls=5.263790 val_center=7.678911 val_perc=0.000251
+Saved checkpoint_epoch83.pt
+Train ep84: recon=0.0020 kl=4.5001 cls=0.4273 center=7.9321 perc=0.0004 tot=0.0331
+[Epoch 84] val_recon=0.001130 val_cls=5.293911 val_center=7.477997 val_perc=0.000264
+Saved checkpoint_epoch84.pt
+Train ep85: recon=0.0020 kl=4.5001 cls=0.4129 center=7.7181 perc=0.0004 tot=0.0324
+[Epoch 85] val_recon=0.001217 val_cls=5.241478 val_center=7.238394 val_perc=0.000243
+Saved checkpoint_epoch85.pt
+Train ep86: recon=0.0020 kl=4.5001 cls=0.4292 center=7.5164 perc=0.0004 tot=0.0319
+[Epoch 86] val_recon=0.001125 val_cls=5.246028 val_center=7.033518 val_perc=0.000237
+Saved checkpoint_epoch86.pt
+Train ep87: recon=0.0020 kl=4.5001 cls=0.4353 center=7.3053 perc=0.0004 tot=0.0313
+[Epoch 87] val_recon=0.001249 val_cls=5.343376 val_center=6.876366 val_perc=0.000248
+Saved checkpoint_epoch87.pt
+Train ep88: recon=0.0020 kl=4.5001 cls=0.4216 center=7.1299 perc=0.0004 tot=0.0307
+[Epoch 88] val_recon=0.001095 val_cls=5.231415 val_center=6.677827 val_perc=0.000238
+Saved checkpoint_epoch88.pt
+Train ep89: recon=0.0020 kl=4.5001 cls=0.4311 center=6.9745 perc=0.0004 tot=0.0303
+[Epoch 89] val_recon=0.001104 val_cls=5.194865 val_center=6.515723 val_perc=0.000236
+Saved checkpoint_epoch89.pt
+Train ep90: recon=0.0020 kl=4.5001 cls=0.4172 center=6.8264 perc=0.0004 tot=0.0298
+[Epoch 90] val_recon=0.001112 val_cls=5.240336 val_center=6.390833 val_perc=0.000231
+Saved checkpoint_epoch90.pt
+Train ep91: recon=0.0020 kl=4.5001 cls=0.4127 center=6.6836 perc=0.0004 tot=0.0293
+[Epoch 91] val_recon=0.001134 val_cls=5.264463 val_center=6.244803 val_perc=0.000246
+Saved checkpoint_epoch91.pt
+Train ep92: recon=0.0020 kl=4.5001 cls=0.4205 center=6.5417 perc=0.0004 tot=0.0289
+[Epoch 92] val_recon=0.001149 val_cls=5.321231 val_center=6.144354 val_perc=0.000250
+Saved checkpoint_epoch92.pt
+Train ep93: recon=0.0020 kl=4.5001 cls=0.4152 center=6.4056 perc=0.0004 tot=0.0285
+[Epoch 93] val_recon=0.001181 val_cls=5.256526 val_center=5.978740 val_perc=0.000244
+Saved checkpoint_epoch93.pt
+Train ep94: recon=0.0020 kl=4.5001 cls=0.4163 center=6.2759 perc=0.0004 tot=0.0281
+[Epoch 94] val_recon=0.001095 val_cls=5.229138 val_center=5.865231 val_perc=0.000235
+Saved checkpoint_epoch94.pt
+Train ep95: recon=0.0020 kl=4.5001 cls=0.4121 center=6.1690 perc=0.0004 tot=0.0278
+[Epoch 95] val_recon=0.001141 val_cls=5.222440 val_center=5.753690 val_perc=0.000252
+Saved checkpoint_epoch95.pt
+Train ep96: recon=0.0020 kl=4.5001 cls=0.4169 center=6.0681 perc=0.0004 tot=0.0275
+[Epoch 96] val_recon=0.001158 val_cls=5.264399 val_center=5.656888 val_perc=0.000260
+Saved checkpoint_epoch96.pt
+Train ep97: recon=0.0020 kl=4.5001 cls=0.4172 center=5.9652 perc=0.0004 tot=0.0272
+[Epoch 97] val_recon=0.001085 val_cls=5.242817 val_center=5.561965 val_perc=0.000244
+Saved checkpoint_epoch97.pt
+Train ep98: recon=0.0020 kl=4.5001 cls=0.4109 center=5.8624 perc=0.0004 tot=0.0268
+[Epoch 98] val_recon=0.001106 val_cls=5.218967 val_center=5.454378 val_perc=0.000239
+Saved checkpoint_epoch98.pt
+Train ep99: recon=0.0020 kl=4.5001 cls=0.4200 center=5.7628 perc=0.0004 tot=0.0266
+[Epoch 99] val_recon=0.001171 val_cls=5.230593 val_center=5.358925 val_perc=0.000235
+Saved checkpoint_epoch99.pt
+Train ep100: recon=0.0020 kl=4.5001 cls=0.4184 center=5.6679 perc=0.0004 tot=0.0263
+[Epoch 100] val_recon=0.001208 val_cls=5.188383 val_center=5.255167 val_perc=0.000241
+Saved checkpoint_epoch100.pt
+Train ep101: recon=0.0020 kl=4.5001 cls=0.4159 center=5.5691 perc=0.0004 tot=0.0260
+[Epoch 101] val_recon=0.001087 val_cls=5.205059 val_center=5.166711 val_perc=0.000249
+Saved checkpoint_epoch101.pt
+Train ep102: recon=0.0020 kl=4.5001 cls=0.4083 center=5.4798 perc=0.0004 tot=0.0257
+[Epoch 102] val_recon=0.001137 val_cls=5.251114 val_center=5.098986 val_perc=0.000248
+Saved checkpoint_epoch102.pt
+Train ep103: recon=0.0020 kl=4.5001 cls=0.4127 center=5.3877 perc=0.0004 tot=0.0254
+[Epoch 103] val_recon=0.001290 val_cls=5.221185 val_center=4.992956 val_perc=0.000252
+Saved checkpoint_epoch103.pt
+Train ep104: recon=0.0020 kl=4.5001 cls=0.4148 center=5.3057 perc=0.0004 tot=0.0252
+[Epoch 104] val_recon=0.001136 val_cls=5.218240 val_center=4.926586 val_perc=0.000254
+Saved checkpoint_epoch104.pt
+Train ep105: recon=0.0020 kl=4.5001 cls=0.4070 center=5.2400 perc=0.0004 tot=0.0249
+[Epoch 105] val_recon=0.001158 val_cls=5.227028 val_center=4.860870 val_perc=0.000242
+Saved checkpoint_epoch105.pt
+Train ep106: recon=0.0020 kl=4.5001 cls=0.4242 center=5.1719 perc=0.0004 tot=0.0248
+[Epoch 106] val_recon=0.001088 val_cls=5.227328 val_center=4.787747 val_perc=0.000244
+Saved checkpoint_epoch106.pt
+Train ep107: recon=0.0020 kl=4.5001 cls=0.4271 center=5.1021 perc=0.0004 tot=0.0246
+[Epoch 107] val_recon=0.001135 val_cls=5.248374 val_center=4.732127 val_perc=0.000239
+Saved checkpoint_epoch107.pt
+Train ep108: recon=0.0020 kl=4.5001 cls=0.4156 center=5.0304 perc=0.0004 tot=0.0244
+[Epoch 108] val_recon=0.001092 val_cls=5.190334 val_center=4.642977 val_perc=0.000240
+Saved checkpoint_epoch108.pt
+Train ep109: recon=0.0020 kl=4.5001 cls=0.4178 center=4.9644 perc=0.0004 tot=0.0242
+[Epoch 109] val_recon=0.001122 val_cls=5.236555 val_center=4.597032 val_perc=0.000249
+Saved checkpoint_epoch109.pt
+Train ep110: recon=0.0020 kl=4.5001 cls=0.4157 center=4.9114 perc=0.0004 tot=0.0240
+[Epoch 110] val_recon=0.001132 val_cls=5.222840 val_center=4.537241 val_perc=0.000241
+Saved checkpoint_epoch110.pt
+Train ep111: recon=0.0020 kl=4.5001 cls=0.3983 center=4.8537 perc=0.0004 tot=0.0238
+[Epoch 111] val_recon=0.001080 val_cls=5.246316 val_center=4.494859 val_perc=0.000228
+Saved checkpoint_epoch111.pt
+Train ep112: recon=0.0020 kl=4.5001 cls=0.4148 center=4.8087 perc=0.0004 tot=0.0237
+[Epoch 112] val_recon=0.001175 val_cls=5.242521 val_center=4.436848 val_perc=0.000243
+Saved checkpoint_epoch112.pt
+Train ep113: recon=0.0020 kl=4.5001 cls=0.4064 center=4.7558 perc=0.0004 tot=0.0235
+[Epoch 113] val_recon=0.001127 val_cls=5.290131 val_center=4.406285 val_perc=0.000235
+Saved checkpoint_epoch113.pt
+Train ep114: recon=0.0020 kl=4.5001 cls=0.4017 center=4.7041 perc=0.0004 tot=0.0233
+[Epoch 114] val_recon=0.001097 val_cls=5.258302 val_center=4.351070 val_perc=0.000233
+Saved checkpoint_epoch114.pt
+Train ep115: recon=0.0020 kl=4.5001 cls=0.4210 center=4.6594 perc=0.0004 tot=0.0233
+[Epoch 115] val_recon=0.001109 val_cls=5.269521 val_center=4.305683 val_perc=0.000233
+Saved checkpoint_epoch115.pt
+Train ep116: recon=0.0020 kl=4.5001 cls=0.4098 center=4.6074 perc=0.0004 tot=0.0231
+[Epoch 116] val_recon=0.001142 val_cls=5.274426 val_center=4.266676 val_perc=0.000248
+Saved checkpoint_epoch116.pt
+Train ep117: recon=0.0020 kl=4.5001 cls=0.4047 center=4.5638 perc=0.0004 tot=0.0229
+[Epoch 117] val_recon=0.001147 val_cls=5.241783 val_center=4.201155 val_perc=0.000241
+Saved checkpoint_epoch117.pt
+Train ep118: recon=0.0020 kl=4.5001 cls=0.4130 center=4.5175 perc=0.0004 tot=0.0228
+[Epoch 118] val_recon=0.001096 val_cls=5.259255 val_center=4.169364 val_perc=0.000236
+Saved checkpoint_epoch118.pt
+Train ep119: recon=0.0020 kl=4.5001 cls=0.4099 center=4.4811 perc=0.0004 tot=0.0227
+[Epoch 119] val_recon=0.001082 val_cls=5.228322 val_center=4.125461 val_perc=0.000238
+Saved checkpoint_epoch119.pt
+Train ep120: recon=0.0020 kl=4.5001 cls=0.4060 center=4.4401 perc=0.0004 tot=0.0225
+[Epoch 120] val_recon=0.001126 val_cls=5.228505 val_center=4.086161 val_perc=0.000228
+Saved checkpoint_epoch120.pt
+Train ep121: recon=0.0020 kl=4.5001 cls=0.4056 center=4.4073 perc=0.0004 tot=0.0224
+[Epoch 121] val_recon=0.001152 val_cls=5.226081 val_center=4.063896 val_perc=0.000237
+Saved checkpoint_epoch121.pt
+Train ep122: recon=0.0020 kl=4.5001 cls=0.4201 center=4.3745 perc=0.0004 tot=0.0224
+[Epoch 122] val_recon=0.001102 val_cls=5.263397 val_center=4.043363 val_perc=0.000247
+Saved checkpoint_epoch122.pt
+Train ep123: recon=0.0020 kl=4.5001 cls=0.4086 center=4.3377 perc=0.0004 tot=0.0222
+[Epoch 123] val_recon=0.001088 val_cls=5.216818 val_center=3.991577 val_perc=0.000234
+Saved checkpoint_epoch123.pt
+Train ep124: recon=0.0020 kl=4.5001 cls=0.4145 center=4.3023 perc=0.0004 tot=0.0222
+[Epoch 124] val_recon=0.001076 val_cls=5.205369 val_center=3.950712 val_perc=0.000238
+Saved checkpoint_epoch124.pt
+Train ep125: recon=0.0020 kl=4.5001 cls=0.4143 center=4.2741 perc=0.0004 tot=0.0221
+[Epoch 125] val_recon=0.001108 val_cls=5.218915 val_center=3.923386 val_perc=0.000256
+Saved checkpoint_epoch125.pt
+Train ep126: recon=0.0020 kl=4.5001 cls=0.4119 center=4.2461 perc=0.0004 tot=0.0220
+[Epoch 126] val_recon=0.001095 val_cls=5.239152 val_center=3.908630 val_perc=0.000239
+Saved checkpoint_epoch126.pt
+Train ep127: recon=0.0020 kl=4.5001 cls=0.4153 center=4.2200 perc=0.0004 tot=0.0219
+[Epoch 127] val_recon=0.001147 val_cls=5.237813 val_center=3.875543 val_perc=0.000236
+Saved checkpoint_epoch127.pt
+Train ep128: recon=0.0020 kl=4.5001 cls=0.4024 center=4.1927 perc=0.0004 tot=0.0218
+[Epoch 128] val_recon=0.001209 val_cls=5.223988 val_center=3.844154 val_perc=0.000249
+Saved checkpoint_epoch128.pt
+Train ep129: recon=0.0020 kl=4.5001 cls=0.4023 center=4.1657 perc=0.0004 tot=0.0217
+[Epoch 129] val_recon=0.001109 val_cls=5.242421 val_center=3.827520 val_perc=0.000239
+Saved checkpoint_epoch129.pt
+Train ep130: recon=0.0020 kl=4.5001 cls=0.4036 center=4.1383 perc=0.0004 tot=0.0216
+[Epoch 130] val_recon=0.001089 val_cls=5.252953 val_center=3.805265 val_perc=0.000238
+Saved checkpoint_epoch130.pt
+Train ep131: recon=0.0020 kl=4.5001 cls=0.4055 center=4.1136 perc=0.0004 tot=0.0216
+[Epoch 131] val_recon=0.001087 val_cls=5.240584 val_center=3.777366 val_perc=0.000230
+Saved checkpoint_epoch131.pt
+Train ep132: recon=0.0020 kl=4.5001 cls=0.4070 center=4.0943 perc=0.0004 tot=0.0215
+[Epoch 132] val_recon=0.001080 val_cls=5.235516 val_center=3.763417 val_perc=0.000237
+Saved checkpoint_epoch132.pt
+Train ep133: recon=0.0020 kl=4.5001 cls=0.4155 center=4.0715 perc=0.0004 tot=0.0215
+[Epoch 133] val_recon=0.001111 val_cls=5.246687 val_center=3.745061 val_perc=0.000231
+Saved checkpoint_epoch133.pt
+Train ep134: recon=0.0020 kl=4.5001 cls=0.4066 center=4.0518 perc=0.0004 tot=0.0214
+[Epoch 134] val_recon=0.001089 val_cls=5.226068 val_center=3.707574 val_perc=0.000231
+Saved checkpoint_epoch134.pt
+Train ep135: recon=0.0020 kl=4.5001 cls=0.4117 center=4.0286 perc=0.0004 tot=0.0213
+[Epoch 135] val_recon=0.001086 val_cls=5.244020 val_center=3.698851 val_perc=0.000228
+Saved checkpoint_epoch135.pt
+Train ep136: recon=0.0020 kl=4.5001 cls=0.4185 center=4.0113 perc=0.0004 tot=0.0213
+[Epoch 136] val_recon=0.001086 val_cls=5.243687 val_center=3.672349 val_perc=0.000243
+Saved checkpoint_epoch136.pt
+Train ep137: recon=0.0020 kl=4.5001 cls=0.4130 center=3.9892 perc=0.0004 tot=0.0212
+[Epoch 137] val_recon=0.001099 val_cls=5.201599 val_center=3.647858 val_perc=0.000242
+Saved checkpoint_epoch137.pt
+Train ep138: recon=0.0020 kl=4.5001 cls=0.4008 center=3.9748 perc=0.0004 tot=0.0211
+[Epoch 138] val_recon=0.001099 val_cls=5.234118 val_center=3.639882 val_perc=0.000233
+Saved checkpoint_epoch138.pt
+Train ep139: recon=0.0020 kl=4.5001 cls=0.4118 center=3.9559 perc=0.0004 tot=0.0211
+[Epoch 139] val_recon=0.001099 val_cls=5.215017 val_center=3.621799 val_perc=0.000244
+Saved checkpoint_epoch139.pt
+Train ep140: recon=0.0020 kl=4.5001 cls=0.4013 center=3.9405 perc=0.0004 tot=0.0210
+[Epoch 140] val_recon=0.001079 val_cls=5.210111 val_center=3.603746 val_perc=0.000228
+Saved checkpoint_epoch140.pt
+Train ep141: recon=0.0020 kl=4.5001 cls=0.4099 center=3.9233 perc=0.0004 tot=0.0210
+[Epoch 141] val_recon=0.001089 val_cls=5.247449 val_center=3.597971 val_perc=0.000236
+Saved checkpoint_epoch141.pt
+Train ep142: recon=0.0020 kl=4.5001 cls=0.4088 center=3.9110 perc=0.0004 tot=0.0210
+[Epoch 142] val_recon=0.001124 val_cls=5.226146 val_center=3.577348 val_perc=0.000232
+Saved checkpoint_epoch142.pt
+Train ep143: recon=0.0020 kl=4.5001 cls=0.4083 center=3.8970 perc=0.0004 tot=0.0209
+[Epoch 143] val_recon=0.001081 val_cls=5.219017 val_center=3.565922 val_perc=0.000238
+Saved checkpoint_epoch143.pt
+Train ep144: recon=0.0020 kl=4.5001 cls=0.4146 center=3.8834 perc=0.0004 tot=0.0209
+[Epoch 144] val_recon=0.001101 val_cls=5.235599 val_center=3.552215 val_perc=0.000240
+Saved checkpoint_epoch144.pt
+Train ep145: recon=0.0020 kl=4.5001 cls=0.3980 center=3.8705 perc=0.0004 tot=0.0208
+[Epoch 145] val_recon=0.001093 val_cls=5.233660 val_center=3.542066 val_perc=0.000235
+Saved checkpoint_epoch145.pt
+Train ep146: recon=0.0020 kl=4.5001 cls=0.4046 center=3.8569 perc=0.0004 tot=0.0208
+[Epoch 146] val_recon=0.001068 val_cls=5.226776 val_center=3.529069 val_perc=0.000233
+Saved checkpoint_epoch146.pt
+Train ep147: recon=0.0020 kl=4.5001 cls=0.3908 center=3.8436 perc=0.0004 tot=0.0207
+[Epoch 147] val_recon=0.001079 val_cls=5.245858 val_center=3.517533 val_perc=0.000233
+Saved checkpoint_epoch147.pt
+Train ep148: recon=0.0020 kl=4.5001 cls=0.4018 center=3.8306 perc=0.0004 tot=0.0207
+[Epoch 148] val_recon=0.001083 val_cls=5.223972 val_center=3.502050 val_perc=0.000233
+Saved checkpoint_epoch148.pt
+Train ep149: recon=0.0020 kl=4.5001 cls=0.4008 center=3.8151 perc=0.0004 tot=0.0206
+[Epoch 149] val_recon=0.001086 val_cls=5.225507 val_center=3.483454 val_perc=0.000234
+Saved checkpoint_epoch149.pt
+Train ep150: recon=0.0020 kl=4.5001 cls=0.4056 center=3.8045 perc=0.0004 tot=0.0206
+[Epoch 150] val_recon=0.001080 val_cls=5.221306 val_center=3.469963 val_perc=0.000241
+Saved checkpoint_epoch150.pt
+Train ep151: recon=0.0020 kl=4.5001 cls=0.4094 center=3.7921 perc=0.0004 tot=0.0206
+[Epoch 151] val_recon=0.001085 val_cls=5.219140 val_center=3.459939 val_perc=0.000235
+Saved checkpoint_epoch151.pt
+Train ep152: recon=0.0020 kl=4.5001 cls=0.3975 center=3.7805 perc=0.0004 tot=0.0205
+[Epoch 152] val_recon=0.001101 val_cls=5.230919 val_center=3.449663 val_perc=0.000233
+Saved checkpoint_epoch152.pt
+Train ep153: recon=0.0020 kl=4.5001 cls=0.4104 center=3.7706 perc=0.0004 tot=0.0205
+[Epoch 153] val_recon=0.001095 val_cls=5.219282 val_center=3.447798 val_perc=0.000229
+Saved checkpoint_epoch153.pt
+Train ep154: recon=0.0020 kl=4.5001 cls=0.4098 center=3.7592 perc=0.0004 tot=0.0205
+[Epoch 154] val_recon=0.001083 val_cls=5.240874 val_center=3.440091 val_perc=0.000235
+Saved checkpoint_epoch154.pt
+Train ep155: recon=0.0020 kl=4.5001 cls=0.4064 center=3.7471 perc=0.0004 tot=0.0205
+[Epoch 155] val_recon=0.001078 val_cls=5.216530 val_center=3.411726 val_perc=0.000242
+Saved checkpoint_epoch155.pt
+Train ep156: recon=0.0020 kl=4.5001 cls=0.3989 center=3.7398 perc=0.0004 tot=0.0204
+[Epoch 156] val_recon=0.001081 val_cls=5.223371 val_center=3.413006 val_perc=0.000234
+Saved checkpoint_epoch156.pt
+Train ep157: recon=0.0020 kl=4.5001 cls=0.4005 center=3.7295 perc=0.0004 tot=0.0204
+[Epoch 157] val_recon=0.001080 val_cls=5.209709 val_center=3.396975 val_perc=0.000235
+Saved checkpoint_epoch157.pt
+Train ep158: recon=0.0020 kl=4.5001 cls=0.4047 center=3.7188 perc=0.0004 tot=0.0204
+[Epoch 158] val_recon=0.001080 val_cls=5.219232 val_center=3.382217 val_perc=0.000237
+Saved checkpoint_epoch158.pt
+Train ep159: recon=0.0020 kl=4.5001 cls=0.4013 center=3.7096 perc=0.0004 tot=0.0203
+[Epoch 159] val_recon=0.001080 val_cls=5.207606 val_center=3.378071 val_perc=0.000232
+Saved checkpoint_epoch159.pt
+Train ep160: recon=0.0020 kl=4.5001 cls=0.4097 center=3.7023 perc=0.0004 tot=0.0203
+[Epoch 160] val_recon=0.001082 val_cls=5.213013 val_center=3.370724 val_perc=0.000236
+Saved checkpoint_epoch160.pt
+Train ep161: recon=0.0020 kl=4.5001 cls=0.4007 center=3.6943 perc=0.0004 tot=0.0203
+[Epoch 161] val_recon=0.001085 val_cls=5.226451 val_center=3.370596 val_perc=0.000240
+Saved checkpoint_epoch161.pt
+Train ep162: recon=0.0020 kl=4.5001 cls=0.4031 center=3.6877 perc=0.0004 tot=0.0203
+[Epoch 162] val_recon=0.001087 val_cls=5.231556 val_center=3.368306 val_perc=0.000233
+Saved checkpoint_epoch162.pt
+Train ep163: recon=0.0020 kl=4.5001 cls=0.4078 center=3.6800 perc=0.0004 tot=0.0203
+[Epoch 163] val_recon=0.001074 val_cls=5.222877 val_center=3.362144 val_perc=0.000239
+Saved checkpoint_epoch163.pt
+Train ep164: recon=0.0020 kl=4.5001 cls=0.4110 center=3.6719 perc=0.0004 tot=0.0203
+[Epoch 164] val_recon=0.001078 val_cls=5.225594 val_center=3.347965 val_perc=0.000234
+Saved checkpoint_epoch164.pt
+Train ep165: recon=0.0020 kl=4.5001 cls=0.3977 center=3.6654 perc=0.0004 tot=0.0202
+[Epoch 165] val_recon=0.001076 val_cls=5.232024 val_center=3.343711 val_perc=0.000228
+Saved checkpoint_epoch165.pt
+Train ep166: recon=0.0020 kl=4.5001 cls=0.4072 center=3.6624 perc=0.0004 tot=0.0202
+[Epoch 166] val_recon=0.001073 val_cls=5.229330 val_center=3.335829 val_perc=0.000234
+Saved checkpoint_epoch166.pt
+Train ep167: recon=0.0020 kl=4.5001 cls=0.4012 center=3.6521 perc=0.0004 tot=0.0202
+[Epoch 167] val_recon=0.001075 val_cls=5.229867 val_center=3.328347 val_perc=0.000236
+Saved checkpoint_epoch167.pt
+Train ep168: recon=0.0020 kl=4.5001 cls=0.3908 center=3.6483 perc=0.0004 tot=0.0201
+[Epoch 168] val_recon=0.001075 val_cls=5.229649 val_center=3.326667 val_perc=0.000235
+Saved checkpoint_epoch168.pt
+Train ep169: recon=0.0020 kl=4.5001 cls=0.4051 center=3.6411 perc=0.0004 tot=0.0201
+[Epoch 169] val_recon=0.001068 val_cls=5.247190 val_center=3.327576 val_perc=0.000231
+Saved checkpoint_epoch169.pt
+Train ep170: recon=0.0020 kl=4.5001 cls=0.4068 center=3.6377 perc=0.0004 tot=0.0201
+[Epoch 170] val_recon=0.001081 val_cls=5.239418 val_center=3.316544 val_perc=0.000236
+Saved checkpoint_epoch170.pt
+Train ep171: recon=0.0020 kl=4.5001 cls=0.4105 center=3.6307 perc=0.0004 tot=0.0201
+[Epoch 171] val_recon=0.001073 val_cls=5.232885 val_center=3.309350 val_perc=0.000233
+Saved checkpoint_epoch171.pt
+Train ep172: recon=0.0020 kl=4.5001 cls=0.4068 center=3.6265 perc=0.0004 tot=0.0201
+[Epoch 172] val_recon=0.001078 val_cls=5.231862 val_center=3.313126 val_perc=0.000234
+Saved checkpoint_epoch172.pt
+Train ep173: recon=0.0020 kl=4.5001 cls=0.3994 center=3.6209 perc=0.0004 tot=0.0200
+[Epoch 173] val_recon=0.001084 val_cls=5.234427 val_center=3.297439 val_perc=0.000237
+Saved checkpoint_epoch173.pt
+Train ep174: recon=0.0020 kl=4.5001 cls=0.4128 center=3.6170 perc=0.0004 tot=0.0201
+[Epoch 174] val_recon=0.001075 val_cls=5.235428 val_center=3.297115 val_perc=0.000235
+Saved checkpoint_epoch174.pt
+Train ep175: recon=0.0020 kl=4.5001 cls=0.4052 center=3.6093 perc=0.0004 tot=0.0200
+[Epoch 175] val_recon=0.001074 val_cls=5.223777 val_center=3.285937 val_perc=0.000235
+Saved checkpoint_epoch175.pt
+Train ep176: recon=0.0020 kl=4.5001 cls=0.4057 center=3.6057 perc=0.0004 tot=0.0200
+[Epoch 176] val_recon=0.001069 val_cls=5.233392 val_center=3.291728 val_perc=0.000231
+Saved checkpoint_epoch176.pt
+Train ep177: recon=0.0020 kl=4.5001 cls=0.4014 center=3.6003 perc=0.0004 tot=0.0200
+[Epoch 177] val_recon=0.001069 val_cls=5.231645 val_center=3.285971 val_perc=0.000232
+Saved checkpoint_epoch177.pt
+Train ep178: recon=0.0020 kl=4.5001 cls=0.4067 center=3.5963 perc=0.0004 tot=0.0200
+[Epoch 178] val_recon=0.001075 val_cls=5.224310 val_center=3.280273 val_perc=0.000232
+Saved checkpoint_epoch178.pt
+Train ep179: recon=0.0020 kl=4.5001 cls=0.4013 center=3.5950 perc=0.0004 tot=0.0200
+[Epoch 179] val_recon=0.001073 val_cls=5.223656 val_center=3.276724 val_perc=0.000230
+Saved checkpoint_epoch179.pt
+Train ep180: recon=0.0020 kl=4.5001 cls=0.4067 center=3.5926 perc=0.0004 tot=0.0200
+[Epoch 180] val_recon=0.001069 val_cls=5.234891 val_center=3.279536 val_perc=0.000232
+Saved checkpoint_epoch180.pt
+Train ep181: recon=0.0020 kl=4.5001 cls=0.4102 center=3.5874 perc=0.0004 tot=0.0200
+[Epoch 181] val_recon=0.001079 val_cls=5.222965 val_center=3.264249 val_perc=0.000235
+Saved checkpoint_epoch181.pt
+Train ep182: recon=0.0020 kl=4.5001 cls=0.3999 center=3.5835 perc=0.0004 tot=0.0199
+[Epoch 182] val_recon=0.001075 val_cls=5.232545 val_center=3.264168 val_perc=0.000233
+Saved checkpoint_epoch182.pt
+Train ep183: recon=0.0020 kl=4.5001 cls=0.4055 center=3.5817 perc=0.0004 tot=0.0200
+[Epoch 183] val_recon=0.001070 val_cls=5.224582 val_center=3.264486 val_perc=0.000233
+Saved checkpoint_epoch183.pt
+Train ep184: recon=0.0020 kl=4.5001 cls=0.3883 center=3.5779 perc=0.0004 tot=0.0199
+[Epoch 184] val_recon=0.001068 val_cls=5.236310 val_center=3.264541 val_perc=0.000231
+Saved checkpoint_epoch184.pt
+Train ep185: recon=0.0020 kl=4.5001 cls=0.3971 center=3.5734 perc=0.0004 tot=0.0199
+[Epoch 185] val_recon=0.001075 val_cls=5.218540 val_center=3.252583 val_perc=0.000235
+Saved checkpoint_epoch185.pt
+Train ep186: recon=0.0020 kl=4.5001 cls=0.4040 center=3.5696 perc=0.0004 tot=0.0199
+[Epoch 186] val_recon=0.001074 val_cls=5.228413 val_center=3.246601 val_perc=0.000232
+Saved checkpoint_epoch186.pt
+Train ep187: recon=0.0020 kl=4.5001 cls=0.4146 center=3.5696 perc=0.0004 tot=0.0200
+[Epoch 187] val_recon=0.001075 val_cls=5.227886 val_center=3.247943 val_perc=0.000236
+Saved checkpoint_epoch187.pt
+Train ep188: recon=0.0020 kl=4.5001 cls=0.4007 center=3.5633 perc=0.0004 tot=0.0199
+[Epoch 188] val_recon=0.001069 val_cls=5.226882 val_center=3.247127 val_perc=0.000232
+Saved checkpoint_epoch188.pt
+Train ep189: recon=0.0020 kl=4.5001 cls=0.3899 center=3.5614 perc=0.0004 tot=0.0198
+[Epoch 189] val_recon=0.001069 val_cls=5.229338 val_center=3.245707 val_perc=0.000231
+Saved checkpoint_epoch189.pt
+Train ep190: recon=0.0020 kl=4.5001 cls=0.4150 center=3.5570 perc=0.0004 tot=0.0199
+[Epoch 190] val_recon=0.001074 val_cls=5.222620 val_center=3.237971 val_perc=0.000235
+Saved checkpoint_epoch190.pt
+Train ep191: recon=0.0020 kl=4.5001 cls=0.3978 center=3.5559 perc=0.0004 tot=0.0198
+[Epoch 191] val_recon=0.001075 val_cls=5.232361 val_center=3.238683 val_perc=0.000234
+Saved checkpoint_epoch191.pt
+Train ep192: recon=0.0020 kl=4.5001 cls=0.4021 center=3.5519 perc=0.0004 tot=0.0199
+[Epoch 192] val_recon=0.001073 val_cls=5.224319 val_center=3.236920 val_perc=0.000231
+Saved checkpoint_epoch192.pt
+Train ep193: recon=0.0020 kl=4.5001 cls=0.4118 center=3.5567 perc=0.0004 tot=0.0199
+[Epoch 193] val_recon=0.001068 val_cls=5.236461 val_center=3.238210 val_perc=0.000233
+Saved checkpoint_epoch193.pt
+Train ep194: recon=0.0020 kl=4.5001 cls=0.4058 center=3.5505 perc=0.0004 tot=0.0199
+[Epoch 194] val_recon=0.001073 val_cls=5.228639 val_center=3.231419 val_perc=0.000232
+Saved checkpoint_epoch194.pt
+Train ep195: recon=0.0020 kl=4.5001 cls=0.3961 center=3.5451 perc=0.0004 tot=0.0198
+[Epoch 195] val_recon=0.001073 val_cls=5.221424 val_center=3.228345 val_perc=0.000231
+Saved checkpoint_epoch195.pt
+Train ep196: recon=0.0020 kl=4.5001 cls=0.4144 center=3.5445 perc=0.0004 tot=0.0199
+[Epoch 196] val_recon=0.001073 val_cls=5.227567 val_center=3.226289 val_perc=0.000232
+Saved checkpoint_epoch196.pt
+Train ep197: recon=0.0020 kl=4.5001 cls=0.3977 center=3.5420 perc=0.0004 tot=0.0198
+[Epoch 197] val_recon=0.001071 val_cls=5.222946 val_center=3.221399 val_perc=0.000230
+Saved checkpoint_epoch197.pt
+Train ep198: recon=0.0020 kl=4.5001 cls=0.3925 center=3.5401 perc=0.0004 tot=0.0198
+[Epoch 198] val_recon=0.001071 val_cls=5.225018 val_center=3.226503 val_perc=0.000234
+Saved checkpoint_epoch198.pt
+Train ep199: recon=0.0020 kl=4.5001 cls=0.4015 center=3.5395 perc=0.0004 tot=0.0198
+[Epoch 199] val_recon=0.001069 val_cls=5.224950 val_center=3.221761 val_perc=0.000232
+Saved checkpoint_epoch199.pt
+Train ep200: recon=0.0020 kl=4.5001 cls=0.4067 center=3.5374 perc=0.0004 tot=0.0198
+[Epoch 200] val_recon=0.001072 val_cls=5.226788 val_center=3.218045 val_perc=0.000232
+Saved checkpoint_epoch200.pt
+Train ep201: recon=0.0020 kl=4.5001 cls=0.4026 center=3.5343 perc=0.0004 tot=0.0198
+[Epoch 201] val_recon=0.001071 val_cls=5.221482 val_center=3.215090 val_perc=0.000234
+Saved checkpoint_epoch201.pt
+Train ep202: recon=0.0020 kl=4.5001 cls=0.4001 center=3.5328 perc=0.0004 tot=0.0198
+[Epoch 202] val_recon=0.001074 val_cls=5.228622 val_center=3.213850 val_perc=0.000234
+Saved checkpoint_epoch202.pt
+Train ep203: recon=0.0020 kl=4.5001 cls=0.3972 center=3.5324 perc=0.0004 tot=0.0198
+[Epoch 203] val_recon=0.001075 val_cls=5.220393 val_center=3.209092 val_perc=0.000235
+Saved checkpoint_epoch203.pt
+Train ep204: recon=0.0020 kl=4.5001 cls=0.3946 center=3.5294 perc=0.0004 tot=0.0198
+[Epoch 204] val_recon=0.001076 val_cls=5.218039 val_center=3.207843 val_perc=0.000235
+Saved checkpoint_epoch204.pt
+Train ep205: recon=0.0020 kl=4.5001 cls=0.4010 center=3.5291 perc=0.0004 tot=0.0198
+[Epoch 205] val_recon=0.001078 val_cls=5.224287 val_center=3.210548 val_perc=0.000234
+Saved checkpoint_epoch205.pt
+Train ep206: recon=0.0020 kl=4.5001 cls=0.4016 center=3.5290 perc=0.0004 tot=0.0198
+[Epoch 206] val_recon=0.001069 val_cls=5.227404 val_center=3.212799 val_perc=0.000233
+Saved checkpoint_epoch206.pt
+Train ep207: recon=0.0020 kl=4.5001 cls=0.4071 center=3.5248 perc=0.0004 tot=0.0198
+[Epoch 207] val_recon=0.001069 val_cls=5.226302 val_center=3.211174 val_perc=0.000231
+Saved checkpoint_epoch207.pt
+Train ep208: recon=0.0020 kl=4.5001 cls=0.4058 center=3.5255 perc=0.0004 tot=0.0198
+[Epoch 208] val_recon=0.001070 val_cls=5.223910 val_center=3.207829 val_perc=0.000234
+Saved checkpoint_epoch208.pt
+Train ep209: recon=0.0020 kl=4.5001 cls=0.3982 center=3.5232 perc=0.0004 tot=0.0198
+[Epoch 209] val_recon=0.001073 val_cls=5.224243 val_center=3.203295 val_perc=0.000235
+Saved checkpoint_epoch209.pt
+Train ep210: recon=0.0020 kl=4.5001 cls=0.4027 center=3.5221 perc=0.0004 tot=0.0198
+[Epoch 210] val_recon=0.001077 val_cls=5.221229 val_center=3.199504 val_perc=0.000235
+Saved checkpoint_epoch210.pt
+Train ep211: recon=0.0020 kl=4.5001 cls=0.3947 center=3.5208 perc=0.0004 tot=0.0197
+[Epoch 211] val_recon=0.001076 val_cls=5.223755 val_center=3.201179 val_perc=0.000236
+Saved checkpoint_epoch211.pt
+Train ep212: recon=0.0020 kl=4.5001 cls=0.4032 center=3.5215 perc=0.0004 tot=0.0198
+[Epoch 212] val_recon=0.001070 val_cls=5.230937 val_center=3.205450 val_perc=0.000233
+Saved checkpoint_epoch212.pt
+Train ep213: recon=0.0020 kl=4.5001 cls=0.4017 center=3.5173 perc=0.0004 tot=0.0197
+[Epoch 213] val_recon=0.001072 val_cls=5.223687 val_center=3.198883 val_perc=0.000234
+Saved checkpoint_epoch213.pt
+Train ep214: recon=0.0020 kl=4.5001 cls=0.4009 center=3.5185 perc=0.0004 tot=0.0197
+[Epoch 214] val_recon=0.001069 val_cls=5.226767 val_center=3.204377 val_perc=0.000232
+Saved checkpoint_epoch214.pt
+Train ep215: recon=0.0020 kl=4.5001 cls=0.4054 center=3.5168 perc=0.0004 tot=0.0198
+[Epoch 215] val_recon=0.001065 val_cls=5.231755 val_center=3.204864 val_perc=0.000230
+Saved checkpoint_epoch215.pt
+Train ep216: recon=0.0020 kl=4.5001 cls=0.4029 center=3.5155 perc=0.0004 tot=0.0198
+[Epoch 216] val_recon=0.001071 val_cls=5.229101 val_center=3.200411 val_perc=0.000231
+Saved checkpoint_epoch216.pt
+Train ep217: recon=0.0020 kl=4.5001 cls=0.4034 center=3.5177 perc=0.0004 tot=0.0197
+[Epoch 217] val_recon=0.001064 val_cls=5.235338 val_center=3.206481 val_perc=0.000231
+Saved checkpoint_epoch217.pt
+Train ep218: recon=0.0020 kl=4.5001 cls=0.3955 center=3.5168 perc=0.0004 tot=0.0197
+[Epoch 218] val_recon=0.001069 val_cls=5.235440 val_center=3.202762 val_perc=0.000232
+Saved checkpoint_epoch218.pt
+Train ep219: recon=0.0020 kl=4.5001 cls=0.4040 center=3.5122 perc=0.0004 tot=0.0197
+[Epoch 219] val_recon=0.001071 val_cls=5.225356 val_center=3.195686 val_perc=0.000231
+Saved checkpoint_epoch219.pt
+Train ep220: recon=0.0020 kl=4.5001 cls=0.4084 center=3.5121 perc=0.0004 tot=0.0198
+[Epoch 220] val_recon=0.001075 val_cls=5.223601 val_center=3.194171 val_perc=0.000235
+Saved checkpoint_epoch220.pt
+Train ep221: recon=0.0020 kl=4.5001 cls=0.3995 center=3.5107 perc=0.0004 tot=0.0197
+[Epoch 221] val_recon=0.001074 val_cls=5.225683 val_center=3.193513 val_perc=0.000235
+Saved checkpoint_epoch221.pt
+Train ep222: recon=0.0020 kl=4.5001 cls=0.4061 center=3.5122 perc=0.0004 tot=0.0197
+[Epoch 222] val_recon=0.001068 val_cls=5.229418 val_center=3.197910 val_perc=0.000231
+Saved checkpoint_epoch222.pt
+Train ep223: recon=0.0020 kl=4.5001 cls=0.3967 center=3.5106 perc=0.0004 tot=0.0197
+[Epoch 223] val_recon=0.001066 val_cls=5.230693 val_center=3.197035 val_perc=0.000231
+Saved checkpoint_epoch223.pt
+Train ep224: recon=0.0020 kl=4.5001 cls=0.4038 center=3.5103 perc=0.0004 tot=0.0197
+[Epoch 224] val_recon=0.001070 val_cls=5.228016 val_center=3.193481 val_perc=0.000233
+Saved checkpoint_epoch224.pt
+Train ep225: recon=0.0020 kl=4.5001 cls=0.4050 center=3.5079 perc=0.0004 tot=0.0197
+[Epoch 225] val_recon=0.001071 val_cls=5.227135 val_center=3.190987 val_perc=0.000233
+Saved checkpoint_epoch225.pt
+Train ep226: recon=0.0020 kl=4.5001 cls=0.4027 center=3.5072 perc=0.0004 tot=0.0197
+[Epoch 226] val_recon=0.001069 val_cls=5.232825 val_center=3.195978 val_perc=0.000231
+Saved checkpoint_epoch226.pt
+Train ep227: recon=0.0020 kl=4.5001 cls=0.3995 center=3.5054 perc=0.0004 tot=0.0197
+[Epoch 227] val_recon=0.001071 val_cls=5.225092 val_center=3.189206 val_perc=0.000233
+Saved checkpoint_epoch227.pt
+Train ep228: recon=0.0020 kl=4.5001 cls=0.3978 center=3.5070 perc=0.0004 tot=0.0197
+[Epoch 228] val_recon=0.001071 val_cls=5.222681 val_center=3.188601 val_perc=0.000232
+Saved checkpoint_epoch228.pt
+Train ep229: recon=0.0020 kl=4.5001 cls=0.3986 center=3.5045 perc=0.0004 tot=0.0197
+[Epoch 229] val_recon=0.001067 val_cls=5.229791 val_center=3.192155 val_perc=0.000232
+Saved checkpoint_epoch229.pt
+Train ep230: recon=0.0020 kl=4.5001 cls=0.4032 center=3.5057 perc=0.0004 tot=0.0197
+[Epoch 230] val_recon=0.001075 val_cls=5.223753 val_center=3.184434 val_perc=0.000234
+Saved checkpoint_epoch230.pt
+Train ep231: recon=0.0020 kl=4.5001 cls=0.4028 center=3.5035 perc=0.0004 tot=0.0197
+[Epoch 231] val_recon=0.001071 val_cls=5.220681 val_center=3.184045 val_perc=0.000234
+Saved checkpoint_epoch231.pt
+Train ep232: recon=0.0020 kl=4.5001 cls=0.4105 center=3.5032 perc=0.0004 tot=0.0197
+[Epoch 232] val_recon=0.001072 val_cls=5.226381 val_center=3.186298 val_perc=0.000234
+Saved checkpoint_epoch232.pt
+Train ep233: recon=0.0020 kl=4.5001 cls=0.3966 center=3.5019 perc=0.0004 tot=0.0197
+[Epoch 233] val_recon=0.001070 val_cls=5.226335 val_center=3.187884 val_perc=0.000232
+Saved checkpoint_epoch233.pt
+Train ep234: recon=0.0020 kl=4.5001 cls=0.4119 center=3.5007 perc=0.0004 tot=0.0197
+[Epoch 234] val_recon=0.001066 val_cls=5.228493 val_center=3.191233 val_perc=0.000231
+Saved checkpoint_epoch234.pt
